@@ -1,0 +1,1019 @@
+ 
+A U.S. DEPARTMENT OF ENERGY NATIONAL LAB     •     SAVANNAH RIVER SITE     •     AIKEN, SC    •     USA 
+ 
+ 
+Summary of Savannah River Site FY23 
+Salt Waste Qualification Data 
+K. P. Crapse 
+J. Dekarske 
+T. B. Peters 
+December 2024 
+SRNL-STI-2024-00436, Revision 0 
+ 
+ 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+ii 
+ 
+DISCLAIMER 
+This work was prepared under an agreement with and funded by the U.S. Government.  Neither the U.S. 
+Government or its employees, nor any of its contractors, subcontractors or their employees, makes any 
+express or implied: 
+1. warranty or assumes any legal liability for the accuracy, completeness, or for the use or 
+results of such use of any information, product, or process disclosed; or 
+2. representation that such use or results of such use would not infringe privately owned rights; 
+or 
+3. endorsement or recommendation of any specifically identified commercial product, process, 
+or service. 
+Any views and opinions of authors expressed in this work do not necessarily state or reflect those of the 
+United States Government, or its contractors, or subcontractors. 
+ 
+ 
+Printed in the United States of America 
+ 
+Prepared for 
+U.S. Department of Energy 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00436
+Revision 0
+iii
+Keywords: SWPF, Salt Waste Processing 
+Facility
+Retention: Permanent
+Summary of Savannah River Site FY23
+Salt Waste Qualification Data
+K. P. Crapse
+J. Dekarske
+T. B. Peters
+December 2024
+Savannah River National Laboratory is operated by 
+Battelle Savannah River Alliance for the U.S. Department 
+of Energy under Contract No. 89303321CEM000080.
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+iv 
+REVIEWS AND APPROVALS 
+ 
+ 
+AUTHORS: 
+ 
+ 
+______________________________________________________________________________ 
+K. P. Crapse, Analytical and Tank Farm Characterization 
+Date 
+ 
+ 
+______________________________________________________________________________ 
+J. Dekarske, Analytical and Tank Farm Characterization 
+Date 
+ 
+ 
+______________________________________________________________________________ 
+T. B. Peters, Separation Sciences and Engineering 
+Date 
+ 
+ 
+TECHNICAL REVIEW: 
+ 
+ 
+______________________________________________________________________________ 
+K. M. Taylor-Pashow, Separation Sciences and Engineering, Reviewed per E7 2.60 
+Date 
+ 
+ 
+APPROVAL: 
+ 
+ 
+______________________________________________________________________________ 
+M. L. Whitehead, Manager 
+Date 
+Analytical and Tank Farm Characterization 
+ 
+ 
+______________________________________________________________________________ 
+F. M. Pennebaker, Director                                                                                                                          
+Nuclear and Chemical Processing 
+Date 
+ 
+ 
+______________________________________________________________________________ 
+D. M. Yarbrough, Manager 
+Date 
+Nuclear Safety and Integration Engineering, SRMC 
+ 
+KIMBERLY
+CRAPSE (Affiliate)
+Digitally signed by KIMBERLY 
+CRAPSE (Affiliate) 
+Date: 2024.12.11 17:37:50 
+-05'00'
+JOHN DEKARSKE 
+(Affiliate)
+Digitally signed by JOHN 
+DEKARSKE (Affiliate) 
+Date: 2024.12.12 
+10:35:46 -05'00'
+THOMAS PETERS 
+(Affiliate)
+Digitally signed by THOMAS 
+PETERS (Affiliate) 
+Date: 2024.12.12 11:00:40 
+-05'00'
+KATHRYN
+TAYLOR-PASHOW
+(Affiliate)
+Digitally signed by KATHRYN 
+TAYLOR-PASHOW (Affiliate) 
+Date: 2024.12.12 11:45:37 
+-05'00'
+MARY
+WHITEHEAD
+(Affiliate)
+Digitally signed by MARY 
+WHITEHEAD (Affiliate) 
+Date: 2024.12.12 
+12:07:45 -05'00'
+FRANK
+PENNEBAKER
+(Affiliate)
+Digitally signed by FRANK 
+PENNEBAKER (Affiliate) 
+Date: 2024.12.17 12:44:53 
+-05'00'
+Digitally signed by Donna 
+M Yarbrough 
+Date: 2024.12.17 
+14:18:00 -05'00'
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+v 
+  
+EXECUTIVE SUMMARY 
+ 
+The Savannah River National Laboratory (SRNL) analyzed samples from Savannah River Site (SRS) Waste 
+Tanks 41H and 21H to support qualification of Salt Waste Processing Facility (SWPF) Waste Batches 8 
+and 9 for processing (the FY23 Salt Batch Qualification samples). These Tanks (i.e. 41H and 21H) are 
+blend tanks for feed to SWPF.  None of the samples displayed any unusual or unexpected characteristics 
+such as large amounts of solids, floating solids, or unusual color. Characterization of these samples 
+confirmed similar chemical composition and characteristics to previous salt waste batches. The results for 
+Batches 8 and 9 were provided by SRNL to Savannah River Mission Completion (SRMC), the Liquid 
+Waste Operations subcontractor at SRS, as External Sample Results (Laboratory Information Management 
+System (LIMS)) Reports. Additionally, a separate technical memo was issued by SRNL to report re-test 
+data for Batch 8 for Cs-137 for filtered samples only which were run at the request of SWPF. For Batch 9, 
+a set of samples was also analyzed in parallel by the SWPF-Analytical Laboratory (SWPF-AL). The SWPF-
+AL data is included herein for comparison with the SRNL data where applicable. The analytical results 
+(both rapid, typically 4 weeks, and long term, typically 8 weeks) for Batches 8 and 9 are now summarized 
+and discussed in this technical report.  
+SWPF Salt Batch 8 and 9 Qualification samples were similar in chemical composition to each other and to 
+the previous 17 Salt Waste Batches (10 Interim Salt Waste Processing (ISWP) Macrobatch and 7 SWPF 
+Salt Batch Qualification samples) analyzed to date with some results trending at or beyond the higher end 
+of the ranges previously observed for some analytes.  Salt Batch 8 and 9 results for sodium, aluminum, and 
+hydroxide were on the high end or higher than results for previous salt batches analyzed to date.  Salt 
+Batches 8 and 9 contained 7.19 to 7.46 M Na+ (the previously reported maximum value for all batches was 
+7.50 M Na+ for Batch 6), 0.371 to 0.437 M AlO2- (the previously reported maximum value for all batches 
+was 0.368 M AlO2- for Batch 6), 3.52 to 4.07 M OH- (the previously reported maximum value was 3.78 M 
+OH- for Batch 6), 1.59 to 1.98 M NO3- (previous range 1.30 to 3.27 M NO3-), 0.87 to 1.16 M NO2- (previous 
+range 0.22 to 1.28 M NO2-), 0.265 to 0.313 M CO32- (previous range 0.11 to 0.39 M CO32-), 0.033 to 0.042 M 
+SO42- (previous range 0.05 to 0.16 M SO42-), and other minor chemical components. Total mercury 
+concentrations ranged from 40.0 to 64.1 mg/L.  These mercury values are in the middle of the range reported 
+for all prior 17 Salt Batch Qualification samples (9.17 to 129.0 mg/L Hg).  
+Cs-137 activities for Batches 8 and 9 were as high or higher than the maximum reported (5.22E+08 pCi/mL, 
+1.16E+09 dpm/mL) for the previous 17 Salt Waste Batches analyzed to date. All Cs-137 activities, in both 
+filtered and unfiltered samples of Salt Batches 8 and 9, ranged from 4.78E+08 pCi/mL (1.1E+09 dpm/mL, 
+1.8 Ci/gal) to 6.22E+08 pCi/mL (1.4E+09 dpm/mL; 2.4 Ci/gal).  The Cs-137 activity for Salt Batch 8 
+filtered sample was higher, 6.12E+08 pCi/mL, than the previous maximum reported 5.2E+08 pCi/mL 
+(1.2E+09 dpm/mL; 2.0 Ci/gal) which was for filtered Salt Batch 6.  Revisions continue to be made to the 
+SWPF Waste Acceptance Criteria (WAC) requirement related to Cs-137 content. During the time frame of 
+these qualification samples, the SWPF WAC for Cs-137 content was raised to 5.1 Ci/gal but has 
+subsequently been lowered to 3.0 Ci/gal (uncertainty 2 sigma applies) based on SWPF Safety Basis 
+calculations related to hydrogen generation where Cs-137 value is an input. 
+Sample filtration had little impact on the total gamma and beta activities for the samples indicating that 
+these activities were primarily associated with soluble species.  Comparing filtered versus unfiltered 
+samples, both Batch 8 and Batch 9 samples had higher activity in the unfiltered sample as compared to the 
+filtered sample for Cs-137 but not significantly higher (SRNL estimated 1V as 5 %).  This trend was the 
+same for most of the other radionuclide analyses as well. The total beta activity was similar to the Cs-137 
+values measured. For filtered Batch 8 the total beta activity was 6.17E+08 pCi/mL (1.4E+09 dpm/mL; 
+2.3 Ci/gal) and was only slightly higher than the filtered Cs-137 measured value 6.12E+08 pCi/mL (re-test 
+value for four replicates).  For filtered Batch 9 the total beta activity was 5.8E+08 pCi/mL 
+(1.3E+09 dpm/mL; 2.2 Ci/gal) which was only 20% higher than the Cs-137 (primary beta emitter) activities 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+vi 
+for this sample.  The total gamma activities for the filtered samples for Batch 8, 5.66E+08 pCi/mL (1.3E+09 
+dpm/mL; 2.14 Ci/gal) are higher than Batch 9, 4.62E+08 pCi/mL (1.0E+09 dpm/mL, 1.75 Ci/gal),  as well 
+as  Batch 6, 4.94E+08 pCi/mL (1.1E+09 dpm/mL; 1.87 Ci/gal).  
+As compared to the previous 17 Batches, the trends following cesium removal are similar for Batches 8 
+and 9.  Total beta activity for the samples decreased dramatically (two orders of magnitude) to 
+1.32E+06 pCi/mL (2.9E+06 dpm/mL, 5.0E-03 Ci/gal) for filtered Batch 8 and 9.59E+05 pCi/mL 
+(2.1E+06 dpm/mL, 3.6E-03 Ci/gal) for filtered Batch 9 as compared to Cs-137 values.  Activities for 
+radionuclides other than Cs-137 and Ba-137m in the samples were primarily associated with Sr-90/Y-90, 
+Tc-99, Pu-238 and Pu-241.  Although I-129 activities are relatively low in comparison to the other 
+radionuclides reported herein, the measured value for Batch 8 was higher (167 pCi/mL) than Batch 9 (93.8 
+pCi/mL) and was also higher than the highest value reported for Salt Batches 1-7 (107 pCi/mL (Batch 6)).   
+Although I-129 values did not exceed the SWPF WAC and do not impact the qualification of these Salt 
+Batches or their processing through SWPF, additional measures are in place to reevaluate I-129 prior to 
+transferring to Tank 49 as a part of an active deviation for Salt Batches 8-22 to justify exceeding the 
+Saltstone Production Facility (SPF) WAC limit if it is not met at that time. 
+The plutonium isotopes Pu-238, Pu-239 and Pu-240 are the major contributors to the alpha activity in SRS 
+Salt Batch Feed samples, and Pu-238 accounts for the majority of the alpha activity in Salt Batch Samples 
+8 and 9.  For both Batch 8 and Batch 9 analyzed by SRNL, the Pu-238 activities of the unfiltered samples 
+were higher than the filtered sample by a significant amount (greater than 2Vestimated at 10% for SRNL 
+analyses) indicating that not all of the Pu-238 is soluble for these batches. This is a departure in behavior 
+from previous Salt Batches. Other Pu isotopes although much lower in activity than Pu-238 also exhibited 
+similar behavior (Pu-239 (Batches 8 and 9) and Pu-240 (Batch 8)).  Pu-238 activity considering both filtered 
+and unfiltered samples ranged in value from 6.41E+03 pCi/mL (1.4E+04 dpm/mL) for Batch 9 (filtered) to 
+4.52E+04 pCi/mL (1.0E+05 dpm/mL) for Batch 8 (unfiltered).  The maximum Pu-238 activity considering 
+only filtered samples in Batches 8 and 9 was 2.99E+04 pCi/mL (6.6E+04 dpm/mL) (Batch 8).  The 
+maximum Pu-238 values reported previously were 8.39E+04 pCi/mL (1.9E+05 dpm/mL) for filtered (Batch 
+5), and 9.14E+04 pCi/mL (2.0E+05 dpm/mL) for unfiltered (Batch 5). These activities are at or near the 
+values for the total alpha with cesium removed method. The total alpha measurement following cesium 
+removal is a gross semi-quantitative analysis (suffering from the high beta to alpha activity ratio in Salt 
+Batch matrices) and has poor precision compared to the sum of the quantitative radiochemical analyses 
+results for the various actinides. 
+Comparisons of the chemical and radionuclide compositions of Salt Waste Processing Facility Batches 8 
+and 9 to all of the previous 17 batches have for the most part exhibited similar compositions.  Data, where 
+available, reported by SWPF-AL for Batch 9 was similar to data reported by SRNL with SWPF-AL data 
+trending slightly lower for most analyses reported. The major anion concentrations and the radionuclide 
+concentrations for the two batches were similar with a number of analytes generally trending higher as 
+compared to previously reported Salt Batch data for the previous 17 Salt Batch samples. Although specific 
+analytes, including sodium, aluminum, and hydroxide, exceeded targets included in the SWPF WAC and 
+I-129 exceeded the SPF WAC limit, no significant impact was deduced from the results based on 
+evaluations carried out to justify any WAC compliance.   
+Note: The SWPF WAC has undergone multiple recent revisions before, during, and after FY23 including 
+changes such as glycolic flowsheet addition and other adjustments including sodium and cesium 
+concentrations.  This report focuses on the characterization of the Salt Batch Qualification sub-samples. 
+Prior to processing for cesium removal, the Qualification Batches were transferred to process feed tanks 
+which contained the heel from the previous Salt Batch. In addition, in some cases NaOH reagent was added 
+to adjust the waste free hydroxide. These activities resulted in minor changes to the final waste compositions 
+processed. The final compositions were estimated based on these blending and adjustment activities and 
+the calculated compositions are provided in various Liquid Waste Operations subcontractor reports which 
+are not summarized in this document. 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+vii 
+TABLE OF CONTENTS 
+LIST OF TABLES ..................................................................................................................................... viii 
+LIST OF FIGURES ................................................................................................................................... viii 
+LIST OF ABBREVIATIONS ...................................................................................................................... ix 
+1.0 Introduction ............................................................................................................................................. 1 
+2.0 Experimental ........................................................................................................................................... 1 
+2.1 Sample Receipt and Preparation .......................................................................................................... 1 
+2.2 Quality Assurance ............................................................................................................................... 2 
+3.0 Characterization Results for the FY23 SWPF Salt Batches (8 and 9) including analyses by SRNL and 
+SWPF-AL ..................................................................................................................................................... 3 
+4.0 Comparison with Previous Salt Batch Characterization Results ............................................................ 5 
+5.0 Conclusions ............................................................................................................................................. 7 
+6.0 Recommendations, Path Forward or Future Work ................................................................................. 8 
+7.0 References ............................................................................................................................................... 9 
+ 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+viii 
+LIST OF TABLES 
+Table 2-1.  Salt Batch Sample Description and Report References .............................................................. 2 
+Table 3-1. SWPF Salt Batch 8 and 9 Density (g/mL) and Composition (mg/L (M)). .................................. 3 
+Table 3-2.  SWPF Salt Batch 8 and 9 Radionuclide Activities ..................................................................... 4 
+ 
+ 
+ 
+ 
+ 
+LIST OF FIGURES 
+Figure 4-1.  Sodium and Anion Molar Concentrations for Qualification Samples (All SRNL Salt Batch 5 
+through 9 Data and SWPF-AL Salt Batch 9 Data Included for Comparison) ....................................... 6 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+ix 
+LIST OF ABBREVIATIONS 
+ 
+ARP 
+Actinide Removal Process 
+CSTF 
+Concentration, Storage, and Treatment Facilities 
+DSS 
+Decontaminated Salt Solution 
+DWPF 
+Defense Waste Processing Facility 
+IC  
+Ion Chromatography 
+ICPES  
+Inductively Coupled Plasma Emission Spectroscopy 
+IDP 
+Inhalation Dose Potential 
+ISWP 
+Interim Salt Waste Processing 
+LIMS 
+Laboratory Information Management System  
+MCU 
+Modular Caustic Side Solvent Extraction Unit 
+MST/SS 
+Monosodium Titanate/Sludge Solids 
+SRMC  
+Savannah River Mission Completion 
+SRNL 
+Savannah River National Laboratory 
+SRS 
+Savannah River Site 
+SWPF 
+Salt Waste Processing Facility 
+SWPF-AL 
+Salt Waste Processing Facility-Analytical Laboratory 
+SPF 
+Saltstone Production Facility 
+TIC/TOC  
+Total Inorganic Carbon/Total Organic Carbon 
+VOA/SVOA 
+Volatile Organic Analysis/Semivolatile Organic Analysis 
+TTR  
+Technical Task Request 
+TTQAP  
+Task Technical and Quality Assurance Plan 
+WAC  
+Waste Acceptance Criteria 
+ 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+1 
+1.0 Introduction 
+This report provides a summary of the FY23 Salt Batch Qualification efforts and a comparison of those 
+results with the previous Salt Batch Qualification results.  SRNL analyzed two Salt Batch Waste samples 
+from SRS, Concentration, Storage, and Transfer Facility Tank Farms Waste Tanks 41H and 21H (Salt 
+Batches 8 and 9, respectively).  SWPF-AL also performed short term analyses on Tank 21H (Salt Batch 9) 
+samples.  This report details all results from SRNL analyses performed on these qualification samples 
+alongside the results from SWPF-AL analyses where available. In past years, numerous Salt Waste Batch 
+sub-samples have been retrieved, and this data is summarized for 17 prior Salt Waste Batches (7 Salt Batch 
+and 10 Macrobatch Qualification samples) in the previous FY21 and FY22 Summary documents.i,ii Salt 
+Batches were processed at SWPF, whereas the Macrobatches were processed through the Interim Salt 
+Waste Processing (ISWP) system which included the Actinide Removal Process (ARP) and the Modular 
+Caustic-Side Solvent Extraction Unit (MCU). 
+As described in the waste acceptance criteria (WAC) document,iii the SWPF Feed acceptance criteria ensure 
+that the monosodium titanate/sludge solids (MST/SS) and strip effluent streams from SWPF will not exceed 
+applicable Defense Waste Processing Facility (DWPF) safety and processing constraints (e.g., canister heat 
+generation, nuclear criticality safety, corrosive species, and organic concentration). The SWPF Feed 
+acceptance criteria also ensures that the decontaminated salt solution (DSS) stream from SWPF will not 
+exceed applicable Tank 50H and SPF safety and processing constraints (e.g., inhalation dose potential 
+(IDP)), nuclear criticality safety (fissile material and fissile poisoning), radiolytic hydrogen generation, and 
+organic concentration. 
+A Task Technical and Quality Assurance Plan (TTQAP)iv requests SRNL to provide annual technical 
+reports of the compiled Salt Batch Qualification data to Savannah River Mission Completion (SRMC), the 
+current Liquid Waste Operations Sub-contractor. 
+2.0 Experimental  
+2.1 Sample Receipt and Preparation 
+Samples were retrieved on 11/13/2022 from SRS Tank 41H for characterization of SWPF Salt Batch 8.  
+The samples were transferred from H-Tank farm and received by SRNL on 11/14/2022 for characterization 
+as described in Table 2-1. Samples of Salt Batch 9 were analyzed by both SRNL and SWPF-AL.  Samples 
+were retrieved from SRS Tank 21H for characterization of SWPF Salt Batch 9 as described in Table 2-1.  
+The details of batch compositions, mixing and sampling for these Salt Batches have been documented in 
+X-ESR-H-01164 Rev 2. v  
+The Salt Batch 8 qualification sample was a composite of four 200-mL tank samples listed in Table 2-1 
+which were combined into one 800-mL sample. SRNL performed all analyses for the Salt Batch 8 
+Qualification sample.  
+The Salt Batch 9 Qualification sample consisted of two sets of composite samples Table 2-1. The first set 
+of four 200-mL samples was pulled on 5/15/2023 and delivered to SRNL on 5/16/2023. These samples 
+were combined into a single 800-mL sample.  The second set of four 200-mL samples was pulled on 
+5/16/2023 and delivered to the SWPF-AL on 5/17/2024.  SRNL performed both short- and long-term 
+analyses on the first sample of Salt Batch 9, and SWPF-AL performed short term analyses on the second 
+sample.  SWPF-AL results are included for comparison with SRNL short term results. The specific details 
+of the collection of the SWPF-AL data are not included herein. Batch 9 is the first Salt Batch that SWPF-
+AL has analyzed samples associated with Salt Batch Qualification. 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+2 
+Table 2-1.  Salt Batch Sample Description and Report References 
+SWPF 
+Batch 
+Qualification 
+Tank 
+Sample 
+References 
+8 
+41H 
+HTF-41-22-109/110/111/112 
+(composite 800 mL) 
+ 
+LW-AD-PROJ-221107-1vi 
+SRNL-L3120-2023-00005vii 
+ 
+9 
+21H 
+HTF-21-23-36/37/38/39 
+(composite 800 mL) 
+ 
+LW-AD-PROJ-230331-4viii 
+ 
+HTF-21-23-40/41/42/43 
+(composite 800 mL) 
+ 
+AFR-1007530, Rev 2ix 
+ 
+ 
+ 
+For the analyses conducted in SRNL, the details of the analyses are as follows.  Density was measured 
+using a 2-mL flask at ambient temperature in the SRNL shielded cells, and the temperature was recorded. 
+The densities of filtered (0.45-ȝPILOWHUDQGXQILOWHUHGVXE-samples of each batch were determined in 
+duplicate, and the average result was reported. For the total mercury and methyl mercury measurements, , 
+approximately 1.5-mL sub-samples were diluted into 40 mL of ultrapure water acidified with 0.2 mL of 
+ultrapure HCl prior to adding the 1.5 mL of sub-sample. Dilution was carried out in Teflon-capped, glass 
+vials with very little headspace and the diluted samples were removed from the shielded cells and stored 
+below 4 qC (in a refrigerator), following the recommended method for preparing samples of this type.x  To 
+measure the insoluble solids content (weight %) , approximately 300 mL of the well-mixed salt solution 
+was weighed on an electronic balance and transferred through a 0.2-ȝPSRURVLW\Q\ORQILOWHUWRFROOHFWWKH
+insoluble solids. The solids and filter were washed with several ~50-mL portions of deionized water to 
+remove the soluble salts. The solids were then dried to constant mass. For other unfiltered samples, a well-
+mixed solution was removed from the shielded cells without dilution or digested in acid (specifically aqua 
+regia) in the shielded cells prior to analysis. For samples requiring filtration and containing visible settling 
+solids, filtration was conducted using a 0.45-ȝPQ\ORQV\ULQJHILOWHUDQGWKHILOWUDWHZDVVXEPLWWHGIRU
+analysis.   
+2.2 Quality Assurance 
+Requirements for performing reviews of technical reports and the extent of review are established in Manual 
+E7 2.60.  SRNL documents the extent and type of review using the SRNL Technical Report Design 
+Checklist contained in WSRC-IM-2002-00011, Rev. 2. The work performed, all analyses, and the review 
+process for this report complies with those requirements. Results from this report and those reports for 
+which results are compiled and summarized are not governed by DOE/RW-0333P (enhanced Quality 
+Assurance requirements) as per the Technical Task Request (TTR).xi  Design verification of this report was 
+performed by Document Review. 
+ 
+ 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+3 
+3.0 Characterization Results for the FY23 SWPF Salt Batches (8 and 9) including analyses 
+by SRNL and SWPF-AL 
+SRNL analyzed samples for major ions by ion chromatography (IC) (formate, nitrate, nitrite, sulfate, 
+phosphate, oxalate, chloride and fluoride), inductively coupled plasma-emission spectrometry (ICP-ES) (Al, 
+Na, K, and Si), and total inorganic carbon/total organic carbon analysis (TIC/TOC) (Carbonate and TOC).   
+Total mercury and methyl mercury analyses were also performed. A number of additional semi-volatile 
+organic analysis (SVOA) (Tributyl phosphate and all other SVOA compounds) as well as volatile analysis 
+(VOA) compounds were analyzed including butanol and all other VOA compounds. None of these analyses 
+for VOA/SVOA were measured above the detection limits and therefore are not included in Table 3-1. 
+ 
+Table 3-1. SWPF Salt Batch 8 and 9 Density (g/mL) and Composition (mg/L (M)). 
+SWPF Batch 
+8a 
+9a 
+9a 
+ 
+SRNL 
+SRNL 
+SWPFAL 
+ 
+g/mL 
+g/mL 
+g/mL 
+Density 
+1.31 
+1.27 
+--- 
+1.32b 
+1.30b 
+--- 
+Insoluble solids 
+mg/L 
+mg/L 
+mg/L 
+184 
+4.48 
+<200 
+Component 
+mg/L (M) 
+mg/L (M) 
+mg/L (M) 
+Na+ 
+1.70E+05 (7.41) 
+1.72E+05 (7.46) 
+1.65E+05 (7.19) 
+Al 
+1.18E+04 (0.437) 
+1.07E+04 (0.397) 
+1.00E+04 (0.371) 
+K+ 
+1.60E+03 (0.0409) 
+1.26E+03 (0.0322) 
+1.21E+03 (0.0310) 
+Si  
+<2.74E+01 (<0.000976) 
+<3.99E+01 (<0.00142) 
+8.00E+01 (0.00285) 
+OH- 
+6.93E+04 (4.07) 
+5.98E+04 (3.52) 
+6.00E+04 (3.53) 
+NO3- 
+9.83E+04 (1.59) 
+1.16E+05 (1.87) 
+1.23E+05 (1.98) 
+CO32- 
+1.59E+04 (0.265) 
+1.88E+04 (0.313) 
+1.70E+04 (0.283) 
+NO2- 
+5.33E+04 (1.16) 
+4.26E+04 (0.926) 
+3.98E+04 (0.865) 
+SO42- 
+4.00E+03 (0.0416) 
+3.23E+03 (0.0336) 
+3.12E+03 (0.0325) 
+PO43- 
+4.47E+02 (0.00471) 
+3.53E+02 (0.00372) 
+4.47E+02 (0.00471) 
+C2O42- 
+1.02E+02 (0.00116) 
+<1.00E+02 (<0.00114) 
+9.50E+01 (0.00108) 
+HCO2- 
+<1.00E+02 (<0.00222) 
+<1.00E+02 (<0.00222) 
+<1.00E+01 (<0.00022) 
+F- 
+<1.00E+02 (<0.00526) 
+<1.00E+02 (<0.00526) 
+3.15E+01 (0.00166) 
+Cl- 
+3.05E+02 (0.00860) 
+2.54E+02 (0.00716) 
+2.39E+02 (0.00674) 
+Total Hg 
+6.41E+01 (0.000320)b 
+5.04E+01 (0.000251)b 
+4.00E+01 (0.000199)b 
+Methyl Hg 
+8.88E+00b 
+9.35E+00b 
+--- 
+Total Organic Carbon 
+1.06E+02 
+7.17E+01 
+1.20E+02 
+Note:  molar values (M) calculated from reported values (mg/L) except for sodium in which case molar 
+concentration (M) was the reported value. 
+a filtered unless otherwise indicated and  
+b unfiltered 
+--- not requested 
+ 
+ 
+ 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+4 
+Radioisotopes analyzed with results determined to be above the instrument detection limit are listed in 
+Table 3-2.  A number of additional radionuclide analyses were carried out as specified in the TTQAP. iv 
+Those radionuclides below the limit of detection for Salt Batch 8 and 9 were not included in this summary 
+report. Analytes measured but not included in Table 3-2 are Am-241, Cm-245, Ce-144, Co-60, Eu-154, 
+Eu-155, and Sb-125.  Detection limits for all analyses were below the Waste Acceptance Criteria (WAC) 
+limits.   
+SRNL utilized automated LIMS data reporting for the initial reporting of the data.vi,viii  A re-test was 
+requested of SRNL for Salt Batch 8 to remeasure Cs-137 in filtered samples starting with new aliquots of 
+original sample.  This re-test was reported in a separate document.vii The re-test data reported herein is an 
+average of all four values measured (two original and two re-test values).  The average Cs-137 value 
+reported in the re-testvii was used in the evaluation of Salt Batch 8 instead of the value reported in LW-AD-
+PROJ-221107-1.vi  For Batch 9, both SRNL and SWPF-AL data are show in Table 3-2. SRNL data was 
+used in the evaluation included in the Acceptance Report for Salt Batch 9.  
+ 
+Table 3-2.  SWPF Salt Batch 8 and 9 Radionuclide Activities  
+SWPF Batch 
+8(filtered) 
+8(unfiltered) 
+9(filtered) 
+9(unfiltered) 
+9(filtered) 
+9(unfiltered) 
+Analyte 
+SRNL 
+SRNL 
+SRNL 
+SRNL 
+SWPF-AL 
+SWPF-AL 
+Units 
+pCi/mL 
+pCi/mL 
+pCi/mL 
+pCi/mL 
+pCi/mL 
+pCi/mL 
+137Cs  
+5.99E+08 
+6.22E+08 
+4.88E+08 
+5.20E+08 
+4.78E+08 
+--- 
+137Cs Re-testb 
+6.12E+08 
+--- 
+--- 
+--- 
+--- 
+--- 
+137mBa  
+5.66E+08 
+5.88E+08 
+4.62E+08 
+4.92E+08 
+--- 
+--- 
+Total gamma 
+5.66E+08 
+5.88E+08 
+4.62E+08 
+4.92E+08 
+--- 
+4.08E+08 
+Beta Count (LSCa) 
+6.17E+08 
+6.16E+08 
+5.81E+08 
+5.97E+08 
+--- 
+5.72E+08 
+Total beta, Cs removed 
+1.32E+06 
+2.18E+06 
+9.59E+05 
+1.27E+06 
+1.04E+06 
+1.16E+06 
+Total alpha, Cs removed 
+4.16E+04 
+8.61E+04  
+<1.95E+04 
+<1.35E+05 
+6.10E+03 
+5.70E+03 
+238Pu  
+2.99E+04 
+4.52E+04 
+6.41E+03 
+1.15E+04 
+--- 
+7.30E+03 
+239Pu  
+5.04E+02 
+8.20E+02 
+<4.50E+02 
+6.05E+02 
+4.00E+02 
+3.90E+02 
+240Pu  
+2.76E+02 
+   4.03E+02* 
+< 6.66E+02 
+2.78E+02 
+1.18E+02 
+1.22E+02 
+241Pu 
+1.22E+04 
+--- 
+7.54E+03 
+--- 
+--- 
+--- 
+242Pu 
+<1.05E+00 
+<6.69E+00 
+<1.16E+01 
+<5.74E-01 
+--- 
+1.77E+00 
+244Pu 
+<4.91E-03 
+<3.10E-02 
+<5.36E-02 
+<2.67E-03 
+--- 
+2.3E-01 
+233U  
+<1.93E+01 
+<1.85E+01 
+<2.41E+01 
+<1.20E+02 
+8.9E+00 
+6.4E+00 
+234U  
+5.92E+01 
+6.12E+01 
+3.43E+01 
+<7.73E+01 
+3.1E+01 
+2.8E+01 
+235U  
+1.39E-01 
+1.47E-01 
+2.49E-01 
+2.47E-01 
+<2.0E-01 
+2.17E-01 
+236U  
+9.79E-01 
+9.80E-01 
+9.72E-01 
+8.82E-01 
+8.4E-01 
+7.9E-01 
+238U  
+1.13E+00 
+1.23E+00 
+2.07E+00 
+2.00E+00 
+1.92E+00 
+1.74E+00 
+90Sr  
+3.69E+05 
+5.40E+05 
+2.84E+05 
+7.03E+05 
+3.42E+05 
+3.82E+05 
+90Y  
+3.69E+05 
+5.40E+05 
+2.84E+05 
+7.03E+05 
+--- 
+--- 
+3H 
+3.04E+03 
+--- 
+5.65E+03 
+--- 
+--- 
+--- 
+14C 
+4.95E+03 
+--- 
+<9.32E+02 
+--- 
+--- 
+--- 
+99Tc 
+1.63E+05 
+--- 
+1.23E+05 
+--- 
+--- 
+--- 
+126Sn 
+2.16E+03 
+--- 
+1.74E+03 
+--- 
+--- 
+--- 
+129I  
+1.67E+02 
+--- 
+9.38E+01 
+--- 
+--- 
+--- 
+237Np 
+5.99E+00 
+--- 
+6.21E+00 
+--- 
+--- 
+--- 
+244Cm 
+3.10E+01 
+--- 
+<9.90E-01 
+--- 
+--- 
+--- 
+a liquid scintillation counting (LSC) 
+b re-test data reported is an average including both original measurements and additional measurements (4 replicates 
+total) 
+--- not requested 
+* replicates include values that were below detection 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+5 
+4.0 Comparison with Previous Salt Batch Characterization Results 
+SWPF Salt Batch qualification samples 8 and 9 were similar in chemical composition to each other and to 
+the previous 17 salt batches analyzed to date with results trending similar to or on the higher end of the 
+ranges previously observed for most analytes. Batches analyzed prior to Salt Batches 8 and 9 include ISWP 
+Salt Macrobatches 1-10 and SWPF Salt Batches 1-7.i,ii SWPF-AL data reported for Salt Batch 9 is, for the 
+most part, in agreement with data reported by SRNL.   
+Results that were similar to previous Salt Batches included densities and insoluble solids.  For Salt Batch 8 
+and 9 densities remained very close to 1.3 g/mL and the values measured for insoluble solids remained less 
+than 200 mg/L.   
+Salt Batch 8 and 9 results for sodium, aluminum, and hydroxide were as high (within the instrument 
+uncertainty; typically 10% (1V as reported by SRNL) for these specific analyses) or higher than results for 
+salt batches analyzed to date. Salt Batches 8 and 9 contained 7.19 to 7.46 M Na+ (the previously reported 
+maximum value for all batches was 7.50 M Na+ for Batch 6), 0.371 to 0.437 M AlO2- (the previously 
+reported maximum value for all batches was 0.368 M AlO2- for Batch 6), 3.52 to 4.07 M OH- (the previously 
+reported maximum value was 3.78 M OH- for Batch 6),ii 1.59 to 1.98 M NO3- (previous range 1.30 to 3.27 
+M NO3-), 0.87 to 1.16 M NO2- (previous range 0.22 to 1.28 M NO2-), 0.265 to 0.313 M CO32- (previous 
+range 0.11 to 0.39 M CO32-), 0.033 to 0.042 M SO42- (previous range 0.05 to 0.16 M SO42-)  and other minor 
+chemical components.  See Figure 4-1 for sodium and anion molar concentrations including SRNL data 
+for Batches 5 through 9 and SWPFAL data for Batch 9.  Total mercury concentrations ranged from 40.0 to 
+64.1 mg/L.  These mercury values are in the middle of the range reported for all prior 17 Salt Batches (9.17 
+to 129.0 mg/L Hg).i,ii  There were a number of analyses requested as a part of the TTQAPiv that were not 
+measured at values above the instrument detection limit and are not included in this report.  These analyses 
+include SVOA and VOA.  
+Sample filtration had little impact on the total gamma and beta activities for the samples indicating that 
+these activities were primarily associated with soluble species. All Cs-137 activities, in both filtered and 
+unfiltered samples of Salt Batches 8 and 9, ranged from 4.78E+08 pCi/mL (1.1E+09 dpm/mL, 1.8 Ci/gal) 
+to 6.22E+08 pCi/mL (1.4E+09 dpm/mL; 2.4 Ci/gal).  The Cs-137 activity for Salt Batch 8 for the filtered 
+sample was higher, 6.12E+08 pCi/mL, than the previous maximum reported 5.2E+08 pCi/mL 
+(1.16E+09 dpm/mL; 2.0 Ci/gal) which was for filtered Salt Batch 6.  Comparing filtered versus unfiltered 
+samples, both Batch 8 and Batch 9 samples had higher activity in the unfiltered sample as compared to the 
+filtered sample for Cs-137 but not significantly higher as compared to the uncertainty of the measurement 
+(typically 1Vestimated at 5% for Cs-137 by SRNL).  This observation was the same for the other 
+radionuclide analyses as well. The total beta activity was similar to the Cs-137 values measured. For filtered 
+Batch 8 the total beta activity was 6.17E+08 pCi/mL (1.4E+09 dpm/mL; 2.3 Ci/gal) which was higher but 
+not significantly higher than the filtered Cs-137 measured value 6.12E+08 pCi/mL (re-test value for four 
+replicates).  For filtered Batch 9 the total beta activity was 5.8E+08 pCi/mL (1.3E+09 dpm/mL; 2.2 Ci/gal) 
+which was 20% higher than the Cs-137 (primary beta emitter) activities for this sample.  Ba-137m activities 
+were calculated from the cesium data by multiplying the Cs-137 activities by 0.946 based on the fact that 
+94.6% of the Cs-137 decays to Ba-137m by beta decay and a secular equilibrium exists between these 
+isotopes. The total gamma reported is the calculated Ba-137m activity for each sample, since Ba-137m is 
+the dominant gamma emitter in the samples. The total gamma activities for the filtered samples for Batch 
+8, 5.66E+08 pCi/mL (1.3E+09 dpm/mL; 2.14 Ci/gal) are higher than Batch 9, 4.62E+08 pCi/mL 
+(1.0E+09 dpm/mL, 1.75 Ci/gal), as well as  Batch 6, 4.94E+08 pCi/mL, (1.1E+09 dpm/mL; 1.87 Ci/gal).  
+Revisions continue to be made to the SWPF Waste Acceptance Criteria (WAC) requirement related to Cs-
+137 content.  Around the time of these qualification samples the SWPF WAC for Cs-137 content had been 
+raised to 5.1 Ci/gal but has subsequently been lowered to 3.0 Ci/gal (uncertainty 2 sigma applies) based on 
+SWPF Safety Basis calculations related to hydrogen generation where Cs-137 value is an input.xii 
+.
+SRNL-STI-2024-00436
+Revision 0
+6
+Figure 4-1.  Sodium and Anion Molar Concentrations for Qualification Samples (All SRNL Salt Batch 5 through 9 Data and SWPF-AL 
+Salt Batch 9 Data Included for Comparison)
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+7 
+As compared to the previous 17 Batches, the trends following cesium  removal are similar for Batch 8 and 
+9.  Total beta activity for the samples decreased dramatically (two orders of magnitude) to 
+1.32E+06 pCi/mL (2.9E+06 dpm/mL, 5.0E-03 Ci/gal) for filtered Batch 8 and 9.59E+05 pCi/mL 
+(2.1E+06 dpm/mL, 3.6E-03 Ci/gal) for filtered Batch 9 as compared to Cs-137 values.  Activities for 
+radionuclides other than Cs-137 and Ba-137m in the samples were primarily associated with Sr-90/Y-90, 
+Tc-99, Pu-238, and Pu-241.  Although I-129 activities are relatively low in comparison to the other 
+radionuclides reported herein, the measured value for Batch 8 was higher (167 pCi/mL) than Batch 9 (93.8 
+pCi/mL) and was also higher than the highest value reported for Salt Batches 1-7 (107 pCi/mL (Batch 6)).   
+Although I-129 values did not exceed the SWPF WAC and do not impact the qualification of these Salt 
+Batches or their processing through SWPF, additional measures are in place to reevaluate I-129 prior to 
+transferring to Tank 49 as a part of an active deviation for Salt Batches 8-22 to justify exceeding the SPF 
+WAC limit if it is not met at that time. 
+ 
+Pu is the primary alpha emitter in tank waste.  The plutonium isotopes Pu-238, Pu-239, and Pu-240 are the 
+major contributors to the alpha activity in SRS Salt Batch Feed samples, and Pu-238 accounts for the 
+majority of the alpha activity in Salt Batch Samples 8 and 9.  For both Batch 8 and Batch 9, the Pu-238 
+activity of the unfiltered sample was higher than the filtered sample by a significant amount indicating that 
+not all of the Pu-238 is soluble for these Salt Batches (8 and 9). This is a departure in behavior from previous 
+Salt Batches. Other Pu isotopes, although much lower in activity than Pu-238, also exhibited this behavior 
+(Pu-239 (Batches 8 and 9, SRNL) and Pu-240 (Batch 8)). Pu-238 activity, considering both filtered and 
+unfiltered samples, ranged in value from 6.41E+03 pCi/mL (1.4E+04 dpm/mL) for Batch 9 (filtered) to 
+4.52E+04 pCi/mL (1.0E+05 dpm/mL) for Batch 8 (unfiltered).  The maximum Pu-238 activity considering 
+only filtered samples in Batches 8 and 9 was 2.99E+04 pCi/mL (6.6E+04 dpm/mL) (Batch 8).  The 
+maximum Pu-238 values reported previouslyi were 8.39E+04 pCi/mL (1.9E+05 dpm/mL) for filtered 
+(Batch 5) and 9.14E+04 pCi/mL (2.0E+05 dpm/mL) for unfiltered (Batch 5). These activities are at or near 
+the values for the total alpha with cesium removed method. The total alpha measurement following cesium 
+removal is a gross semi-quantitative analysis (suffering from the high beta to alpha activity ratio in Salt 
+Batch matrices) and has poor precision compared to the sum of the quantitative radiochemical analyses 
+results for the various actinides.   
+5.0 Conclusions 
+None of the samples displayed any unusual or unexpected visual characteristics. In general, the FY23 Salt 
+Batch Samples analyzed in Batches 8 and 9 were similar to each other in chemical and radiological 
+composition and followed similar trends for filtered, unfiltered, and samples with cesium removal prior to 
+analysis.  A significant difference in unfiltered and filtered values was observed, however, for Pu-238 and 
+some other Pu isotopes. This observation indicates that some of the Pu species in Batches 8 and 9 may be 
+insoluble. For Batch 9 analyses, the data reported by SWPF-AL was in reasonable agreement with the 
+values reported by SRNL.  SWPF-AL data values trended slightly lower than SRNL measured values for 
+most analyses.  Sample filtration had little impact on the total gamma and beta activities for the samples 
+indicating that these activities were primarily associated with soluble species.  Values for a number of 
+analytes measured in Batches 8 and 9 continued to trend toward values as high or higher than previously 
+reported for the 17 previous Salt Batches (10 Macrobatch samples and 7 Salt Batch Samples). These 
+analyses trending higher included sodium, aluminum, and hydroxide as well as Cs-137 (and related analyses 
+for Ba-137m and total gamma). Although the concentrations and activities were higher in value and 
+exceeded targets included in the SWPF WAC for sodium, aluminum, and hydroxide and the SPF WAC 
+limit for I-129, no significant impact was deduced from the results based on evaluations carried out to 
+justify any WAC compliance.  
+ 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+8 
+6.0 Recommendations, Path Forward or Future Work 
+In the next summary document, the average values and ranges for key measured analytes for all Salt Batches 
+reported to date through Salt Batch 9 (10 Macrobatch plus 9 Salt Batch samples) should be updated in order 
+to be compared with the FY24 Salt Batch sample data.  A methodology has not yet been fully developed 
+for addressing final calculated compositions of the wastes processed through the ISWP facility and the 
+SWPF which takes into account the impacts of the process feed tank heel compositions and added NaOH 
+reagent.  Once developed, this methodology should be considered in future revisions of this report.  Also, 
+a comparison of the final blended Salt Batch feed composition and the corresponding Tank 50H 
+decontaminated salt solution may be considered to complement future summaries.   
+ 
+ 
+SRNL-STI-2024-00436 
+Revision 0 
+ 
+9 
+ 
+7.0 References 
+i King, W. D., Peters, T. B., “Summary of Savannah River Site FY21 Salt Waste Qualification Data 
+and Characterization Data from Salt Waste Batches Processed Since 2008 SRNL-STI-2022-00161, 
+Rev 0 August 2022. 
+ii Crapse, K. P., Dekarske, J., Peters, T. B., “Summary of Savannah River Site FY22 Salt Waste 
+Qualification Data” SRNL-STI-2023-00426, Rev 0, September 2023. 
+iii X-ESR-J-00001, Rev 9.  Salt Waste Processing Facility Feed Waste Acceptance Criteria, Savannah 
+River Mission Completion, Aiken, South Carolina.  February 2023.   
+iv Peters, T. B., Dekarske, J., “Task Technical and Quality Assurance Plan for SWPF Feed Batch 
+Qualification Testing”, SRNL-RP-2019-00582, Rev. 4, September 2023. 
+v Capp, N. B. “Salt Batch Strategy” X-ESR-H-01164, Rev 2, January 2024. 
+vi Dekarske, J. R., External SWPF Sample Results Report, LW-AD-PROJ-221107-1, November 
+2022 
+vii Dekarske, J. R., “Salt Batch 8 Cs-137 Re-test” SRNL-L3120-2023-00005, April 2023. 
+viii Peters, T. B., External SWPF Sample Results Report, LW-AD-PROJ-230331-4, July, 2023. 
+ix Rudder, C., SWPF Analytical Laboratory Analytical Final Report, AFR-1007530, Rev 3, August 
+2023. 
+x 
+McCabe, D. J., Crawford, C. L., Bannochie, C. J, Boggess, A. J, Bishop, S. G., “Best Handling 
+Practices for Elemental Mercury, Organo-Mercury Compounds, and Inorganic Mercury 
+Compounds, SRNL-TR-2019-00243, Rev.1, June 2020. 
+xi 
+Samadi-Dezfouli, A., “Salt Batch Qualification for Feed to Salt Waste Processing Facility”, X-
+TTR-H-00090, Rev. 3, June 22, 2021.  
+xii 
+Salyer, W.,  “Evaluation of the Safety of the Situation (ESS): Calculation of Minimum Process 
+Vessel Air Purge Flowrates Does Not Correctly Account for Thermolytic Hydrogen Generation 
+(PISA PI-2023-0004) U-ESS-J-00001, Rev 0, August, 2023. 
+ 
+SRNL-STI-2024-00436 
+Revision 0 
+10
+Distribution:  
+ kim.crapse@srnl.doe.gov 
+john.dekarske@srnl.doe.gov 
+thomas.peters@srnl.doe.gov 
+kathryn.taylor-pashow@srnl.doe.gov
+drew.fairchild@srnl.doe.gov 
+William.bates@srnl.doe.gov
+utopia.boynton@srnl.doe.gov>
+Tyler.chavous@srnl.doe.gov
+Brandi.clark@srnl.doe.gov
+marion.cofer@srnl.doe.gov
+Vanessa.cofer@srnl.doe.gov
+alex.cozzi@srnl.doe.gov
+c.diprete@srnl.doe.gov
+David.diprete@srnl.doe.gov
+connie.herman@srnl.doe.gov
+sarah.hodges@srnl.doe.gov
+Charles.James@SRNL.DOE.GOV
+brady.lee@srnl.doe.gov
+Heather.Capogreco@srnl.doe.gov
+Joseph.Manna@srnl.doe.gov
+Gregg.Morgan@srnl.doe.gov
+frank.pennebaker@srnl.doe.gov
+Amy.Ramsey@srnl.doe.gov
+William.Ramsey@srnl.doe.gov
+luther.reid@srnl.doe.gov
+eric.skidmore@srnl.doe.gov
+michael.stone@srnl.doe.gov
+boyd.Wiedenman@srnl.doe.gov
+Mary.whitehead@srnl.doe.gov
+Morgana.whiteside@srnl.doe.gov
+Jennifer.Wohlwend@srnl.doe.gov
+bill.clark@srs.gov 
+jeffrey.crenshaw@srs.gov 
+james.folk@srs.gov 
+timothy.littleton@srs.gov 
+tony.polk@srs.gov 
+anthony.Robinson@srs.gov 
+matthew02.sims@srs.gov 
+thomas.temple@srs.gov 
+joshua.goldblatt@srs.gov 
+joshua.pifer@srs.gov 
+donna.yarbrough@srs.gov 
+terri.fellinger@srs.gov 
+cliff.conner@srs.gov 
+vijay.jain@srs.gov 
+ryan.lentsch@srs.gov 
+bob.gray@srs.gov 
+bailey.scott@srs.gov 
+magdalina.hansen@srs.gov 
+azadeh.samadi-dezfouli@srs.gov

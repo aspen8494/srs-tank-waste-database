@@ -1,0 +1,768 @@
+
+=== PAGE 1 ===
+ 
+Revision 24.1 
+April 22, 2026 
+ 
+Liquid Waste System Plan 
+Revision 24.1 
+Discontinue ABD & Decouple MST/SS from DWPF 
+ 
+Approvals: 
+ 
+ 
+__________________________________________ 
+Dr. Thomas Burns, Jr.  
+President and Program Manager, SRMC 
+ 
+ 
+__________________________________________ 
+Anthony Robinson 
+Acting Manager for Waste Disposition, DOE-SR 
+Authors 
+ 
+____________________________________________________________ 
+D. P. Chew, System Planning 
+ 
+____________________________________________________________ 
+A. W. Jung, Modeling Lead, System Planning 
+ 
+____________________________________________________________ 
+M. N. Wells, System Planning 
+Reviews 
+ 
+______________________________________________________________ 
+P. J. Hill, Manager, System Planning 
+ 
+
+=== PAGE 2 ===
+Liquid Waste System Plan — Discontinue ABD & Decouple MST/SS from DWPF 
+SRMC-LWP-2023-00001 
+April 22, 2026 
+ 
+Revision 24.1 
+ 
+Page 2 
+ 
+Revision 24 of the LW System Plan1 (Rev. 24) noted two opportunities, among others: 
+• 
+Discontinuation of Accelerated Basin Deinventory (ABD): The ABD program is projected to 
+increase the number of canisters produced at DWPF by 268 (included in this Plan). While some of 
+these incremental canisters will still occur as a result of ABD and Fast Critical Assembly (FCA) 
+discards into Sludge Batch 11 that have already occurred, if H-Canyon were to resume uranium 
+recovery, a number of the incremental canisters would be eliminated which would result in a 
+corresponding reduction of the LW mission. The reduction in canisters from eliminating ABD 
+would be offset to some extent by the waste resulting from uranium recovery at H-Canyon. 
+• 
+Decouple SWPF Monosodium Titanate/Sludge Solids (MST/SS) Stream from DWPF: 
+Transferring the SWPF MST/SS stream into the DWPF sludge batch that is being prepared in the 
+Tank Farm would relieve a close-coupling constraint between SWPF and DWPF. Additionally, 
+this would reduce variability between SRAT batches which would enable simplification of SRAT 
+processing enabling accelerated processing at DWPF. Furthermore, by directing the MST/SS 
+stream to the Tank Farm additional tankage within DWPF could be utilized for SE Lag Storage. 
+Per the Amended Record of Decision2 Savannah River Nuclear Solutions (SRNS) is discontinuing the 
+ABD program and reverting to uranium recovery. This is expected to result in a life-cycle reduction in the 
+canister forecast of approximately 150 canisters. 
+Similarly, beginning with Sludge Batch 11, anticipated to begin processing in 2027, the MST/SS stream 
+is expected to be incorporated into sludge batch processing, decoupling that stream from DWPF3. This 
+enables a waste loading increase to 38% from the 36% assumed in Rev 24. This is expected to result in an 
+additional life-cycle reduction in the canister forecast of approximately 150 canisters. 
+Table 1 1 — Results of Modeled Cases of Rev 24 is updated to: 
+Parameter 
+Goal 
+Baseline 
+Date last LW facility turned over to Dismantlement and 
+Decommissioning (D&D) 
+2037 
+2041 
+Final Type I and II tanks complete operational closure 
+2031 
+2032 
+Complete SWPF salt processing 
+2034 
+2035 
+Complete DWPF operations 
+2036 
+2039 
+Last tank closed 
+2037 
+2041 
+Salt Solution Processed via SWPF 
+77 Mgal 
+85 Mgal 
+Total number of canisters produced 
+7,376 
+7,440 
+Total number of SDUs 
+12 
+12 
+Two appendices from Rev 24 are updated to depict these changes. Attached are the revised Appendix B1 
+and Appendix B2. 
+ 
+ 
+ 
+1 Chew, D.P., Jung, A.W., Wells, M.W., SRMC-LWP-2023-00001, Liquid Waste System Plan, Revision 24, 
+January 2026 
+2 Walsh, T.J., Amended Record of Decision—Spent Nuclear Fuel Management, Recovery of Uranium and 
+Production of High Assay Low Enriched Uranium (HALEU) in the H-Canyon Facility, at the Savannah River Site 
+(DOE/EIS-0279), January 2026 
+3 Flores, P.J., SRMC-CES-2026-00002, Feasibility Evaluation for SWPF MST/Sludge Solids Transfers from SWPF 
+to CSTF, Revision 0 (Draft), April 2026 
+
+=== PAGE 3 ===
+Liquid Waste System Plan — Discontinue ABD & Decouple MST/SS from DWPF 
+SRMC-LWP-2023-00001 
+April 22, 2026 
+ 
+Revision 24.1 
+ 
+Page 3 
+ 
+Appendix B1 — Canister Storage (Baseline Case) 
+ 
+ 
+SRS Cans
+pending storage c
+Yearly
+Cum.
+Added
+Cum.
+Added
+Cum.
+FY96
+64
+64
+64
+64
+FY97
+169
+233
+169
+233
+FY98
+250
+483
+250
+483
+FY99
+236
+719
+236
+719
+FY00
+231
+950
+231
+950
+FY01
+227
+1,177
+227
+1,177
+FY02
+160
+1,337
+160
+1,337
+FY03
+115
+1,452
+115
+1,452
+FY04
+260
+1,712
+260
+1,712
+FY05
+257
+1,969
+257
+1,969
+FY06
+245
+2,214
+244
+2,213
+1
+1
+FY07
+160
+2,374
+28
+2,241
+132
+133
+FY08
+225
+2,599
+2,241
+225
+358
+FY09
+196
+2,795
+2,241
+196
+554
+FY10
+192
+2,987
+3
+2,244
+183
+737
+Cans in Vit Bldg: 6
+FY11
+264
+3,251
+2,244
+260
+997
+Cans in Vit Bldg: 10
+FY12
+277
+3,528
+2,244
+277
+1,269
+Cans in Vit Bldg: 15
+FY13
+224
+3,752
+2,244
+224
+1,493
+Cans in Vit Bldg: 15
+FY14
+125
+3,877
+2,244
+125
+1,629
+Cans in Vit Bldg: 4
+FY15
+93
+3,970
+(193)
+2,051
+281
+1,910
+Cans in Vit Bldg: 9
+FY16
+136
+4,106
+(153)
+1,898
+291
+2,201
+Cans in Vit Bldg: 7
+FY17
+52
+4,158
+14
+1,912
+34
+2,235
+Cans in Vit Bldg: 11
+FY18
+15
+4,173
+1,914
+19
+2,254
+Cans in Vit Bldg: 5
+FY19
+34
+4,207
+1,914
+34
+2,288
+Cans in Vit Bldg: 5
+FY20
+8
+4,215
+1,914
+4
+2,292
+Cans in Vit Bldg: 9
+FY21
+59
+4,274
+131
+2,045
+(66)
+2,226
+Cans in Vit Bldg: 3
+FY22
+45
+4,319
+2,045
+44
+2,270
+Cans in Vit Bldg: 4
+FY23
+76
+4,395
+7
+2,668
+69
+1,719
+Cans in Vit Bldg: 8
+FY24
+49
+4,444
+38
+2,706
+8
+1,727
+Cans in Vit Bldg: 11
+FY25
+28
+4,472
+24
+2,730
+1
+1,728
+Cans in Vit Bldg: 14
+FY26
+140
+4,612
+295
+3,025
+(150)
+1,578
+FY27
+213
+4,825
+363
+3,388
+(150)
+1,428
+FY28
+242
+5,067
+242
+3,630
+1,428
+FY29
+156
+5,223
+156
+3,786
+1,428
+FY30
+222
+5,445
+222
+4,008
+1,428
+Remaining Capacity
+FY31
+189
+5,634
+189
+4,197
+1,428
+3,570
+FY32
+238
+5,872
+238
+4,435
+1,428
+3,332
+FY33
+218
+6,090
+67
+4,502
+151
+1,579
+3,114
+FY34
+240
+6,330
+4,502
+240
+1,819
+2,874
+FY35
+233
+6,563
+4,502
+233
+2,052
+2,641
+FY36
+243
+6,806
+4,502
+243
+2,295
+2,398
+FY37
+260
+7,066
+4,502
+260
+2,555
+2,138
+FY38
+260
+7,326
+4,502
+260
+2,815
+1,878
+FY39
+114
+7,440
+4,502
+123
+2,938
+1,764
+a
+b
+c
+Note:
+End of 
+Fiscal 
+Year
+SRS Cans 
+Poured
+SRS Cans in GWSB 1 
+(4,524 capacity)a
+SRS Cans in GWSB 2 
+(4,680 capacity)b
+GWSB 2 has 2,340 standard storage locations and filing began in 2006. Beginning in April 2024, conversion of the 
+2,262 standard canister storage locations to enable each position to hold two cans for a potential capacity of 4,680 
+canisters. Enough positions are planned to be converted to allow storage of all canisters produced.
+GWSB 1 filling began in May 1996. From 2016 to March 2024, conversion of the 2,262 standard canister storage 
+locations enabled, via double stacking, each position to hold two cans for a total capacity of 4,524 canisters.
+At the end of each year, a certain number of cans are not emplaced in the GWSBs, having been retained in the 
+vitrification building. At the end of the program, all canisters will be stored in the GWSBs pending final disposition. 
+The "Remaining Capacity" is the number of additional canisters that could be stored.
+These values are estimates based on the best inventory information available at the time and assumptions about 
+future waste inventory and processing. 
+Numbers in italics are actuals through FY25. 
+FY26 and beyond are forecast based on 
+modeling assumptions
+
+=== PAGE 4 ===
+Liquid Waste System Plan — Discontinue ABD & Decouple MST/SS from DWPF 
+SRMC-LWP-2023-00001 
+April 22, 2026 
+ 
+Revision 24.1 
+ 
+Page 4 
+ 
+Appendix B2 — Canister Storage (Goal Case) 
+ 
+ 
+SRS Cans
+pending storage c
+Yearly
+Cum.
+Added
+Cum.
+Added
+Cum.
+FY96
+64
+64
+64
+64
+FY97
+169
+233
+169
+233
+FY98
+250
+483
+250
+483
+FY99
+236
+719
+236
+719
+FY00
+231
+950
+231
+950
+FY01
+227
+1,177
+227
+1,177
+FY02
+160
+1,337
+160
+1,337
+FY03
+115
+1,452
+115
+1,452
+FY04
+260
+1,712
+260
+1,712
+FY05
+257
+1,969
+257
+1,969
+FY06
+245
+2,214
+244
+2,213
+1
+1
+FY07
+160
+2,374
+28
+2,241
+132
+133
+FY08
+225
+2,599
+2,241
+225
+358
+FY09
+196
+2,795
+2,241
+196
+554
+FY10
+192
+2,987
+3
+2,244
+183
+737
+Cans in Vit Bldg: 6
+FY11
+264
+3,251
+2,244
+260
+997
+Cans in Vit Bldg: 10
+FY12
+277
+3,528
+2,244
+277
+1,269
+Cans in Vit Bldg: 15
+FY13
+224
+3,752
+2,244
+224
+1,493
+Cans in Vit Bldg: 15
+FY14
+125
+3,877
+2,244
+125
+1,629
+Cans in Vit Bldg: 4
+FY15
+93
+3,970
+(193)
+2,051
+281
+1,910
+Cans in Vit Bldg: 9
+FY16
+136
+4,106
+(153)
+1,898
+291
+2,201
+Cans in Vit Bldg: 7
+FY17
+52
+4,158
+14
+1,912
+34
+2,235
+Cans in Vit Bldg: 11
+FY18
+15
+4,173
+1,914
+19
+2,254
+Cans in Vit Bldg: 5
+FY19
+34
+4,207
+1,914
+34
+2,288
+Cans in Vit Bldg: 5
+FY20
+8
+4,215
+1,914
+4
+2,292
+Cans in Vit Bldg: 9
+FY21
+59
+4,274
+131
+2,045
+(66)
+2,226
+Cans in Vit Bldg: 3
+FY22
+45
+4,319
+2,045
+44
+2,270
+Cans in Vit Bldg: 4
+FY23
+76
+4,395
+7
+2,668
+69
+1,719
+Cans in Vit Bldg: 8
+FY24
+49
+4,444
+38
+2,706
+8
+1,727
+Cans in Vit Bldg: 11
+FY25
+28
+4,472
+24
+2,730
+1
+1,728
+Cans in Vit Bldg: 14
+FY26
+246
+4,718
+401
+3,131
+(150)
+1,578
+FY27
+220
+4,938
+370
+3,501
+(150)
+1,428
+FY28
+285
+5,223
+285
+3,786
+1,428
+FY29
+139
+5,362
+139
+3,925
+1,428
+FY30
+265
+5,627
+265
+4,190
+1,428
+Remaining Capacity
+FY31
+292
+5,919
+292
+4,482
+1,428
+3,285
+FY32
+281
+6,200
+20
+4,502
+261
+1,689
+3,004
+FY33
+287
+6,487
+4,502
+287
+1,976
+2,717
+FY34
+302
+6,789
+4,502
+302
+2,278
+2,415
+FY35
+299
+7,088
+4,502
+299
+2,577
+2,116
+FY36
+288
+7,376
+4,502
+297
+2,874
+1,828
+a
+b
+c
+Note: These values are estimates based on the best inventory information available at the time and assumptions about 
+future waste inventory and processing. 
+GWSB 2 has 2,340 standard storage locations and filing began in 2006. Beginning in April 2024, conversion of the 
+2,262 standard canister storage locations to enable each position to hold two cans for a potential capacity of 4,680 
+canisters. Enough positions are planned to be converted to allow storage of all canisters produced.
+GWSB 1 filling began in May 1996. From 2016 to March 2024, conversion of the 2,262 standard canister storage 
+locations enabled, via double stacking, each position to hold two cans for a total capacity of 4,524 canisters.
+At the end of each year, a certain number of cans are not emplaced in the GWSBs, having been retained in the 
+vitrification building. At the end of the program, all canisters will be stored in the GWSBs pending final disposition. 
+The "Remaining Capacity" is the number of additional canisters that could be stored.
+End of 
+Fiscal 
+Year
+SRS Cans 
+Poured
+SRS Cans in GWSB 1 
+(4,524 capacity)a
+SRS Cans in GWSB 2 
+(4,680 capacity)b
+Numbers in italics are actuals through FY25. 
+FY26 and beyond are forecast based on 
+modeling assumptions

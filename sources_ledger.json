@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.energy.gov/srs/liquid-waste-system-plans",
+      "title": "DOE EM: Liquid Waste System Plans index",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 2,
+      "url": "https://www.energy.gov/documents/srs-liquid-waste-system-plan-revision-24",
+      "title": "SRS Liquid Waste System Plan Rev 24 (Jan 2026)",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 3,
+      "url": "https://www.energy.gov/documents/liquid-waste-system-plan-revision-241",
+      "title": "SRS Liquid Waste System Plan Rev 24.1 (Apr 2026)",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 4,
+      "url": "https://www.energy.gov/sites/default/files/2023-07/SRMC-LWP-2023-00001%20Rev23-P.pdf",
+      "title": "SRS LWSP Rev 23-P (Mar 2023)",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 5,
+      "url": "https://www.energy.gov/sites/default/files/2019/05/f62/SRS-Liquid-Waste-System-Plan-January-2019-0.pdf",
+      "title": "SRS LWSP Rev 21 (Jan 2019)",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 6,
+      "url": "https://public.srs.gov/wp-content/uploads/2025/11/SRS-Fact_Sheet-Liquid-Waste-Tanks-May-2022.pdf",
+      "title": "SRS Fact Sheet: Liquid Waste Tanks (May 2022)",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 7,
+      "url": "https://www.energy.gov/em/articles/savannah-river-tank-waste-cleanup-marks-record-risk-reduction-four-years",
+      "title": "DOE EM article: record risk reduction (Feb 2026)",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 8,
+      "url": "https://www.osti.gov/servlets/purl/2549244",
+      "title": "SRMC-STI-2024-00581 Waste Tank Historical Reviews (WM2025)",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 9,
+      "url": "https://www.srs.gov/general/pubs/ERsum/er17/docs/Rad_Liquid_Waste_Tank-facts-2017.pdf",
+      "title": "SRR Radioactive Liquid Waste Tank Farms Fact Sheet (Mar 2017)",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 10,
+      "url": "https://www.osti.gov",
+      "title": "OSTI API - SRNL/SRMC report search",
+      "accessed": "2026-10-16"
+    },
+    {
+      "id": 11,
+      "url": "https://sti.srs.gov",
+      "title": "SRS STI fulltext repository",
+      "accessed": "2026-10-16"
+    }
+  ]
+}

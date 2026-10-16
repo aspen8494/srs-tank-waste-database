@@ -1,0 +1,2544 @@
+A U.S. DEPARTMENT OF ENERGY NATIONAL LAB     •     SAVANNAH RIVER SITE     •     AIKEN, SC    •     USA 
+Characterization of Precipitate Reactor 
+Feed Tank (PRFT) Batches 15, 22, and 26 
+from the Defense Waste Processing 
+Facility (DWPF) 
+S. C. Hunter
+November 2024
+SRNL-STI-2024-00255, Revision 0
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+ii
+ 
+DISCLAIMER 
+This work was prepared under an agreement with and funded by the U.S. Government.  Neither the U.S. 
+Government or its employees, nor any of its contractors, subcontractors or their employees, makes any 
+express or implied: 
+1. warranty or assumes any legal liability for the accuracy, completeness, or for the use or 
+results of such use of any information, product, or process disclosed; or 
+2. representation that such use or results of such use would not infringe privately owned rights; 
+or 
+3. endorsement or recommendation of any specifically identified commercial product, process, 
+or service. 
+Any views and opinions of authors expressed in this work do not necessarily state or reflect those of the 
+United States Government, or its contractors, or subcontractors. 
+ 
+ 
+Printed in the United States of America 
+ 
+Prepared for 
+U.S. Department of Energy 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+iii 
+ 
+Keywords: PRFT, WAPS, DWPF 
+ 
+Retention: Permanent 
+Characterization of Precipitate Reactor 
+Feed Tank (PRFT) Batches 15, 22, and 26 from the Defense 
+Waste Processing Facility (DWPF) 
+S. C. Hunter 
+ 
+ 
+November 2024 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Savannah River National Laboratory is operated by 
+Battelle Savannah River Alliance for the U.S. Department 
+of Energy under Contract No. 89303321CEM000080.  
+ 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+iv 
+REVIEWS AND APPROVALS 
+ 
+ 
+AUTHORS: 
+ 
+ 
+______________________________________________________________________________ 
+S. C. Hunter, Chemical Flowsheet Development 
+Date 
+ 
+ 
+TECHNICAL REVIEW: 
+ 
+ 
+______________________________________________________________________________ 
+N. T. Morgan, Chemical Flowsheet Development, Reviewed per E7 2.60 
+Date 
+ 
+ 
+APPROVAL: 
+ 
+ 
+______________________________________________________________________________ 
+B. N. Clark, Manager 
+Date 
+Chemical Flowsheet Development 
+ 
+ 
+______________________________________________________________________________ 
+F. M. Pennebaker, Director 
+Date 
+Nuclear & Chemical Processing 
+ 
+ 
+_____________________________________________________________________________ 
+R. M. Hoeppel, Manager 
+Date 
+DWPF Facility Engineering 
+SETH HUNTER (Affiliate)
+Digitally signed by SETH HUNTER (Affiliate) 
+Date: 2024.11.08 15:21:04 -05'00'
+NATHAN MORGAN (Affiliate)
+Digitally signed by NATHAN MORGAN (Affiliate) 
+Date: 2024.11.11 06:58:00 -05'00'
+BRANDI CLARK (Affiliate)
+Digitally signed by BRANDI CLARK (Affiliate) 
+Date: 2024.11.11 14:21:57 -05'00'
+FRANK PENNEBAKER (Affiliate) Digitally signed by FRANK PENNEBAKER (Affiliate) 
+Date: 2024.11.11 17:34:22 -05'00'
+Robert Hoeppel
+Digitally signed by Robert Hoeppel 
+Date: 2024.12.18 15:49:50 -05'00'
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+v 
+ACKNOWLEDGEMENTS 
+ 
+The author would like to acknowledge the Nuclear Measurements group for all radionuclide measurements 
+and Leon Dyers for assistance with all sample digestions. They would also like to thank Shielded Cells 
+management and technician Forrest Probst for help with sample preparation in the Shielded Cells. 
+ 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+vi 
+EXECUTIVE SUMMARY 
+ 
+The Savannah River Site (SRS) Defense Waste Processing Facility (DWPF) processes a Monosodium 
+Titanate/Sludge Solids (MST/SS) waste stream received from the Salt Waste Processing Facility (SWPF) 
+via the Precipitate Reactor Feed Tank (PRFT). During processing, DWPF is required to provide evidence 
+of compliance with the Waste Acceptance Product Specifications (WAPS) to ensure acceptance of their 
+vitrified high-level waste (HLW) into the Civilian Radioactive Waste Management System. Production 
+Records must document the constituents of the MST/SS material in the PRFT from each salt batch (StB) 
+processed at SWPF. Savannah River Mission Completion (SRMC) has requested Savannah River National 
+Laboratory (SRNL) to analyze PRFT samples representing each SWPF salt batch for thirty-two 
+radionuclides.  
+ 
+Additionally, elemental analysis of PRFT slurry and MST/SS solids was performed to aid SRMC in further 
+refinement of the inputs and assumptions used in future frit development and Material Tracking Program 
+calculations.  
+ 
+The analyses of PRFT Batches 15, 22, and 26, which corresponds to material from the processing of StB4, 
+StB5, and StB7, respectively, are reported herein. The unwashed dried solids of the PRFT batches were 
+found to be 86-87% MST. Additionally, the total sulfur values are well below the assumed 982 mg of 
+sulfate/kg of PRFT slurry used in Material Tracking Program calculations. 
+ 
+ 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+vii 
+TABLE OF CONTENTS 
+LIST OF TABLES ..................................................................................................................................... viii 
+LIST OF FIGURES ................................................................................................................................... viii 
+LIST OF ABBREVIATIONS ...................................................................................................................... ix 
+1.0 Introduction ............................................................................................................................................. 1 
+2.0 Experimental Procedure .......................................................................................................................... 2 
+2.1 Transferring and Filtering PRFT Samples .......................................................................................... 2 
+2.2 Wt % Solids and Density..................................................................................................................... 3 
+2.3 Chemical Analyses .............................................................................................................................. 3 
+2.3.1 PRFT Dried Unwashed Solids ...................................................................................................... 3 
+2.3.2 PRFT Slurries ............................................................................................................................... 4 
+2.4 Quality Assurance ............................................................................................................................... 4 
+3.0 Results and Discussion ........................................................................................................................... 4 
+3.1 Density and Weight Percent Solids ..................................................................................................... 4 
+3.2 PRFT Slurry Elemental Composition .................................................................................................. 5 
+3.3 Elemental Composition of the Dried Unwashed Solids ...................................................................... 7 
+3.4 PRFT MST/SS Radionuclide Results .................................................................................................. 9 
+3.5 Slurry and MST/SS Solids Oxide Conversion .................................................................................. 15 
+4.0 Conclusions ........................................................................................................................................... 16 
+5.0 References ............................................................................................................................................. 17 
+Appendix A.  Comparison of Activities between Slurry and Dried Unwashed Solids ICP-MS Data ........ 19 
+Appendix B. Comparison of PRFT Batches to SSRT Composition Estimates .......................................... 20 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+viii 
+LIST OF TABLES 
+Table 3-1. PRFT Sample Densities and Wt % Solids ................................................................................... 5 
+Table 3-2. Elemental Composition of the PRFT Slurry ................................................................................ 6 
+Table 3-3. Estimate of the Amount of MST in the Total Dried Solids ......................................................... 7 
+Table 3-4. Elemental Analysis of Dried Unwashed Solids ........................................................................... 8 
+Table 3-5. Estimate of the Percentage of MST in the Dried Unwashed Solids ............................................ 9 
+Table 3-6. Elemental Composition of the Dried Unwashed Solids with MST Excluded. Elements given are 
+>0.1 wt % in at least one PRFT Batch ................................................................................................... 9 
+Table 3-7. Radionuclide Results for PRFT Batch 15 Dried Unwashed Solids ........................................... 11 
+Table 3-8. Radionuclide Results for PRFT Batch 22 Dried Unwashed Solids ........................................... 12 
+Table 3-9. Radionuclide Results for PRFT Batch 26 Dried Unwashed Solids ........................................... 13 
+Table 3-10. Tc-99 Results Comparison ...................................................................................................... 14 
+Table 3-11. U-235 Enrichment of the PRFT Slurry and StB Unfiltered Salt Solution ............................... 14 
+Table 3-12. Uranium and Plutonium Fissile Isotopes ................................................................................. 15 
+Table 3-13. Oxide Conversion for Elements in PRFT Batches .................................................................. 16 
+ 
+LIST OF FIGURES 
+Figure 2-1. Photographs of PRFT Slurry A) Batch 15, B) Batch 22, and C) Batch 26 ................................ 3 
+ 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+ix 
+LIST OF ABBREVIATIONS 
+ 
+AR 
+Aqua Regia 
+ATFC 
+Analytical and Tank Farm Characterization  
+DMA 
+Direct Mercury Analyzer  
+DWPF 
+Defense Waste Processing Facility  
+HLW 
+High-Level Waste 
+IAEA 
+International Atomic Energy Agency 
+ICP-ES 
+Inductively Coupled Plasma-Emission Spectroscopy 
+ICP-MS 
+Inductively Coupled Plasma-Mass Spectrometry 
+ISS 
+Insoluble Sludge Solids 
+MAR 
+Measurement Acceptance Region 
+MDA 
+Minimum Detectable Activity  
+MST/SS 
+Monosodium Titanate/Sludge Solids 
+n 
+Sample Size 
+NM 
+Nuclear Measurements  
+PF 
+Peroxide Fusion 
+PRFT 
+Precipitate Reactor Feed Tank 
+RSD 
+Relative Standard Deviation 
+SRMC 
+Savannah River Mission Completion 
+SRNL 
+Savannah River National Laboratory 
+SRS 
+Savannah River Site 
+SSRT 
+Sludge Solids Receipt Tank 
+StB 
+Salt Batch 
+SWPF 
+Salt Waste Processing Facility 
+TTQAP 
+Task Technical and Quality Assurance Plan 
+TTR 
+Technical Task Request 
+WAPS 
+Waste Acceptance Product Specifications 
+WQR 
+Waste Form Qualification Report 
+ 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+1 
+1.0 Introduction 
+The Savannah River Site (SRS) Defense Waste Processing Facility (DWPF) processes a Monosodium 
+Titanate/Sludge Solids (MST/SS) waste stream received from the Precipitate Reactor Feed Tank (PRFT) 
+via the Sludge Solids Receipt Tank (SSRT) at the SRS Salt Waste Processing Facility (SWPF). During 
+processing, DWPF is required to provide evidence of compliance with the Waste Acceptance Product 
+Specifications (WAPS)1 to ensure acceptance of their vitrified high-level waste (HLW) into the Civilian 
+Radioactive Waste Management System. This evidence is documented in the form of Production Records 
+for DWPF canistered waste forms. 
+ 
+Production Records must document the constituents of the MST/SS material in the PRFT from each salt 
+batch (StB) processed at SWPF. In accordance with the Waste Form Qualification Report (WQR)2 for glass 
+qualification, all radionuclides with a half-life longer than ten years and a curie concentration within the 
+glass product of at least 0.01% of the total radionuclide activity up to 1,100 years after production must be 
+reported. Within the WQR, a minimum of 30 radionuclides are reportable; however, this list can be 
+expanded or reduced based on the projected curie content. In conjunction with International Atomic Energy 
+Agency (IAEA) requirements, there are also other uranium and plutonium isotopes that must be included 
+in the HLW analyses (e.g., U-235 and U-236). Since titanium is utilized within the MST/SS stream, its 
+elemental analysis is used to determine the dilution factor for the MST/SS radionuclide calculation in the 
+glass product. The analysis of the fissile uranium and plutonium isotopes and elements Fe and Mn (neutron 
+poisons) in the PRFT samples also provides useful nuclear criticality safety data for the calculation of 
+poison-to-fissile ratios in the MST/SS stream. Savannah River Mission Completion (SRMC) has requested 
+Savannah River National Laboratory (SRNL) to analyze PRFT samples on each SWPF salt batch for the 
+following thirty-two radionuclides. 
+ 
+Radionuclides 
+Nickel-59 
+Neptunium-237 
+Nickel-63 
+Plutonium-238 
+Selenium-79 
+Plutonium-239 
+Strontium-90 
+Plutonium-240 
+Zirconium-93 
+Plutonium-241 
+Niobium-93m 
+Plutonium-242 
+Technetium-99 
+Americium-241 
+Tin-126 
+Americium-242m 
+Cesium-137 
+Americium-243 
+Samarium-151 
+Curium-244 
+Thorium-229 
+Curium-245 
+Uranium-233 
+Curium-246 
+Uranium-234 
+Curium-247 
+Uranium-235 
+Curium-248 
+Uranium-236 
+Californium-249 
+Uranium-238 
+Californium-251 
+  
+The analysis of PRFT batches could also aid in further refinement of inputs and assumptions for frit 
+development calculations. Currently, during sludge batch qualification, iterative Measurement Acceptance 
+Region (MAR) assessments are performed based on projected compositions to identify acceptable frits for 
+processing. The composition of insoluble sludge solids (ISS) in the MST/SS stream has not been previously 
+measured during salt batch qualification. Instead, MAR assessments assumed the entrained ISS to be the 
+composition of Sludge Batch 9 (adjusted to remove soluble species).3  
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+2 
+ 
+In Material Tracking Program calculations, the sulfate solubility limit in glass is protected by determining 
+a conservative permissible waste loading based on sample concentrations in sludge and assumed 
+concentrations in the MST/SS stream. While soluble sulfate is measured during salt batch qualification, 
+insoluble sulfur compounds currently are not. Analysis of the as-received PRFT samples, particularly total 
+sulfur, will aid SRMC in refining the assumed sulfate concentration of the MST/SS stream. 
+ 
+SRNL initially received PRFT Batches 15, 22, and 26, which correspond to material from the processing 
+of StB4, StB5, and StB7, respectively. The analysis of PRFT batches corresponding to earlier salt batches 
+will be documented in a future report.  Reported herein are the analyses of the initial received PRFT Batches 
+15, 22, and 26.  
+ 
+2.0 Experimental Procedure 
+2.1 Transferring and Filtering PRFT Samples 
+SRMC pulled PRFT batches 15, 22, and 26 on 04/27/22, 10/29/22, and 02/17/23, respectively. The PRFT 
+samples were received at SRNL on March 2, 2023. The PRFT slurries were transferred from the 200 mL 
+stainless steel dip bottles into 250 mL high density polyethylene bottles. The dip bottles were washed with 
+the supernate of the PRFT samples until there were no visible solids in the dip bottles. The MST/SS solids 
+were collected by filtering a portion of the PRFT slurries through a 0.45 um nylon filter. The MST/SS solids 
+were not washed prior to being dried at 110°C overnight. Photos of the three PRFT slurries, Figure 2-1, 
+were taken after transferring the slurries out of the dip bottles. As can be seen from the images, PRFT Batch 
+26 has a peachy color, compared to the white milky color of the other PRFT batches. The different color is 
+most likely due to the use of a sludge simulant filter aid during the processing of StB7 at SWPF.4  
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+3 
+ 
+Figure 2-1. Photographs of PRFT Slurry A) Batch 15, B) Batch 22, and C) Batch 26 
+  
+2.2 Wt % Solids and Density 
+The slurry densities were determined gravimetrically from sample weights in vessels of known volume. 
+Representative PRFT supernatant samples were obtained by filtering a portion of the slurries through a 0.45 
+um nylon filter. The weight percent total solids and weight percent dissolved solids were determined by 
+drying aliquots of the slurry and filtrate at 110 °C until a constant weight was observed. Weight percent 
+insoluble and soluble solids were calculated using Equation 1 and 2.  
+ 
+𝑊𝑊𝑊𝑊 %𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖=
+(𝑊𝑊𝑊𝑊 %𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡−𝑊𝑊𝑊𝑊 %𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑)
+(100− 𝑊𝑊𝑊𝑊 %𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑)
+× 100% 
+ 
+(1) 
+ 
+𝑊𝑊𝑊𝑊 %𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠= 𝑊𝑊𝑊𝑊 %𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡−𝑊𝑊𝑊𝑊 %𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖 
+ 
+ 
+(2) 
+2.3 Chemical Analyses 
+2.3.1 PRFT Dried Unwashed Solids 
+The PRFT dried unwashed solids were digested, in quadruplicate, by HNO3/HCl (aqua regia, AR)5 with 
+added HF in sealed Teflon vessels. The digested sample was diluted to 100 mL with deionized water. 
+Digested samples were pulled from these dilutions and submitted to Analytical and Tank Farm 
+Characterization (ATFC) for Inductively Coupled Plasma-Emission Spectroscopy (ICP-ES) and 
+A 
+B 
+C 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+4 
+Inductively Coupled Plasma-Mass Spectrometry (ICP-MS). They were also submitted to Nuclear 
+Measurements (NM) for the following methods: gamma counting (Cs-137), Cs-removed gamma counting 
+(Sn-126), Se-79 method (Se-79), Sr-90 method (Sr-90), Ni-59/-63 method (Ni-59 and Ni-63), Pm-147/Sm-
+151 method (Sm-151), Th-229/-230 method (Th-229), Tc-99 method (Tc-99), and Pu-238/-241 Method 
+(Pu-238 and Pu-241). To get better detection limits, dried unwashed MST/SS solids were directly submitted 
+to NM for Am/Cm method (Am-241, Am-242m, Am-243, Cm-244/-245/-246/-247/-248, Cf-249, and Cf-
+251). These methods have been described previously.6 
+ 
+The dried unwashed solids were also digested, in quadruplicate, by NaOH/Na2O2 (peroxide fusion, PF) 
+using Zr crucibles.7 PF digested samples of the dried unwashed solids were diluted with deionized water 
+and samples were submitted to ATFC for ICP-ES analysis. 
+2.3.2 PRFT Slurries 
+The PRFT slurries were digested, in quadruplicate, by AR/HF. The digested sample was diluted to 100 mL 
+with deionized water. Digested samples were pulled from these dilutions and submitted to ATFC for ICP-
+ES, ICP-MS, and Direct Mercury Analysis (DMA). Slurry samples were also digested, in quadruplicate, by 
+PF.7 The slurry samples were diluted to 100 mL with deionized water and submitted to ATFC for ICP-ES 
+analysis.  
+ 
+Co, Nd, Pb, Sb, and U were determined by ICP-MS. Co was calculated from mass 59. Nd was calculated 
+from the sum of masses 143 through 146, 148, and 150. Mass 142 was not included due to the potential 
+interference from Ce-142. Pb was determined from the sum of masses 206, 207, and 208. Sb was determined 
+from the sum of masses 121 and 123. U was calculated from the sum of masses 233-236 and 238.8 
+ 
+The one sigma analytical uncertainty reported by ATFC was 10% for ICP-ES, DMA, and ICP-MS.  
+ 
+2.4 Quality Assurance 
+This work was performed under a Technical Task Request (TTR).9 The analysis herein satisfies all three 
+tasks of the Task Technical and Quality Assurance Plan (TTQAP) associated with this TTR.10 The TTR 
+identifies the radionuclide results (Task 1 of the TTQAP) as waste form affecting and complies with the 
+requirements of RW-0333P. The TTR identifies the Functional Classification as Safety Class. Thus, this 
+document was reviewed by Design Verification by Document Review. The requirements for performing 
+reviews of technical reports and the extent of review are established in manual E7 2.60. SRNL documents 
+the extent and type of review using the SRNL Technical Report Design Checklist contained in WSRC-IM-
+2002-00011, Rev. 2. Data are recorded in the electronic laboratory notebook K7482-00430-29.   
+3.0 Results and Discussion 
+3.1 Density and Weight Percent Solids 
+The slurry densities, as well as the weight percent solids measurements, for the PRFT batches are given in 
+Table 3-1.  
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+5 
+Table 3-1. PRFT Sample Densities and Wt % Solids 
+Property 
+PRFT Batch 15 
+PRFT Batch 22 
+PRFT Batch 26 
+Result 
+% RSD, n 
+Result 
+% RSD, n 
+Result 
+% RSD, n 
+Wt % Total Solids   
+(Slurry Basis) 
+4.14 
+2.0, 4 
+5.04 
+3.9, 4 
+4.86 
+2.4, 4 
+Wt % Dissolved Solids 
+(Supernatant Basis) 
+1.34 
+7.7, 4 
+1.17 
+8.3, 4 
+0.94 
+5.3, 4 
+Wt % Insoluble Solids 
+(Slurry Basis) 
+2.84 
+NA 
+3.92 
+NA 
+3.96 
+NA 
+Wt % Soluble Solids 
+(Supernatant Basis) 
+1.3 
+NA 
+1.12 
+NA 
+0.90 
+NA 
+Slurry Density 
+(g/mL) 
+1.031 
+0.32, 4 
+1.035 
+0.41, 4 
+1.033 
+0.18, 4 
+RSD = relative standard deviation  
+n = sample size 
+3.2 PRFT Slurry Elemental Composition  
+The elemental composition results for the PRFT slurries are given in Table 3-2. The elements were 
+determined from ICP-ES and ICP-MS. Results are given in mg/kg slurry. The data for Al and Si from the 
+PF digestion is reported since some Al and Si species may not be soluble in an AR digestion. Due to the 
+use of Zr crucibles and sodium-containing reagents (NaOH/Na2O2) in PF digestions, both Zr and Na values 
+were determined from the AR/HF digestion. For all other elements quantified by ICP-ES, all digestion 
+results were averaged if the difference in the results from the two digestion methods was 10% or less. If not 
+within 10%, the results are taken from the digestion with the larger values. When all results are below the 
+detection limit, the minimum replicate result is used. The Ca values may be biased high due to Ca in the 
+blank.  For PRFT Batch 15, two of the AR replicates did not have added HF. For those two replicates, only 
+Ti and S had lower values compared to the replicates with added HF. 
+ 
+Titanium and sodium are the predominate elements in the slurry. The reported sulfur, in mg/kg of slurry, 
+for PRFT Batch 15, 22, and 26 is 99.4, 80.4, and 66.9, respectively. If you assume that all the sulfur is from 
+sulfate you would get  298, 241, and 200 mg/kg for PRFT batch 15, 22, and 26. These values are well below 
+the assumed 982 mg/kg of sulfate in the MST/SS stream.11 The values are in line with the DWPF lab’s 
+sulfate values for PRFT batch 15, 22, and 26, which are <579, <580, and <606 ppm.12 The total mercury of 
+PRFT Batch 26 was also determined from the acid-digested slurry using DMA. Run in duplicate, the 
+mercury value obtained was 403 mg/kg of slurry (% RSD = 0.7). 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+6 
+Table 3-2. Elemental Composition of the PRFT Slurry 
+Element 
+PRFT Batch 15 
+PRFT Batch 22 
+PRFT Batch 26 
+mg/kg 
+slurry 
+% RSD, n 
+mg/kg 
+slurry 
+% RSD, n 
+mg/kg 
+slurry 
+% RSD, n 
+Ag 
+<0.077 
+NA 
+<0.077 
+NA 
+<0.077 
+NA 
+Al 
+219 
+3.8, 4 
+162 
+4.2, 4 
+283 
+7.1, 4 
+B 
+<8.78 
+NA 
+<8.78 
+NA 
+<8.78 
+NA 
+Ba 
+10.2 
+4.6, 8 
+12.4 
+1.0, 8 
+14.5 
+1.4, 8 
+Be 
+<0.0505 
+NA 
+<0.0503 
+NA 
+<0.0504 
+NA 
+Ca 
+195 
+2.7, 4 
+197 
+5.3, 4 
+247 
+5.1, 4 
+Cd 
+7.44 
+4.6, 8 
+7.55 
+1.4, 4 
+6.61 
+0.29, 4 
+Ce 
+<0.305 
+NA 
+<0.305 
+NA 
+<0.305 
+NA 
+Co† 
+7.13 
+5.6, 4 
+2.35 
+2.1, 4 
+1.81 
+2.1, 4 
+Cr 
+16.1 
+4.3, 4 
+17.9 
+15, 4 
+16.5 
+26, 4 
+Cu 
+<17.8 
+NA 
+<17.8 
+NA 
+<17.8 
+NA 
+Fe 
+154 
+3.2, 4 
+140 
+8.6, 8 
+479 
+6.6, 8 
+Gd 
+<0.342 
+NA 
+<0.342 
+NA 
+<0.342 
+NA 
+K 
+<26.1 
+NA 
+<26.1 
+NA 
+<26.1 
+NA 
+La 
+<0.291 
+NA 
+<0.291 
+NA 
+<0.291 
+NA 
+Li 
+<61.6 
+NA 
+<61.6 
+NA 
+<61.6 
+NA 
+Mg 
+7.82 
+7.1, 4 
+7.19 
+26, 4 
+6.37 
+2.9, 3 
+Mn 
+5.40 
+4.6, 8 
+2.24 
+3.8, 8 
+42.2 
+1.4, 8 
+Mo 
+<1.76 
+NA 
+<1.76 
+NA 
+<1.76 
+NA 
+Na 
+6558 
+2.3, 4 
+6723 
+0.87, 4 
+6138 
+0.92, 4 
+Nd† 
+< 0.199 
+NA 
+< 0.199 
+NA 
+< 0.199 
+NA 
+Ni 
+19.4 
+4.3, 8 
+20.2 
+5.5, 8 
+50.4 
+1.2, 8 
+P 
+<6.81 
+NA 
+<6.79 
+NA 
+<6.81 
+NA 
+Pb† 
+6.11 
+2.5, 4 
+4.01 
+0.43, 4 
+6.17 
+0.19, 4 
+S 
+99.4 
+0.43, 2 
+80.4 
+2.5, 4 
+66.9 
+2.2, 4 
+Sb† 
+< 0.0398 
+NA 
+< 0.0398 
+NA 
+< 0.0398 
+NA 
+Si 
+<43.9 
+NA 
+<43.9 
+NA 
+<43.9 
+NA 
+Sn 
+<4.89 
+NA 
+<4.88 
+NA 
+<4.89 
+NA 
+Sr 
+4.69 
+3.1, 8 
+3.10 
+4.7, 8 
+4.46 
+3.7, 8 
+Th 
+<5.52 
+NA 
+<5.52 
+NA 
+<5.52 
+NA 
+Ti 
+12200 
+3.7, 6 
+16200 
+2.4, 8 
+16225 
+1.6, 8 
+U* 
+133 
+4.9, 4 
+141 
+1.8, 4 
+129 
+0.4, 4 
+V 
+<2.98 
+NA 
+<2.97 
+NA 
+<2.98 
+NA 
+Zn 
+12.4 
+6.2, 8 
+15.7 
+7.7, 7 
+23.4 
+26, 4 
+Zr 
+4.99 
+9.8, 4 
+6.92 
+0.83, 4 
+6.90 
+0.99, 4 
+† Calculated from MS data for Co: mass 59; Nd: sum of masses 143-146, 148 and 150; Pb: sum of masses 206-208; Sb: sum 
+of masses 121 and 123. 
+* Calculated from MS data for sum of masses 233-236 and 238. U from ICP-ES was very similar for the three batches. 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+7 
+ 
+The relative percentage of MST can be estimated using the titanium values given in Table 3-2 and with the 
+ratio of 0.479 g of Ti/g of MST. Table 3-3 provides these estimates, assuming that all Ti present in the 
+PRFT slurries is from the MST. 
+ 
+Table 3-3. Estimate of the Amount of MST in the Total Dried Solids 
+ 
+PRFT Batch 15 
+PRFT Batch 22 
+PRFT Batch 26 
+MST (%) 
+62 
+67 
+70 
+ 
+3.3 Elemental Composition of the Dried Unwashed Solids 
+The elemental analysis of the MST/SS that were collected on a filter and dried is given in Table 3-4. The 
+majority of the elements in the table are from the ICP-ES data from one or both of the digestions. ICP-MS 
+was used for Co, Pb, Sb, and U as noted in the footnote. As expected, the solids are predominately made 
+up of sodium and titanium from the MST in the solids. There is also a significant amount of aluminum, 
+calcium, and iron. As described above for the PRFT slurries, the amount of iron and titanium can be used 
+to estimate the amount of sludge and MST. Table 3-5 gives the estimate for MST in the dried unwashed 
+solids. The MST estimate can be subtracted from the total unwashed dried solids to give the significant 
+(>0.5 wt %) elemental contributors of the entrained sludge solids. These are given in Table 3-6. It should 
+be noted that all the uranium given in the table may be adsorbed to the MST. The higher amount of Fe and 
+Mn in PRFT batch 26 appears to correlate with the use of a sludge simulant filter aid at SWPF during StB7 
+processing.   
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+8 
+Table 3-4. Elemental Analysis of Dried Unwashed Solids 
+Element 
+PRFT Batch 15 
+PRFT Batch 22 
+PRFT Batch 26 
+Wt % 
+% RSD, n 
+Wt % 
+% RSD, n 
+Wt % 
+% RSD, n 
+Ag 
+< 1.60E-04 
+NA 
+< 1.71E-04 
+NA 
+< 1.64E-04 
+NA 
+Al 
+3.98E-01 
+11, 4 
+2.45E-01 
+17, 4 
+5.95E-01 
+16, 4 
+B 
+< 1.21E-02 
+NA 
+< 1.21E-02 
+NA 
+< 1.21E-02 
+NA 
+Ba 
+3.48E-02 
+3.7, 8 
+3.14E-02 
+4.2, 8 
+3.76E-02 
+10, 8 
+Be 
+< 1.05E-04 
+NA 
+< 1.12E-04 
+NA 
+< 1.07E-04 
+NA 
+Ca 
+2.95E-01 
+4.8, 4 
+2.46E-01 
+5.3, 4 
+3.19E-01 
+3.4, 4 
+Cd 
+2.65E-02 
+4.0, 8 
+1.88E-02 
+5.3, 8 
+1.66E-02 
+9.7, 8 
+Ce 
+< 4.05E-03 
+NA 
+< 4.33E-03 
+NA 
+< 4.14E-03 
+NA 
+Co† 
+2.77E-02 
+1.6, 4 
+5.72E-03 
+3.0, 4 
+4.26E-03 
+2.1, 4 
+Cr 
+3.54E-02 
+2.3, 4 
+2.69E-02 
+5.2, 4 
+2.10E-02 
+1.6, 4 
+Cu 
+2.52E-02 
+11, 4 
+3.04E-02 
+3.5, 4 
+3.10E-02 
+10, 4 
+Fe 
+4.93E-01 
+3.8, 8 
+3.60E-01 
+5.2, 8 
+1.26E+00 
+9.9, 8 
+Gd 
+< 1.61E-03 
+NA 
+< 1.67E-03 
+NA 
+< 1.55E-03 
+NA 
+K 
+< 5.13E-02 
+NA 
+< 5.48E-02 
+NA 
+< 5.24E-02 
+NA 
+La 
+< 5.18E-04 
+NA 
+< 5.54E-04 
+NA 
+< 5.30E-04 
+NA 
+Li 
+< 2.04E-01 
+NA 
+< 2.18E-01 
+NA 
+< 2.09E-01 
+NA 
+Mg 
+2.36E-02 
+2.7, 4 
+1.22E-02 
+7.9, 4 
+1.53E-02 
+13, 4 
+Mn 
+1.84E-02 
+5.3, 8 
+6.62E-03 
+3.0, 4 
+1.07E-01 
+10, 8 
+Mo 
+< 3.66E-03 
+NA 
+< 3.91E-03 
+NA 
+< 3.74E-03 
+NA 
+Na 
+1.08E+01 
+1.4, 4 
+1.03E+01 
+5.5, 4 
+9.82E+00 
+9.2, 4 
+Ni 
+6.65E-02 
+5.3, 8 
+5.19E-02 
+6.0, 8 
+1.32E-01 
+8.9, 8 
+P 
+< 4.11E-02 
+NA 
+< 4.39E-02 
+NA 
+< 4.20E-02 
+NA 
+Pb† 
+2.07E-02 
+2.0, 4 
+1.09E-02 
+18, 4 
+1.52E-02 
+1.2, 4 
+S 
+< 5.37E-02 
+NA 
+< 5.41E-02 
+NA 
+< 5.41E-02 
+NA 
+Sb† 
+< 1.99E-04 
+NA 
+< 2.13E-04 
+NA 
+< 2.03E-04 
+NA 
+Si 
+< 1.02E-01 
+NA 
+< 1.02E-01 
+NA 
+< 1.02E-01 
+NA 
+Sn 
+< 1.47E-02 
+NA 
+< 1.57E-02 
+NA 
+< 1.50E-02 
+NA 
+Sr 
+1.71E-02 
+3.2, 8 
+8.85E-03 
+5.8, 8 
+1.24E-02 
+10, 8 
+Th 
+< 5.10E-02 
+NA 
+< 5.46E-02 
+NA 
+< 5.22E-02 
+NA 
+Ti 
+4.15E+01 
+2.7, 8 
+4.12E+01 
+3.8, 8 
+4.17E+01 
+8.8, 8 
+U* 
+4.50E-01 
+1.9, 4 
+3.50E-01 
+2.4, 4 
+3.28E-01 
+3.4, 4 
+V 
+< 6.19E-03 
+NA 
+< 6.61E-03 
+NA 
+< 6.32E-03 
+NA 
+Zn 
+3.90E-02 
+3.6, 8 
+3.76E-02 
+5.2, 7 
+4.90E-02 
+7.1, 8 
+Zr 
+1.88E-02 
+2.8, 4 
+1.81E-02 
+3.3, 4 
+1.77E-02 
+2.4, 4 
+† Calculated from MS data for Co: mass 59; Pb: sum of masses 206-208; Sb: sum of masses 121 and 123. 
+* Calculated from MS data for sum of masses 233-236 and 238. U from ICP-ES was very similar for the three batches. 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+9 
+ 
+Table 3-5. Estimate of the Percentage of MST in the Dried Unwashed Solids 
+ 
+PRFT Batch 15 
+PRFT Batch 22 
+PRFT Batch 26 
+MST (%) 
+87 
+86 
+87 
+ 
+Table 3-6. Elemental Composition of the Dried Unwashed Solids with MST Excluded. Elements 
+given are >0.1 wt % in at least one PRFT Batch 
+  
+Wt % of Unwashed Dried Solids w/MST Excluded 
+PRFT Batch 15 
+PRFT Batch 22 
+PRFT Batch 26 
+Al 
+3.0 
+1.7 
+4.5 
+Ba 
+0.26 
+0.22 
+0.29 
+Ca 
+2.2 
+1.7 
+2.4 
+Cd 
+0.20 
+0.13 
+0.13 
+Co 
+0.21 
+0.04 
+0.03 
+Cr 
+0.26 
+0.19 
+0.16 
+Cu 
+0.19 
+0.21 
+0.24 
+Fe 
+3.7 
+2.5 
+9.6 
+Mg 
+0.18 
+0.09 
+0.12 
+Mn 
+0.14 
+0.05 
+0.82 
+Na 
+6.42 
+3.29 
+0.00 
+Ni 
+0.49 
+0.37 
+1.01 
+Sr† 
+0.13 
+0.06 
+0.09 
+U† 
+3.3 
+2.5 
+2.5 
+Zn 
+0.29 
+0.27 
+0.37 
+Zr 
+0.14 
+0.13 
+0.14 
+†  Uranium, along with other actinides, and strontium may be adsorbed to the MST solids. 
+3.4 PRFT MST/SS Radionuclide Results  
+The radionuclide compositions of the PRFT Batches 15, 22, and 26 are given in Tables 3-7, 3-8, and 3-9. 
+The tables give the activity in µCi/g of unwashed MST/SS dried solids, the activity in pCi/g of Ti, and the 
+associated relative standard deviation of the replicate analyses for each radionuclide. The percent relative 
+standard deviations are given for quadruplicate analyses unless otherwise indicated. Activity measurements 
+that were below the detection limit of a given technique or calculated do not have an associated relative 
+standard deviation and are marked as ‘NA’ in the tables. The analytical uncertainty and method for each of 
+the radionuclides is also shown. The minimum detectable activity (MDA) is the value above which the 
+instrument signal can be considered quantitative relative to the signal-to-noise ratio. The upper limit is a 
+measurable value above the MDA that is biased high due to spectral interference or blank contamination.  
+ 
+Nb-93m was calculated as previously described using the Zr-93 activity and an estimated waste age of 55 
+years for all three PRFT batches.6 
+ 
+Strontium and most actinides are known to absorb to MST. PRFT Batch 26 has a higher concentration of 
+Sr-90 compared to the other two batches. While this does not take into account heels in the various tanks, 
+the results appear to align with salt batch qualification results where StB7 also has a higher concentration 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+10
+of Sr-90 compared to StB5 and StB4. There does not appear to be a similar relationship between the PRFT 
+batches and their corresponding salt batch for U and Pu radionuclide results. SWPF has recently changed 
+to MST strikes as low as 0.1 g/L; future PRFT batch results could be compared in more detail to StB 
+qualification and Tank 50 data to determine the efficiency of the MST strikes at SWPF.  Additionally, 
+elements such as Am and Zr have the potential to absorb depending on the alkalinity of the solution and 
+solubility.13,14 Cesium and technetium would not be expected to absorb to MST. The cesium activity is 
+likely from residual supernate that remained as interstitial liquid. 
+ 
+ 
+The Tc-99 activity can also be calculated from mass-99 in the ICP-MS data. A comparison of the Tc-99 
+activity from the two measurements on the dried unwashed solids (Tc-99 method and ICP-MS) and the 
+slurry value from ICP-MS is given in Table 3-10. Both measurements from the solids for all three PRFT 
+batches are below the detection limit while the slurry activity is not, which suggests that Tc-99 in the PRFT 
+is predominately in the supernate.  
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+11
+Table 3-7. Radionuclide Results for PRFT Batch 15 Dried Unwashed Solids 
+Radionuclides 
+µCi/g of 
+Dried 
+Solids* 
+pCi/g of Ti 
+% RSD 
+Analytical % 
+Uncertainty 
+Method 
+Ni-59 
+< 2.25E-02 
+< 5.43E+04 
+NA 
+MDA 
+Ni-59/Ni-63 
+Ni-63 
+< 2.42E-02 
+< 5.83E+04 
+NA 
+Upper Limit 
+Ni-59/Ni-63 
+Se-79 
+<3.17E-03 
+<7.63E+03 
+NA 
+MDA 
+Se-79 
+Sr-90 
+1.15E+03 
+2.76E+09 
+4.2, 4 
+15% 
+Sr-90 
+Zr-93 
+7.31E-02 
+1.76E+05 
+2.6, 4 
+10% 
+ICP-MS 
+Nb-93m 
+6.42E-02 
+1.55E+05 
+NA 
+NA 
+Calculated 
+Tc-99 
+<6.44E-03 
+<1.55E+04 
+NA 
+MDA 
+Tc-99 
+Sn-126 
+< 1.11E-01 
+< 2.67E+05 
+NA 
+MDA 
+Cs-removed Gamma Scan 
+Cs-137 
+4.83E+02 
+1.16E+09 
+2.3, 4 
+5.0% 
+Gamma Scan 
+Sm-151 
+< 2.59E-02 
+< 6.23E+04 
+NA 
+Upper Limit 
+Pm-147/Sm-151 
+Th-229† 
+1.63E-05 
+3.92E+01 
+NA 
+24% 
+Th-229/230 
+U-233 
+2.25E-02 
+5.43E+04 
+3.3, 4 
+10% 
+ICP-MS 
+U-234 
+8.64E-02 
+2.08E+05 
+2.7, 4 
+10% 
+ICP-MS 
+U-235 
+2.41E-04 
+5.81E+02 
+2.9, 4 
+10% 
+ICP-MS 
+U-236 
+1.39E-03 
+3.35E+03 
+3.0, 4 
+10% 
+ICP-MS 
+U-238 
+1.46E-03 
+3.52E+03 
+1.8, 4 
+10% 
+ICP-MS 
+Np-237 
+7.75E-03 
+1.87E+04 
+3.1, 4 
+10% 
+ICP-MS 
+Pu-238 
+7.00E+01 
+1.69E+08 
+3.4, 4 
+4.7% 
+Pu-238/241 
+Pu-239 
+1.49E+00 
+3.60E+06 
+3.5, 4 
+10% 
+ICP-MS 
+Pu-240 
+7.79E-01 
+1.88E+06 
+3.0, 4 
+10% 
+ICP-MS 
+Pu-241 
+2.55E+01 
+6.15E+07 
+2.8, 4 
+15% 
+Pu-238/241 
+Pu-242 
+<2.37E-03 
+<5.71E+03 
+NA 
+MDA 
+ICP-MS 
+Am-241 
+1.02E-01 
+2.45E+05 
+6.6, 4 
+5.7% 
+AM/CM 
+Am-242m 
+< 2.25E-04 
+< 5.42E+02 
+NA 
+MDA 
+AM/CM 
+Am-243 
+< 1.12E-03 
+< 2.70E+03 
+NA 
+MDA 
+AM/CM 
+Cm-244 
+9.22E-03 
+2.22E+04 
+16, 4 
+12% 
+AM/CM 
+Cm-245 
+< 1.53E-03 
+< 3.69E+03 
+NA 
+MDA 
+AM/CM 
+Cm-246 
+< 5.86E-06 
+< 1.41E+01 
+NA 
+Upper Limit 
+AM/CM 
+Cm-247 
+< 2.50E-04 
+< 6.02E+02 
+NA 
+MDA 
+AM/CM 
+Cm-248 
+< 3.28E-07 
+< 7.90E-01 
+NA 
+Upper Limit 
+AM/CM 
+Cf-249 
+< 2.77E-04 
+< 6.66E+02 
+NA 
+MDA 
+AM/CM 
+Cf-251 
+< 1.60E-03 
+< 3.85E+03 
+NA 
+MDA 
+AM/CM 
+* Less than values represent the minimum detection limit value.  † Th-229 only one of four replicates was above 
+detection limit.  
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+12
+Table 3-8. Radionuclide Results for PRFT Batch 22 Dried Unwashed Solids 
+Radionuclides 
+µCi/g of 
+dried 
+Solids* 
+pCi/g of Ti 
+% RSD 
+Analytical % 
+Uncertainty 
+Method 
+Ni-59 
+< 1.24E-02 
+< 3.01E+04 
+NA 
+MDA 
+Ni-59/Ni-63 
+Ni-63 
+< 1.85E-02 
+< 4.50E+04 
+NA 
+Upper Limit 
+Ni-59/Ni-63 
+Se-79 
+<3.42E-03 
+<8.31E+03 
+NA 
+MDA 
+Se-79 
+Sr-90 
+1.31E+03 
+3.17E+09 
+8.2, 4 
+15% 
+Sr-90 
+Zr-93 
+6.93E-02 
+1.68E+05 
+3.3, 4 
+10% 
+ICP-MS 
+Nb-93m 
+6.09E-02 
+1.48E+05 
+NA 
+NA 
+Calculated 
+Tc-99 
+<6.13E-03 
+<1.49E+04 
+NA 
+MDA 
+Tc-99 
+Sn-126 
+< 1.25E-01 
+< 3.03E+05 
+NA 
+MDA 
+Cs-removed Gamma Scan 
+Cs-137 
+1.13E+02 
+2.74E+08 
+5.8, 4 
+5% 
+Gamma Scan 
+Sm-151 
+< 2.69E-02 
+< 6.54E+04 
+NA 
+Upper Limit  
+Pm-147/Sm-151 
+Th-229 
+< 1.63E-05 
+< 3.95E+01 
+NA 
+MDA 
+Th-229/230 
+U-233 
+2.03E-02 
+4.94E+04 
+3.9, 4 
+10% 
+ICP-MS 
+U-234 
+9.21E-02 
+2.24E+05 
+4.1, 4 
+10% 
+ICP-MS 
+U-235 
+2.20E-04 
+5.34E+02 
+3.9, 4 
+10% 
+ICP-MS 
+U-236 
+1.26E-03 
+3.06E+03 
+3.8, 4 
+10% 
+ICP-MS 
+U-238 
+1.13E-03 
+2.75E+03 
+2.4, 4 
+10% 
+ICP-MS 
+Np-237 
+9.47E-03 
+2.30E+04 
+4.1, 4 
+10% 
+ICP-MS 
+Pu-238 
+8.27E+01 
+2.01E+08 
+2.7, 4 
+5% 
+Pu-238/241 
+Pu-239 
+1.46E+00 
+3.56E+06 
+3.4, 4 
+10% 
+ICP-MS 
+Pu-240 
+8.29E-01 
+2.02E+06 
+4.1, 4 
+10% 
+ICP-MS 
+Pu-241 
+3.07E+01 
+7.46E+07 
+4.4, 4 
+15% 
+Pu-238/241 
+Pu-242 
+< 2.50E-03 
+< 6.06E+03 
+NA 
+MDA 
+ICP-MS 
+Am-241 
+9.00E-02 
+2.19E+05 
+13, 4 
+6.9% 
+AM/CM 
+Am-242m 
+< 1.99E-04 
+< 4.83E+02 
+NA 
+MDA 
+AM/CM 
+Am-243 
+2.40E-03 
+5.82E+03 
+38, 4 
+22% 
+AM/CM 
+Cm-244 
+3.97E-03 
+9.65E+03 
+9.2, 4 
+16% 
+AM/CM 
+Cm-245 
+< 1.65E-03 
+< 4.01E+03 
+NA 
+MDA 
+AM/CM 
+Cm-246 
+< 4.00E-06 
+< 9.72E+00 
+NA 
+Upper Limit 
+AM/CM 
+Cm-247 
+< 2.64E-04 
+< 6.41E+02 
+NA 
+MDA 
+AM/CM 
+Cm-248 
+< 3.23E-07 
+< 7.84E-01 
+NA 
+Upper Limit 
+AM/CM 
+Cf-249 
+< 2.93E-04 
+< 7.12E+02 
+NA 
+MDA 
+AM/CM 
+Cf-251 
+< 1.58E-03 
+< 3.84E+03 
+NA 
+MDA 
+AM/CM 
+* Less than values represent the minimum detection limit value. 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+13
+Table 3-9. Radionuclide Results for PRFT Batch 26 Dried Unwashed Solids 
+Radionuclides 
+µCi/g of 
+dried Solids* 
+pCi/g of Ti 
+% RSD 
+Analytical % 
+Uncertainty 
+Method 
+Ni-59 
+< 1.11E-02 
+< 2.66E+04 
+NA 
+MDA 
+Ni-59/Ni-63 
+Ni-63 
+< 2.08E-02 
+< 4.98E+04 
+NA 
+Upper Limit 
+Ni-59/Ni-63 
+Se-79 
+<3.30E-03 
+<7.91E+03 
+NA 
+MDA 
+Se-79 
+Sr-90 
+1.78E+03 
+4.27E+09 
+9.5, 4 
+15% 
+Sr-90 
+Zr-93 
+6.67E-02 
+1.60E+05 
+1.8, 4 
+10% 
+ICP-MS 
+Nb-93m 
+5.87E-02 
+1.41E+05 
+NA 
+NA 
+Calculated 
+Tc-99 
+<5.59E-03 
+<1.34E+04 
+NA 
+MDA 
+Tc-99 
+Sn-126 
+< 1.33E-01 
+< 3.19E+05 
+NA 
+MDA 
+Cs-removed Gamma Scan 
+Cs-137 
+9.61E+01 
+2.31E+08 
+2.2, 4 
+5% 
+Gamma Scan 
+Sm-151 
+< 3.44E-02 
+< 8.26E+04 
+NA 
+Upper Limit 
+Pm-147/Sm-151 
+Th-229 
+< 1.91E-05 
+< 4.58E+01 
+NA 
+MDA 
+Th-229/230 
+U-233 
+2.06E-02 
+4.94E+04 
+3.7, 4 
+10% 
+ICP-MS 
+U-234 
+1.03E-01 
+2.47E+05 
+1.9, 4 
+10% 
+ICP-MS 
+U-235 
+1.97E-04 
+4.73E+02 
+2, 4 
+10% 
+ICP-MS 
+U-236 
+1.26E-03 
+3.03E+03 
+2.4, 4 
+10% 
+ICP-MS 
+U-238 
+1.06E-03 
+2.54E+03 
+3.5, 4 
+10% 
+ICP-MS 
+Np-237 
+9.22E-03 
+2.21E+04 
+2.6, 4 
+10% 
+ICP-MS 
+Pu-238 
+1.02E+02 
+2.45E+08 
+4.4 4 
+5% 
+Pu-238/241 
+Pu-239 
+1.56E+00 
+3.76E+06 
+1.8, 4 
+10% 
+ICP-MS 
+Pu-240 
+9.26E-01 
+2.22E+06 
+2.4, 4 
+10% 
+ICP-MS 
+Pu-241 
+3.53E+01 
+8.47E+07 
+6.2, 4 
+15% 
+Pu-238/241 
+Pu-242 
+< 2.32E-03 
+< 5.57E+03 
+NA 
+MDA 
+ICP-MS 
+Am-241 
+6.67E-02 
+1.60E+05 
+7.9, 4 
+5.5% 
+AM/CM 
+Am-242m 
+< 1.37E-04 
+< 3.29E+02 
+NA 
+MDA 
+AM/CM 
+Am-243 
+< 4.91E-04 
+< 1.18E+03 
+NA 
+MDA 
+AM/CM 
+Cm-244 
+1.86E-03 
+4.45E+03 
+16, 4 
+20% 
+AM/CM 
+Cm-245 
+< 7.25E-04 
+< 1.74E+03 
+NA 
+MDA 
+AM/CM 
+Cm-246 
+< 1.78E-06 
+< 4.28E+00 
+NA 
+Upper Limit 
+AM/CM 
+Cm-247 
+< 1.19E-04 
+< 2.85E+02 
+NA 
+MDA 
+AM/CM 
+Cm-248 
+< 2.17E-07 
+< 5.20E-01 
+NA 
+Upper Limit 
+AM/CM 
+Cf-249 
+< 1.32E-04 
+< 3.18E+02 
+NA 
+MDA 
+AM/CM 
+Cf-251 
+< 7.66E-04 
+< 1.84E+03 
+NA 
+MDA 
+AM/CM 
+* Less than values represent the minimum detection limit value. 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+14
+Table 3-10. Tc-99 Results Comparison  
+Analytical 
+Method 
+Tc-99 in (pCi/g of Ti) 
+Tc-99 
+(Solids) 
+ICP-MS 
+(Solids) 
+ICP-MS 
+(Slurry) 
+PRFT Batch 15 
+<1.55E+04 
+<1.27E+04 
+7.52E+04 
+PRFT Batch 22 
+<1.49E+04 
+<1.35E+04 
+4.63E+04 
+PRFT Batch 26 
+<1.34E+04 
+<1.24E+04 
+3.87E+04 
+ 
+The U-235 enrichment is calculated using the following method documented in the DWPF Waste 
+Acceptance Criteria:15  
+ 
+𝑈𝑈−235 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸ℎ𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚 (𝑊𝑊𝑊𝑊 %) = 100 × ൫𝑈𝑈−235 + 1.4(𝑈𝑈−233)൯/𝑈𝑈        (3) 
+ 
+where U is the summation of all uranium isotopes (U-233, U-234, U-235, U-236, U-238) and an analytical 
+uncertainty of 2 sigma is accounted for in sample analysis. The U-235 enrichment of the MST/SS slurries 
+is shown in Table 3-11, along with the enrichment values calculated by SRMC for StB 4, 5, and 7. There 
+are slight differences between the PRFT enrichment values and the salt batch enrichment values which may 
+be due to the unaccounted heels in the various tanks. 
+ 
+Table 3-11. U-235 Enrichment of the PRFT Slurry and StB Unfiltered Salt Solution 
+Sample 
+U-235 Enrichment 
+PRFT Batch 15 
+2.55% 
+StB 4 
+3.28% 
+PRFT Batch 22 
+2.93% 
+StB 5 
+2.43% 
+PRFT Batch 26 
+2.83% 
+StB 7 
+3.36% 
+ 
+ 
+The uranium and plutonium fissile isotopes are given in Table 3-12, in units of wt % total solids and 
+microcuries per gram of total solids. These values are from ICP-MS of the acid digested slurries, except for 
+Pu-241. The Pu-241 value is from the Pu-238/-241 method on the acid digestion of the PRFT dried 
+unwashed solids. The Pu-241 value was converted to a slurry basis under the assumption that all the Ti 
+within the PRFT slurry is in the insoluble MST/SS. 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+15
+Table 3-12. Uranium and Plutonium Fissile Isotopes 
+ 
+PRFT Batch 15 
+PRFT Batch 22 
+PRFT Batch 26 
+U-233 
+Wt % Total Solids (% RSD) 
+1.63E-04 (5.2) 
+1.66E-04 (1.6) 
+1.73E-04 (1.5) 
+μCi/g of Total Solids 
+1.58E-02 
+1.61E-02 
+1.68E-02 
+U-235 
+Wt % Total Solids (% RSD) 
+7.52E-03 (2.7) 
+7.74E-03 (1.5) 
+7.14E-03 (0.7) 
+μCi/g of Total Solids 
+1.63E-04 
+1.67E-04 
+1.54E-04 
+Pu-239 
+Wt % Total Solids (% RSD) 
+1.67E-03 (8.5) 
+1.85E-03 (1.5) 
+2.14E-03 (0.9) 
+μCi/g of Total Solids 
+1.04E+00 
+1.15E+00 
+1.33E+00 
+Pu-241 
+Wt % Total Solids (% RSD) 
+1.76E-05 (2.8) 
+2.33E-05 (4.4) 
+2.74E-05 (6.2) 
+μCi/g of Total Solids 
+1.81E+01 
+2.40E+01 
+2.83E+01 
+ 
+ 
+3.5 Slurry and MST/SS Solids Oxide Conversion 
+A wt  % calcined solids can be calculated16 for the three PRFT Batches. The elements detected at greater 
+than 0.01 wt % in the slurry can be converted to oxides and summed, as shown in Table 3-13. In this 
+calculation, it is assumed that these elements are converted to oxides and all mercury and anions such as 
+nitrite, nitrate, and hydroxide are driven off in the calcining process. Therefore, this sum represents the 
+mass of oxides (calcined solids) in 100 g of total dried solids. The sum was then used to calculate the wt % 
+calcined solids (slurry basis). For PRFT Batch 15, the calculated wt % calcined solids is larger than the 
+wt % insoluble solids. This appears to be due to the amount of sodium in the supernate; only ~45% of the 
+sodium in the slurry is from MST for PRFT Batch 15. In comparison, for PRFT Batch 22 and 26, about 
+60% of the sodium is from MST. 
+ 
+The oxide results can be normalized and compared to current SSRT estimates17 used in MAR assessments 
+as shown in Appendix B. The ISS values from the PRFT batches are well below the SSRT 600 mg/L ISS 
+estimate composition used, while the TiO2 wt % of the SSRT composition estimates are lower than that of 
+the PRFT batches. PRFT Batches 15, 22, and 26 are from salt batches that were processed with 0.4 g/L 
+MST strikes at SWPF. SWPF has since switched to MST strikes as low as 0.1 g/L. Current results should 
+be compared to PRFT batches post SWPF change to lower MST. 
+  
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+16
+Table 3-13. Oxide Conversion for Elements in PRFT Batches 
+Element 
+Oxide 
+Oxide Conversion 
+Oxide (Wt % of Total Solids) 
+Batch 15 
+Batch 22 
+Batch 26 
+Al 
+Al2O3 
+1.8895 
+0.997 
+0.607 
+1.10 
+Ba 
+BaO 
+1.1165 
+0.0274 
+0.0274 
+0.0333 
+Ca 
+CaO 
+1.3992 
+0.660 
+0.547 
+0.710 
+Cd 
+CdO 
+1.1423 
+0.0205 
+0.0171 
+0.0155 
+Cr 
+Cr2O3 
+1.4616 
+0.0567 
+0.0518 
+0.0497 
+Fe 
+Fe2O3 
+1.4297 
+0.530 
+0.396 
+1.41 
+Mg 
+MgO 
+1.6583 
+0.0313 
+0.0236 
+0.0217 
+Mn 
+MnO 
+1.2912 
+0.0168 
+0.00574 
+0.112 
+Na 
+Na2O 
+1.348 
+21.4 
+18.0 
+17.0 
+Ni 
+NiO 
+1.2726 
+0.0596 
+0.0510 
+0.132 
+S 
+SO4 
+2.9959 
+0.476 
+0.478 
+0.412 
+Sr 
+SrO 
+1.1826 
+0.0134 
+0.00728 
+0.0109 
+Ti 
+TiO2 
+1.6685 
+49.2 
+53.6 
+55.7 
+U 
+U3O8 
+1.1792 
+0.377 
+0.333 
+0.319 
+Zn 
+ZnO 
+1.2447 
+0.0373 
+0.0387 
+0.0599 
+Zr 
+ZrO2 
+1.3507 
+0.0163 
+0.0185 
+0.0192 
+ 
+Sum* 
+73.8 
+74.2 
+77.1 
+Wt % Calcined  
+Solids (Slurry Basis) 
+3.06 
+3.74 
+3.75 
+* The Sum represents the wt % calcined solids in the total solids. The wt % calcined solids (slurry basis), is calculated 
+by multiplying the sum by the wt % total solids. 
+4.0 Conclusions 
+SRNL was tasked with the analyses of PRFT Batches 15, 22, and 26, which corresponds to material from 
+the processing of StB4, StB5, and StB7, respectively. The elemental composition of the slurry and 
+unwashed dried solids and the activity of the requested thirty-two radionuclides have been reported. The 
+unwashed dried solids of the PRFT batches were found to be 86-87% MST. Additionally, the total sulfur 
+values are well below the assumed 982 mg of sulfate/kg of PRFT slurry used in Material Tracking Program 
+calculations. 
+ 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+17
+5.0 References 
+ 
+1. 
+Waste Acceptance Product Specifications for Vitrified High-Level Waste Forms; DOE/EM-0093, 
+Rev. 2; Department of Energy - Office of Environmental Management: 1996. 
+ 
+2. 
+Ray, J. W.; Culbertson, B. H.; Edwards, T. B.; Bibler, N. E.; Marra, S. L. Reporting the 
+Radionuclide Inventory of the DWPF Product; WSRC-IM-91-116-4, Rev. 4; 2018. 
+ 
+3. 
+Johnson, F. C. Measurement Acceptance Region (MAR) Assessment Results Based on Confirmation 
+Sample Sludge Batch 10 Projections; SRNL-STI-2022-00647, Rev. 0; Savannah River National 
+Laboratory: Aiken, SC, 2023. 
+ 
+4. 
+Silker, A. I.; Fogelman, P. E. Impact Evaluation of Sludge Simulant in the Monosodium 
+Titanate/Sludge Solids Stream on Processability at the Defense Waste Processing Facility; SRMC-
+WSE-2022-00022, Rev. 0; Savannah River Mission Completion: Aiken, SC, 2022. 
+ 
+5. 
+Aqua Regia Dissolution of Sludge for Elemental Analysis; Manual L16.1, Procedure ADS-2226, 
+Rev. 10; Savannah River National Laboratory: Aiken, SC, 2013. 
+ 
+6. 
+Trivelpiece, C. L.; Kubilius, W. P.; Diprete, D. P. Determination of Reportable Radionuclides for 
+Defense Waste Processing Facility (DWPF) Sludge Batch 9 (Macrobatch 11); SRNL-STI-2018-
+00680, Rev. 0; Savannah River National Laboratory: Aiken, SC, 2019. 
+ 
+7. 
+Alkali Fusion Dissolutions of Sludge and Glass for Elemental and Anion Analysis; Manual L16.1, 
+Procedure ADS-2502, Rev. 7; Savannah River National Laboratory: Aiken, SC, 2013. 
+ 
+8. 
+Pareizs, J. M.; Siegfried, M. J.; Martino, C. J.; Williams, M. S.; Stanfield, A. N.; Johnson, F. C.; 
+Crawford, C. L. Radioactive Waste Sludge Washing and Demonstration of the Nitric-Glycolic Acid 
+Flowsheet for Sludge Batch 10 Qualification; SRNL-STI-2022-00255, Rev. 0; Savannah River 
+National Laboratory: Aiken, SC, 2022. 
+ 
+9. 
+Baxter, D. J. Analysis of DWPF PRFT Samples; X-TTR-S-00090, Rev. 2; Savannah River Mission 
+Completion: Aiken, SC, 2021. 
+ 
+10. 
+Hunter, S. C. Task Technical and Quality Assurance Plan for the Analysis of DWPF Precipitate 
+Reactor Feed Tank (PRFT) Samples; SRNL-RP-2022-00295, Rev. 1; Savannah River National 
+Laboratory: Aiken, SC, 2023. 
+ 
+11. 
+Salt Batch 6 and 7 Compliance with Material Tracking Program, Corrosive Species Evaluation, 
+and Evaluating SE Additions at a Reduced Cs-137 Ci/gal; X-CLC-S-00457, Rev. 7; 2023. 
+ 
+12. 
+PRFT-1, Sample ID # 200029410, 200030224, and 200030688. 
+ 
+13. 
+Hobbs, D. T.; Clearfield, A.; Visser, A. E.; Bridges, N. J. Minor Actinide Separations Using Ion 
+Exchangers or Ionic Liquids; SRNL-STI-2011-00554, Rev. 0; Savannah River National 
+Laboratory: Aiken, SC, 2011. 
+ 
+14. 
+Evington, M. C.; Click, D. R.; Hobbs, D. T., Sorption Behavior of Monosodium Titanate and 
+Amorphous Peroxotitanate Materials Under Weakly Acidic Conditions. Separation Science and 
+Technology 2009, 45 (1), 66-72. 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+18
+ 
+15. 
+Ray, J. W. Waste Acceptance Criteria For Raw Salt Solution, Sludge, and SWPF Salt Streams 
+Transfers to DWPF; X-SD-S-00001, Rev. 9; 2024. 
+ 
+16. 
+Pareizs, J. M. Analytical Results of the Tank 51H Sludge Batch 9 Qualification Sample (HTF-51-
+15-81); SRNL-L3100-2015-00142, Rev. 0; Savannah River National Laboratory: Aiken, SC, 2015. 
+ 
+17. 
+Stone, M. E. SSRT Effluent Composition Estimate for SB9/10 MAR Assessments; SRNL-L3300-
+2018-00063, Rev. 1; Savannah River National Laboratory: Aiken, SC, 2018. 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+19
+Appendix A.  Comparison of Activities between Slurry and Dried Unwashed Solids ICP-MS Data 
+ 
+Radionuclide 
+PRFT Batch 15 in pCi/g of Ti 
+PRFT Batch 22 in pCi/g of Ti 
+PRFT Batch 26 in pCi/g of Ti 
+Slurry 
+(%RSD) 
+Solids 
+(%RSD) 
+% Dif. 
+Slurry 
+(%RSD) 
+Solids 
+(%RSD) 
+% Dif 
+Slurry 
+(%RSD) 
+Solids 
+(%RSD) 
+% Dif 
+Zr-93 
+1.65E+05 
+(20) 
+1.76E+05 
+(2.6) 
+6.6 
+1.72E+05 
+(1.3) 
+1.68E+05 
+(3.3) 
+1.9 
+1.65E+05 
+(0.7) 
+1.60E+05 
+(1.8) 
+2.7 
+U-233 
+5.37E+04 
+(5.2) 
+5.43E+04 
+(3.3) 
+1.1 
+5.01E+04 
+(1.6) 
+4.94E+04 
+(3.9) 
+1.3 
+5.03E+04 
+(1.5) 
+4.94E+04 
+(3.7) 
+1.7 
+U-234 
+2.02E+05 
+(2.8) 
+2.08E+05 
+(2.7) 
+3.1 
+2.21E+05 
+(1.0) 
+2.24E+05 
+(4.1) 
+1.2 
+2.48E+05 
+(0.2) 
+2.47E+05 
+(1.9) 
+0.5 
+U-235 
+5.52E+02 
+(2.7) 
+5.81E+02 
+(2.9) 
+5.2 
+5.21E+02 
+(1.5) 
+5.34E+02 
+(3.9) 
+2.5 
+4.62E+02 
+(0.7) 
+4.73E+02 
+(2.0) 
+2.3 
+U-236 
+3.27E+03 
+(3.7) 
+3.35E+03 
+(3.0) 
+2.3 
+3.03E+03 
+(1.1) 
+3.06E+03 
+(3.8) 
+1.1 
+3.05E+03 
+(0.8) 
+3.03E+03 
+(2.4) 
+0.5 
+Np-237 
+1.82E+04 
+(4.5) 
+1.87E+04 
+(3.1) 
+2.8 
+2.25E+04 
+(1.5) 
+2.30E+04 
+(4.1) 
+2.3 
+2.18E+04 
+(0.7) 
+2.21E+04 
+(2.6) 
+1.4 
+U-238 
+3.54E+03 
+(4.9) 
+3.52E+03 
+(1.8) 
+0.6 
+2.82E+03 
+(1.8) 
+2.75E+03 
+(2.4) 
+2.7 
+2.57E+03 
+(0.4) 
+2.54E+03 
+(3.5) 
+0.8 
+Pu-239 
+3.52E+06 
+(8.5) 
+3.60E+06 
+(3.5) 
+2.2 
+3.57E+06 
+(1.5) 
+3.56E+06 
+(3.4) 
+0.4 
+3.99E+06 
+(0.9) 
+3.76E+06 
+(1.8) 
+5.9 
+Pu-240 
+1.80E+06 
+(4.9) 
+1.88E+06 
+(3.0) 
+3.9 
+1.98E+06 
+(0.8) 
+2.02E+06 
+(4.1) 
+1.8 
+2.24E+06 
+(1.3) 
+2.22E+06 
+(2.4) 
+0.8 
+ 
+ 
+ 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+20
+Appendix B. Comparison of PRFT Batches to SSRT Composition Estimates 
+ 
+Oxide 
+Concentration (Wt %) 
+15* 
+22* 
+26* 
+SSRT Baseline 
+SSRT w/ 600 mg/L ISS 
+Al2O3 
+1.35 
+0.82 
+1.43 
+4.74 
+15.63 
+BaO 
+0.04 
+0.04 
+0.04 
+- 
+- 
+CaO 
+0.89 
+0.74 
+0.92 
+- 
+1.15 
+CdO 
+0.03 
+0.02 
+0.02 
+- 
+- 
+Ce2O3 
+- 
+- 
+- 
+- 
+0.17 
+Cs2O 
+- 
+- 
+- 
+0.02 
+0.01 
+Cr2O3 
+0.08 
+0.07 
+0.06 
+- 
+- 
+Fe2O3 
+0.72 
+0.53 
+1.83 
+- 
+20.31 
+K2O 
+- 
+- 
+- 
+0.51 
+0.24 
+MgO 
+0.04 
+0.03 
+0.03 
+- 
+0.29 
+MnO 
+0.02 
+0.01 
+0.15 
+- 
+7.37 
+Na2O 
+28.92 
+24.23 
+22.07 
+46.31 
+22.44 
+NiO 
+0.08 
+0.07 
+0.17 
+- 
+0.78 
+P2O5 
+- 
+- 
+- 
+- 
+0.37 
+SiO2 
+- 
+- 
+- 
+- 
+2.95 
+SO4 
+0.64 
+0.64 
+0.53 
+0.25 
+1.34 
+SrO 
+0.02 
+0.01 
+0.01 
+- 
+- 
+ThO2 
+- 
+- 
+- 
+- 
+0.71 
+TiO2 
+66.59 
+72.27 
+72.22 
+48.17 
+23.34 
+U3O8 
+0.51 
+0.45 
+0.41 
+- 
+2.91 
+ZnO 
+0.05 
+0.05 
+0.08 
+- 
+- 
+ZrO2 
+0.02 
+0.02 
+0.02 
+- 
+- 
+* Ce, K, P, Si, and Th were below detection in the PRFT slurries by ICP-AES and were not included in the oxide conversion. 
+SRNL-STI-2024-00255 
+Revision 0 
+ 
+Distribution:  
+ 
+ 
+William.bates@srnl.doe.gov 
+Donna.Byrdy@srnl.doe.gov 
+Brandi.clark@srnl.doe.gov 
+georgiaanne.craig@srnl.doe.gov 
+marion.cofer@srnl.doe.gov 
+Vanessa.cofer@srnl.doe.gov 
+alex.cozzi@srnl.doe.gov 
+c.diprete@srnl.doe.gov 
+David.diprete@srnl.doe.gov 
+connie.herman@srnl.doe.gov 
+sarah.hodges@srnl.doe.gov 
+Charles.James@SRNL.DOE.GOV 
+brady.lee@srnl.doe.gov 
+kalyn.loudermilk@srnl.doe.gov  
+Heather.Capogreco@srnl.doe.gov  
+Joseph.Manna@srnl.doe.gov 
+Gregg.Morgan@srnl.doe.gov 
+frank.pennebaker@srnl.doe.gov 
+Amy.Ramsey@srnl.doe.gov 
+William.Ramsey@srnl.doe.gov 
+eric.skidmore@srnl.doe.gov 
+michael.stone@srnl.doe.gov 
+boyd.Wiedenman@srnl.doe.gov 
+Mary.whitehead@srnl.doe.gov 
+Morgana.whiteside@srnl.doe.gov 
+Jennifer.Wohlwend@srnl.doe.gov 
+Records Administration (EDWS) 
+jeffrey.crenshaw@srs.gov  
+james.folk@srs.gov 
+timothy.littleton@srs.gov 
+tony.polk@srs.gov 
+Anthony.Robinson@srs.gov 
+Joseph.smith@srs.gov 
+thomas.temple@srs.gov 
+Vijay.Jain@srs.gov 
+Crystal.Currie@srnl.doe.gov  
+Azadeh.Samadi-Dezfouli@srs.gov 
+jeff.ray@srs.gov 
+Ryan.Lentsch@srs.gov 
+matthew02.sims@srs.gov 
+terri.fellinger@srs.gov 
+Joseph.fields@srs.gov 
+robert.hoeppel@srs.gov 
+Thomas.Huff@srs.gov 
+bill.holtzscheiter@srs.gov 
+Fabienne.Johnson@srnl.doe.gov 
+Jeremiah.Ledbetter@srs.gov 
+chris.martino@srnl.doe.gov 
+aubrey.silker@srs.gov 
+spencer.isom@srs.gov 
+kirk.russell@srs.gov 
+ryan.mcnew@srs.gov 
+phoebe.fogelman@srs.gov 
+matthew.siegfried@srnl.doe.gov 
+donna.yarbrough@srs.gov 
+shannon.strong@srs.gov 
+melany.mini@srs.gov 
+daniel.tenpenny@srs.gov 
+nathan.morgan@srnl.doe.gov 
+Stephanie.harrington@srs.gov 
+Joshua.pifer@srs.gov 
+David.Henley@srs.gov 
+  
+ 
+ 

@@ -1,0 +1,214 @@
+{
+ "htf_sa_tank16": {
+  "assigned_rad_waste_tanks": {
+   "occurrences": [
+    15832,
+    74546,
+    78247,
+    82080,
+    85956
+   ],
+   "count": 5,
+   "title_snippet": "Table 6.2-2:  Assigned Radiological Inventory (Ci) at Closure Decayed to Year 2032 (Contin"
+  },
+  "assigned_chem_waste_tanks": {
+   "occurrences": [
+    15934,
+    89762,
+    93824
+   ],
+   "count": 3,
+   "title_snippet": "Table 6.2-3:  Assigned Chemical Inventory (kg) at Closure (Continued)  Tank  Mn  Mo  Ni  N"
+  },
+  "assigned_rad_annulus": {
+   "occurrences": [
+    16053,
+    97662,
+    100206
+   ],
+   "count": 3,
+   "title_snippet": "Table 6.2-4: Assigned Annulus Radiological Inventory at Closure Decayed  to Year 2032 (Con"
+  },
+  "assigned_chem_annulus": {
+   "occurrences": [
+    16151,
+    102784
+   ],
+   "count": 2,
+   "title_snippet": "Table 6.2-5:  Assigned Annulus Chemical Inventory at Closure   Chemical  Tank 9  (kg)  Tan"
+  },
+  "tank16_final_rad": {
+   "occurrences": [
+    14727,
+    43784
+   ],
+   "count": 2,
+   "title_snippet": "Table 5.0-1:  Tank 16 Radionuclide Inventory (Ci)   Element  Tank 16  Value in   HTF PA  T"
+  },
+  "tank16_final_chem": {
+   "occurrences": [
+    14851,
+    46071
+   ],
+   "count": 2,
+   "title_snippet": "Table 5.0-2:  Tank 16 Chemical Inventory (kg)   Chemical  Tank 16  Value in   HTF PA  Tank"
+  },
+  "tank16_final_rad_annulus": {
+   "occurrences": [
+    14977,
+    47226
+   ],
+   "count": 2,
+   "title_snippet": "Table 5.0-3:  Tank 16 Annulus Radionuclide Inventory (Ci)   Element  Tank 16  Value in   H"
+  },
+  "tank16_final_chem_annulus": {
+   "occurrences": [
+    15095,
+    49500
+   ],
+   "count": 2,
+   "title_snippet": "Table 5.0-4:  Tank 16 Annulus Chemical Inventory (kg)   Chemical  Tank 16  Value in   HTF "
+  }
+ },
+ "ftf_sa_tank5_6": {
+  "ftf_rad": {
+   "occurrences": [
+    19035,
+    62005,
+    65438,
+    68320,
+    71735
+   ],
+   "count": 5,
+   "title_snippet": "Table 6.1-1:  Revised FTF Radionuclide Inventories (Ci) (Continued)    25  26  27  28  33 "
+  },
+  "ftf_chem": {
+   "occurrences": [
+    19155,
+    74956,
+    77206
+   ],
+   "count": 3,
+   "title_snippet": "Table 6.1-2:  Revised FTF Chemical Inventories (kg) (Continued)    25  26  27  28  33  34 "
+  },
+  "ftf_annulus_rad": {
+   "occurrences": [],
+   "count": 0,
+   "title_snippet": ""
+  },
+  "ftf_annulus_chem": {
+   "occurrences": [],
+   "count": 0,
+   "title_snippet": ""
+  }
+ },
+ "sa_tank18_19": {
+  "tank18_19_rad": {
+   "occurrences": [
+    17446,
+    53034
+   ],
+   "count": 2,
+   "title_snippet": "Table 5.0-1:  Tanks 18 and 19 Radionuclide Inventories (Ci)  Radionuclide  Tank 18  Actual"
+  },
+  "tank18_19_chem": {
+   "occurrences": [
+    17565,
+    54836
+   ],
+   "count": 2,
+   "title_snippet": "Table 5.0-2:  Tanks 18 and 19 Chemical Inventories (kg)  Chemical  Tank 18   Actual  Tank "
+  }
+ },
+ "closure_mod_18_19": {
+  "t18_19_residual_rad": {
+   "occurrences": [
+    20379,
+    208190
+   ],
+   "count": 2,
+   "title_snippet": "Table 4.3-4:  Residual Radiological Inventories for Tanks 18 and 19  Radionuclide  Tank 18"
+  },
+  "t18_19_residual_chem": {
+   "occurrences": [],
+   "count": 0,
+   "title_snippet": ""
+  }
+ },
+ "htf_pa": {
+  "htf_type1_rad": {
+   "occurrences": [
+    93668,
+    94906,
+    95023,
+    95129,
+    95235,
+    95331,
+    95428,
+    95530,
+    436749,
+    437029,
+    461356,
+    476738,
+    480190,
+    485210,
+    485293,
+    485308,
+    486651,
+    487862,
+    487918,
+    488096,
+    489225,
+    490331,
+    490851,
+    1039753
+   ],
+   "count": 24,
+   "title_snippet": "Table 3.4-10  Solubilities (reduced and oxidized)  Table 4.2-10 and 4.2-11  Vadose Kd valu"
+  },
+  "htf_type1_chem": {
+   "occurrences": [
+    93785,
+    439377,
+    439682
+   ],
+   "count": 3,
+   "title_snippet": "Table 3.4-2:  Tank Annulus Material Volume Estimates    Current Volume Estimate  Residual "
+  },
+  "htf_type2_rad": {
+   "occurrences": [
+    93903,
+    441329,
+    444551
+   ],
+   "count": 3,
+   "title_snippet": "Table 3.4-3: Estimated Annulus Radiological Inventories (2032) (Continued)  Radionuclide T"
+  },
+  "htf_type2_chem": {
+   "occurrences": [
+    94017,
+    446187,
+    448123
+   ],
+   "count": 3,
+   "title_snippet": "Table 3.4-4:  Estimated Annulus Chemical Inventories (Continued)  Chemical  Tank 9  (kg)  "
+  },
+  "htf_type4_rad": {
+   "occurrences": [
+    94375,
+    459099
+   ],
+   "count": 2,
+   "title_snippet": "Table 3.4-7:  Waste Tank Groupings  Types I & II  Type III/IIIA  Type IV  Tanks 9, 10, 11,"
+  },
+  "htf_type4_chem": {
+   "occurrences": [
+    94665,
+    459772,
+    459786
+   ],
+   "count": 3,
+   "title_snippet": "Table 3.4-8:  Waste Tank Groupings for Pu-238  Types I and II  Type III/IIIA  Type IV  N/A"
+  }
+ }
+}

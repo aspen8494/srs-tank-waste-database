@@ -1,0 +1,1223 @@
+ 
+ 
+ 
+November 6, 2015 
+ 
+ 
+ 
+MEMORANDUM TO:  
+Douglas Mandeville, Acting Chief   
+Low Level Waste Branch   
+Division of Decommissioning, Uranium Recovery, 
+  and Waste Programs 
+ 
+THRU:  
+ 
+ 
+Christepher McKenney, Chief   
+/RA/ 
+Performance Assessment Branch   
+Division of Decommissioning, Uranium Recovery, 
+  and Waste Programs 
+ 
+FROM: 
+ 
+ 
+Cynthia Barr, Sr. Systems Performance Analyst   
+/RA/ 
+Performance Assessment Branch   
+Division of Decommissioning, Uranium Recovery, 
+  and Waste Programs 
+ 
+Leah Parks, Systems Performance Analyst   /RA/ 
+Performance Assessment Branch   
+Division of Decommissioning, Uranium Recovery, 
+  and Waste Programs 
+ 
+SUBJECT: 
+TECHNICAL REVIEW OF FINAL INVENTORY 
+DOCUMENTATION FOR TANK 16H at SAVANNAH RIVER SITE 
+(DOCKET NO. PROJ0734)   
+ 
+ 
+The U.S. Nuclear Regulatory Commission (NRC) staff has performed a technical review of 
+several documents prepared by the U.S. Department of Energy (DOE) that detail development 
+of the final inventory for Tank 16H at Savannah River Site, South Carolina.  This technical 
+review supports Monitoring Factor 1.1 “Final Inventory and Risk Estimates”, Monitoring Factor 
+1.2 “Residual Waste Sampling” and Monitoring Factor 1.3 “Residual Waste Volume,” as detailed 
+in NRC staff’s plan for monitoring the SRS Tank Farm Facilities (Agencywide Documents 
+Access and Management System (ADAMS) Accession No. ML15238B403). 
+ 
+As a result of the review of several DOE documents related to the development of the final Tank 
+16H inventory, the NRC staff concludes that the DOE has appropriately applied the concepts and 
+methods listed in the DOE’s sampling and analysis program plan (SRR-CWDA-2011-00050, 
+Revision 2) and quality assurance program plan (SRR-CWDA-2011-00117, Revision 0).   
+ 
+ 
+CONTACTS: Cynthia Barr, NMSS/DUWP   
+ 
+ 
+(301) 415-4015   
+ 
+ 
+ 
+Leah Parks, NMSS/DUWP   
+ 
+ 
+(301) 415-0352  
+D. Mandeville 
+-2- 
+ 
+To reach this conclusion, the NRC staff focused on a number of areas listed in the Tank 5 and 6 
+Inventory Technical Review Report (ITRR) and SRS Tank Farms Monitoring Plan (ML13085A291 
+and ML15238B403) related to Monitoring Factors 1.2, “Residual Waste Sampling,” and 1.3 
+“Residual Waste Volume.”  Given the low residual volume in the Tank 16H primary, NRC staff’s 
+review focused on development of the annular inventory, which was deemed by the NRC staff to 
+be more risk-significant.  Many of the Tanks 5 and 6 ITRR comments, also listed in the SRS Tank 
+Farms Monitoring Plan, could be extended to development of the Tank 16H annular inventory 
+and are discussed in detail in the enclosed report. 
+ 
+With respect to waste sampling (Monitoring Factor 1.2), the NRC staff finds the DOE’s proposed 
+methodology to develop final inventory estimates for Tank Farm tanks acceptable.  The NRC also 
+finds the implementation of the sampling and analysis approach for Tank 16H adequate for use in 
+H-Tank Farm performance assessment calculations, although several areas of potential 
+improvement are noted, particularly related to collection of representative samples, and 
+consideration of uncertainty in the sampled concentrations.  To reach this conclusion, the NRC 
+staff extensively reviewed the DOE inventory documentation and independently evaluated a 
+subset of the Tank 16H analytical data to calculate the 95th percent upper confidence level for 
+the mean.   
+ 
+With respect to volume estimation (Monitoring Factor 1.3), the NRC finds the DOE’s proposed 
+methodology to develop volume estimates for the Tank Farms generally acceptable.  The NRC 
+also finds the implementation of the volume estimation approach for Tank 16H generally adequate 
+for use in H-Tank Farm performance assessment calculations.  Nonetheless, the NRC continues 
+to recommend that the DOE improve documentation of its approach, as well as validate methods 
+used to estimate the residual volumes whether through sampling, measurement or through more 
+qualitative methods (e.g., visual evidence).  The annulus presents unique challenges with respect 
+to volume estimation not previously reviewed by the NRC staff.  Therefore, the NRC staff’s review 
+and conclusions are focused in this area.   
+ 
+Concentrations and volume are linearly related to inventory and in many cases, inventory is 
+linearly related to dose.  Therefore, the development of waste concentrations and volume, and 
+consideration of uncertainty in waste concentrations and volume estimates is considered risk-
+significant.  With respect to Tank 16H, the uncertainty associated with the final inventory is 
+expected to be less than an order of magnitude, and closer to a factor of 2 and is therefore, 
+considered to be of moderate to low risk-significance.  Because not all of the technical issues 
+identified in the NRC staff’s SRS Tank Farms Monitoring Plan with respect to waste sampling and 
+volume estimation have been addressed, Monitoring Factors 1.2, and 1.3 will remain open at this 
+time.  The NRC staff will monitor progress on these technical concerns as tank farm closure 
+progresses.  When the NRC staff determines that the technical concerns have been addressed, 
+D. Mandeville 
+-3- 
+ 
+the NRC staff may decide to close these Monitoring Factors.  If Monitoring Factors 1.2 and 1.3 
+are closed before development of final inventories for all SRS Tank Farms high-level waste tanks, 
+the NRC staff will perform a more cursory review of final inventory development under Monitoring 
+Factor 1.1 “Final Inventory and Risk Estimates.”   
+ 
+ 
+Enclosure:   
+Technical Review of Final Inventory  
+Documentation for Tank 16H  
+D. Mandeville 
+-3- 
+ 
+the NRC staff may decide to close these Monitoring Factors.  If Monitoring Factors 1.2 and 1.3 
+are closed before development of final inventories for all SRS Tank Farms high-level waste tanks, 
+the NRC staff will perform a more cursory review of final inventory development under Monitoring 
+Factor 1.1 “Final Inventory and Risk Estimates”.   
+ 
+ 
+Enclosure:   
+Technical Review of Final Inventory  
+Documentation for Tank 16H   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISTRIBUTION: (w/ enclosure) 
+CGrossman 
+ 
+LParks  
+GAlexander 
+ 
+ 
+ 
+MFuhrmann   
+WIR Service List 
+DOE SRS Email List 
+ 
+ 
+ADAMS Accession No.: 
+ 
+ML15301A830 
+OFFICE 
+DUWP 
+DUWP 
+DUWP 
+DUWP 
+DUWP 
+DUWP 
+NAME 
+C. Barr 
+L. Parks 
+T. Moon 
+J. Shaffner 
+C. McKenney 
+C. Barr 
+DATE 
+10/28/15 
+10/29/15 
+10/ 29 /15 
+10/ 29 /15 
+11/ 05 /15 
+11/ 06 /15 
+OFFICIAL RECORD COPY 
+ 
+ 
+ 
+Enclosure 
+Technical Review of Final Inventory Documentation Supporting Tank 16H Closure 
+ 
+Date:  October 28, 2015 
+ 
+Reviewers: 
+ 
+Cynthia Barr, Sr. Systems Performance Analyst,  
+U.S. Nuclear Regulatory Commission  
+ 
+Leah Parks, Systems Performance Analyst,  
+U.S. Nuclear Regulatory Commission 
+ 
+Programmatic Documents Previously Reviewed (see ML13085A291): 
+ 
+1. SRR-CWDA-2011-00050, Revision 2, “Liquid Waste Tank Residuals Sampling and 
+Analysis Program Plan,” Savannah River Remediation, LLC, Closure and Waste 
+Disposal Authority, Aiken, SC, July 2013.1   
+ 
+2. SRR-CWDA-2011-00117, Revision 0, “Liquid Waste Tank Residuals Sampling—Quality 
+Assurance Program Plan,” Savannah River Remediation, LLC, Closure and Waste 
+Disposal Authority, Aiken, SC, February (2012).   
+ 
+The Tanks 5 and 6 Inventory Technical Review Report (ML13085A291) provides a summary of 
+these key programmatic documents.  Please consult that technical review report for additional 
+information. 
+ 
+Tank 16H Key Inventory Documents Reviewed: 
+ 
+1.  SRR-CWDA-2014-00071, “Tank 16 Inventory Determination,” Savannah River Site, 
+Aiken, SC, Rev. 0, October 23, 2014.   
+ 
+2. SRR-LWE-2012-00224, Bhatt, P.N., “Tank 16 Primary Tank Preliminary Mapping,” 
+Savannah River Site, Aiken, SC, Rev. 0, January 10, 2013.   
+ 
+3. SRR-LWE-2013-00010, Clark, J.L., “Tank 16 Annulus Waste Volume Determination,” 
+Savannah River Site, Aiken, SC, Rev. 0, January 15, 2013.   
+ 
+4. SRR-LWE-2012-00039, Clark, D.J., “Estimation of Waste Material in the Tank 16 
+Annulus Following Sampling in November 2011,” Savannah River Site, Aiken, SC, Rev. 
+0, February 28, 2012.   
+ 
+5. U-ESR-H-00113, Clark, J.L., “Tank 16 Final Residual Solids Determination and 
+Uncertainty Estimate”, Savannah River Site, Aiken, SC, Rev. 1, November 2013.   
+ 
+ 
+                                                
+1 A previous version of this report (Rev. 1) was reviewed in the Tanks 5 and 6 Inventory Technical Review 
+Report (ML13085A291).  
+- 2 - 
+ 
+ 
+6. SRR-LWE-2013-00057, “Tank 16 Sampling and Analysis Plan,” Savannah River Site, 
+Aiken, SC, Rev. 2, July 2014.   
+ 
+7. SRR-CWDA-2014-00090, “Tank 16 Final Characterization Data Quality Assessment,” 
+Savannah River Site, Aiken, SC, Rev. 1, October 23, 2014.   
+ 
+8. SRR-CWDA-2010-00023, “H-Area Tank Farm Closure Inventory for Use in Performance 
+Assessment Modeling,” Savannah River Site, Aiken, SC, Rev. 4, November 11, 2014.   
+ 
+9. SRNL-STI-2014-00321, “Tank 16H Residual Sample Analysis Report,” L. N. Oji; D. P. 
+Diprete; C. J. Coleman; M. S. Hay; and, E. P. Shine, Savannah River National 
+Laboratory, Aiken, SC, October 2014.   
+ 
+SRR-CWDA-2014-00071, “Tank 16 Inventory Determination”, Rev. 0, October 23, 2014 
+ 
+SRR-CWDA-2014-00071 summarizes the development of the inventory for Tank 16H and cites 
+several references used to support the inventory development.  The sample plan SRR-LWE-
+2013-00057 provides information on the number and location of samples.  Uncertainty in 
+volume is addressed using a volume proportional compositing approach during sampling.  This 
+approach was reviewed by statistical experts at Savannah River National Laboratory in SRNL-
+STI-2011-00323.  The sample results are provided in SRNL-STI-2014-00321.  Density is also 
+measured to allow conversion of volume estimates to mass.  A measurement of solids content of 
+the samples is needed to convert the dry weight concentration to a wet weight concentration.  
+The U.S. Department of Energy (DOE) estimated that 1.2 m3 (330 gal) of residual waste 
+remained in Tank 16H primary tank, and 7.1 m3 (1910 gal) remained in the annulus following 
+waste retrieval.  The DOE provides an upper and lower estimate of the residual waste volume in 
+the primary tank 5of 2.5 m3 (660 gal) and 0.8 m3 (220 gal) respectively.  The DOE also provides 
+an upper and lower estimate of the residual waste volume in the annulus of 8.0 m3 (2,110 gal) 
+and 6.1 m3 (1,610 gal) respectively.   
+ 
+The inventory on the cooling coil and tank wall surface was determined to be insignificant based 
+on photographic and video surveillance.  Also, the Tank 16H cleaning history was similar to 
+Tank 5F, and Tank 5F cooling coil and wall surface inventories calculated using the analytical 
+results were determined to be insignificant.  Therefore, the DOE did not sample the interior tank 
+walls or cooling coils.  A residual waste volume of 0.1 m3 (26.3 gal) was estimated to be 
+associated with abandoned tank equipment (SRR-LWE-2014-00017).  The concentration of the 
+equipment waste was assumed to be the same as the residual floor concentrations.   
+ 
+The tank floor and the annulus inventory was calculated based on the product of the waste 
+concentration (either the primary tank or annulus), volume, density (wet) and solids content 
+(weight percentage).  The DOE provided an average, best estimate (95 percent upper 
+confidence limit on the mean), and reasonably conservative (97.5 percent upper confidence limit 
+on the mean) inventory for use in deterministic analyses.  The DOE also considered uncertainty 
+in the sample concentrations, volume, density and solids content in calculating inventory 
+multipliers (to be multiplied by the “best estimate” inventory) in probabilistic analyses.   
+ 
+ 
+ 
+ 
+- 3 - 
+ 
+ 
+SRR-LWE-2012-00224, Bhatt, P.N., “Tank 16H Primary Tank Preliminary Mapping”   
+ 
+SRR-LWE-2012-00224 provides information regarding the final volume estimates for the Tank 
+16H primary tank.  The results of the report were used to inform the sampling plan for the 
+primary tank.  In January 2011, the DOE took high-definition photographs from three locations in 
+4 risers for a total of 12 composite photos.  Tank internals such as cooling coils, columns, 
+supports, and tank pumps were used as landmarks to reference tank floor area.  Landmarks 
+such as tank welds, distance to the bottom of the cooling coils, and support plates were used to 
+estimate material height.  The DOE created a gridded spreadsheet of the tank floor, where each 
+1 ft x 1 ft (0.3 m x 0.3 m) grid section was assigned a height to estimate total volume.  This 
+report estimated that approximately 1.2 m3 (300 gal) of residual waste remained in Tank 16H 
+primary tank. 
+ 
+SRR-LWE-2013-00010, Clark, J.L., “Tank 16 Annulus Waste Volume Determination” and 
+SRR-LWE-2012-00039, Clark, D.J., “Estimation of Waste Material in the Tank 16 Annulus 
+Following Sampling in November 2011” 
+ 
+SRR-LWE-2013-00010 and SRR-LWE-2012-00039 provide information regarding the volume 
+estimates for the Tank 16H annulus in 2012 (known as the 2012 estimate).  The documents 
+provide identical information, except SRR-LWE-2013-00010 also contains the spreadsheet 
+calculations.  In 2011, the DOE collected samples of the annulus waste under the North, South, 
+East, and West annulus risers.  The measured waste depth measurements were used to assign 
+waste heights at the measurement locations.  Photographic views of the annulus were also 
+used in areas between the risers.  Still, there were many areas of the annulus (and duct) where 
+visual determination was not possible, and for those areas, the DOE extrapolated the height 
+using visual or measured data from the closest areas.  These reports estimate the volume in the 
+annulus to be 12.5 m3 (3,300 gal).  The DOE did not provide uncertainty bounds on this 2012 
+estimate.   
+ 
+U-ESR-H-00113, Clark, J.L., “Tank 16 Final Residual Solids Determination and 
+Uncertainty Estimate”   
+ 
+U-ESR-H-00113 summarizes the final residual solids determination and uncertainty estimate of 
+the Tank 16H primary tank and annulus.  In May 2013, the DOE deployed robotic crawlers in 
+Risers 3 and 6 to obtain waste characterization samples and record close-up video of the 
+primary tank floor.  The revised volume estimate for the primary tank using the crawler data is 
+1.2 m3 (330 gal).  For the annulus, the DOE collected a total of eleven new samples from 
+different locations inside and outside the ductwork of the annulus to support characterization.  
+During the sampling, the DOE measured the waste depth at each of those locations in the 
+annulus.  The DOE interpolated the heights between the sample locations to estimate the 
+material height in other areas.  The DOE also collected additional photographs and video 
+footage using a high resolution camera which provided improved images when compared to the 
+photographs used to support the volume estimate in SRR-LWE-2013-00010.  Due to the 
+amount of reliable data available, the methodology for the 2013 volume estimate shifted from a 
+largely visual interpretation of solids heights to the use of measured heights.  The photographs 
+were not relied upon as heavily as the measured values, but rather used to corroborate the 
+measured and interpolated values.   The revised estimate for the volume in the annulus is 7.2m3 
+(1,900 gal).   
+ 
+- 4 - 
+ 
+ 
+The DOE considered the uncertainty in the tank floor estimate to be small given the number of 
+landmarks within the Type II tanks.  Since the cooling coil array and construction details are 
+well-known, the DOE indicates that the uncertainty with transcribing the volume depth from the 
+visual evidence to the map and spreadsheet is small.  High-end and low-end estimates were 
+determined by the mapping team also using judgment aided by these landmarks.  The DOE 
+states that the uncertainty in the annulus volume is also small.  The DOE describes the method 
+for measuring the depth of the waste using the auger as a precise method.  The DOE 
+determined the depth of the solids layer by lowering an auger to the top of the solids layer and 
+marking the shaft of the auger.  The DOE then lowered the auger through the solids layer and 
+the shaft marked again, with the difference in the initial and final marks indicated the depth of 
+the solids layers.   
+ 
+With regard to the volume estimation of the material in the annulus, the NRC staff provided 
+several detailed comments related to: (1) the sampling method used to determine material 
+heights; (2) the use of photographic evidence and landmarks to assign material heights; and, (3) 
+interpolation method used to assign material heights in areas where no sample or visual 
+observation are available.  The DOE provided more information on the measuring method in 
+their response to the NRC comments on the Closure Module (U-ESR-H-00128).  The DOE 
+operators indicated that it was apparent when the auger contacted the solids because the shaft 
+was no longer hanging freely in space.  The DOE stated that marking and measuring vertical 
+position on the column of the drill rig is simple and accurate.  The DOE also discussed the 
+material irregularities and explained that uncertainty created by the surface irregularities is 
+expected to be relatively insignificant and encapsulated in the overall uncertainty.  The DOE 
+explained that there was no more uncertainty in measuring heights within the duct versus 
+outside the duct because visual observation was still available.  The NRC staff also pointed out 
+apparent inconsistencies between the measured height and the visual evidence in the 
+photographs using landmarks.  The DOE explained that the visual evidence is influenced by 
+depth perception, shadows and poor lighting, and that in those cases of inconsistency, the 
+photographs did not compel a change in the measured estimate.  The DOE also explained that 
+current volume estimation methodology does not include assigning different uncertainties to 
+different tank areas based on method of observation.  An overall uncertainty of +/- 0.5 inches is 
+assigned at each location regardless of whether it was measured or interpolated. 
+ 
+SRR-LWE-2013-00057, Revision 2, “Tank 16 Sampling and Analysis Plan” 
+ 
+The Tank 16H sampling and analysis plan contains information on the number and locations of 
+samples, sampling tools to be used, quantity of sample, etc.  The DOE did not sample the 
+primary tank wall or cooling coils in Tank 16H because the Tank 5 residual inventory on the 
+primary wall and cooling coils was estimated to be orders of magnitude less than that of the 
+floor and annulus inventory, and both tanks had been similarly washed with deionized water and 
+oxalic acid.  The DOE evaluated various sampling options and decided that, for the annulus 
+material, the DOE would collect material from fifteen sample locations to create three composite 
+samples for analysis was the preferred option.  For the tank primary liner, the DOE decided that 
+material from three locations would be collected and analyzed as discrete samples.  In the event 
+insufficient material is recovered from the three initial sampling locations, two additional sample 
+locations were selected. 
+ 
+Because the final volume determination for the annulus was lower than anticipated (7.2 m3 
+versus 12.5 m3 (1900 versus 3300 gallons)), DOE indicates in the revision log that two of the 
+- 5 - 
+ 
+ 
+samples in the annulus compositing arrays were shifted from the original plan to represent any 
+heterogeneity as completely as possible in the resultant analytical samples.  Revision 2 also 
+presents an updated compositing table, revised compositing scheme (Table RL-1), and 
+sampling array figure (Figure RL-1).  Table 3.3-6 provides information on the relative volumes of 
+each of three strata (with old volumes in strike-out), as well as a description of each of the 
+strata. 
+ 
+Following the volume-proportional compositing sample approach, the composite sample 
+creation requires the sample densities and the final annulus volume determination (and 
+uncertainty estimate) in order to calculate the proportions of each individual annulus sample 
+used for compositing.  The final volumes and sample material densities measured in the 
+laboratory were used to calculate the final analytical sample compositing instructions as 
+described in the LWTRSAPP. 
+ 
+The Plan provides instructions on the collection of samples, as well as information on the list of 
+radionuclides to be analyzed and the target detection limits.  If an insufficient quantity of sample 
+is taken from any location, the Plan provides instructions and contingency plans to help ensure 
+the quality of data collected. 
+ 
+Section 3.4 of the Plan also provides information on the sampling equipment and materials.  
+Samples inside the tank were collected with either a robotic sample crawler equipped with a 
+gripper arm capable of holding a vacuum, or a vacuum attached to a pole.  To collect samples 
+from the annulus, a machine tool system consisting of a drill press, drill mast shaft, and end 
+effector (hole saw or boring bit) was used.  Samples taken outside of the duct were taken from 
+the gap between the duct and primary liner to allow for full penetration of the material by the 
+boring bit.  After residual material is broken up by the boring bit, a labeled vacuum was lowered 
+using a pole to collect the sample.  When necessary, a hole saw end effector was used to cut 
+through the top of the duct to access the duct interior. 
+ 
+SRR-CWDA-2014-00090, “Tank 16 Final Characterization Data Quality Assessment” 
+ 
+Tank 16H sample analysis results are provided in this report.  Composite sampling is used in 
+developing the inventory for the annulus; discrete sampling is used in developing the inventory 
+for the primary liner (or tank) due to the low volume of residual waste in tank (insufficient 
+material to take minimum of 15 samples).  Composite sampling is 5 samples in 3 arrays, the 3 
+arrays comprise the composite samples.  The report concludes that Tank 16H samples were 
+collected in accordance with the revised sampling plans.  Tank sample 2-P was significantly 
+different than the other two primary tank samples and the tank samples showed variability.  
+However, most results were below the minimum detectable concentration.  The three composite 
+samples taken from the annulus appear to be uniform with minor statistical differences.  DOE 
+contractors concluded that data are sufficient for the purpose of characterizing the waste and 
+determination of the Tank 16H inventory. 
+ 
+ 
+ 
+- 6 - 
+ 
+ 
+SRR-CWDA-2010-00023, “H-Area Tank Farm Closure Inventory for Use in Performance 
+Assessment Modeling” 
+ 
+A summary of this document is provided in the Tank 16H Special Analysis technical review 
+report that will be issued concurrently with this technical review report.  Please see that report 
+for additional information. 
+ 
+SRNL-STI-2014-00321, “Tank 16H Residual Sample Analysis Report”  
+ 
+The Tank 16H Residual Sample Analysis Report provides information about Tank 16H sampling 
+activities following waste retrieval operations, including statistical analysis of the analytical 
+results.  DOE contractors collected three samples from the primary liner (or tank) and fifteen2 
+samples from the annulus.  Due to the low volume of waste remaining in the tank, discrete 
+samples were taken from the tank (i.e., the samples taken from the tank were not composited).  
+The tank samples were dry enough and did not require extra air-drying inside the shielded cells.  
+The samples were ground with a mortar and pestle and passed through a 850 micron sieve 
+(mesh 20).  A fraction of sample 2-P collected from the primary liner (tank) could not be ground 
+fine enough to pass through a 850 micron sieve.  This iron-rich fraction was digested and 
+analyzed separately for Cs-137, gross alpha/beta, and elemental analysis by Inductively 
+Coupled Plasma-Atomic Emission Spectroscopy.  The analysis results revealed that the iron-
+rich fraction of Sample 2-P was similar in chemical composition to the remaining fraction.  
+Figure 2 in SRNL-STI-2014-00321 illustrates sampling locations (note that samples 4P and 5P 
+were not collected). 
+ 
+Eleven samples were collected from the annulus in 2013 using modified, commercially available 
+vacuum cleaners.  Sample locations are illustrated in Figure 2 in SRNL-STI-2014-00321.  Some 
+annular samples were wet and required air-drying in the shielded cell prior to analysis, and 
+some samples could not be initially collected.  An insufficient volume of sample was initially 
+collected from two locations, 6-A and 8-A.  The locations were resampled and the collected 
+samples named 6-AR and 8-AR.  Four samples collected from 2011 were combined with the 
+eleven samples collected in 2013, to create three composite samples representing the annular 
+inventory.  Similar to the tank samples, the waste was ground with a mortar and pestle fine 
+enough to pass through a mesh 20 sieve.  Table 6 provides information on the weights of 
+individual samples comprising the three composites.  While Table 6 provides information on the 
+weight percentage of the samples composited, limited details are provided in this report on the 
+three groups or “strata”3 used to represent the annular waste.   
+ 
+ 
+ 
+                                                
+2 Four samples were collected in 2011.  The remaining 11 samples were collected between August 2013 
+and November 2013. 
+3 Strata differentiate residual tank or annular waste by region, or by physical or chemical differences.  The 
+composite sampling approach employed by DOE assumes three strata are present in the Tank 16H 
+annulus.  Final inventory development is based on a volume proportional compositing technique in which 
+the relative volumes of the strata determine the weights of samples submitted for compositing.  Details on 
+the relative volumes of the strata is provided in SRR-CWDA-2010-00023, Revision 2, Table 3.3-6.  SRR-
+CWDA-2013-00018 provides information on the locations of the strata.  Material in Stations 5+00 to 
+23+00 comprises what is described as the “Northern” strata, and the remaining Stations comprise the 
+“Southern” strata (see Figure 2.1-1 in SRR-CWDA-2013-00018 for delineation of annulus Stations). 
+- 7 - 
+ 
+ 
+While target detection limits were not always met, particularly for non-routing radionuclides, the 
+DOE contractor reviewed all of the cases where the detection limits were not met and 
+determined that the impacts were acceptably low.  The target detection limits for routine 
+radionuclides were met most of the time.  DOE performed a statistical analysis of the sampling 
+results.  For analytes that were not detected or only a single sample was detected the smallest 
+and largest minimum detectable concentrations (MDCs) were reported.  The DOE summarized 
+the inventory distributions (mean, standard deviation, and 95% upper confidence limit (UCL 95) 
+for the mean concentration) for analytes with measurements on at least 2 of the 3 samples or 
+composites. 
+ 
+NRC Staff Evaluation: 
+ 
+Sampling and Analysis 
+ 
+The NRC finds the sampling and analysis methodology presented by the DOE in the Liquid 
+Waste Tank Residual Sampling and Analysis Program Plan to be generally adequate.  The NRC 
+also finds sampling and analysis of Tank 16H residual solid waste adequate for the purposes of 
+performance assessment calculations.  A number of technical issues were identified during the 
+review and are presented below for the DOE’s future consideration. 
+ 
+Because the Tank 16H annular inventory is considered by the NRC staff to be more risk-
+significant compared to the inventory remaining in the primary liner, the focus of the NRC staff’s 
+review is on the annular inventory.  An early estimate of residual material remaining in the Tank 
+16H annulus was approximately 18 m3 (4,700 gal).  In 2006-2007, the DOE collected three 
+samples from the annulus:  (1) one sample at location IP-118; and, (2) two samples at location 
+IP-35 (one from inside the dehumidification duct and one from outside the duct)4.  The results 
+from outside the dehumidification duct at IP−35 show a large fraction of the sample to be 
+soluble in water (45-65 wt%); however, the sample from inside the duct was even more soluble 
+in water (60-70 wt%).  The amount of soluble sodium salts in sample IP-118 (25-25 wt%) 
+appeared to be much lower than the two IP-35 samples (WSRC-STI-2008-00203, Rev. 0).   
+ 
+As indicated in WSRC-STI-2008-00203, Revision 0, the Tank 16H annular waste can be 
+grouped into three distinct regions in terms of characteristics of the waste.  The first region (3.78 
+m3 [1,000 gal]) lies on the annulus floor in the north near IP-118.  The DOE believes this region 
+has been chemically altered due to the addition of silica from sandblasting that was conducted 
+for leak inspections and due to high heat from steam jets that were used for a previous cleaning 
+campaign.  The combination of the addition of silica, a high pH, and high heat is believed to 
+have chemically altered the residual material leading to the formation of alumina-silicates that 
+DOE believes combined with the radionuclides in the residual material to reduce their solubility.  
+The second region (2 m3 [500 gal]) is on the annulus floor in the south near IP-35.  This second 
+region has also been chemically altered due to the introduction of sand, but less so than the 
+north area.  A third region of annular material (1.5 m3 [410 gal]) resides within the annulus 
+ventilation duct.  The DOE expects the contamination within the ventilation duct to be more 
+soluble because it did not contain significant amounts of silica from sandblasting.  On the other 
+hand, the Tank 16H Sampling and Analysis Plan (SRR-LWE-2013-00057, Revision 2) indicates 
+that the material in the Annulus to the North has less sodium aluminum silicate content than the 
+material to the South.  It appears that the table in the Sampling and Analysis Plan has a typo or 
+                                                
+4 See Table 3-15 in NRC staff’s TER (ML14094A496) for sample locations. 
+- 8 - 
+ 
+ 
+is otherwise incorrect.  Regardless, if material in the different strata have significantly different 
+concentrations and variability, then the relative volumes of the strata that form the basis of the 
+volumetric proportional compositing scheme are important to ensure that representative 
+samples are collected and composited to develop the Tank 16H annular inventory.  The DOE 
+documentation was not transparent on how DOE determined what waste material was 
+associated with the strata that had more sodium aluminum silicate content and which strata had 
+less.  Because portions of the annulus were not sampled, a clear line of demarcation would be 
+difficult to make.  Furthermore, WSRC-STI-2008-00203, Revision 0, indicates that there is 
+vertical heterogeneity in waste material sampled from a mound in the northern portion of the 
+annulus (near sample IP-118), and concludes that the waste material in the annulus has a wide 
+range of compositions at different locations: 
+ 
+The IP-118 sample also shows a small difference in composition from the top to the 
+bottom of the sample.  The bottom section of the sample appears to contain more water 
+soluble material than the top based on the XRD data.  This aspect of the sample again 
+seems reasonable since the material at the bottom of the annulus would also be less 
+accessible to the washing/waste removal conducted in the annulus.  The samples from 
+outside the dehumidification duct at two locations in the annulus show very different 
+compositions and estimated solubility in water.  This indicates the waste material in Tank 
+16H annulus may have a wide range of compositions at different locations.  WSRC-STI-
+2008-00203, Revision 0. 
+ 
+In addition to the uncertainty in the delineation of the northern and southern strata in the Tank 
+16H annulus, the DOE did not appear to have sufficient information on the relative volumes of 
+waste in the three strata that it selected to represent the annular inventory at the time of 
+sampling.  The 2011 volume estimate of 12.5 m3 (3,300 gal) was initially used to select sample 
+locations and to assign initial weights for the samples using the volume proportional compositing 
+approach.  However, more recently the DOE revised the Tank 16H annular volume estimate 
+lower to 7.2 m3 (1,900 gal).  The DOE was unable to make timely revisions to its sampling 
+design to align with the significantly revised volume estimate, because data used to develop 
+final volume estimates were collected at the same time the waste samples were collected for 
+analysis.  Although the weights of the individual samples that were composited appear to have 
+been revised based on the final volume estimates (see Table 6 in SRNL-STI-2014-00321), the 
+number of samples taken from each strata may have been significantly different had the final 
+volume estimates been available at the time of sampling.  In fact, the combined volume of 
+material in the duct and southern stratum relative to the quantity of material in the northern 
+stratum was significantly overestimated based on the 2011 volume estimate.  Therefore, the 
+number of samples taken from the northern stratum is lower than the number of samples 
+expected based on the relative volumes of the waste materials in the annulus (e.g., over half the 
+final estimated volume is in the northern stratum but only six of fifteen samples are taken from 
+the northern stratum and the same number of samples, six, are taken from the duct that only 
+constitutes little over 20 percent of the revised volume estimate for the Tank 16H annulus).  The 
+NRC staff also noted in the Tanks 5 and 6 Inventory TRR (ML13085A291) that the quantity and 
+number of samples taken from each segment appeared disproportionate to the relative volume 
+of the segment partially due to the significant uncertainty in early estimates of segment (or 
+strata) volumes in the tanks prior to sampling and collection of additional information to refine 
+the volume estimates.  This uncertainty can have a detrimental impact on the ability of the DOE 
+to obtain representative samples from the tanks and annuli of F-Area and H-Area Tank Farm 
+tanks and should be addressed in the future through improved early volume estimates. 
+- 9 - 
+ 
+ 
+The NRC also notes that the DOE indicated that it does not have access for sampling the 
+material in the southeast quadrant of the annulus; this inaccessibility affects the volume 
+estimates as well as the analytical results and it is considered a significant uncertainty that 
+should be factored into the performance assessment.   
+ 
+With regard to use of archived samples, the DOE provides a rationale for the acceptability of 
+use of 2011 archived samples in SRR-CWDA-2013-00018, Revision 1.  The NRC staff finds the 
+DOE’s use of 2011 archived samples appropriate given that the sample collection, transport, 
+storage, and control documentation were compared against the LWTRSAPP Requirements and 
+deemed acceptable [SRR-CWDA-2013-00018]. 
+ 
+With regard to previously identified technical issues related to waste sampling and analysis, the 
+NRC staff noted the following in the Tanks 5 and 6 ITRR (ML13085A291) conducted under 
+Monitoring Factor 1.2 “Residual Waste Sampling” and in the updated SRS Tank Farms Monitoring 
+Report (ML12212A192 and ML15238B403).   
+ 
+1. DOE should consider, in its tank sampling design, historical information on tank waste 
+receipts, and information related to the alteration and redistribution of waste due to 
+cleaning operations that may impact horizontal and vertical waste heterogeneity.   
+ 
+2. DOE should evaluate the option to composite samples within segments (or strata) to 
+preserve information about segment (or strata) variance.   
+ 
+3. DOE should evaluate and present information on the relative contributions of various 
+forms of uncertainty in its estimation of mean tank concentrations.   
+ 
+4. DOE should clarify the statistical approach used to estimate the UCL95 (e.g., treatment 
+of all nine measurements as independent when computing the UCL95).   
+ 
+5. DOE should also consider how it can better assure sample representativeness by 
+improving tank sampling designs, collection tools and instructions. 
+ 
+The NRC staff has no significant concerns regarding discrete sampling of residual waste within 
+the tank, given the extensive washing and low volume of waste remaining in the Tank 16H 
+primary liner.  However, the first comment above, could be extended to consideration of 
+historical information on leakage of waste into the annulus and operations that may have also 
+impacted the heterogeneity of waste remaining in the Tank 16H annulus.  Although this type of 
+information was provided to a certain extent, as discussed above, the documentation could be 
+more transparent on the selection of strata and the methods used to delineate the strata and the 
+uncertainty in these delineations (e.g., how did the DOE differentiate material in the northern 
+and southern strata and how did the DOE determine that the northern stratum included material 
+in Stations 5+00 through 23+00).  The DOE should continue to provide information about the 
+distribution and expected heterogeneity of annular waste, a description of the segments or 
+Strata and how they were selected, and information on the relative volumes and associated 
+uncertainty in the estimated volumes of these segments or strata in future inventory 
+documentation.   
+ 
+ 
+ 
+- 10 - 
+ 
+ 
+With regard to the second NRC comment listed above on intra-segment compositing, the DOE 
+provided further explanation in the July 28-29, 2015, onsite observation visit (ML15239A612) 
+that the bulk of the costs associated with sample analysis were related to the processing of the 
+samples and not the actual analysis of the processed samples (i.e., analysis of nine composites 
+would cost approximately three times the cost associated with analysis of three samples in 
+triplicate).  The costs associated with processing of additional composites to better understand 
+intra-segment of strata variability is therefore, considered impractical by the DOE.  The DOE 
+could provide additional information regarding the break-down of costs associated with sample 
+analysis to further support its position; however, the NRC staff agree that if the costs are three 
+times as great as the current costs, that the resources would likely be better spent on 
+addressing other technical issues. 
+ 
+The general approach laid out in the Sampling and Analysis Program Plan was followed for 
+sampling of Tank 16H and therefore, no major changes were made to the approach used by the 
+DOE, nor were any expected by the NRC staff at this time.  Therefore, no changes were made to 
+address the third NRC comment listed above.  NRC staff notes, that the DOE statements 
+regarding “measurement” error when evaluating variation in measured concentrations from 
+triplicate analysis of a single composite sample, may be more accurately described as 
+homogenization errors rather than measurement error (i.e., the error may be attributable to large 
+variances in the segments or strata and inability to homogenously blend the composite samples, 
+and not actually associated with measurement error). 
+ 
+With regard to the fourth NRC comment, DOE followed the methods laid out in the Sampling 
+and Analysis Program Plan and no major changes were made to the statistical approach used 
+by the DOE.  The Closure Module (page 71) states, “The analytical results for the three 
+composite samples allowed the overall uncertainty to be reflected in the confidence limits on the 
+mean concentrations.”  Each composite sample was analyzed in triplicate to assess 
+measurement uncertainty.  SRNL-STI-2014-00321, Revision 1 Tank 16H Residual Sample 
+Analysis Report, Appendix D, Section 3.0 (page 72) describes the statistical methods for 
+calculating the mean concentration and the UCL95 for each radionuclide.  Alternative 
+approaches for summarizing the data are utilized depending on the number of measurements 
+that are greater than the MDC.  In the case that all of the measurements are above the MDC, 
+SRNL-STI-2014-00321 (page 75) states, “If all of the concentration measurements for an 
+analyte are above their MDC’s, then the ANOVA F test can be performed, and a decision can 
+be made to use the model in Equation (1) with the random effect if F≥ F0.95,2,6 = 5.14325, and to 
+use the model in Equation (2) without the random effect if F<F0.95,2,6 = 5.14325.”  The random 
+effect represents the sampling error which arises from spatial heterogeneity of the residual 
+material, and sampling, sample preparation, and volumetric proportion errors.  The model 
+without the random effect (when F<F0.95,2,6  = 5.14325 treats all nine values as independent and 
+the UCL95 is computed as shown below in Equation A: 
+ 
+ 
+Equation A 
+ 
+ 
+- 11 - 
+ 
+ 
+The NRC staff commented in the Tanks 5 and 6 ITRR (ML13085A291) that this approach may 
+underestimate the 95th percent upper confidence level for the mean concentration (or UCL95).  
+It is unclear how an ANOVA F test (testing whether the measurement/sampling error within the 
+3-measurements of a composite sample is negligible) would allow the DOE to treat all nine 
+measurements as independent, when each triplicate measurement comes from a single 
+composite sample.  If, instead, the mean of each triplicate composite is used to represent that 
+composite and those three values are used to calculate the UCL95,the UCL95 would be higher 
+given the fewer degrees of freedom (2 degrees of freedom compared to 8).  The NRC staff 
+evaluated the impact of treating the 3 composite samples as 9 independent samples and 
+concludes that the impact is modest.  The UCL95 for the mean was calculated assuming that 
+there were nine independent samples for only a handful of radionuclides present in the annulus 
+of Tank 16H (Tc-99, U-235, and U-236).  Calculation of the UCL95 assuming each composite 
+analyzed in triplicate was a single, independent sample and assuming only three samples (and 
+2 degrees of freedom) reveals that the distributions would be broader but the impact of treating 
+all of the measurements as independent did not have a large impact on the calculation of the 
+UCL95 for the mean.  Nonetheless, the NRC staff continues to recommend that the DOE clarify 
+the basis for treating all nine samples as independent in future revisions to the Sampling 
+Analysis Program Plan.   
+ 
+Finally, with regard to the fifth NRC comment listed above that the DOE should consider how it 
+can better assure sample representativeness, the NRC staff noted improvements in this area.  
+For example, the DOE included information on the methods and tools to be used to sample the 
+Tank 16H primary and annulus in SRR-CWDA-2013-00018, Revision 1, and the DOE appears to 
+have been successful in obtaining the targeted samples.  However, the DOE was unable to 
+initially obtain sufficient sample material at locations 6-AR and 8-AR in the annulus of Tank 16H 
+and had to re-sample.  These same two locations were discussed in SRR-CWDA-2013-00035, 
+which indicated that two samples, both an upper and a lower sample, could be collected from 
+the mounds at these locations (identified by the location of the inspection ports that would be 
+used to obtain the samples, IP-118 and IP-154).  It is not clear why the DOE had difficulty 
+obtaining samples at these locations of accumulated waste material, when upper and lower 
+samples were previously collected and characterized in WSRC-STI-2008-00293, Revision 0.  
+Furthermore, it is not clear if the material that was eventually collected from IP-118 and IP-154 
+(6-AR and 8-AR) is representative of the waste in that area of the annulus given the thickness of 
+the mounded waste and potential vertical heterogeneity, which was noted in WSRC-STI-2008-
+00203, Revision 0. 
+ 
+The DOE also indicates in the Tank 16H Sampling and Analysis Plan, SRR-LWE-2013-00057, 
+Revision 2, that samples taken outside of the duct were taken from the gap between the duct 
+and primary liner to allow for full penetration of the material by the boring bit.  It is unclear if the 
+material on either side of the annulus duct is homogeneous, given potential differences in 
+residual waste material, as well as cleaning effectiveness of material on either side of the duct.  
+In the future, the DOE should provide information to support its assumption that material on 
+either side of the duct is homogeneous.  The DOE should also continue to draw on lessons 
+learned from previous campaigns to ensure that it is able to collect representative samples. 
+ 
+The NRC will also continue to monitor, as applicable, the DOE arguments related to the 
+elimination of radionuclides from the list of constituents to be analyzed under Monitoring Factor 
+1.2.  As the DOE continues to evaluate assumptions for the H-Tank Farm performance 
+assessment and its inventory as a result of monitoring activities, the DOE should concurrently 
+- 12 - 
+ 
+ 
+re-evaluate its list of highly radioactive radionuclides (HRRs) as new information that could 
+significantly change the results of its HRR evaluation becomes available.  The DOE’s analytical 
+list is broader than its HRR list, so the DOE will have assurance that it will develop inventories 
+for other radionuclides which could potentially be risk-significant but that are not on the HRR list 
+because they are expected to be present in such low concentrations. The NRC staff 
+recommends that the DOE continue to examine the reasons for any unforeseen results, should 
+they occur, and attempt to trace them back to known waste streams or processes that might 
+reveal other radionuclides that could have been underestimated by the projections based on 
+Waste Characterization System data.  The DOE should assess, through future tank residual 
+characterization, the validity of prior assumptions and the resulting impacts to the list of HRRs. 
+ 
+With regard to Monitoring Factor 1.4, “Ancillary Equipment Inventory,” the DOE indicated that it 
+still has plans to sample ancillary equipment but has not yet developed documentation to perform 
+this activity.  As documented in the NRC staff’s Tank Farm Monitoring Plan, Monitoring Factor 
+1.4, “Ancillary Equipment Inventory,” the NRC staff will monitor the DOE’s efforts to verify 
+assumptions regarding the relatively low risk of ancillary equipment through sample and analysis. 
+ 
+In conclusion, the NRC finds the DOE’s proposed methodology to develop final inventory 
+estimates for Tank Farm tanks acceptable.  The NRC also finds the implementation of the 
+sampling and analysis approach for Tank 16H adequate for use in H-Tank Farm performance 
+assessment calculations, although several areas of potential improvement are noted in this 
+report, particularly related to collection of representative samples, and consideration of 
+uncertainty in the sampled concentrations.  To reach this conclusion, the NRC staff extensively 
+reviewed the DOE inventory documentation and independently evaluated a subset of the Tank 
+16H analytical data to calculate the UCL95 for the mean.  For example, the NRC’s independent 
+evaluation showed that other statistical techniques (e.g., bootstrap method) would yield similar 
+results to the DOE’s results.   
+ 
+Volume Estimation: 
+ 
+The NRC finds the methods used by the DOE to develop the residual waste volumes for the 
+Tank 16H primary liner and annulus generally adequate.  However, a number of technical 
+issues were identified during the review and are presented below for the DOE’s future 
+consideration.   
+ 
+Because the Tank 16H annular inventory is considered by the NRC staff to be more risk-
+significant compared to the inventory remaining in the primary liner, the focus of the NRC staff’s 
+review is on the annular inventory.  As noted in the preceding section evaluating waste 
+sampling, the DOE revised early (2007) estimates of 18 m3 (4,700 gal) of residual waste 
+remaining in the annulus to 12.5 m3 (3,300 gal) based on visual evidence and samples taken in 
+2011 and analyzed in 2012.  However, more recently, the DOE revised the volume estimates to 
+7.2 m3 (1,900 gal).  With regard to volume estimation, the NRC staff developed a number of 
+detailed comments on the Tank 16H Closure Module related to use of photographic data in 
+developing the annular waste volume (ML15103A413).  Following the July 28-29, 2015, on-site 
+observation, the DOE provided responses to a number of the NRC comments, primarily related 
+to the DOE’s volume estimation methods (ML15247A154).  Because the NRC staff did not 
+receive the responses until after the July 28-29, 2015, on-site observation visit, the NRC staff 
+did not have an opportunity to review and discuss the DOE’s April 2015 responses during the 
+visit.  Nonetheless, the responses were helpful in addressing a number of the NRC staff’s 
+- 13 - 
+ 
+ 
+questions on the methods used to develop the residual waste volume in the Tank 16H annulus.  
+However, the NRC staff continues to have technical questions in some areas as noted below.   
+ 
+During the July 2015 on-site observation, the DOE clarified that it generally relied on measured 
+values of waste heights to develop the annular inventory and visual evidence was used to 
+confirm or deny the plausibility of measured values.  Visual evidence was also used when 
+interpolating solids heights between sampling locations.  However, in most cases, the DOE 
+used simple interpolation methods to assign waste heights between measured values and rarely 
+used visual evidence to adjust heights between areas that were not measured.  While the visual 
+data appeared to be at odds with the interpolated data in some instances, the DOE’s methods 
+are reasonable and appear sound in most cases.  However, in certain limited cases, the 
+arguments do not appear to be supported.  For example, the DOE indicates in U-ESR-H-00128 
+the following (Figure 10 referred to in the text is reproduced below for ease of reference): 
+ 
+“STA 10+00 is an area between two measured values of 2 inches and 5.5 inches.  
+Visual evidence suggests that the solids height did not increase between the two sample 
+locations, therefore the value at STA 10+00 would 5 inches or less.  There is a minimal 
+amount of material to the right side of the duct, material is coating the left side of the 
+duct, then the material appears to decrease in height away from the duct to the left 
+(Figure 10).  Several data points were used to assign a value: 
+ 
+• 
+material height to the right and left   
+ 
+• 
+duct height for material collected on the duct   
+ 
+• 
+the appearance of decreasing material as the annulus continues to the west 
+ 
+The interpolated height from the nearest measured heights (3 inches) was assigned for 
+this area, and evaluation of visual evidence did not result in adjustment to the 
+interpolated height.  Visual depth perception was a factor in the decision to not adjust the 
+interpolated height.  A photo of the area is included below (Figure 10).”   
+Note:  Figure 10 is reproduced as Figure 1 below for ease of reference. 
+ 
+- 14 - 
+ 
+ 
+ 
+Figure 1  Visual Evidence of Annular Waste Heights Near Station 10+00 (Reproduced 
+from Figure 10 U-ESR-H-00113). 
+ 
+The photographic evidence clearly shows waste near the top of the annulus duct at 12 inches 
+on the primary liner side of the duct; however, the assigned height in this area is 3 inches based 
+primarily on interpolation between nearby measured values.  While the surface along the radius 
+varies, the DOE assigns a single height at each location.  This example shows the DOE’s 
+reluctance to increase the volume based on visual evidence due to such issues as depth 
+perception.  This reluctance appears warranted if the measured values are more certain and 
+visual evidence is less compelling.  In this example, the visual evidence that waste is at the top 
+of the known landmark on the primary liner side appears to be compelling to the NRC staff.   
+ 
+This example also illustrates the difficulty in use of visual evidence in assigning waste heights, 
+an approach that is commonly used in assigning volumes in the primary liner, as discussed 
+further below.   
+ 
+- 15 - 
+ 
+ 
+ 
+Figure 2  Visual Evidence of Annular Waste Heights Near Station 8+00 (Reproduced from 
+Figure 9 in U-ESR-H-00113). 
+ 
+In another example, the DOE used visual evidence to adjust the waste heights lower.  At Station 
+9+00 the depth estimate was reduced from six inches to one inch.  The prior estimate was 
+based on visual evidence and the revised estimate is a result of interpolation from 2013 
+measured sample heights.  In response to an NRC comment questioning the Station 9+00 
+depth estimate reduction from six inches to one inch, the DOE indicates the following: 
+ 
+“The measured height at STA 7+00 was 2 inches in 2013.  A photo of nearby area 8+00 was 
+provided in Figure 9. There are no landmarks in the area that are close to being 2 inches 
+tall.  There is a definite change in material color.  Material north of STA 8+00 appears to be 
+minimal and reducing as it continues north.  There is no evidence to suggest that 2 inches is 
+not an accurate depth for STA 8+00.  Material height at STA 9+00 was reported to be 1 inch 
+from visual observation that indicated solids were reducing in height toward the north.”   
+ 
+It is unclear if the darker color waste at the top of Figure 9 is due to a thinner waste depth.  The 
+darker color could be due to poor lighting in this area.  The change in color does not appear 
+gradual, but rather abrupt as might occur with a shadow.   
+ 
+The accuracy of the measured values has not yet been established.  The NRC staff inquired 
+about the uncertainty in the depth measurements based on marking the shaft of the auger when 
+the top of waste had been reached and the shaft of the auger when the bottom of the waste had 
+- 16 - 
+ 
+ 
+been reached (ML15103A413).  The DOE indicated that it was clear when the top of waste had 
+been reached because the auger was no longer hanging in space and the auger could be felt 
+against the hardness of the waste that was similar to “very fine aggregate” or likened to “very 
+weak grout” (U-ESR-H-00128).  The DOE also indicated that due to the consistency of the 
+solids, the DOE did not think that the auger would penetrate the surface in any significant 
+amount and thus indicated that there was a very small amount of uncertainty introduced by the 
+positioning of the auger.  Although it might be clear if the auger was above the waste top and 
+hanging in space, this is not the primary concern of NRC staff as this error would lead to a 
+conservative bias.  However, the NRC staff would note that auger penetration of the waste 
+surface before the auger shaft was marked would serve to bias the height estimates low.  While 
+arguments based on the hardness of the waste are compelling, video observation of waste 
+sampling would help the NRC staff better understand the potential for the auger to penetrate the 
+waste surface and potential error associated with assigning waste heights. 
+ 
+The NRC staff are also concerned that height estimates in the duct are more uncertain given the 
+difficulty in sampling inside the duct.  For example, if tools are used to saw a new hole in the 
+Tank 16H annulus duct to obtain a sample, the waste near the duct surface may be 
+inadvertently disaggregated, biasing the duct waste heights low.  Similarly, if the DOE sampled 
+in previously drilled holes in the duct where waste had already been disturbed and/or sampled, 
+then the height estimates may also be biased low.  The DOE should address this concern in 
+future discussions with the NRC staff and in future inventory documentation. 
+ 
+The NRC staff would also note that selection of measurement location may bias the volumes 
+estimates high or low if the topography is rough, or trends toward thicker or thinner waste 
+heights along the radius.  While the DOE indicated that the waste heights were generally even 
+(U-ESR-H-00128), the response is not strongly supported by the visual evidence.  For example, 
+the DOE concluded that the waste at Station 10 (see Figure 1) on one side of the duct was near 
+the duct height of 12 inches and dropped off, and was lower on other side of the duct leading to 
+an average waste height of 3 inches.  Additionally, there is clear evidence of radial 
+heterogeneity in photographs taken of the annulus.  For example, the material in the annulus on 
+the outside of the duct closer to the tank wall appears to be a lower height than that on the other 
+side (e.g., see pages 16, 17, 18, and 20 in SRR-LWE-2013-00027 that appear to show 
+significant differences in material heights on either side of the duct).  Because the Sampling and 
+Analysis Plan (SRR-LWE-2013-00057, Revision 2, page 30) indicates that samples were taken 
+on the side closer to the tank wall, if this is true5, then the volume estimates could be biased 
+low.  If found to be significant, the DOE should consider variability in heights across the radius 
+of the annulus, and incorporate this into the volume estimate.  The DOE should consider 
+mapping the annulus into sections when consistent radial variability is present and documenting 
+the approach used, as opposed to assuming a consistent height on either side of the duct at 
+each location with mappers making manual interpolations with minimal documentation available 
+for public inspection. 
+ 
+                                                
+5 SRR-LWE-2013-00057, Revision 2, states the following:  “To collect samples outside the 
+dehumidification duct, the pipe will be placed on the residual material in the gap between the duct and 
+primary liner. This should allow for full penetration of the material by the boring bit.”  However, it is not 
+clear from SRR-LWE-2013-00027 that all of the samples were taken from the tank wall side of the 
+annulus duct. 
+- 17 - 
+ 
+ 
+ 
+Figure 3  Photograph of Waste Near Sample 2-A (Reproduced from Figure in Section 4.7 
+of SRR-LWE-2013-00027, page 16). 
+ 
+The NRC staff identified technical issues related to volume estimates in a previous technical review 
+report (i.e., Tanks 5 and 6 ITRR [ML13085A291]) conducted under Monitoring Factor 1.3 
+“Residual Waste Volume” (ML12212A192 and ML15238B403).  These technical issues include 
+the following: 
+ 
+1.  The DOE should better understand the accuracy of mapping team height estimates 
+through additional field validation activities for a range of solid material heights.   
+ 
+2.  The DOE should clearly communicate how it determines the size of areas to be 
+mapped and how it manages uncertainty related to height estimates for discretized 
+areas in its deterministic analysis.  Likewise, the DOE should clarify how it represents 
+uncertainty in the assignment of high-end and low-end heights to these areas (e.g., 
+does it use a height that is clearly below/above the non-uniform surface of the 
+delineated areas).   
+ 
+3. The DOE should consider uncertainty in the volume estimates resulting from the 
+transfer of data from photographic and video evidence to hand contoured maps (and 
+then to Excel spreadsheets with a finer discretization).   
+ 
+4. The DOE should be more transparent with respect to its approach to: (1) mapping 
+annular volumes including use of a crawler to inspect internal surfaces; and, (2) 
+- 18 - 
+ 
+ 
+estimating residual waste volumes in ventilation ducts.  The DOE should consider 
+uncertainty in annulus volume estimates. 
+ 
+With regard to the fist NRC comment regarding validation of assigned waste heights, this 
+comment could be extended to estimation of waste heights in the annulus.  If one assumes that 
+the measured or sampled heights are accurate, then one could argue that the sampled heights 
+do not validate well the visually determined heights because the measured heights varied rather 
+significantly from the visually assigned heights.  However, the accuracy of the measured heights 
+has not yet been established.  The DOE should provide additional information to better 
+understand the accuracy of measured heights that will allow for proper consideration of 
+uncertainty (e.g., video showing the process used to measure the waste height in the annulus to 
+confirm to what accuracy the operators are able to mark the shaft of the auger when the top of 
+the waste is reached or through use of another direct sampling technique). 
+ 
+With regard to the second NRC comment related to uncertainty associated with resolution of 
+height estimates, the comment could be extended to development of the inventory in the 
+annulus.  For example, the assignment of height based on a single, discrete measurement and 
+interpolation of these discrete measurements over large areas in the annulus where the waste 
+height is not homogeneous or not visible introduces uncertainty in the volume estimation 
+approach.  Likewise, it is not clear that the DOE’s assignment of +/- 0.5 inches for the 
+uncertainty waste height in the annulus is well supported.  This value may be associated with 
+the uncertainty in the marking of the auger shaft but the uncertainty in marking the waste 
+surface from the low side has not yet been established and the uncertainty in marking the shaft 
+from the high and low side is likely not congruent.  It is expected that in most cases, it would be 
+clear to the DOE when the bottom of the duct or annulus had been reached leading to less 
+uncertainty in marking the shaft when the bottom had been reached, but that any uncertainty 
+would likely bias the height estimate low (i.e., marking the shaft before the bottom had been 
+reached). 
+ 
+With regard to the third NRC comment that the DOE should consider uncertainty in the volume 
+estimates resulting from the transfer of data from photographic and video evidence to hand 
+contoured maps (and then to Excel spreadsheets with a finer discretization), the DOE’s 
+interpolation approach for waste heights in the annulus could be better supported, and possibly 
+improved.  However, the NRC staff is unaware of any documentation that provided information 
+on how the mappers manually interpolated heights across the radius of the annulus in cases 
+where the heights were radially variable, and therefore, other than reviewing point, interpolation 
+methods along the circumference of the annulus provided in U-ESR-H-00113, the NRC staff did 
+not evaluate any other information in this area.  Given the lower risk-significance of the 
+inventory in the primary liner of Tank 16H, this comment, which is more applicable to 
+development of the inventory for the waste located inside the primary liner, was not a focus of 
+this review. 
+ 
+With regard to the fourth NRC comment related to transparency with respect to annular 
+inventory development and consideration of annular inventory uncertainty, this technical review 
+report is focused in this area and several new technical issues have been identified as 
+discussed in the previous text. 
+ 
+With regard to the cooling coil inventory, the DOE’s rationale for determining when cooling coils 
+will be treated and determining when an inventory for cooling coils (and internal tank surfaces) 
+- 19 - 
+ 
+ 
+will be developed is unclear.  The rationale for assuming no inventory on tank internal surfaces 
+or cooling coils for Tank 16H is that the Tank 16H cleaning history is similar to Tank 5F, and the 
+visual evidence did not show any significant material.  While the DOE’s arguments with respect 
+to Tank 16H appear reasonable, the DOE indicated in the July 28-29, 2015, on-site observation 
+visit that the cooling coils were water washed in Tanks 5F and 6F and walls were spray washed 
+with water in Tanks 18F and 19F, but the DOE believed that water washing would not 
+significantly remove waste from the cooling coils in Tank 12H (ML15239A628).  During the on-
+site observation meeting, the DOE also stated that it did not expect there to be residue on Tank 
+12H cooling coils, which resembled “barnacles.”  However, Tank 12H did, in fact, have 
+significant build-up of waste on the cooling coils (ML15244A839).  These statements appear at 
+odds with previous DOE statements that indicated:  (1) that use of oxalic acid would remove 
+build-up from cooling coils, and (2) that visual evidence is sufficient to conclude that there is no 
+significant build-up of radioactivity on the cooling coils.  The NRC staff will clarify with the DOE 
+in a future teleconference or onsite observation when and how it determines whether there is a 
+significant inventory on the cooling coils, and whether cooling coil washing with water or oxalic 
+acid will be conducted to remove potential build-up on cooling coils and other internal tank 
+surfaces. 
+ 
+In conclusion, the NRC finds the DOE’s proposed methodology to develop volume estimates for 
+the Tank Farms generally acceptable.  The NRC also finds the implementation of the volume 
+estimation approach for Tank 16H generally adequate for use in H-Tank Farm performance 
+assessment calculations.  Nonetheless, the NRC continues to recommend that the DOE 
+improve documentation of its approach, as well as validate methods used to estimate the 
+residual volumes whether through sampling, measurement or through more qualitative methods 
+(e.g., visual evidence).  The annulus presents unique challenges with respect to volume 
+estimation not previously reviewed by NRC staff.  Therefore, the NRC staff’s review and 
+conclusions are focused in this area.   
+ 
+The DOE should also consider improvements to its consideration of waste volume uncertainty.  
+Alternatively, the DOE could more clearly document how it has managed volume uncertainty 
+with conservative assumptions (i.e., assumptions and methods that clearly tend to over- rather 
+than under-estimate the residual volumes) to reduce resources spent on developing and 
+reviewing the residual volume estimates.  To reach this conclusion, the NRC staff extensively 
+reviewed the DOE documentation for volume estimates for Tank 16H. 
+ 
+Teleconference or Meeting: 
+ 
+Tank 16H inventory development was discussed at an on-site observation held at SRS on July 
+28-29, 2015.  The July 28-29, 2015, on-site observation report (ML15239A628) provides a 
+summary of the on-site observation including a detailed list of the NRC questions and the DOE 
+answers provided on Tank 16H inventory. 
+ 
+Follow-up Actions: 
+ 
+The NRC staff will continue to monitor the DOE’s tank sampling and analysis program under 
+Monitoring Factor 1.2 “Residual Waste Sampling” listed in the NRC staff’s plan for monitoring the 
+Tank Farm (ML15238B403) focusing on the technical issues listed in this review report.  Most of 
+the NRC staff’s technical issues discussed in this technical review report are related to 
+- 20 - 
+ 
+ 
+previously identified issues but focus on development of the annular inventory in Tank 16H, and 
+in particular, the DOE’s efforts to collect representative samples and consider uncertainty in 
+sampled concentrations. 
+ 
+The NRC staff will also continue to monitor the DOE’s tank volume estimation program under 
+Monitoring Factor 1.3 “Residual Waste Volume” listed in the NRC staff’s plan for monitoring the 
+Tank Farm (ML15238B403) focusing on technical issues listed in this review report.  Most of the 
+NRC staff’s technical issues discussed in this technical review report are related to previously 
+identified issues but focus on development of the annular inventory in Tank 16H, and in 
+particular, the DOE’s efforts to validate annular waste height estimates and its consideration of 
+uncertainty in volume estimates.   
+ 
+DOE should address the technical concerns listed in this review report, which are not explicitly 
+identified in the NRC staff’s monitoring plan, when developing inventories for the Tank Farm 
+tanks in the future.  In general, inventory is considered by the NRC staff to be of moderate risk-
+significance.  However, the technical concerns identified by the NRC staff in this report for Tank 
+16H are collectively considered to be of moderate to low risk-significance based on their 
+importance to the NRC staff’s conclusions regarding Tank Farm compliance with the 
+performance objectives in 10 CFR Part 61, Subpart C.   
+ 
+Open Issues: 
+ 
+There are no open issues associated with the DOE’s program for estimating final tank 
+inventories.  Treatment of tank inventory uncertainty in the performance assessment calculations 
+will be evaluated in a separate technical review report related to the Tanks 16H Special Analysis 
+to be issued concurrently with this technical review report.   
+ 
+Conclusions: 
+ 
+As a result of the review of several DOE documents related to the development of the final Tank 
+16H inventory, the NRC staff concludes that the DOE has appropriately applied the concepts and 
+methods listed in the DOE’s sampling and analysis program plan (SRR-CWDA-2011-00050, 
+Revision 2) and quality assurance program plan (SRR-CWDA-2011-00117, Revision 0).  To 
+reach this conclusion, the NRC staff focused on a number of areas listed in the Tank 5 and 6 
+ITRR and SRS Tank Farms Monitoring Plan (ML13085A291 and ML15238B403) related to 
+Monitoring Factors 1.2, “Residual Waste Sampling,” and 1.3, “Residual Waste Volume”.  Given 
+the low residual volume in the Tank 16H primary, NRC staff’s review focused on development of the 
+annular inventory, which was deemed by the NRC staff to be more risk-significant.  Many of the Tanks 
+5 and 6 ITRR comments, also listed in the SRS Tank Farms Monitoring Plan, could be extended to 
+development of the Tank 16H annular inventory and are discussed in detail in this report.   
+ 
+With respect to waste sampling (Monitoring Factor 1.2), the NRC staff finds the DOE’s proposed 
+methodology to develop final inventory estimates for Tank Farm tanks acceptable.  The NRC also 
+finds the implementation of the sampling and analysis approach for Tank 16H adequate for use 
+in H-Tank Farm performance assessment calculations, although several areas of potential 
+improvement are noted, particularly related to collection of representative samples, and 
+consideration of uncertainty in the sampled concentrations.  To reach this conclusion, the NRC 
+staff extensively reviewed the DOE inventory documentation and independently evaluated a 
+subset of the Tank 16H analytical data to calculate the 95UCL for the mean.   
+- 21 - 
+ 
+ 
+ 
+With respect to volume estimation (Monitoring Factor 1.3), NRC finds the DOE’s proposed 
+methodology to develop volume estimates for the Tank Farms generally acceptable.  NRC also 
+finds the implementation of the volume estimation approach for Tank 16H generally adequate for 
+use in H-Tank Farm performance assessment calculations.  Nonetheless, the NRC continues to 
+recommend that the DOE improve documentation of its approach, as well as validate methods 
+used to estimate the residual volumes whether through sampling, measurement or through 
+more qualitative methods (e.g., visual evidence).  The annulus presents unique challenges with 
+respect to volume estimation not previously reviewed by the NRC staff.  Therefore, NRC staff’s 
+review and conclusions are focused in this area.   
+ 
+Concentrations and volume are linearly related to inventory and in many cases, inventory is 
+linearly related to dose.  Therefore, the development of waste concentrations and volume, and 
+consideration of uncertainty in waste concentrations and volume estimates is considered risk-
+significant.  With respect to Tank 16H, the uncertainty associated with the final inventory is 
+expected to be less than an order of magnitude, and closer to a factor of two and is therefore, 
+considered to be of moderate to low risk-significance.  Not all of the technical issues identified in 
+the NRC staff’s SRS Tank Farms Monitoring Plan with respect to waste sampling and volume 
+estimation have been addressed.  Therefore, Monitoring Factors 1.2, and 1.3 will remain open at 
+this time.  The NRC staff will monitor progress on these technical concerns as tank farm closure 
+progresses.  When the NRC staff determines that the technical concerns have been addressed, 
+the NRC staff may decide to close these Monitoring Factors.  If Monitoring Factors 1.2 and 1.3 
+are closed before development of final inventories for all SRS Tank Farms high-level waste 
+tanks, the NRC staff will perform a more cursory review of final inventory development under 
+Monitoring Factor 1.1 “Final Inventory and Risk Estimates.”   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 22 - 
+ 
+ 
+Additional References: 
+ 
+NRC, “U.S. Nuclear Regulatory Commission Plan for Monitoring Disposal Actions Taken by the 
+U.S. Department of Energy at the Savannah River Site F-Area Tank Farm Facility in Accordance 
+with the National Defense Authorization Act for Fiscal Year 2005,” ML12212A192, January 
+(2013). 
+ 
+NRC, “Technical Review of Final Inventory Documentation for Tanks 5 and 6 at F-Tank Farm, 
+Savannah River Site, (PROJECT NO. PROJ0734)”, ML13085A291, September 30, 2013. 
+ 
+NRC, “NRC Staff Comments: SRR-CWDA-2013-00091, Rev. 0, Industrial Wastewater Closure 
+Module for Liquid Waste Tank 16, H-Area Tank Farm, Savannah River Site”, ML15103A413, 
+April 2015. 
+ 
+NRC, “The U.S. Nuclear Regulatory Commission July 28-29, 2015, Onsite Observation Visit 
+Report for the Savannah River Site Combined F- and H-Tank Farm Closure”, ML15239A628, 
+October 5, 2015. 
+ 
+NRC, “U.S. NRC Plan for Monitoring Disposal Actions Taken by the U.S. Department of Energy 
+at the Savannah River Site F-Area and H-Area In Accordance with the Ronald Reagan National 
+Defense Authorization Act for FY 2005”, ML15238B403, October 6, 2015. 
+ 
+SRR-CWDA-2013-00018, Revision 1, “Tank 16 Sample Location Determination Report”, 
+Savannah River Remediation, LLC, Closure and Waste Disposal Authority, Aiken, SC, July 
+2014. 
+ 
+SRR-CWDA-2013-00035, “Tank 16 Residuals Sampling Option Recommendation,” Interoffice 
+Memorandum from A.W. Wiggins, Jr., and G.C. Arthur, to D.C. Wood, and K.A. Hauer, 
+Savannah River Remediation, LLC, February 26, 2013. 
+ 
+SRR-LWE-2013-00027, Revision 2, “Tank 16 Sample Location Verification Document”, 
+Savannah River Remediation, December 2013. 
+ 
+WSRC-STI-2008-00203, Revision 0, “Characterization of Samples from Tank 16H Annulus”, 
+Savannah River National Laboratory, Waste Processing Technology Section, Savannah River 
+National Laboratory, Aiken, SC, May 2008. 
+ 
+U-ESR-H-00128, “Tank 16-H Response to NRC Comments on Closure Module (Savannah 
+River Site)”, ML15247A154, May 2015. 
+ 
+ 

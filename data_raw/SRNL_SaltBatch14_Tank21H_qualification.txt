@@ -1,0 +1,556 @@
+ 
+A U.S. DEPARTMENT OF ENERGY NATIONAL LAB     •     SAVANNAH RIVER SITE     •     AIKEN, SC    •     USA 
+ 
+ 
+ 
+Results of Long-Term Analyses of the 
+Salt (Macro) Batch 14 Tank 21H 
+Qualification Sample 
+T. B. Peters 
+January 2025 
+SRNL-STI-2025-00012 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+ii
+ 
+DISCLAIMER 
+This work was prepared under an agreement with and funded by the U.S. Government.  Neither the U.S. 
+Government or its employees, nor any of its contractors, subcontractors or their employees, makes any 
+express or implied: 
+1. warranty or assumes any legal liability for the accuracy, completeness, or for the use or 
+results of such use of any information, product, or process disclosed; or 
+2. representation that such use or results of such use would not infringe privately owned rights; 
+or 
+3. endorsement or recommendation of any specifically identified commercial product, process, 
+or service. 
+Any views and opinions of authors expressed in this work do not necessarily state or reflect those of the 
+United States Government, or its contractors, or subcontractors. 
+ 
+ 
+Printed in the United States of America 
+ 
+Prepared for 
+U.S. Department of Energy 
+ 
+ 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+iii 
+ 
+Keywords: SWPF, cesium 
+ 
+Retention: permanent 
+Results of Long-Term Analyses of the Salt (Macro) Batch 14 
+Tank 21H Qualification Sample 
+T. B. Peters 
+ 
+ 
+January 2025 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Savannah River National Laboratory is operated by 
+Battelle Savannah River Alliance for the U.S. Department 
+of Energy under Contract No. 89303321CEM000080.  
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+iv 
+ 
+REVIEWS AND APPROVALS 
+ 
+AUTHORS: 
+ 
+ 
+______________________________________________________________________________ 
+T. B. Peters, Separation Sciences & Engineering 
+Date 
+ 
+ 
+TECHNICAL REVIEWERS: 
+ 
+ 
+______________________________________________________________________________ 
+I. A. Wiley, Analytical and Tank Farm Characterization 
+Date 
+ 
+ 
+ 
+ 
+APPROVAL: 
+ 
+ 
+______________________________________________________________________________ 
+G. A. Morgan, Jr., Manager, Sep. Sciences & Engineering 
+Date 
+ 
+ 
+______________________________________________________________________________ 
+F. M. Pennebaker, Director, Nuclear & Chemical Processing 
+Date 
+ 
+ 
+______________________________________________________________________________ 
+D. M. Yarbrough, Manager, Flowsheet Development and Facility Integration 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+THOMAS PETERS 
+(Affiliate)
+Digitally signed by THOMAS 
+PETERS (Affiliate) 
+Date: 2025.01.13 13:01:13 
+-05'00'
+INEISHA WILEY 
+(Affiliate)
+Digitally signed by 
+INEISHA WILEY (Affiliate) 
+Date: 2025.01.13 
+13:12:56 -05'00'
+GREGG MORGAN 
+(Affiliate)
+Digitally signed by GREGG 
+MORGAN (Affiliate) 
+Date: 2025.01.13 13:25:14 
+-05'00'
+FRANK 
+PENNEBAKER 
+(Affiliate)
+Digitally signed by FRANK 
+PENNEBAKER (Affiliate) 
+Date: 2025.01.13 13:35:45 
+-05'00'
+Digitally signed by Donna 
+M Yarbrough 
+Date: 2025.01.13 
+15:20:35 -05'00'
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+v 
+ 
+ 
+ 
+ 
+EXECUTIVE SUMMARY 
+ 
+Savannah River National Laboratory (SRNL) analyzed samples from Tank 21H in support of 
+qualification of Salt Waste Processing Facility (SWPF) Salt Batch 14.  This document reports the 
+long-term results of the analyses of the sample of Tank 21H.  Analysis of this sample indicates 
+that the material does not display any unusual characteristics or observations, such as visually 
+apparent solids.  This report satisfies Deliverable 3 of the Technical Task Request (TTR). 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+vi 
+TABLE OF CONTENTS 
+LIST OF TABLES ...................................................................................................................................... vii 
+LIST OF ABBREVIATIONS .................................................................................................................... viii 
+1.0 Introduction ............................................................................................................................................. 1 
+2.0 Experimental Procedure .......................................................................................................................... 1 
+2.1 Quality Assurance ............................................................................................................................... 1 
+3.0 Results and Discussion ........................................................................................................................... 1 
+4.0 Conclusions ............................................................................................................................................. 3 
+5.0 References ............................................................................................................................................... 4 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+vii 
+LIST OF TABLES 
+Table 1.  Analytical Results .......................................................................................................................... 2 
+Table 2.  129I Results for Past Salt Batches ................................................................................................... 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+viii 
+ 
+ 
+ 
+ 
+ 
+ 
+LIST OF ABBREVIATIONS 
+ 
+%RSD 
+Percent Relative Standard Deviation 
+SRNL 
+Savannah River National Laboratory 
+SRMC 
+Savannah River Mission Completion  
+TTR 
+Technical Task Request 
+TTQAP 
+Task Technical and Quality Assurance Plan 
+WAC 
+Waste Acceptance Criteria 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+1 
+1.0 Introduction 
+This report provides the analytical laboratory results of the long term SWPF Salt Batch 14 samples 
+from Tank 21H.  These results will be used by Savannah River Mission Completion (SRMC) to 
+show compliance with downstream facilities.  This work was specified by a TTRi and Task 
+Technical and Quality Assurance Plan (TTQAP).ii  Details for the work are contained in controlled 
+laboratory notebooks.iii 
+ 
+2.0 Experimental Procedure 
+ 
+A single 200 mL Tank 21H sample (HTF-21-24-111) was pulled and delivered to SRNL on 
+November 5, 2024.  The sample was a single depth sample obtained approximately 62” from the 
+bottom of the tank (transfer pump suction).  Tank 21H was mixed at full speed for approximately 
+72 hours by November 4, 2024 before the sample was pulled; the sample was pulled approximately 
+72 hours after pump shutdown.  The sample was pale yellow with no apparent solids.   
+ 
+Samples were filtered via a 0.45 µm nylon syringe filter, apart from the samples for the methyl 
+mercury.  The methyl mercury sub-samples which were diluted with water and HCl in order to 
+preserve the ratios of the various mercury species.  All dilutions are accounted for in the reported 
+values provided.   
+ 
+ 
+ 
+2.1 Quality Assurance 
+Requirements for performing reviews of technical reports and the extent of review are established 
+in Manual E7, Procedure 2.60.  SRNL documents the extent and type of review using the SRNL 
+Technical Report Design Checklist contained in WSRC-IM-2002-00011, Rev. 2.    The customer 
+requested that a Functional Classification of Safety Class apply to this work.  A Design 
+Verification technical review was performed via a document review according to the applicable 
+elements detailed in Section 5.3.1 ‘Design Verification by Document Review’ of E7 2.60.  Data 
+collection and analysis methods used in this work comply with this requirement as detailed in the 
+TTQAP. Results from this report are not RW-0333P as per the TTR. 
+ 
+3.0 Results and Discussion 
+Results for the long-term analyses are listed in Table 1.  Values in parentheses are the percent 
+relative standard deviation (%RSD) values based on replicate sample analysis.  
+ 
+The 129I analysis used a more recent analytical method that involved a chemical separation in the 
+cells, and was run in triplicate. 
+ 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+2 
+Table 1.  Analytical Results 
+ 
+Analyte 
+Result (pCi/mL) 
+WAC 
+Requirement 
+(pCi/mL) 
+3H  
+3.78E+03 (0.0%) 
+5.63E+05 
+14C  
+2.65E+02 (1.8%) 
+1.13E+05 
+60Co  
+<2.64E+01 
+9.75E+02 
+99Tc  
+1.15E+05 (13%) 
+2.11E+05 
+125Sb 
+<3.56E+02 
+7.99E+03 
+126Sn 
+1.57E+03 (5.5%) 
+1.80E+04 
+129I 
+1.03E+02 (5.1%) 
+1.00E+02 
+144Ce 
+<6.48E+02 
+3.12E+04 
+154Eu 
+<8.10E+01 
+1.62E+03 
+155Eu 
+<3.36E+02 
+none 
+232Th  
+<2.20E-04 
+2.88E+03 
+237Np  
+4.65E+00 (5.1%) 
+1.00E+04 
+241Pu  
+5.38E+03 (4.1%) 
+8.38E+05 
+241Am 
+<5.76E+00 
+6.67E+04 
+244Cm 
+<1.05E+01 
+6.67E+04 
+245Cm 
+<7.65E+00 
+2.25E+05 
+Me-Hg 
+8.50 (0.58%) 
+3.50E+02 mg/L 
+ 
+The analytical uncertainties for the radiochemical measurements varied from 5-20%.  The 
+analytical uncertainty for the methyl mercury analyses is 20%.  The methyl mercury value is 
+typical of previous SWPF salt batches. 
+ 
+SRNL will note that the 99Tc and 129I values are approaching or exceeding their WAC 
+requirements.  In comparison, previous batches  11 and 12 exceeded the 129I limits.  For context, the 
+last five 129I results from Salt Batches 9-13 are given.  See Table 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+3 
+Table 2.  129I Results for Past Salt Batches 
+ 
+Salt Batch 
+SourceTank 
+129I (pCi/mL) 
+9 
+21H 
+9.38E+01 (7.8%) 
+10 
+41H 
+9.45E+01 (3.4%) 
+11 
+21H 
+1.55E+02 (4.6%)  
+12 
+42H 
+1.40E+02 (1.4%) 
+13 
+42H 
+8.48E+01 (3.1%) 
+ 
+There is a clear pattern of being close to, or slightly exceeding the WAC requirements in recent 
+times. 
+ 
+ 
+4.0 Conclusions 
+Analysis of the Tank 21H SWPF Salt Batch 14 sample indicates that the material does not display 
+any unusual characteristics or observations, such as visually apparent solids.   The analytical results 
+received thus far are mostly typical of previous salt batches, and mostly consist of less-than values. 
+ 
+This memo satisfies Deliverable 3 of the Technical Task Request (TTR). 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+4 
+ 
+5.0 References 
+ 
+ 
+i J. B. Goldblatt, “Salt Batch Qualification for Feed to Salt Waste Processing Facility”, X-TTR-H-
+00090, Rev. 4, August 2023. 
+ 
+ii T. B. Peters and J. R. Dekarske, “Task Technical and Quality Assurance Plan for SWPF Feed 
+Batch Qualification Testing”, SRNL-RP-2019-00582, Rev. 4, November 2023. 
+ 
+iii T. B. Peters, “Salt Batch 14 Qualification”, ELN, A4571-00527-19. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+5 
+ 
+The standard distribution of all 
+technical reports is:  
+William.bates@srnl.doe.gov  
+Donna.Byrdy@srnl.doe.gov  
+Brandi.clark@srnl.doe.gov  
+georgiaanne.craig@srnl.doe.gov  
+marion.cofer@srnl.doe.gov  
+Vanessa.cofer@srnl.doe.gov  
+alex.cozzi@srnl.doe.gov  
+c.diprete@srnl.doe.gov  
+David.diprete@srnl.doe.gov  
+connie.herman@srnl.doe.gov  
+sarah.hodges@srnl.doe.gov  
+Charles.James@SRNL.DOE.GOV  
+brady.lee@srnl.doe.gov  
+kalyn.loudermilk@srnl.doe.gov   
+Heather.Capogreco@srnl.doe.gov   
+Joseph.Manna@srnl.doe.gov  
+Gregg.Morgan@srnl.doe.gov  
+frank.pennebaker@srnl.doe.gov  
+Amy.Ramsey@srnl.doe.gov  
+William.Ramsey@srnl.doe.gov  
+eric.skidmore@srnl.doe.gov  
+michael.stone@srnl.doe.gov  
+boyd.Wiedenman@srnl.doe.gov  
+Mary.whitehead@srnl.doe.gov  
+Morgana.whiteside@srnl.doe.gov  
+Jennifer.Wohlwend@srnl.doe.gov 
+john.dekarske@srnl.doe.gov 
+ 
+Records Administration (EDWS)  
+For reports funded by SRMC (DOE):  
+jeffrey.crenshaw@srs.gov   
+james.folk@srs.gov  
+timothy.littleton@srs.gov  
+tony.polk@srs.gov  
+Anthony.Robinson@srs.gov  
+Joseph.smith@srs.gov  
+thomas.temple@srs.gov  
+For SWPF related reports:  
+cliff.conner@srs.gov  
+Vijay.Jain@srs.gov  
+Ryan.Lentsch@gat.com  
+matthew02.sims@srs.gov  
+For ARP/MCU reports:  
+Kenneth.Fernadez@srs.gov  
+Phoebe.Fogelman@srs.gov  
+brent.gifford@srs.gov  
+Thomas.Huff@srs.gov  
+Vijay.Jain@srs.gov  
+ryan.mcnew@srs.gov  
+ 
+For Tank Farm related reports:  
+celia.aponte@srs.gov  
+timothy.baughman@srs.gov  
+Azikiwe.hooker@srs.gov  
+Ryan.McNew@srs.gov  
+phillip.norris@srs.gov  
+Christine.Ridgeway@srs.gov  
+Azadeh.Samadi-Dezfouli@srs.gov  
+Vijay.Jain@srs.gov  
+Bruce.wiersma@srnl.doe.gov  
+arthur.wiggins@srs.gov  
+donna.yarbrough@srs.gov 
+ 
+ 
+SRNL-STI-2025-00012 
+Revision #0 
+ 
+6 
+ 
+ 

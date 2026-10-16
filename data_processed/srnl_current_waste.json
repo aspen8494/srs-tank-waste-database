@@ -1,0 +1,1553 @@
+{
+ "tank51_sludge_batch11": {
+  "report": "SRNL-STI-2024-00492",
+  "sample_ids": "HTF-51-24-85/86",
+  "sample_year": 2024,
+  "type": "sludge_batch",
+  "tank": 51,
+  "batch": "Sludge Batch 11 (DWPF Macro Batch 11)",
+  "slurry_elemental_ug_per_g": {
+   "Ag": {
+    "value": 20.5,
+    "flag": "<"
+   },
+   "Al": {
+    "value": 15500.0,
+    "flag": ""
+   },
+   "B": {
+    "value": 40.4,
+    "flag": ""
+   },
+   "Ba": {
+    "value": 93.9,
+    "flag": ""
+   },
+   "Be": {
+    "value": 0.267,
+    "flag": "<"
+   },
+   "Ca": {
+    "value": 1490.0,
+    "flag": ""
+   },
+   "Cd": {
+    "value": 12.9,
+    "flag": ""
+   },
+   "Ce": {
+    "value": 160.0,
+    "flag": "<"
+   },
+   "Co": {
+    "value": 7.57,
+    "flag": "<"
+   },
+   "Cr": {
+    "value": 454.0,
+    "flag": ""
+   },
+   "Cu": {
+    "value": 87.1,
+    "flag": "<"
+   },
+   "Fe": {
+    "value": 16600.0,
+    "flag": ""
+   },
+   "Gd": {
+    "value": 359.0,
+    "flag": ""
+   },
+   "Hg": {
+    "value": 4710.0,
+    "flag": ""
+   },
+   "K": {
+    "value": 449.0,
+    "flag": ""
+   },
+   "La": {
+    "value": 58.5,
+    "flag": ""
+   },
+   "Li": {
+    "value": 66.8,
+    "flag": "<"
+   },
+   "Mg": {
+    "value": 508.0,
+    "flag": ""
+   },
+   "Mn": {
+    "value": 3010.0,
+    "flag": ""
+   },
+   "Mo": {
+    "value": 22.5,
+    "flag": ""
+   },
+   "Na": {
+    "value": 82100.0,
+    "flag": ""
+   },
+   "Nd": {
+    "value": 216.0,
+    "flag": ""
+   },
+   "Ni": {
+    "value": 546.0,
+    "flag": ""
+   },
+   "P": {
+    "value": 244.0,
+    "flag": "<"
+   },
+   "Pb": {
+    "value": 6.44,
+    "flag": ""
+   },
+   "Rh": {
+    "value": 14.6,
+    "flag": ""
+   },
+   "Ru": {
+    "value": 79.2,
+    "flag": ""
+   },
+   "S": {
+    "value": 3030.0,
+    "flag": ""
+   },
+   "Sb": {
+    "value": 6.03,
+    "flag": "<"
+   },
+   "Si": {
+    "value": 1190.0,
+    "flag": ""
+   },
+   "Sn": {
+    "value": 15.3,
+    "flag": "<"
+   },
+   "Sr": {
+    "value": 38.1,
+    "flag": ""
+   },
+   "Th": {
+    "value": 844.0,
+    "flag": ""
+   },
+   "Ti": {
+    "value": 38.5,
+    "flag": ""
+   },
+   "U": {
+    "value": 6010.0,
+    "flag": ""
+   },
+   "V": {
+    "value": 9.7,
+    "flag": "<"
+   },
+   "Zn": {
+    "value": 32.1,
+    "flag": ""
+   },
+   "Zr": {
+    "value": 154.0,
+    "flag": ""
+   }
+  },
+  "slurry_U_Pu_isotopes_dpm_per_g": {
+   "U-233": {
+    "value": 4170.0,
+    "flag": ""
+   },
+   "U-234": {
+    "value": 40700.0,
+    "flag": ""
+   },
+   "U-235": {
+    "value": 551.0,
+    "flag": ""
+   },
+   "U-236": {
+    "value": 1710.0,
+    "flag": ""
+   },
+   "U-238": {
+    "value": 4700.0,
+    "flag": ""
+   },
+   "Pu-238": {
+    "value": 114000000.0,
+    "flag": ""
+   },
+   "Pu-239": {
+    "value": 2920000.0,
+    "flag": ""
+   },
+   "Pu-240": {
+    "value": 1430000.0,
+    "flag": ""
+   },
+   "Pu-241": {
+    "value": 33300000.0,
+    "flag": ""
+   }
+  },
+  "supernate_elemental_mg_per_L": {
+   "Ag": {
+    "value": 0.203,
+    "flag": "<"
+   },
+   "Al": {
+    "value": 5320.0,
+    "flag": ""
+   },
+   "B": {
+    "value": 52.6,
+    "flag": ""
+   },
+   "Ba": {
+    "value": 0.203,
+    "flag": "<"
+   },
+   "Be": {
+    "value": 0.0913,
+    "flag": "<"
+   },
+   "Ca": {
+    "value": 0.0583,
+    "flag": "<"
+   },
+   "Cd": {
+    "value": 0.0865,
+    "flag": "<"
+   },
+   "Ce": {
+    "value": 2.2,
+    "flag": "<"
+   },
+   "Co": {
+    "value": 0.405,
+    "flag": "<"
+   },
+   "Cr": {
+    "value": 235.0,
+    "flag": ""
+   },
+   "Cu": {
+    "value": 0.879,
+    "flag": "<"
+   },
+   "Fe": {
+    "value": 0.681,
+    "flag": "<"
+   },
+   "Gd": {
+    "value": 0.204,
+    "flag": "<"
+   },
+   "Hg": {
+    "value": 148.0,
+    "flag": ""
+   },
+   "K": {
+    "value": 637.0,
+    "flag": ""
+   },
+   "La": {
+    "value": 0.345,
+    "flag": "<"
+   },
+   "Li": {
+    "value": 9.85,
+    "flag": "<"
+   },
+   "Mg": {
+    "value": 1.15,
+    "flag": "<"
+   },
+   "Mn": {
+    "value": 0.33,
+    "flag": "<"
+   },
+   "Mo": {
+    "value": 25.1,
+    "flag": ""
+   },
+   "Na": {
+    "value": 110000.0,
+    "flag": ""
+   },
+   "Nd": {
+    "value": 0.149,
+    "flag": ""
+   },
+   "Ni": {
+    "value": 0.611,
+    "flag": "<"
+   },
+   "P": {
+    "value": 82.1,
+    "flag": ""
+   },
+   "Pb": {
+    "value": 0.399,
+    "flag": ""
+   },
+   "Rh": {
+    "value": 0.462,
+    "flag": ""
+   },
+   "Ru": {
+    "value": 1.1,
+    "flag": ""
+   },
+   "S": {
+    "value": 4000.0,
+    "flag": ""
+   },
+   "Sb": {
+    "value": 3.03,
+    "flag": "<"
+   },
+   "Si": {
+    "value": 20.7,
+    "flag": "<"
+   },
+   "Sn": {
+    "value": 8.56,
+    "flag": "<"
+   },
+   "Sr": {
+    "value": 0.0977,
+    "flag": "<"
+   },
+   "Th": {
+    "value": 3.81,
+    "flag": "<"
+   },
+   "Ti": {
+    "value": 0.625,
+    "flag": "<"
+   },
+   "U": {
+    "value": 10.8,
+    "flag": "<"
+   },
+   "V": {
+    "value": 4.88,
+    "flag": "<"
+   },
+   "Zn": {
+    "value": 1.42,
+    "flag": "<"
+   },
+   "Zr": {
+    "value": 0.13,
+    "flag": "<"
+   }
+  },
+  "supernate_U_Pu_isotopes_dpm_per_mL": {},
+  "supernate_anions_mg_per_L": {
+   "Bromide": {
+    "value": 50.0,
+    "flag": "<"
+   },
+   "Chloride": {
+    "value": 144.0,
+    "flag": ""
+   },
+   "Fluoride": {
+    "value": 1050.0,
+    "flag": ""
+   },
+   "Formate": {
+    "value": 10.0,
+    "flag": "<"
+   },
+   "Nitrate": {
+    "value": 89900.0,
+    "flag": ""
+   },
+   "Nitrite": {
+    "value": 25800.0,
+    "flag": ""
+   },
+   "Oxalate": {
+    "value": 700.0,
+    "flag": ""
+   },
+   "Phosphate": {
+    "value": 10.0,
+    "flag": "<"
+   },
+   "Sulfate": {
+    "value": 11500.0,
+    "flag": ""
+   },
+   "Carbonate": {
+    "value": 22300.0,
+    "flag": ""
+   },
+   "Free OH": {
+    "value": 1.54,
+    "flag": ""
+   },
+   "TOC": {
+    "value": 446.0,
+    "flag": ""
+   },
+   "Cs-137": {
+    "value": 373000000.0,
+    "flag": ""
+   }
+  },
+  "soluble_split_Na_Cr_Hg_S": {
+   "Cr": {
+    "total_ug_per_g": 454.0,
+    "soluble_mg_per_kg": 180.0
+   },
+   "Hg": {
+    "total_ug_per_g": 4710.0,
+    "soluble_mg_per_kg": 113.0
+   },
+   "Na": {
+    "total_ug_per_g": 82100.0,
+    "soluble_mg_per_kg": 84900.0
+   },
+   "S": {
+    "total_ug_per_g": 3030.0,
+    "soluble_mg_per_kg": 3080.0
+   }
+  }
+ },
+ "dwpf_sludge_batch10": {
+  "report": "SRNL-STI-2024-00240",
+  "type": "sludge_batch",
+  "batch": "SB10",
+  "sample_ids": "HTF-40-23-19(1-3)",
+  "sample_year": 2023,
+  "tank": 40,
+  "radionuclides": {
+   "Cl-36": {
+    "wt_pct_total_solids": 5.25e-05,
+    "uCi_per_g_dried_solids": 0.0173,
+    "Ci_per_gal_slurry": 1.09e-05,
+    "flag": ""
+   },
+   "Ni-59": {
+    "wt_pct_total_solids": 0.00032,
+    "uCi_per_g_dried_solids": 0.259,
+    "Ci_per_gal_slurry": 0.000163,
+    "flag": ""
+   },
+   "Co-60": {
+    "wt_pct_total_solids": 8.43e-09,
+    "uCi_per_g_dried_solids": 0.0954,
+    "Ci_per_gal_slurry": 6.03e-05,
+    "flag": ""
+   },
+   "Ni-63": {
+    "wt_pct_total_solids": 5.23e-05,
+    "uCi_per_g_dried_solids": 32.2,
+    "Ci_per_gal_slurry": 0.0204,
+    "flag": ""
+   },
+   "Se-79": {
+    "wt_pct_total_solids": 1.03e-06,
+    "uCi_per_g_dried_solids": 0.000717,
+    "Ci_per_gal_slurry": 4.53e-07,
+    "flag": ""
+   },
+   "Sr-90": {
+    "wt_pct_total_solids": 0.0043,
+    "uCi_per_g_dried_solids": 5870.0,
+    "Ci_per_gal_slurry": 3.71,
+    "flag": ""
+   },
+   "Y-90": {
+    "wt_pct_total_solids": 1.08e-06,
+    "uCi_per_g_dried_solids": 5870.0,
+    "Ci_per_gal_slurry": 3.71,
+    "flag": ""
+   },
+   "Zr-93": {
+    "wt_pct_total_solids": 0.0237,
+    "uCi_per_g_dried_solids": 0.595,
+    "Ci_per_gal_slurry": 0.000376,
+    "flag": ""
+   },
+   "Nb-93m": {
+    "wt_pct_total_solids": 1.88e-07,
+    "uCi_per_g_dried_solids": 0.531,
+    "Ci_per_gal_slurry": 0.000336,
+    "flag": ""
+   },
+   "Tc-99": {
+    "wt_pct_total_solids": 0.00151,
+    "uCi_per_g_dried_solids": 0.257,
+    "Ci_per_gal_slurry": 0.000162,
+    "flag": ""
+   },
+   "Ru-106": {
+    "wt_pct_total_solids": 3.66e-09,
+    "uCi_per_g_dried_solids": 0.122,
+    "Ci_per_gal_slurry": 7.73e-05,
+    "flag": "<"
+   },
+   "Pd-107": {
+    "wt_pct_total_solids": 9.11e-05,
+    "uCi_per_g_dried_solids": 0.000468,
+    "Ci_per_gal_slurry": 2.96e-07,
+    "flag": "<"
+   },
+   "Cd-113m": {
+    "wt_pct_total_solids": 7.4e-07,
+    "uCi_per_g_dried_solids": 1.61,
+    "Ci_per_gal_slurry": 0.00101,
+    "flag": ""
+   },
+   "Sn-121m": {
+    "wt_pct_total_solids": 3.47e-07,
+    "uCi_per_g_dried_solids": 0.205,
+    "Ci_per_gal_slurry": 0.00013,
+    "flag": ""
+   },
+   "Sb-125": {
+    "wt_pct_total_solids": 9.13e-09,
+    "uCi_per_g_dried_solids": 0.0943,
+    "Ci_per_gal_slurry": 5.96e-05,
+    "flag": "<"
+   },
+   "Te-125m": {
+    "wt_pct_total_solids": 5.23e-10,
+    "uCi_per_g_dried_solids": 0.0943,
+    "Ci_per_gal_slurry": 5.96e-05,
+    "flag": "<"
+   },
+   "Sn-126": {
+    "wt_pct_total_solids": 9.67e-06,
+    "uCi_per_g_dried_solids": 0.00274,
+    "Ci_per_gal_slurry": 1.74e-06,
+    "flag": "<"
+   },
+   "I-129": {
+    "wt_pct_total_solids": 0.00186,
+    "uCi_per_g_dried_solids": 0.00329,
+    "Ci_per_gal_slurry": 2.08e-06,
+    "flag": ""
+   },
+   "Ba-133": {
+    "wt_pct_total_solids": 2.04e-08,
+    "uCi_per_g_dried_solids": 0.051,
+    "Ci_per_gal_slurry": 3.22e-05,
+    "flag": "<"
+   },
+   "Cs-134": {
+    "wt_pct_total_solids": 8.55e-08,
+    "uCi_per_g_dried_solids": 1.11,
+    "Ci_per_gal_slurry": 0.0007,
+    "flag": "<"
+   },
+   "Cs-135": {
+    "wt_pct_total_solids": 0.000218,
+    "uCi_per_g_dried_solids": 0.00251,
+    "Ci_per_gal_slurry": 1.59e-06,
+    "flag": ""
+   },
+   "Cs-137": {
+    "wt_pct_total_solids": 0.000463,
+    "uCi_per_g_dried_solids": 403.0,
+    "Ci_per_gal_slurry": 0.255,
+    "flag": ""
+   },
+   "Ba-137m": {
+    "wt_pct_total_solids": 7.08e-11,
+    "uCi_per_g_dried_solids": 381.0,
+    "Ci_per_gal_slurry": 0.241,
+    "flag": ""
+   },
+   "Ce-144": {
+    "wt_pct_total_solids": 1.62e-08,
+    "uCi_per_g_dried_solids": 0.516,
+    "Ci_per_gal_slurry": 0.000326,
+    "flag": "<"
+   },
+   "Pm-147": {
+    "wt_pct_total_solids": 4.28e-06,
+    "uCi_per_g_dried_solids": 39.7,
+    "Ci_per_gal_slurry": 0.0251,
+    "flag": "<"
+   },
+   "Sm-151": {
+    "wt_pct_total_solids": 0.00025,
+    "uCi_per_g_dried_solids": 65.7,
+    "Ci_per_gal_slurry": 0.0415,
+    "flag": ""
+   },
+   "Eu-154": {
+    "wt_pct_total_solids": 1.45e-06,
+    "uCi_per_g_dried_solids": 3.9,
+    "Ci_per_gal_slurry": 0.00247,
+    "flag": ""
+   },
+   "Eu-155": {
+    "wt_pct_total_solids": 4.26e-08,
+    "uCi_per_g_dried_solids": 0.198,
+    "Ci_per_gal_slurry": 0.000125,
+    "flag": "<"
+   },
+   "Pb-210": {
+    "wt_pct_total_solids": 4e-12,
+    "uCi_per_g_dried_solids": 3.06e-06,
+    "Ci_per_gal_slurry": 1.93e-09,
+    "flag": ""
+   },
+   "Ra-226": {
+    "wt_pct_total_solids": 5.81e-10,
+    "uCi_per_g_dried_solids": 5.74e-06,
+    "Ci_per_gal_slurry": 3.63e-09,
+    "flag": ""
+   },
+   "Ac-227": {
+    "wt_pct_total_solids": 1.88e-09,
+    "uCi_per_g_dried_solids": 0.00136,
+    "Ci_per_gal_slurry": 8.61e-07,
+    "flag": ""
+   },
+   "Th-229": {
+    "wt_pct_total_solids": 1.31e-07,
+    "uCi_per_g_dried_solids": 0.000278,
+    "Ci_per_gal_slurry": 1.76e-07,
+    "flag": ""
+   },
+   "Th-230": {
+    "wt_pct_total_solids": 1.18e-06,
+    "uCi_per_g_dried_solids": 0.00025,
+    "Ci_per_gal_slurry": 1.58e-07,
+    "flag": ""
+   },
+   "Pa-231": {
+    "wt_pct_total_solids": 9.03e-07,
+    "uCi_per_g_dried_solids": 0.000427,
+    "Ci_per_gal_slurry": 2.7e-07,
+    "flag": "<"
+   },
+   "Th-232": {
+    "wt_pct_total_solids": 1.42,
+    "uCi_per_g_dried_solids": 0.00156,
+    "Ci_per_gal_slurry": 9.83e-07,
+    "flag": ""
+   },
+   "U-233": {
+    "wt_pct_total_solids": 0.000498,
+    "uCi_per_g_dried_solids": 0.0483,
+    "Ci_per_gal_slurry": 3.05e-05,
+    "flag": ""
+   },
+   "U-234": {
+    "wt_pct_total_solids": 0.00141,
+    "uCi_per_g_dried_solids": 0.088,
+    "Ci_per_gal_slurry": 5.56e-05,
+    "flag": ""
+   },
+   "U-235": {
+    "wt_pct_total_solids": 0.0319,
+    "uCi_per_g_dried_solids": 0.000689,
+    "Ci_per_gal_slurry": 4.36e-07,
+    "flag": ""
+   },
+   "U-236": {
+    "wt_pct_total_solids": 0.00214,
+    "uCi_per_g_dried_solids": 0.00139,
+    "Ci_per_gal_slurry": 8.76e-07,
+    "flag": ""
+   },
+   "Np-237": {
+    "wt_pct_total_solids": 0.00169,
+    "uCi_per_g_dried_solids": 0.0119,
+    "Ci_per_gal_slurry": 7.54e-06,
+    "flag": ""
+   },
+   "U-238": {
+    "wt_pct_total_solids": 2.48,
+    "uCi_per_g_dried_solids": 0.00833,
+    "Ci_per_gal_slurry": 5.26e-06,
+    "flag": ""
+   },
+   "Pu-238": {
+    "wt_pct_total_solids": 0.000589,
+    "uCi_per_g_dried_solids": 101.0,
+    "Ci_per_gal_slurry": 0.0637,
+    "flag": ""
+   },
+   "Pu-239": {
+    "wt_pct_total_solids": 0.0164,
+    "uCi_per_g_dried_solids": 10.2,
+    "Ci_per_gal_slurry": 0.00645,
+    "flag": ""
+   },
+   "Pu-240": {
+    "wt_pct_total_solids": 0.00135,
+    "uCi_per_g_dried_solids": 3.08,
+    "Ci_per_gal_slurry": 0.00194,
+    "flag": ""
+   },
+   "Pu-241": {
+    "wt_pct_total_solids": 3.31e-05,
+    "uCi_per_g_dried_solids": 34.1,
+    "Ci_per_gal_slurry": 0.0215,
+    "flag": ""
+   },
+   "Am-241": {
+    "wt_pct_total_solids": 0.000362,
+    "uCi_per_g_dried_solids": 12.4,
+    "Ci_per_gal_slurry": 0.00785,
+    "flag": ""
+   },
+   "Pu-242": {
+    "wt_pct_total_solids": 0.000106,
+    "uCi_per_g_dried_solids": 0.00405,
+    "Ci_per_gal_slurry": 2.56e-06,
+    "flag": ""
+   },
+   "Am-242m": {
+    "wt_pct_total_solids": 1.27e-07,
+    "uCi_per_g_dried_solids": 0.0123,
+    "Ci_per_gal_slurry": 7.79e-06,
+    "flag": ""
+   },
+   "Cm-242": {
+    "wt_pct_total_solids": 3.08e-10,
+    "uCi_per_g_dried_solids": 0.0102,
+    "Ci_per_gal_slurry": 6.44e-06,
+    "flag": ""
+   },
+   "Am-243": {
+    "wt_pct_total_solids": 3.87e-05,
+    "uCi_per_g_dried_solids": 0.0772,
+    "Ci_per_gal_slurry": 4.88e-05,
+    "flag": ""
+   },
+   "Cm-243": {
+    "wt_pct_total_solids": 1.06e-07,
+    "uCi_per_g_dried_solids": 0.0549,
+    "Ci_per_gal_slurry": 3.47e-05,
+    "flag": "<"
+   },
+   "Cm-244": {
+    "wt_pct_total_solids": 3.66e-06,
+    "uCi_per_g_dried_solids": 2.96,
+    "Ci_per_gal_slurry": 0.00187,
+    "flag": ""
+   },
+   "Cm-245": {
+    "wt_pct_total_solids": 4.29e-07,
+    "uCi_per_g_dried_solids": 0.000737,
+    "Ci_per_gal_slurry": 4.66e-07,
+    "flag": ""
+   },
+   "Cm-246": {
+    "wt_pct_total_solids": 6.26e-07,
+    "uCi_per_g_dried_solids": 0.00192,
+    "Ci_per_gal_slurry": 1.22e-06,
+    "flag": ""
+   },
+   "Cm-247": {
+    "wt_pct_total_solids": 1.28e-08,
+    "uCi_per_g_dried_solids": 1.19e-08,
+    "Ci_per_gal_slurry": 7.52e-12,
+    "flag": "<"
+   },
+   "Bk-247": {
+    "wt_pct_total_solids": 1.27e-08,
+    "uCi_per_g_dried_solids": 0.000133,
+    "Ci_per_gal_slurry": 8.39e-08,
+    "flag": "<"
+   },
+   "Cm-248": {
+    "wt_pct_total_solids": 1.13e-07,
+    "uCi_per_g_dried_solids": 4.8e-06,
+    "Ci_per_gal_slurry": 3.04e-09,
+    "flag": "<"
+   },
+   "Cf-249": {
+    "wt_pct_total_solids": 5.35e-08,
+    "uCi_per_g_dried_solids": 0.00219,
+    "Ci_per_gal_slurry": 1.38e-06,
+    "flag": "<"
+   },
+   "Cf-250": {
+    "wt_pct_total_solids": 9.32e-09,
+    "uCi_per_g_dried_solids": 0.0102,
+    "Ci_per_gal_slurry": 6.44e-06,
+    "flag": "<"
+   },
+   "Cf-251": {
+    "wt_pct_total_solids": 3.73e-07,
+    "uCi_per_g_dried_solids": 0.00591,
+    "Ci_per_gal_slurry": 3.73e-06,
+    "flag": "<"
+   },
+   "Cf-252": {
+    "wt_pct_total_solids": 1.89e-09,
+    "uCi_per_g_dried_solids": 0.0102,
+    "Ci_per_gal_slurry": 6.44e-06,
+    "flag": "<"
+   }
+  }
+ },
+ "swpf_salt_batches": [
+  {
+   "report": "SRNL-STI-2024-00436",
+   "sample_year": 2024,
+   "type": "salt_batch",
+   "samples": {
+    "SWPF Salt Batch 8 (Tank 40, SRNL filtered)": {
+     "chem_mg_per_L": {
+      "Density": 1.31,
+      "Insoluble solids": 184.0,
+      "Na+": 170000.0,
+      "Al": 11800.0,
+      "K+": 1600.0,
+      "Si": 27.4,
+      "OH-": 69300.0,
+      "NO3-": 98300.0,
+      "CO32-": 15900.0,
+      "NO2-": 53300.0,
+      "SO42-": 4000.0,
+      "PO43-": 447.0,
+      "C2O42-": 102.0,
+      "HCO2-": 100.0,
+      "F-": 100.0,
+      "Cl-": 305.0,
+      "Total Hg": 64.1,
+      "Methyl Hg": 8.88,
+      "Total Organic Carbon": 106.0
+     },
+     "rad_pCi_per_mL": {
+      "137Cs": 612000000.0,
+      "137mBa": 566000000.0,
+      "Total gamma": 566000000.0,
+      "Beta Count": 617000000.0,
+      "Total beta, Cs removed": 1320000.0,
+      "Total alpha, Cs removed": 41600.0,
+      "238Pu": 29900.0,
+      "239Pu": 504.0,
+      "240Pu": 276.0,
+      "241Pu": 12200.0,
+      "242Pu": 1.05,
+      "244Pu": 0.00491,
+      "233U": 19.3,
+      "234U": 59.2,
+      "235U": 0.139,
+      "236U": 0.979,
+      "238U": 1.13,
+      "90Sr": 369000.0,
+      "90Y": 369000.0,
+      "3H": 3040.0,
+      "14C": 4950.0,
+      "99Tc": 163000.0,
+      "126Sn": 2160.0,
+      "129I": 167.0,
+      "237Np": 5.99,
+      "244Cm": 31.0
+     }
+    },
+    "SWPF Salt Batch 9 (Tank 40, SRNL filtered)": {
+     "chem_mg_per_L": {
+      "Density": 1.27,
+      "Insoluble solids": 4.48,
+      "Na+": 172000.0,
+      "Al": 10700.0,
+      "K+": 1260.0,
+      "Si": 39.9,
+      "OH-": 59800.0,
+      "NO3-": 116000.0,
+      "CO32-": 18800.0,
+      "NO2-": 42600.0,
+      "SO42-": 3230.0,
+      "PO43-": 353.0,
+      "C2O42-": 100.0,
+      "HCO2-": 100.0,
+      "F-": 100.0,
+      "Cl-": 254.0,
+      "Total Hg": 50.4,
+      "Methyl Hg": 9.35,
+      "Total Organic Carbon": 71.7
+     },
+     "rad_pCi_per_mL": {
+      "137Cs": 488000000.0,
+      "137mBa": 462000000.0,
+      "Total gamma": 462000000.0,
+      "Beta Count": 581000000.0,
+      "Total beta, Cs removed": 959000.0,
+      "Total alpha, Cs removed": 19500.0,
+      "238Pu": 6410.0,
+      "239Pu": 450.0,
+      "240Pu": 666.0,
+      "241Pu": 7540.0,
+      "242Pu": 11.6,
+      "244Pu": 0.0536,
+      "233U": 24.1,
+      "234U": 34.3,
+      "235U": 0.249,
+      "236U": 0.972,
+      "238U": 2.07,
+      "90Sr": 284000.0,
+      "90Y": 284000.0,
+      "3H": 5650.0,
+      "14C": 932.0,
+      "99Tc": 123000.0,
+      "126Sn": 1740.0,
+      "129I": 93.8,
+      "237Np": 6.21,
+      "244Cm": 0.99
+     }
+    }
+   }
+  },
+  {
+   "report": "SRNL-STI-2025-00489",
+   "sample_year": 2025,
+   "type": "salt_batch",
+   "samples": {
+    "SWPF Salt Batch 10 (SRNL filtered)": {
+     "chem_mg_per_L": {
+      "Density": 1.29,
+      "Insoluble solids": 200.0,
+      "Na+": 157000.0,
+      "Al": 7400.0,
+      "K+": 1200.0,
+      "Si": 5.0,
+      "NO3-": 143000.0,
+      "CO32-": 17000.0,
+      "NO2-": 35600.0,
+      "SO42-": 4910.0,
+      "PO43-": 630.0,
+      "C2O42-": 142.0,
+      "HCO2-": 10.0,
+      "Cl-": 19.8,
+      "Total Hg": 50.0,
+      "TOC": 120.0
+     },
+     "rad_pCi_per_mL": {
+      "241Pu": 10200.0,
+      "3H": 1970.0,
+      "14C": 479.0,
+      "99Tc": 93800.0,
+      "126Sn": 1510.0,
+      "129I": 94.5,
+      "237Np": 7.36,
+      "244Cm": 2.51
+     }
+    },
+    "SWPF Salt Batch 11 (SRNL filtered)": {
+     "chem_mg_per_L": {
+      "Density": 1.299,
+      "Insoluble solids": 550.0,
+      "Na+": 167000.0,
+      "Al": 9400.0,
+      "K+": 1420.0,
+      "Si": 5.0,
+      "NO3-": 108000.0,
+      "CO32-": 10300.0,
+      "NO2-": 44000.0,
+      "SO42-": 2240.0,
+      "PO43-": 320.0,
+      "C2O42-": 94.0,
+      "HCO2-": 10.0,
+      "Cl-": 224.0,
+      "Total Hg": 50.0,
+      "TOC": 90.0
+     },
+     "rad_pCi_per_mL": {
+      "241Pu": 1230.0,
+      "3H": 7040.0,
+      "14C": 177.0,
+      "99Tc": 115000.0,
+      "126Sn": 1980.0,
+      "129I": 155.0,
+      "237Np": 4.97,
+      "244Cm": 435.0
+     }
+    },
+    "SWPF Salt Batch 12 (SWPF-AL filtered)": {
+     "chem_mg_per_L": {
+      "Density": 1.313,
+      "Insoluble solids": 200.0,
+      "Na+": 190000.0,
+      "Al": 9600.0,
+      "K+": 1630.0,
+      "Si": 5.0,
+      "NO3-": 132000.0,
+      "CO32-": 15900.0,
+      "NO2-": 50000.0,
+      "SO42-": 3040.0,
+      "PO43-": 640.0,
+      "C2O42-": 294.0,
+      "HCO2-": 14.5,
+      "Cl-": 232.0,
+      "Total Hg": 45.0,
+      "TOC": 190.0
+     },
+     "rad_pCi_per_mL": {
+      "137Cs": 563000000.0,
+      "Total beta, without Cs": 1220000.0,
+      "Total alpha": 8600.0,
+      "239Pu": 210.0,
+      "240Pu": 125.0,
+      "233U": 7.7,
+      "234U": 54.0,
+      "235U": 0.5,
+      "236U": 1.5,
+      "238U": 2.5,
+      "90Sr": 328000.0
+     }
+    },
+    "SWPF Salt Batch 13 (SWPF-AL filtered)": {
+     "chem_mg_per_L": {
+      "Density": 1.325,
+      "Insoluble solids": 200.0,
+      "Na+": 179000.0,
+      "Al": 8500.0,
+      "K+": 1340.0,
+      "NO3-": 156000.0,
+      "CO32-": 14400.0,
+      "NO2-": 41100.0,
+      "SO42-": 6390.0,
+      "PO43-": 403.0,
+      "C2O42-": 205.0,
+      "Cl-": 226.0,
+      "Total Hg": 38.0,
+      "TOC": 140.0
+     },
+     "rad_pCi_per_mL": {
+      "241Pu": 5420.0,
+      "3H": 15800.0,
+      "14C": 2700.0,
+      "99Tc": 152000.0,
+      "126Sn": 1810.0,
+      "129I": 45.5,
+      "237Np": 5.06,
+      "244Cm": 38.2
+     }
+    }
+   }
+  },
+  {
+   "report": "Salt Batch 14 qualification sample (Tank 21H), SRNL",
+   "sample_year": 2025,
+   "type": "salt_batch",
+   "samples": {
+    "SWPF Salt Batch 14 (Tank 21H)": {
+     "rad_pCi_per_mL": {
+      "3H": 3780.0,
+      "14C": 265.0,
+      "60Co": 26.4,
+      "99Tc": 115000.0,
+      "125Sb": 356.0,
+      "126Sn": 1570.0,
+      "129I": 103.0,
+      "144Ce": 648.0,
+      "154Eu": 81.0,
+      "155Eu": 336.0,
+      "232Th": 0.00022,
+      "237Np": 4.65,
+      "241Pu": 5380.0,
+      "241Am": 5.76,
+      "244Cm": 10.5,
+      "245Cm": 7.65
+     },
+     "wac_limits": {
+      "3H": 563000.0,
+      "14C": 113000.0,
+      "60Co": 975.0,
+      "99Tc": 211000.0,
+      "125Sb": 7990.0,
+      "126Sn": 18000.0,
+      "129I": 100.0,
+      "144Ce": 31200.0,
+      "154Eu": 1620.0,
+      "232Th": 2880.0,
+      "237Np": 10000.0,
+      "241Pu": 838000.0,
+      "241Am": 66700.0,
+      "244Cm": 66700.0,
+      "245Cm": 225000.0
+     }
+    }
+   }
+  }
+ ],
+ "prft": {
+  "report": "SRNL PRFT Batches 15/22/26 characterization",
+  "sample_year": 2025,
+  "type": "prft_slurry",
+  "slurry_chem_by_element": {
+   "Ag": [
+    0.077,
+    0.077,
+    0.077
+   ],
+   "Al": [
+    219.0,
+    162.0,
+    283.0
+   ],
+   "B": [
+    8.78,
+    8.78,
+    8.78
+   ],
+   "Ba": [
+    10.2,
+    12.4,
+    14.5
+   ],
+   "Be": [
+    0.0505,
+    0.0503,
+    0.0504
+   ],
+   "Ca": [
+    195.0,
+    197.0,
+    247.0
+   ],
+   "Cd": [
+    7.44,
+    7.55,
+    6.61
+   ],
+   "Ce": [
+    0.305,
+    0.305,
+    0.305,
+    7.13,
+    2.35,
+    1.81
+   ],
+   "Cr": [
+    16.1,
+    17.9,
+    16.5
+   ],
+   "Cu": [
+    17.8,
+    17.8,
+    17.8
+   ],
+   "Fe": [
+    154.0,
+    140.0,
+    479.0
+   ],
+   "Gd": [
+    0.342,
+    0.342,
+    0.342
+   ],
+   "K": [
+    26.1,
+    26.1,
+    26.1
+   ],
+   "La": [
+    0.291,
+    0.291,
+    0.291
+   ],
+   "Li": [
+    61.6,
+    61.6,
+    61.6
+   ],
+   "Mg": [
+    7.82,
+    7.19,
+    6.37
+   ],
+   "Mn": [
+    5.4,
+    2.24,
+    42.2
+   ],
+   "Mo": [
+    1.76,
+    1.76,
+    1.76
+   ],
+   "Na": [
+    6558.0,
+    6723.0,
+    6138.0,
+    0.199,
+    0.199,
+    0.199
+   ],
+   "Ni": [
+    19.4,
+    20.2,
+    50.4
+   ],
+   "P": [
+    6.81,
+    6.79,
+    6.81,
+    6.11,
+    4.01,
+    6.17
+   ],
+   "S": [
+    99.4,
+    80.4,
+    66.9,
+    0.0398,
+    0.0398,
+    0.0398
+   ],
+   "Si": [
+    43.9,
+    43.9,
+    43.9
+   ],
+   "Sn": [
+    4.89,
+    4.88,
+    4.89
+   ],
+   "Sr": [
+    4.69,
+    3.1,
+    4.46
+   ],
+   "Th": [
+    5.52,
+    5.52,
+    5.52
+   ],
+   "Ti": [
+    12200.0,
+    16200.0,
+    16225.0,
+    133.0,
+    141.0,
+    129.0
+   ],
+   "V": [
+    2.98,
+    2.97,
+    2.98
+   ],
+   "Zn": [
+    12.4,
+    15.7,
+    23.4
+   ],
+   "Zr": [
+    4.99,
+    6.92,
+    6.9,
+    7.0
+   ]
+  },
+  "batch_rad_uCi_per_g": {
+   "15": {
+    "Ni-59": {
+     "uCi_per_g_dried_solids": 0.0225,
+     "flag": "<"
+    },
+    "Ni-63": {
+     "uCi_per_g_dried_solids": 0.0242,
+     "flag": "<"
+    },
+    "Se-79": {
+     "uCi_per_g_dried_solids": 0.00317,
+     "flag": "<"
+    },
+    "Sr-90": {
+     "uCi_per_g_dried_solids": 1150.0,
+     "flag": ""
+    },
+    "Zr-93": {
+     "uCi_per_g_dried_solids": 0.0731,
+     "flag": ""
+    },
+    "Nb-93m": {
+     "uCi_per_g_dried_solids": 0.0642,
+     "flag": ""
+    },
+    "Tc-99": {
+     "uCi_per_g_dried_solids": 0.00644,
+     "flag": "<"
+    },
+    "Sn-126": {
+     "uCi_per_g_dried_solids": 0.111,
+     "flag": "<"
+    },
+    "Cs-137": {
+     "uCi_per_g_dried_solids": 483.0,
+     "flag": ""
+    },
+    "Sm-151": {
+     "uCi_per_g_dried_solids": 0.0259,
+     "flag": "<"
+    },
+    "U-233": {
+     "uCi_per_g_dried_solids": 0.0225,
+     "flag": ""
+    },
+    "U-234": {
+     "uCi_per_g_dried_solids": 0.0864,
+     "flag": ""
+    },
+    "U-235": {
+     "uCi_per_g_dried_solids": 0.000241,
+     "flag": ""
+    },
+    "U-236": {
+     "uCi_per_g_dried_solids": 0.00139,
+     "flag": ""
+    },
+    "U-238": {
+     "uCi_per_g_dried_solids": 0.00146,
+     "flag": ""
+    },
+    "Np-237": {
+     "uCi_per_g_dried_solids": 0.00775,
+     "flag": ""
+    },
+    "Pu-238": {
+     "uCi_per_g_dried_solids": 70.0,
+     "flag": ""
+    },
+    "Pu-239": {
+     "uCi_per_g_dried_solids": 1.49,
+     "flag": ""
+    },
+    "Pu-240": {
+     "uCi_per_g_dried_solids": 0.779,
+     "flag": ""
+    },
+    "Pu-241": {
+     "uCi_per_g_dried_solids": 25.5,
+     "flag": ""
+    },
+    "Am-241": {
+     "uCi_per_g_dried_solids": 0.102,
+     "flag": ""
+    },
+    "Am-243": {
+     "uCi_per_g_dried_solids": 0.00112,
+     "flag": "<"
+    },
+    "Cm-244": {
+     "uCi_per_g_dried_solids": 0.00922,
+     "flag": ""
+    }
+   },
+   "22": {
+    "Ni-59": {
+     "uCi_per_g_dried_solids": 0.0124,
+     "flag": "<"
+    },
+    "Ni-63": {
+     "uCi_per_g_dried_solids": 0.0185,
+     "flag": "<"
+    },
+    "Se-79": {
+     "uCi_per_g_dried_solids": 0.00342,
+     "flag": "<"
+    },
+    "Sr-90": {
+     "uCi_per_g_dried_solids": 1310.0,
+     "flag": ""
+    },
+    "Zr-93": {
+     "uCi_per_g_dried_solids": 0.0693,
+     "flag": ""
+    },
+    "Nb-93m": {
+     "uCi_per_g_dried_solids": 0.0609,
+     "flag": ""
+    },
+    "Tc-99": {
+     "uCi_per_g_dried_solids": 0.00613,
+     "flag": "<"
+    },
+    "Sn-126": {
+     "uCi_per_g_dried_solids": 0.125,
+     "flag": "<"
+    },
+    "Cs-137": {
+     "uCi_per_g_dried_solids": 113.0,
+     "flag": ""
+    },
+    "Sm-151": {
+     "uCi_per_g_dried_solids": 0.0269,
+     "flag": "<"
+    },
+    "Th-229": {
+     "uCi_per_g_dried_solids": 1.63e-05,
+     "flag": "<"
+    },
+    "U-233": {
+     "uCi_per_g_dried_solids": 0.0203,
+     "flag": ""
+    },
+    "U-234": {
+     "uCi_per_g_dried_solids": 0.0921,
+     "flag": ""
+    },
+    "U-235": {
+     "uCi_per_g_dried_solids": 0.00022,
+     "flag": ""
+    },
+    "U-236": {
+     "uCi_per_g_dried_solids": 0.00126,
+     "flag": ""
+    },
+    "U-238": {
+     "uCi_per_g_dried_solids": 0.00113,
+     "flag": ""
+    },
+    "Np-237": {
+     "uCi_per_g_dried_solids": 0.00947,
+     "flag": ""
+    },
+    "Pu-238": {
+     "uCi_per_g_dried_solids": 82.7,
+     "flag": ""
+    },
+    "Pu-239": {
+     "uCi_per_g_dried_solids": 1.46,
+     "flag": ""
+    },
+    "Pu-240": {
+     "uCi_per_g_dried_solids": 0.829,
+     "flag": ""
+    },
+    "Pu-241": {
+     "uCi_per_g_dried_solids": 30.7,
+     "flag": ""
+    },
+    "Am-241": {
+     "uCi_per_g_dried_solids": 0.09,
+     "flag": ""
+    },
+    "Am-243": {
+     "uCi_per_g_dried_solids": 0.0024,
+     "flag": ""
+    },
+    "Cm-244": {
+     "uCi_per_g_dried_solids": 0.00397,
+     "flag": ""
+    }
+   },
+   "26": {
+    "Ni-59": {
+     "uCi_per_g_dried_solids": 0.0111,
+     "flag": "<"
+    },
+    "Ni-63": {
+     "uCi_per_g_dried_solids": 0.0208,
+     "flag": "<"
+    },
+    "Se-79": {
+     "uCi_per_g_dried_solids": 0.0033,
+     "flag": "<"
+    },
+    "Sr-90": {
+     "uCi_per_g_dried_solids": 1780.0,
+     "flag": ""
+    },
+    "Zr-93": {
+     "uCi_per_g_dried_solids": 0.0667,
+     "flag": ""
+    },
+    "Nb-93m": {
+     "uCi_per_g_dried_solids": 0.0587,
+     "flag": ""
+    },
+    "Tc-99": {
+     "uCi_per_g_dried_solids": 0.00559,
+     "flag": "<"
+    },
+    "Sn-126": {
+     "uCi_per_g_dried_solids": 0.133,
+     "flag": "<"
+    },
+    "Cs-137": {
+     "uCi_per_g_dried_solids": 96.1,
+     "flag": ""
+    },
+    "Sm-151": {
+     "uCi_per_g_dried_solids": 0.0344,
+     "flag": "<"
+    },
+    "Th-229": {
+     "uCi_per_g_dried_solids": 1.91e-05,
+     "flag": "<"
+    },
+    "U-233": {
+     "uCi_per_g_dried_solids": 0.0206,
+     "flag": ""
+    },
+    "U-234": {
+     "uCi_per_g_dried_solids": 0.103,
+     "flag": ""
+    },
+    "U-235": {
+     "uCi_per_g_dried_solids": 0.000197,
+     "flag": ""
+    },
+    "U-236": {
+     "uCi_per_g_dried_solids": 0.00126,
+     "flag": ""
+    },
+    "U-238": {
+     "uCi_per_g_dried_solids": 0.00106,
+     "flag": ""
+    },
+    "Np-237": {
+     "uCi_per_g_dried_solids": 0.00922,
+     "flag": ""
+    },
+    "Pu-238": {
+     "uCi_per_g_dried_solids": 102.0,
+     "flag": ""
+    },
+    "Pu-239": {
+     "uCi_per_g_dried_solids": 1.56,
+     "flag": ""
+    },
+    "Pu-240": {
+     "uCi_per_g_dried_solids": 0.926,
+     "flag": ""
+    },
+    "Pu-241": {
+     "uCi_per_g_dried_solids": 35.3,
+     "flag": ""
+    },
+    "Am-241": {
+     "uCi_per_g_dried_solids": 0.0667,
+     "flag": ""
+    },
+    "Am-243": {
+     "uCi_per_g_dried_solids": 0.000491,
+     "flag": "<"
+    },
+    "Cm-244": {
+     "uCi_per_g_dried_solids": 0.00186,
+     "flag": ""
+    }
+   }
+  }
+ }
+}

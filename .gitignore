@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS junk
+.DS_Store
+*.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Streamlit local secrets (never commit credentials)
+.secrets/
+.streamlit/secrets.toml

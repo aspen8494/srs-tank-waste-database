@@ -1,0 +1,723 @@
+ 
+A U.S. DEPARTMENT OF ENERGY NATIONAL LAB     •     SAVANNAH RIVER SITE     •     AIKEN, SC    •     USA 
+ 
+ 
+ 
+Tank 38 Solids Analyses  
+C. L. Crawford 
+October 2024  
+SRNL-STI-2024-00506, Revision 0 
+ 
+ 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+ii
+ 
+DISCLAIMER 
+This work was prepared under an agreement with and funded by the U.S. Government.  Neither the U.S. 
+Government or its employees, nor any of its contractors, subcontractors, or their employees, makes any 
+express or implied: 
+1. warranty or assumes any legal liability for the accuracy, completeness, or for the use or 
+results of such use of any information, product, or process disclosed; or 
+2. representation that such use or results of such use would not infringe privately owned rights; 
+or 
+3. endorsement or recommendation of any specifically identified commercial product, process, 
+or service. 
+Any views and opinions of authors expressed in this work do not necessarily state or reflect those of the 
+United States Government, or its contractors, or subcontractors. 
+ 
+ 
+Printed in the United States of America 
+ 
+Prepared for 
+U.S. Department of Energy 
+ 
+ 
+ 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+iii
+ 
+Keywords: 2H Evaporator System 
+Solids Analysis, Radionuclides 
+ 
+Retention: Permanent 
+Tank 38 Solids Analyses      
+C. L. Crawford 
+ 
+ 
+October 2024 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Savannah River National Laboratory is operated by 
+Battelle Savannah River Alliance for the U.S. Department 
+of Energy under Contract No. 89303321CEM000080.  
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+v
+EXECUTIVE SUMMARY 
+ 
+ 
+The October 2023 Tank 38 HTF-38-23-96 VDS was reported to contain 3.0 ± 0.1 wt% insoluble solids and 
+warm acid strike dissolution indicated presence of relative high amounts of High-Level Waste (HLW) 
+sludge components such as Al, Ca, Fe, Mn and U.  Savannah River Mission Completion (SRMC) personnel 
+thus sampled the Tank 38 in early February 2024 to provide the HTF-38-24-21 VDS for insoluble solids 
+analysis at the Savannah River National Laboratory (SRNL).  This report presents results for the elemental, 
+radionuclide and crystalline species analyses of the February 2024 HTF-38-24-21 washed and dried solids.   
+ 
+The wt% insoluble solids measured for the HTF-38-24-21 VDS sample is 6.1 ± 0.7 wt%.  Major elements 
+detected in the washed and dried Tank 38 solids are Al and Na at over 10 wt%, followed by Ca, Fe, Mn, Si 
+and U in the range of 1.6 to 8.7 wt%.  Trace levels of Ba, Zn and Zr are detectable at ~ 0.02 wt% with 
+higher levels of Cr (0.12 wt%), Ni (0.25 wt%) and Mg (0.46 wt%) present.  Some elements were not 
+detectable including B, Gd, Li and Ti.  Comparison of the Tank 38 solids elemental concentrations to recent 
+Sludge Batch 9 (SB9) dried sludge slurry indicates that the Tank 38 solids compare similarly with most 
+sludge species except that the Na/Fe, Al/Fe and Si/Fe ratios for the Tank 38 solids are all significantly 
+higher than those respective ratios in SB9 sludge.  The SB9 sludge composition is deemed the most 
+reasonable sludge composition for comparison to the February 2024 Tank 38 sample since no transfers 
+have been made from Tank 22 to Tank 38 since January of 2023 and processing of SB10 did not start until 
+March of 2023.  Comparison of the typical sludge species Mn, Ni and U to Fe ratios for either the HTF-38-
+24-21 solids (Mn/Fe = 0.4, Ni/Fe = 0.04, U/Fe = 0.9) or the SB9 slurry (Mn/Fe = 0.33, Ni/Fe = 0.07, U/Fe 
+= 0.2) indicate similar respective ratios suggesting that the insoluble solids in the HTF-38-24-21 sample are 
+indeed sludge-derived solids.  One exception to this observation is the higher total uranium levels (either 
+as ratio to iron, or as wt% solids) in the Tank 38 solids vs. sludge.     
+ 
+Similar comparison of the Tank 38 solids elemental concentrations was made to recent SB9 Defense Waste 
+Processing Facility (DWPF) pour stream glass elemental concentrations.  Several of the Tank 38 elementals 
+are higher than SB9 glass (Al, Ca and U).  Many of the Tank 38 elementals are similar to those in glass (Fe, 
+Mn, Na, Zn and Zr).  However, the Si in Tk 38 is ~ 2.6X lower compared to SB9 glass (8.7 wt% vs. 23 
+wt%).  Additionally, several of the glass elementals (B, Li and Ti) are not detectable in the Tk 38 solids.  
+These data indicate that the Tank 38 solids are not consistent with the elemental signature expected from 
+SB9 pour stream glass. 
+ 
+A suite of radionuclides was also analyzed for the Tank 38 solids.  These radionuclides including isotopes 
+of U and Pu and Am/Cm, as well as Cs-137 and Sr-90 are noted to be in similar relative abundance to those 
+of SB9 sludge.  One exception is the higher total uranium wt% in the Tank 38 solids relative to SB9 sludge.  
+ 
+Crystalline species analyses on the washed and dried Tank 38 solids indicates presence of various sodium 
+aluminosilicate (NAS) species similar to analogous measurements performed in 2004, 2015 and 2016 on 
+Tank 38 solids.  From consideration of the elemental, radionuclide and crystalline species data presented in 
+this report, the Tank 38 solids are judged to be most likely sodium aluminosilicate solids that also contain 
+insoluble sludge components.  Assigning all the measured Na, Al and Si to NAS components results in a 
+calculated 64 wt% NAS and 36 wt% sludge as the estimated mass fractions.  If all of the analyzed uranium 
+in the solids is associated with the NAS, then the calculated values are 75 wt% NAS and 25 wt% sludge  as 
+the estimated mass fractions.    
+ 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+vi
+TABLE OF CONTENTS 
+LIST OF TABLES ...................................................................................................................................... vii 
+LIST OF FIGURES .................................................................................................................................... vii 
+LIST OF ABBREVIATIONS .................................................................................................................... viii 
+1.0 Introduction ............................................................................................................................................. 1 
+2.0 Experimental ........................................................................................................................................... 1 
+2.1 Technical Details and Procedures ....................................................................................................... 1 
+2.2 Quality Assurance ............................................................................................................................... 1 
+3.0 Results and Discussion ........................................................................................................................... 2 
+4.0 Conclusions ............................................................................................................................................. 7 
+5.0 References ............................................................................................................................................... 8 
+ 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+vii
+LIST OF TABLES 
+Table 3-1.  Washed and Dried Solids Analyses for Tank 38 ................................................................... 3 
+Table 3-2.  Washed and Dried Solids Radionuclide Analyses for Tank 38 .................................................. 4 
+ 
+LIST OF FIGURES 
+Figure 3-1.  X-ray Diffraction Pattern for Tank 38 Solids Sample 1 of 3 .................................................... 5 
+Figure 3-2.  X-ray Diffraction Pattern for Tank 38 Solids Sample 2 of 3 .................................................... 6 
+Figure 3-3.  X-ray Diffraction Pattern for Tank 38 Solids Sample 3 of 3 .................................................... 6 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+viii
+LIST OF ABBREVIATIONS 
+ 
+CCP 
+Corrosion Control Program 
+DWPF 
+Defense Waste Processing Facility 
+ECP 
+Enrichment Control Program 
+HLW 
+High-Level Waste 
+ICP-OES 
+inductively coupled plasma-optical emission spectroscopy  
+NAS 
+Sodium Aluminosilicate 
+%RSD 
+percent relative standard deviation 
+PUTTA 
+Pu-thenoyltrifluoroacetone 
+S/ICP-MS 
+separation/ inductively coupled plasma-mass spectrometry 
+SRNL 
+Savannah River National Laboratory 
+SRMC 
+Savannah River Mission Completion 
+TTQAP 
+Task Technical and Quality Assurance Plan 
+TTR 
+Technical Task Request 
+VDS 
+Variable Depth Sample 
+XRD 
+X-Ray Diffraction 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+1
+1.0 Introduction 
+ 
+This technical report provides results for the 2024 Variable Depth Sample (VDS) from H Area Tank Farm 
+Tank HTF-38-24-21 for solids characterization.  These data are needed to aid Savannah River Mission 
+Completion (SRMC) in planning for operations of Tank 38, which is the drop tank for the 2H Evaporator 
+and can receive Defense Waste Processing Facility (DWPF) recycle material from Tank 22.  The October 
+2023 Tank 38 HTF-38-23-96 VDS was reported to contain 3.0 ± 0.1 wt% insoluble solids and warm acid 
+strike dissolution indicated presence of relative high amounts of High-Level Waste (HLW) sludge 
+components such as Al, Ca, Fe, Mn and U.1  Per guidance of the Task Technical and Quality Assurance 
+Plan (TTQAP) for the Enrichment Control Program (ECP),2 any samples with higher than 1 wt% insoluble 
+solids will be analyzed by more aggressive methods such as aqua regia or peroxide fusion dissolution of 
+the washed insoluble solids.  Savannah River Mission Completion (SRMC) personnel thus sampled the 
+Tank 38 in early February 2024 to provide the HTF-38-24-21 VDS, which was sampled 230.5 inches from 
+the bottom of the tank, for insoluble solids analysis at the Savannah River National Laboratory (SRNL).  
+Initial elemental characterization of the washed and dried filtered solids from the HTF-38-24-21 VDS have 
+previously been reported.3  Previous core samples and VDS samples from Tank 38 have been analyzed to 
+investigate presence of observed insoluble solids.4,5,6,7  Feed limits have been established for the 2H-
+Evaporator system to ensure nuclear criticality is not possible and corrosion is minimized.8  These limits 
+are protected by the Enrichment Control Program (ECP) and the Corrosion Control Program (CCP) that 
+require periodic sampling and analysis to confirm that the waste supernate composition stays within the 
+limits.9,10  The ECP sample characterization was requested via a Technical Task Request (TTR).11  
+ 
+2.0 Experimental  
+2.1 Technical Details and Procedures 
+ 
+Details of the wt% insoluble solids analysis on the HTF-38-24-21 VDS were presented in the initial Tank 
+38 solids characterization memorandum.3  The wt% insoluble solids measured for the HTF-38-24-21 
+sample is 6.1 ± 0.7 wt%.  These washed and dried insoluble solids were subjected to both aqua regia and 
+peroxide fusion digestions that used nominally 0.1 g dried solids digested up to a total of 100 mL.  These 
+digested solids were analyzed by Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES) 
+for elementals characterization.  A high purity water sample was used as a reagent blank for both digestion 
+methods.  The aqua regia digestions were also submitted for various radiochemical analyses.  Methods 
+typically used in the ECP analyses1 were applied for uranium isotopes (separation/inductively coupled 
+plasma-mass spectroscopy (S/ICP-MS) and determination of plutonium isotopes by radiochemical 
+separation/extraction with thenoyltrifluoroacetone and counting methods (PUTTA chemical separation 
+coupled with alpha spectroscopy).  Additionally, the digested samples were also submitted for 1) gamma 
+spectroscopy to determine the Cs-137, 2) Sr-90 analysis by extraction and beta counting and 3) 
+Americium/Curium (Am/Cm) radiochemical analysis by extraction and alpha spectroscopy.  Small 
+milligram portions of the washed and dried HTF-38-24-21 VDS powders were also analyzed by X-Ray 
+Diffraction (XRD) using a contained XRD instrument to investigate the qualitative presence of crystalline 
+species.  
+2.2 Quality Assurance 
+ 
+Requirements for performing reviews of technical reports and the extent of review are established in Manual 
+E7, Procedure 2.60.12  SRNL documents the extent of the Design Check using the SRNL Technical Report 
+Design Checklist.13  This review meets the acceptable criteria to comply with the TTR2 requesting this work 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+2
+with a functional classification of Safety Class and per guidance in the TTQAP.11   Data are recorded in the 
+electronic laboratory notebook system as notebook/experiment number B9108-00327-41.14  
+ 
+3.0 Results and Discussion 
+ 
+Elemental Analyses 
+ 
+Table 3-1 provides the average Tank 38 washed and dried solids chemical analyses for the combined 
+triplicate samples from both aqua regia and peroxide fusion.  Estimated one sigma percent uncertainty 
+values that provide an indication of the uncertainty associated with the ICP-OES are 5%.  Some of the 
+components only use aqua regia (B, Ba, Gd, Li, Na, Ti, Zn and Zr) and Si is determined by peroxide fusion 
+only.  Deionized water blanks showed no detectable species except for Ca (0.3 wt%) and Mg (0.1 wt%) in 
+aqua regia and Ca (0.8 wt%) in peroxide fusion.  Major metals shown are Al and Na at over 10 wt%, 
+followed by Ca, Fe, Mn, Si and U in the range of 1.6 to 8.7 wt%.  Trace levels of Ba, Zn and Zr are 
+detectable at ~ 0.02 wt% with higher levels of Cr (0.12 wt%), Ni (0.25 wt%) and Mg (0.46 wt%) present.  
+Some elements are listed as not detectable including B, Gd, Li and Ti.  The combined average of Sludge 
+Batch 9 (SB9) dried slurry elemental analyses15 are shown in the next to last column of Table 3-1 for 
+comparison to the HTF-38-24-21 solids.  There have been no transfers from Tank 22 to Tank 38 since 
+January of 2023 and processing of SB10 sludge did not start until March of 2023, so the SB9 sludge 
+composition should be the most reasonable comparison.  The highest elemental components of SB9 sludge 
+slurry are Fe (16 wt%) and Na (14.7 wt%) at over 10 wt%, with Al, Mn, Ni, Si and U in the 1.1 to 6.3 wt% 
+range.   
+ 
+Comparison of the individual components to the Fe content for either HTF-38-24-21 or SB9 slurry indicates 
+that the Al, Na and Si are elevated in the Tank 38 solids vs. their respective ratios to Fe in the SB9 slurry.  
+The Al/Fe, Na/Fe and Si/Fe ratios in the Tank 38 solids are 1.7, 1.8 and 1.4, respectively.  This same 
+comparison for SB9 sludge slurry shows lower Al/Fe, Na/Fe and Si/Fe ratios of 0.4, 0.9 and 0.1, 
+respectively.  One explanation for the increased levels of Na, Al and Si in the Tank 38 solids vs. sludge 
+could be the presence of sodium aluminosilicate solids.  These crystalline species have previously been 
+identified in Tank 38 solids analyses reported in 2004.4  This observation is also supported by the current 
+XRD analyses of the HTF-38-24-21 solids sample as discussed below in the XRD analyses section.  
+Comparison of the typical sludge species Mn, Ni and U to Fe ratios for either the HTF-38-24-21 solids 
+(Mn/Fe = 0.4, Ni/Fe = 0.04, U/Fe = 0.9) or the SB9 slurry (Mn/Fe = 0.33, Ni/Fe = 0.07, U/Fe = 0.2) indicate 
+similar respective ratios suggesting that the insoluble solids in the HTF-38-24-21 sample are indeed sludge-
+derived solids.  One exception to this observation is the higher total uranium levels (either as ratio to iron, 
+or as wt% solids) in the Tank 38 solids vs. sludge.  The HTF-38-24-21 solids analyses shown in Table 3-1 
+can also be compared to the elemental analyses from recent SB9 DWPF pour stream glass.16  The elemental 
+composition of the SB9 glass is shown in the last column of Table 3-1.  Several of the Tank 38 elementals 
+are higher than SB9 glass (Al, Ca and U).  Many of the Tank 38 elementals are similar to those in glass (Fe, 
+Mn, Na, Zn and Zr).  However, the Si in Tk 38 is ~ 2.6X lower compared to SB9 glass (8.7 wt% vs. 23 
+wt%).  Additionally, several of the glass elementals (B, Li and Ti) are not detectable in the Tk 38 solids.  
+These data indicate that the Tank 38 solids are not consistent with the elemental signature expected from 
+SB9 pour stream glass or any other DWPF glasses. 
+ 
+The measured elemental composition of the HTF-38-24-21 sample can also be compared to previous Tank 
+38 solids analyses.6,7  If one assumes that all of the Na, Al and Si in these various solids are associated with 
+sodium aluminosilicate phases, then the fraction of NAS to total measured elemental solids in these samples 
+is estimated to be 76 wt% NAS,6 67 wt% NAS,7 and 64 wt% NAS for the current sample.  The remaining 
+elemental solids in these samples to make up 100 wt% are sludge-containing components such as Ca, Fe, 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+3
+Mn, Ni and U.  It  is known that uranium can be associated with the NAS solids via sorption, co-precipitation 
+and occlusion.17  If uranium is included as part of the NAS calculations, results above become estimated 76 
+wt% NAS,6 80 wt% NAS,7 and 75 wt% NAS for the current sample. 
+ 
+Table 3-1.  Washed and Dried Solids Analyses for Tank 38 
+  
+ 
+*See ‘Combined Average’ column of Table 3-6 of Reference 15 for dried sludge slurry elemental concentrations. 
+**Elemental wt% composition determined from glass oxide species from Table 3-3 in Reference 16. 
+ 
+ 
+Radionuclide Analyses 
+ 
+Table 3-2 provides average Tank 38 washed and dried solids radiochemical analyses for the triplicate 
+samples from aqua regia.  All radionuclides reported for the U, Pu, Cs-137 and Sr-90 isotopes were 
+detectable.  Am/Cm analyses indicate Am-241, -243 and -242m and Cm-242, -244 are detectable.  The U-
+235/Total U ratio for the Tk 38 solids is 0.65% and the total uranium is 5 wt% in the washed and dried 
+solids as calculated from the S/ICP-MS data.  This total uranium number is in reasonable agreement with 
+the total uranium value of 5.4 wt% determined from the ICP-OES analysis.  Pu-238 is the highest of the 
+various Pu isotopes concentration by mass.  All radionuclide analyses for the tank 38 solids, with the 
+exception of uranium, indicate that these radionuclides are in similar relative abundance to those reported 
+for sludge batch 9 radionuclide analysis.18  Comparable concentrations for Cs-137, Sr-90, Am-241 and Am-
+243 were also reported from the 2015 Tank 38 solids analyses as shown in the note at the bottom of Table 
+3-2.  
+ 
+Estimated one sigma percent uncertainty values that provide an indication of the uncertainty associated 
+with the various radiochemical counting methods are 5% and 10% for Cs-137 and U isotopes, respectively.  
+One-sigma uncertainty values for Pu-241 are 15.1% to 16.1% and are 5.5% to 7.8% for both Pu-238 and 
+Pu-239/240.  The one-sigma uncertainty values are as follows for the Am and Cm isotopes: Am-141 (11.1% 
+SB9 Slurry*
+SB9 Glass**
+Element
+Avg. (wt%)
+St. Dev. (wt%)
+ %RSD
+Avg. (wt%)
+Avg. (wt%)
+Al 
+10.6
+1.8
+16.7
+6.34
+3.4
+B
+<0.01
+ --
+ --
+0.03
+1.5
+Ba 
+0.020
+0.001
+5.3
+0.07
+0.03
+Ca 
+1.6
+0.4
+27.4
+0.98
+0.50
+Cd 
+0.031
+0.003
+10.8
+0.01
+0.01
+Cr 
+0.12
+0.014
+11.5
+0.09
+0.05
+Fe 
+6.2
+0.63
+10.1
+16.03
+7.7
+Gd 
+<0.01
+ --
+ --
+0.08
+0.05
+Li 
+<0.33
+ --
+ --
+0.04
+2.0
+Mg 
+0.46
+0.042
+9.2
+0.22
+0.10
+Mn 
+2.7
+0.3
+10.1
+5.22
+2.0
+Na
+11.0
+0.80
+7.3
+14.73
+10.6
+Ni 
+0.25
+0.02
+10.0
+1.10
+0.53
+Si 
+8.7
+0.1
+1.6
+1.22
+23.0
+Ti 
+<0.02
+ --
+ --
+0.02
+1.4
+U  
+5.4
+0.4
+8.1
+3.0
+1.4
+Zn 
+0.017
+0.002
+11.2
+0.03
+0.015
+Zr
+0.018
+0.001
+3.7
+0.06
+0.034
+ HTF-38-24-21 Washed/Dried Solids
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+4
+to 11.8%), Am-243 (11.3% to 12.0%) and Am-242m (18.5% to 38.9%), Cm-242 (18.5% to 38.9%) and 
+Cm-244 (11.1% to 11.8%). 
+ 
+ 
+ 
+Table 3-2.  Washed and Dried Solids Radionuclide Analyses for Tank 38 
+ 
+ 
+ 
+Note: Similar concentrations were reported in 20156 for the following radionuclides from dried,  
+unwashed Tank HTF-38-15-1 solids in units of dpm/g: Cs-137 = 3.45E+08, Sr-90 = 4.80E+09,  
+Am-241 = 1.03E+07, Am-243 = 5.68E+05. 
+ 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+5
+ 
+ 
+ 
+ 
+Crystalline Species Analyses 
+ 
+Milligram quantities of the Tk 38 solid powders were analyzed for crystalline species for 3 separate 
+triplicate aliquots obtained from the parent sample jar using XRD and data collection times of ~ 3 hrs.  The 
+results of the XRD analyses on the three separate powder samples are shown in Figure 3-1, Figure 3-2 and 
+Figure 3-3.  The XRD patterns are similar for all three samples that show a broad amorphous ‘hump’ 
+centered around the two-theta degrees value of ~ 25.  This broad amorphous hump is typically seen for 
+High Level Waste (HLW) amorphous silicate glass powder samples.19   
+ 
+All patterns contain similar magnitude peaks indicating various crystalline species present.  The [00-054-
+0628] sodium aluminosilicate cancrinite containing nitrate, the hematite and the sodium aluminosilicate 
+natrolite are common to all three samples.  Samples 2 and 3 also contain [00-55-1018] sodium 
+aluminosilicates, and uranium oxide hydrate.  Sample 1 also contains crystalline patterns for NaNO3 and 
+SiO2.  Various sodium aluminosilicates as well as hematite crystalline materials have also been identified 
+in the solid core samples previously analyzed from Tank 22,20 which is the DWPF recycle tank that feeds 
+into Tank 38.  Sodium aluminosilicates including hydroxycancrinite [31-1272] and Zeolite Y [434-0168] 
+have also been identified in a 2004 study of Tank 38 solids.4  The sodium aluminosilicate pattern identified 
+for these Tank 38 solids as the 00-054-0628 species is very similar to the crystalline pattern for the 31-1272 
+hydroxycancrinite sodium aluminosilicate identified in the 2004 study.  Sodium aluminosilicate crystalline 
+phases were also identified as the peaks with highest intensity in the previous 2015 and 2016 analyses.6,7 
+ 
+ 
+Figure 3-1.  X-ray Diffraction Pattern for Tank 38 Solids Sample 1 of 3 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+6
+ 
+Figure 3-2.  X-ray Diffraction Pattern for Tank 38 Solids Sample 2 of 3 
+ 
+ 
+ 
+Figure 3-3.  X-ray Diffraction Pattern for Tank 38 Solids Sample 3 of 3 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+7
+4.0 Conclusions  
+ 
+The wt% insoluble solids measured for the HTF-38-24-21 VDS sample is 6.1 ± 0.7 wt%.  Major elements 
+detected in the washed and dried Tank 38 solids are Al and Na at over 10 wt%, followed by Ca, Fe, Mn, Si 
+and U in the range of 1.6 to 8.7 wt%.  Trace levels of Ba, Zn and Zr are detectable at ~ 0.02 wt% with 
+higher levels of Cr (0.12 wt%), Ni (0.25 wt%) and Mg (0.46 wt%) present.  Some elements were not 
+detectable including B, Gd, Li and Ti.  Comparison of the Tank 38 solids elemental concentrations to recent 
+Sludge Batch 9 (SB9) dried sludge slurry indicates that the Tank 38 solids compare favorably with most 
+sludge species except that the Na/Fe, Al/Fe and Si/Fe ratios for the Tank 38 solids are all significantly 
+higher than those respective ratios in SB9 sludge.  The SB9 sludge composition is deemed the most 
+reasonable sludge composition for comparison to the February 2024 Tank 38 sample since no transfers 
+have been made from Tank 22 to Tank 38 since January of 2023 and processing of SB10 did not start until 
+March of 2023.  Comparison of the typical sludge species Mn, Ni and U to Fe ratios for either the HTF-38-
+24-21 solids (Mn/Fe = 0.4, Ni/Fe = 0.04, U/Fe = 0.9) or the SB9 slurry (Mn/Fe = 0.33, Ni/Fe = 0.07, U/Fe 
+= 0.2) indicate similar respective ratios suggesting that the insoluble solids in the HTF-38-24-21 sample are 
+indeed sludge-derived solids.  One exception to this observation is the higher total uranium levels (either 
+as ratio to iron, or as wt% solids) in the Tank 38 solids vs. sludge.       
+ 
+Similar comparison of the Tank 38 solids elemental concentrations was made to recent SB9 Defense Waste 
+Processing Facility (DWPF) pour stream glass elemental concentrations.  Several of the Tank 38 elementals 
+are higher than SB9 glass (Al, Ca and U).  Many of the Tank 38 elementals are similar to those in glass (Fe, 
+Mn, Na, Zn and Zr).  However, the Si in Tk 38 is ~ 2.6X lower compared to SB9 glass (8.7 wt% vs. 23 
+wt%).  Additionally, several of the glass elementals (B, Li and Ti) are not detectable in the Tk 38 solids.  
+These data indicate that the Tank 38 solids are not consistent with the elemental signature expected from 
+SB9 pour stream glass. 
+ 
+A suite of radionuclides was also analyzed for the Tank 38 solids.  These radionuclides including isotopes 
+of U and Pu and Am/Cm, as well as Cs-137 and Sr-90 are noted to be in similar relative abundance to those 
+of SB9 sludge.  One exception is the higher total uranium wt% in the Tank 38 solids relative to SB9 sludge.  
+ 
+Crystalline species analyses on the washed and dried Tank 38 solids indicates presence of various sodium 
+aluminosilicate (NAS) species similar to analogous measurements performed in 2004, 2015 and 2016 on 
+Tank 38 solids.  From consideration of the elemental, radionuclide and crystalline species data presented in 
+this report, the Tank 38 solids are judged to be most likely sodium aluminosilicate solids that also contain 
+insoluble sludge components.  Assigning all of the measured Na, Al and Si to NAS components results in 
+a calculated 64 wt% NAS and 36 wt% sludge.  If all the uranium is associated with the NAS solids, the 
+calculated values are 75 wt% NAS and 25 wt% sludge.    
+ 
+ 
+ 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+8
+5.0 References
+ 
+1  
+Crawford, C. L., “Analysis of Tank 38H (HTF-38-23-95, -96) and Tank 43H (HTF-43-23-93, -94) Samples 
+for Support of the Enrichment Control and Corrosion Control Programs”, SRNL-STI-2023-00646, Rev. 0, 
+January 2024. 
+ 
+2  
+Crawford, C. L., “Task Technical and Quality Assurance Plan for Analysis of Tank 38H and Tank 43H 
+Enrichment Control Program and Corrosion Control Samples”, SRNL-RP-2023-00680, Rev. 0, November 
+2023. 
+ 
+3  
+Crawford, C. L., “Tank 38 Solids Characterization”, SRNL-L3310-2024-00006, Rev. 0, June 2024. 
+ 
+4  
+Martino, C. J., Nichols, R. L., McCabe, D. J. and Hansen, E. K., “Tank 38H Saltcake Core and Supernate 
+Sample Analysis”, WSRC-TR-2004-00219, Rev. 0, April 2004. 
+ 
+5  
+Martino, C. J., “Analysis of Tank 38H (HTF-38-12-51, 52) and Tank 43H (HTF-43-12-53, 54) Samples for 
+Support of the Enrichment Control and Corrosion Control Programs”, SRNL-L3100-2012-00076, Rev. 0, 
+June 2012. 
+ 
+6  
+King, W. D. and Hay, M. S., “Characterization of Tank 38H Corrosion Control Program Sample Solids”, 
+SRNL-L3100-2015-00027, Rev. 0, February 2015. 
+ 
+7  
+Hay, M. S., “Characterization of Solids from Tank 38H Sample HTF-38-16-27”, SRNL-L3100-2016-00123, 
+Rev. 0, June 2016. 
+ 
+8  
+Benhardt, H. C., “Nuclear Criticality Safety Evaluation: Operation of the 2H Evaporator System,” N-NCS-
+H-00180, Rev. 1, May 2018. 
+ 
+9  
+Bui, H., “CSTF Evaporator Feed Qualification Program,” WSRC-TR-2003-00055, Rev. 16, March 2023. 
+ 
+10  
+Martin, K. B., “CSTF Corrosion Control Program,” WSRC-TR-2002-00327, Rev. 9, December 2015. 
+ 
+11  
+Jacobs, J. R., “Tanks 38 and 43 Enrichment Sample Analyses,” G-TTR-H-00018, Rev. 0, March 2023. 
+ 
+12  
+Manual E7, Procedure 2.60, Technical Reviews, Rev. 22, January 19, 2023. 
+ 
+13  
+Savannah River National Laboratory, “Technical Report Design Check Guidelines,” WSRCIM-2002-00011, 
+Rev. 2, August 2004. 
+ 
+14  
+Crawford, C. L., “Tank 38/43 ECP-CCP Semi-Annual Analyses and Tk 38 Solids Characterization, B9108-
+00327-41,” SRNL E-Notebook (Production), Savannah River National Laboratory, May 2024. 
+ 
+15  
+Trivelpiece, C. L., Kubilius, W. P., Pareizs, J. M. and Edwards, T. B., “Tank 40 Sludge Batch 9 Waste 
+Acceptance Product Specification (WAPS) Solids and Chemical Analyses (2018)”, SRNL-STI-2018-00318, 
+Rev. 0, September 2018. 
+ 
+16  
+Crawford, C. L., “Analysis of the Sludge Batch 9 (Macrobatch 11) DWPF Pour Stream Glass Sample”, 
+SRNL-STI-2023-00202, Rev. 0, August 2023. 
+ 
+17  
+Duff, M. C., “Uranium Sorption on Sodium Aluminosilicates and Gibbsite”, WSRC-TR-2002-00394, Rev. 
+0, October 2002. 
+ 
+ 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+9
+ 
+18  
+Trivelpiece, C. L., Kubilius, W. P. and Diprete, D. P., “Determination of Reportable Radionuclides for 
+Defense Waste Processing Facility (DWPF) Sludge Batch 9 (Macrobatch 11)”, SRNL-STI-2018-00680, Rev. 
+0, May 2019. 
+ 
+19  
+Crawford, C. L. et al., “Demonstration of Defense Waste Processing Facility (DWPF) Higher Fissile Content 
+Glass”, SRNL-STI-2021-00208, Rev. 0, July 2021. 
+ 
+20  
+Oji, L. N., Pareizs, J. M. and Trivelpiece, C. L., “Tank 22 Settled Sludge Core Sample 
+Characterization and Testing”, SRNL-STI-2019-00284, Rev. 0, December 2019. 
+ 
+SRNL-STI-2024-00506 
+Revision 0 
+ 
+Distribution: 
+ 
+alex.cozzi@srnl.doe.gov  
+Ryan.McNew@srs.gov 
+Andrea.Bridges@srs.gov  
+Thomas.Huff@srs.gov  
+Andrew.Marvel@srs.gov
+Thomas.peters@srnl.doe.gov
+Anthony.Robinson@srs.gov 
+thomas.temple@srs.gov 
+Azadeh.Samadi-Dezfouli@srs.gov  
+timothy.baughman@srs.gov  
+Bailey.Scott@srs.gov  
+timothy.littleton@srs.gov  
+bill.clark@srs.gov  
+tony.polk@srs.gov  
+Boyd.Wiedenman@srnl.doe.gov  
+vijay.jain@srs.gov  
+Brady.lee@srnl.doe.gov 
+William.bates@srnl.doe.gov 
+brandi.clark@srnl.doe.gov 
+William.Ramsey@srnl.doe.gov 
+Bruce.wiersma@srnl.doe.gov  
+william02.king@srnl.doe.gov 
+c.diprete@srnl.doe.gov 
+Records Administration (EDWS) 
+celia.aponte@srs.gov  
+ 
+charles.crawford@srnl.doe.gov 
+ 
+christopher.fewox@srnl.doe.gov
+ 
+chris.martino@srnl.doe.gov 
+ 
+cj.bannochie@srnl.doe.gov  
+ 
+connie.herman@srnl.doe.gov  
+ 
+david.diprete@srnl.doe.gov  
+ 
+david02.martin@srs.gov  
+ 
+eric.skidmore@srnl.doe.gov 
+ 
+frank.pennebaker@srnl.doe.gov 
+ 
+Gregg.Morgan@srnl.doe.gov  
+ 
+hilary.bui@srs.gov  
+ 
+james.folk@srs.gov  
+ 
+jeffrey.crenshaw@srs.gov  
+ 
+jennifer.wohlwend@srnl.doe.gov
+ 
+John.dekarske.srnl.doe.gov 
+ 
+john.jacobs@srs.gov  
+ 
+john.occhipinti@srs.gov  
+ 
+Joseph.Manna@srnl.doe.gov  
+ 
+Kalyn.Loudermilk@srnl.doe.gov  
+ 
+keisha.martin@srs.gov 
+ 
+kim.crapse@srnl.doe.gov 
+ 
+lawrence.oji@srnl.doe.gov  
+ 
+marion.cofer@srnl.doe.gov  
+ 
+mary.whitehead@srnl.doe.gov 
+ 
+matthew02.sims@srs.gov  
+ 
+michael.stone@srnl.doe.gov 
+ 
+Nathan.morgan@srnl.doe.gov
+ 
+phillip.norris@srs.gov  
+ 
+ 

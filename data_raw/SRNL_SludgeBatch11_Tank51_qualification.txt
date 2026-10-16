@@ -1,0 +1,1445 @@
+ 
+A U.S. DEPARTMENT OF ENERGY NATIONAL LAB     •     SAVANNAH RIVER SITE     •     AIKEN, SC    •     USA 
+ 
+ 
+Analytical Results of the Tank 51H 
+Sludge Batch 11 As-Received 
+Qualification Sample  
+E.J. Craig 
+October 2024 
+SRNL-STI-2024-00492, Revision 0 
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+ii 
+ 
+ 
+DISCLAIMER 
+This work was prepared under an agreement with and funded by the U.S. Government.  Neither the U.S. 
+Government or its employees, nor any of its contractors, subcontractors or their employees, makes any 
+express or implied: 
+1. warranty or assumes any legal liability for the accuracy, completeness, or for the use or 
+results of such use of any information, product, or process disclosed; or 
+2. representation that such use or results of such use would not infringe privately owned rights; 
+or 
+3. endorsement or recommendation of any specifically identified commercial product, process, 
+or service. 
+Any views and opinions of authors expressed in this work do not necessarily state or reflect those of the 
+United States Government, or its contractors, or subcontractors. 
+ 
+ 
+Printed in the United States of America 
+ 
+Prepared for 
+U.S. Department of Energy 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+iii 
+ 
+ 
+Keywords: DWPF, Sludge Batch, Tank 
+Farm 
+ 
+Retention: Permanent 
+Analytical Results of the Tank 51H Sludge Batch 11 As-
+Received Qualification Sample 
+E.J. Craig 
+ 
+ 
+October 2024 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Savannah River National Laboratory is operated by 
+Battelle Savannah River Alliance for the U.S. Department 
+of Energy under Contract No. 89303321CEM000080.  
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+iv 
+ 
+REVIEWS AND APPROVALS 
+ 
+ 
+AUTHORS: 
+ 
+ 
+______________________________________________________________________________ 
+E. J. Craig, Chemical Flowsheet Development 
+Date 
+ 
+ 
+TECHNICAL REVIEW: 
+ 
+ 
+______________________________________________________________________________ 
+M. J. Siegfried, Chemical Flowsheet Development, Reviewed per E7 2.60 
+Date 
+ 
+ 
+APPROVAL: 
+ 
+ 
+______________________________________________________________________________ 
+B. N. Clark, Chemical Flowsheet Development 
+Date 
+ 
+ 
+______________________________________________________________________________ 
+F. M. Pennebaker, Director, Nuclear and Chemical Processing 
+Date 
+ 
+ 
+______________________________________________________________________________ 
+R. M. Hoeppel, DWPF Facility Engineering Manager 
+Date 
+ 
+ 
+ 
+ELIZABETH CRAIG (Affiliate)
+Digitally signed by ELIZABETH CRAIG (Affiliate) 
+Date: 2024.11.04 09:42:15 -05'00'
+MATTHEW SIEGFRIED (Affiliate)
+Digitally signed by MATTHEW SIEGFRIED (Affiliate) 
+Date: 2024.11.04 09:46:34 -05'00'
+BRANDI CLARK (Affiliate)
+Digitally signed by BRANDI CLARK (Affiliate) 
+Date: 2024.11.04 09:50:00 -05'00'
+FRANK PENNEBAKER (Affiliate) Digitally signed by FRANK PENNEBAKER (Affiliate) 
+Date: 2024.11.04 09:52:45 -05'00'
+Robert Hoeppel
+Digitally signed by Robert Hoeppel 
+Date: 2024.11.05 16:37:24 -05'00'
+SRNL-STI-2024-00492 
+Revision 0 
+v 
+ 
+EXECUTIVE SUMMARY 
+ 
+Savannah River National Laboratory (SRNL) has been requested by Savannah River Mission Completion 
+(SRMC) to qualify the next sludge batch, Sludge Batch 11 (SB11), for processing at the Defense Waste 
+Processing Facility (DWPF). This report documents the first steps of the qualification process, 
+characterization of the Tank 51H as-received qualification material. SRMC sent SRNL two 200 mL samples 
+received from Tank 51H on the 12th of August 2024. The combined sample, HTF-51-24-85/86, was 
+analyzed for the following: supernate and slurry density, weight percent solids, settling, chemical 
+composition, and radionuclides. 
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+vi 
+ 
+TABLE OF CONTENTS 
+LIST OF TABLES ...................................................................................................................................... vii 
+LIST OF FIGURES .................................................................................................................................... vii 
+LIST OF ABBREVIATIONS .................................................................................................................... viii 
+1.0 Introduction ............................................................................................................................................. 1 
+2.0 Experimental Procedure .......................................................................................................................... 1 
+2.1 Sample Information ............................................................................................................................. 1 
+2.2 Sample Analysis .................................................................................................................................. 2 
+2.3 Quality Assurance ............................................................................................................................... 3 
+3.0 Results and Discussion ........................................................................................................................... 4 
+3.1 Density and Weight % Solids .............................................................................................................. 4 
+3.2 Settling Test ......................................................................................................................................... 5 
+3.3 Supernate Analytical Results ............................................................................................................... 7 
+3.4 Slurry Analytical Results ..................................................................................................................... 9 
+3.5 Total and Soluble Na, Cr, Hg and S .................................................................................................. 11 
+4.0 Conclusions ........................................................................................................................................... 11 
+5.0 References ............................................................................................................................................. 12 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+vii 
+ 
+LIST OF TABLES 
+Table 2-1 Sample Preparations Performed for Each Analysis ...................................................................... 1 
+Table 3-1 Densities and Weight Percent Solids ............................................................................................ 4 
+Table 3-2 Additional Densities and Weight Percent Solids .......................................................................... 4 
+Table 3-3 HTF-51-24-85/86 Settling Test Table of Slurry and Supernate Levels ........................................ 5 
+Table 3-4 Supernate Anions and Cs-137 Results .......................................................................................... 7 
+Table 3-5 Elemental Composition of Supernate ........................................................................................... 8 
+Table 3-6 Isotopes of Uranium and Plutonium of Supernate ........................................................................ 9 
+Table 3-7 Slurry Oxalate Result.................................................................................................................... 9 
+Table 3-8 Slurry Elemental Composition ................................................................................................... 10 
+Table 3-9 Isotopes of Uranium and Plutonium of Slurry ............................................................................ 11 
+Table 3-10 Soluble Sodium, Chromium, Sulfur, and Mercury in HTF-51-24-85/86 ................................. 11 
+ 
+LIST OF FIGURES 
+Figure 2-1 The Combined Sample HTF-51-24-85/86 in the Shielded Cells ................................................ 2 
+Figure 3-1  HTF-24-51-85/86 Settling Test: Slurry Height vs. Time ........................................................... 5 
+Figure 3-2 Tank 51H Slurry Height .............................................................................................................. 6 
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+viii 
+ 
+LIST OF ABBREVIATIONS 
+ 
+AR 
+Aqua Regia 
+ATFC 
+Analytical and Tank Farm Characterization  
+CPC 
+Chemical Process Cell 
+DMA 
+Direct Mercury Analyzer 
+DWPF 
+Defense Waste Processing Facility 
+HDPE 
+High Density Polyethylene 
+IC 
+Ion Chromatography 
+ICP-ES 
+Inductively Coupled Plasma-Emission Spectroscopy 
+ICP-MS 
+Inductively Coupled Plasma-Mass Spectroscopy 
+NA 
+Not Applicable 
+PF 
+Peroxide Fusion 
+RSD 
+Relative Standard Deviation 
+SB11 
+Sludge Batch 11 
+SRMC 
+Savannah River Mission Completion 
+SRNL 
+Savannah River National Laboratory 
+TIC/TOC 
+Total Inorganic Carbon/Total Organic Carbon 
+TTQAP 
+Task Technical and Quality Assurance Plan 
+TTR 
+Technical Task Request 
+Wt% 
+Weight %  
+SRNL-STI-2024-00492 
+Revision 0 
+1 
+ 
+1.0 Introduction 
+Savannah River National Laboratory (SRNL) has been requested to qualify the next sludge batch, Sludge 
+Batch 11 (SB11), for processing at the Defense Waste Processing Facility (DWPF). To accomplish this 
+task, Savannah River Mission Completion (SRMC) sent SRNL two unwashed 200 mL samples received 
+from Tank 51H on the 12th of August 2024 and later sent two 3 L samples to be characterized, washed, and 
+used in DWPF simulations. This report documents the first steps of the qualification process, 
+characterization of the as-received Tank 51H qualification material. These results will be used to support a 
+reprojection of SB11 by SRMC for glass work and Chemical Process Cell (CPC) activities. This report 
+contains analytical results for the as-received qualification sample as requested in the technical task request 
+(TTR).1 This task is governed by a Task Technical and Quality Assurance Plan (TTQAP).2 
+2.0 Experimental Procedure 
+2.1 Sample Information  
+SRMC sent SRNL two 200 mL samples, HTF-51-24-85, and HTF-51-24-86, which were combined 
+into HTF-51-24-85/86 into a 500-mL High Density Polyethylene (HDPE) bottle in the SRNL shielded 
+cells, shown in Figure 2-1. Each doorstop was rinsed with the sludge’s supernate to ensure all solids 
+were transferred to the combined sample. From the combined sample, a 50 mL aliquot was subsampled 
+for corrosion control and evaporator feed qualification analyses. The remaining sample was prepared 
+for analysis in the shielded cells via Aqueous Supernate Dilution, Water Diluted Slurry, Peroxide 
+Fusion (PF), and Aqua Regia (AR) methods. Table 2-1 shows the preparation methods used for each 
+analysis performed by the Analytical and Tank Farm Characterization (ATFC) group at SRNL. 
+Weight % solids (wt%), density, and a settling test were performed in the shielded cells.  
+ 
+Table 2-1 Sample Preparations Performed for Each Analysis 
+Preparation 
+Slurry/Filtrate 
+Analysis 
+Aqueous Supernate Dilution 
+Filtrate 
+TIC/TOC, T Base/OH/Other Base Exc 
+CO32-, IC Anions, ICP-ES, ICP-MS, 
+DMA Total Mercury, Gamma Scan, 
+Pu238/241, Pu242/Pu244 and 
+U233/U234/U235/U236 
+Water Diluted Slurry 
+Slurry 
+IC Anions (Oxalate) 
+Aqua Regia 
+Slurry 
+ICP-ES, ICP-MS, DMA Total 
+Mercury 
+Peroxide Fusion 
+Slurry 
+ICP-ES, Pu238/241, Pu242/Pu244 and 
+U233/U234/U235/U236 
+SRNL-STI-2024-00492 
+Revision 0 
+2 
+ 
+ 
+ 
+Figure 2-1 The Combined Sample HTF-51-24-85/86 in the Shielded Cells 
+2.2 Sample Analysis 
+Slurry densities and supernate densities were obtained in triplicate using 10 mL volumetric flasks and 
+an analytical balance. The supernate was obtained by filtering a portion of the slurry through a 0.45 µm 
+nylon filter. Filtrate, instead of supernate, was used to ensure no insoluble solids would be accounted 
+for in the dissolved solids measurements. 
+ 
+Weight percent total and dissolved solids measurements were performed in quadruplicate. Aliquots of 
+slurry and filtrate were dried to a constant weight at 115 °C.3 Filtrate was obtained by filtering a portion 
+of the slurry through a 0.45 µm nylon filter. Filtrate, instead of supernate, was used to ensure no 
+insoluble solids would be accounted for in the dissolved solids measurements. Weight percent insoluble 
+and soluble solids were calculated from the total and dissolved solids measurement. To measure 
+calcined solids, the sample preparations used for total solids were further placed into a furnace and 
+heated at 1100 °C for 2 hours.  
+ 
+A settling test was performed on the HTF-51-24-85/86 combined sample. This was performed in a 100 
+mL graduated cylinder, with a diameter of 2.54 cm, using approximately 100 mL of slurry. Before 
+adding the slurry to the graduated cylinder, HTF-51-23-85/86 was vigorously shaken to ensure the 
+sample was well mixed. The slurry and supernate levels were recorded at various times during the 
+settling process.   
+ 
+Aqueous Supernate Dilutions were performed to obtain supernate analytical results and submitted to 
+SRNL-ATFC for total inorganic carbon/total organic carbon (TIC/TOC), Total Base/OH/Other Base 
+excluding CO32-, ion chromatography (IC) anions, inductively-coupled plasma-emission spectroscopy 
+(ICP-ES), inductively-coupled plasma-mass spectroscopy (ICP-MS), direct mercury analyzer (DMA), 
+gamma scan, and alpha counting. Isotopes of uranium were determined from purified aliquots analyzed 
+by ICP-MS through the U233/U234/U235/U236 method. Aliquots of the dissolution were purified with 
+diamyl, amylphosphonate based solid phase extraction.4 Pu-238 and Pu-241 concentrations were 
+determined via PF by isolating the Pu by a 2-thenoyltrifluoroacetone extraction procedure and analyzed 
+by beta and alpha counting to determine the ratio of beta activity from Pu-241 to the alpha activity from 
+the other isotopes of Pu (Pu-238, Pu-239, Pu-240, and Pu-242).The total alpha activity from the Pu 
+isotopes was determined by alpha counting and ICP-MS.4 The supernate was obtained by filtering a 
+portion of the slurry through a 0.45 µm nylon filter. Filtrate, instead of supernate, was used for the 
+supernate analytical results to ensure no insoluble solids would be accounted for in the dissolved solids 
+measurements. One set of supernate aliquots were diluted in quadruplicate by ~10x with water. The 
+purpose of dilution was to reduce personnel radiation exposure. 
+SRNL-STI-2024-00492 
+Revision 0 
+3 
+ 
+ 
+Water diluted slurry samples were performed to obtain oxalate in slurry. This was performed by 
+weighing out a set amount of slurry, diluting the sample with water by ~10x to dissolve oxalate, and 
+filtering the sample with a 0.45 µm Nylon syringe filter to prevent solids from being sent to the IC-
+anions instrument.  
+ 
+Slurry samples were digested by two methods, AR and PF, for analysis of the slurry solids. For the AR 
+digestions, aliquots of slurry were mixed with aqua regia and heated for two hours in sealed Teflon 
+containers in an oven at 115 °C. The resulting liquids were diluted to 100 mL and submitted to SRNL-
+ATFC for ICP-ES, ICP-MS, and DMA analyses. For the PF digestions, aliquots of slurry were dried 
+and fused at 675 °C with sodium peroxide and sodium hydroxide. The fused samples were then 
+dissolved with nitric acid. The resulting liquids were diluted to 100 mL with water and analyzed for 
+ICP-ES and alpha counting. Each digestion was performed in quadruplicate. See Procedure L16.1-
+ADS-22265 for aqua regia and L16.1-ADS-25026 for peroxide fusion in the SRNL-ATFC procedure 
+manual for detail of the digestion techniques.  
+ 
+For the elements Ag, B, Be, Cd, Ce, Co, Cu, Li, Mo, P, S, Sb, Sn, Ti, V, and Zn, ICP-ES results from 
+AR digested samples are reported since these elements were not detected in the PF digested sample 
+(AR digested samples typically have lower detection limits due to less dilution required at the 
+instrument). For the elements not detected in either the PF or AR digestions, the lowest detection limit 
+was reported. For K and Na, results from the ICP-ES of the AR digestions were used because these 
+elements were detected in significant quantities in the PF reagent blank. The PF digestion method 
+utilizes sodium peroxide, which, in addition to Na, likely contains K. The PF digestion method is 
+performed in Zr crucibles, which contributes additional Zr to the analysis. For Hg, results from the 
+DMA analysis of the AR digestion were used. For Th, ICP-ES from the AR digestion was reported 
+because the result agreed well with ICP-MS results (mass 232). For Al, Ca, and Si, ICP-ES from the 
+PF digestions were used because AR does not fully dissolve these elements.  
+ 
+Fission product elements Ru, Rh, and Pd were quantified by ICP-MS from the AR digestion using a 
+methodology described by Bibler.7 In summary, Ru is reported from the sum of masses 101, 102, and 
+104. Rh is taken from mass 103. Pd is determined from mass 105 and a factor derived from fission 
+yields of other Pd isotopes.  
+ 
+Nd is also determined from ICP-MS from the AR digestion. Stable isotopes of Nd include masses 142 
+to 146, 148, and 150.8 However, there is a stable isotope of Ce at mass 142. Therefore, mass 142 is not 
+used in the Nd quantification, which may lead to small under-reporting of Nd.  
+ 
+Isotopes of uranium in the slurry were determined from U233/U234/U235/U236 through ICP-MS on 
+PF digested samples. Isotopes of plutonium were determined from alpha counting and ICP-MS of PF 
+digested samples.  
+ 
+For the elements quantified by ICP-ES, results from two digestions were compared. In general, if the 
+percent difference between the two results was 10% or less, the average is reported. If the percent 
+difference between results was greater than 10%, one digestion was chosen. Those decisions are noted 
+in the results section.  
+2.3 Quality Assurance 
+Requirements for performing reviews of technical reports and the extent of review are established in 
+manual E7 2.60.  SRNL documents the extent and type of review using the SRNL Technical Report 
+Design Checklist contained in WSRC-IM-2002-00011, Rev. 2.9 The functional classification requested 
+for this work is Safety Class. In accordance with Manual E7, Procedure 3.60, a technical review of the 
+SRNL-STI-2024-00492 
+Revision 0 
+4 
+ 
+contents of this report has been performed to ensure consistency and accuracy. Per Manual E7, 
+Procedure 2.60, a Design Verification, at a minimum, must be performed for work supporting a Safety 
+Class functional classification.  
+3.0 Results and Discussion 
+3.1 Density and Weight % Solids 
+Presented in Table 3-1 are the first set of density and weight percent solid results.  
+ 
+Table 3-1 Densities and Weight Percent Solids 
+ 
+Average 
+RSD, n* 
+Slurry Density (g/mL) 
+1.275 
+0.46, 3 
+Filtrate Density (g/mL) 
+1.214 
+0.20, 3 
+Wt% Total Solids (Slurry Basis) 
+31.5 
+0.46, 4 
+Wt% Dissolved Solids (Supernate 
+Basis) 
+26.6 
+0.31, 4 
+Wt% Insoluble Solids (Slurry 
+Basis) 
+6.7 
+N/A 
+Wt% Soluble Solids (Slurry Basis) 
+24.9 
+N/A 
+Wt% Calcined Solids (Slurry Basis) 
+22.0 
+4.0, 3 
+*RSD=relative standard deviation with number of measurements (n). NA= not applicable because result is calculated. 
+ 
+Weight % solids and densities performed on the combined sample revealed that the insoluble solids 
+concentration was lower than SRMC projections. Due to this, additional weight % solids and density 
+measurements were performed. Table 3-2 shows the additional densities and weight % solids.  
+ 
+Table 3-2 Additional Densities and Weight Percent Solids 
+ 
+Average 
+RSD, n* 
+Slurry Density (g/mL) 
+1.288 
+0.12, 3 
+Filtrate Density (g/mL) 
+1.211 
+0.03, 3 
+Wt% Total Solids (Slurry Basis) 
+32.0 
+0.67, 4 
+Wt% Dissolved Solids (Supernate 
+Basis) 
+26.6 
+0.29, 4 
+Wt% Insoluble Solids (Slurry 
+Basis) 
+7.3 
+N/A 
+Wt% Soluble Solids (Slurry Basis) 
+24.7 
+N/A 
+*RSD=relative standard deviation with number of measurements (n). NA= not applicable because result is calculated. 
+ 
+Error propagation of the total solids (slurry basis) and soluble solids (filtrate basis) yielded a 95% 
+confidence interval for the insoluble solids of approximately ±0.3 weight % for both sets performed. 
+The confidence interval is derived using the inverse Student’s t-distribution which requires probability 
+and degrees of freedom, partial derivative of the weight percent of insoluble solids with respect to total 
+solids, partial derivative of the weight percent of insoluble solids with respect to soluble solids, 
+standard error of the weight percent total solids, and standard error of the weight percent soluble solids. 
+Uncertainty for the insoluble solids does not account for variability in the sampling. Contributing 
+factors to larger 95% confidence interval values include standard deviation of results (incorporated in 
+standard error), number of replicates (incorporated in degrees of freedom), and average weight percent 
+of soluble solids (incorporated in partial derivative of weight percent insoluble solids with respect to 
+SRNL-STI-2024-00492 
+Revision 0 
+5 
+ 
+total solids and soluble solids). A higher standard deviation of results, larger amount of weight percent 
+soluble solids, and fewer number of replicates can lead to a larger 95% confidence interval value. 
+3.2 Settling Test 
+ 
+Table 3-3 shows the values collected of the slurry and supernate levels. These values of slurry height 
+vs. time were graphed in Figure 3-1. Figure 3-2 depicts images of the settling test that lasted for 12 
+days and 17 hours. 
+ 
+Figure 3-1  HTF-24-51-85/86 Settling Test: Slurry Height vs. Time 
+ 
+Table 3-3 HTF-51-24-85/86 Settling Test Table of Slurry and Supernate Levels 
+ 
+Hours 
+Slurry Level 
+(mL) 
+Supernate Level 
+(mL) 
+0 
+100 
+0 
+2 
+94 
+6 
+16.98 
+84 
+16 
+19.28 
+84 
+16 
+22.90 
+83 
+17 
+24.9 
+83 
+17 
+42.88 
+80 
+20 
+137.77 
+75 
+25 
+141.33 
+74 
+26 
+163.57 
+74 
+26 
+167.15 
+74 
+26 
+186.75 
+73 
+27 
+211.00 
+73 
+27 
+305.90 
+72 
+28 
+ 
+70
+75
+80
+85
+90
+95
+100
+105
+0
+50
+100
+150
+200
+250
+300
+Slurry Height (mL)
+Time (hr)
+Tank 51H Slurry Height
+Initial Height of Slurry 
+SRNL-STI-2024-00492 
+Revision 0 
+6 
+ 
+Figure 3-2 Tank 51H Slurry Height 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stating: 0 
+Hours 
+100 mL 
+of Slurry 
+19 Hours 
+84 mL of 
+Slurry 
+42 Hours 
+80 mL of 
+Slurry 
+141 Hours 
+74 mL of 
+Slurry 
+305 Hours 
+72 mL of 
+Slurry 
+SRNL-STI-2024-00492 
+Revision 0 
+7 
+ 
+3.3 Supernate Analytical Results 
+ 
+Table 3-4 shows the results for Supernate Anions and Cs-137, Table 3-5 shows the results for Elemental 
+Composition of Supernate and Table 3-6 shows the results for Isotopes of Uranium and Plutonium of 
+Supernate. 
+ 
+Table 3-4 Supernate Anions and Cs-137 Results 
+Analyte 
+Analytical 
+Method 
+Units 
+Results 
+%RSD 
+One sigma 
+uncertainty 
+(%) 
+Bromide 
+IC 
+mg/L 
+<50 
+N/A 
+N/A 
+Chloride 
+IC 
+mg/L 
+1.44E+02 
+0.97 
+10 
+Fluoride 
+IC 
+mg/L 
+1.05E+03 
+0.74 
+10 
+Formate 
+IC 
+mg/L 
+<10 
+N/A 
+N/A 
+Nitrate 
+IC 
+mg/L 
+8.99E+04 
+4.84 
+10 
+Nitrite 
+IC 
+mg/L 
+2.58E+04 
+1.01 
+10 
+Oxalate 
+IC 
+mg/L 
+7.00E+02 
+0.71 
+10 
+Phosphate 
+IC 
+mg/L 
+<10 
+N/A 
+N/A 
+Sulfate 
+IC 
+mg/L 
+1.15E+04 
+0.59 
+10 
+Carbonate 
+TIC 
+mg/L 
+2.23E+04 
+5.01 
+7 
+Free OH 
+Titration 
+M 
+1.54E+00 
+3.06 
+5 
+Total Organic 
+Carbon 
+TOC 
+mg 
+Carbon/L 
+4.46E+02 
+ 
+3.86 
+7 
+Cs-137 
+Gamma-
+scan 
+dpm/mL 
+3.73E+08 
+1.55 
+5 
+*RSD=relative standard deviation with number of measurements (n). n=4 NA= not applicable  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+8 
+ 
+Table 3-5 Elemental Composition of Supernate 
+Element 
+Analytical 
+Method 
+Results 
+(mg/L) 
+% RSD, n* 
+One Sigma 
+Uncertainty 
+(%) 
+Ag 
+ES 
+<2.03E-01 
+N/A 
+N/A 
+Al 
+ES 
+5.32E+03 
+0.38, 4 
+10 
+B 
+ES 
+5.26E+01 
+0.18, 4 
+10 
+Ba 
+ES 
+<2.03E-01 
+N/A 
+N/A 
+Be 
+ES 
+<9.13E-02 
+N/A 
+N/A 
+Ca 
+ES 
+<5.83E-02 
+N/A 
+N/A 
+Cd 
+ES 
+<8.65E-02 
+N/A 
+N/A 
+Ce 
+ES 
+<2.20E+00 
+N/A 
+N/A 
+Co 
+ES 
+<4.05E-01 
+N/A 
+N/A 
+Cr 
+ES 
+2.35E+02 
+0.43, 8 
+10 
+Cu 
+ES 
+<8.79E-01 
+N/A 
+N/A 
+Fe 
+ES 
+<6.81E-01 
+N/A 
+N/A 
+Gd 
+ES 
+<2.04E-01 
+N/A 
+N/A 
+Hg 
+DMA 
+1.48E+02 
+9.86, 4 
+10 
+K 
+ES 
+6.37E+02 
+0.39, 4 
+10 
+La 
+ES 
+<3.45E-01 
+N/A 
+N/A 
+Li 
+ES 
+<9.85E+00 
+N/A 
+N/A 
+Mg 
+ES 
+<1.15E+00 
+N/A 
+N/A 
+Mn 
+ES 
+<3.30E-01 
+N/A 
+N/A 
+Mo 
+ES 
+2.51E+01 
+0.40, 4 
+10 
+Na 
+ES 
+1.10E+05 
+0.20, 4 
+10 
+Nd 
+MS 
+1.49E-01 
+N/A 
+N/A 
+Ni 
+ES 
+<6.11E-01 
+N/A 
+N/A 
+P 
+ES 
+8.21E+01 
+0.31, 4 
+10 
+Pb 
+MS 
+3.99E-01 
+3.50, 4 
+N/A 
+Rh 
+MS 
+4.62E-01 
+0.27, 4 
+10 
+Ru 
+MS 
+1.10E+00 
+1.01, 4 
+10 
+S 
+ES 
+4.00E+03 
+0.29, 4 
+10 
+Sb 
+ES 
+<3.03E+00 
+N/A 
+N/A 
+Si 
+ES 
+<2.07E+01 
+N/A 
+N/A 
+Sn 
+ES 
+<8.56E+00 
+N/A 
+N/A 
+Sr 
+ES 
+<9.77E-02 
+N/A 
+N/A 
+Th 
+ES 
+<3.81E+00 
+N/A 
+N/A 
+Ti 
+ES 
+<6.25E-01 
+N/A 
+N/A 
+U 
+ES 
+<1.08E+01 
+N/A 
+N/A 
+V 
+ES 
+<4.88E+00 
+N/A 
+N/A 
+Zn 
+ES 
+<1.42E+00 
+N/A 
+N/A 
+Zr 
+ES 
+<1.30E-01 
+N/A 
+N/A 
+*RSD=relative standard deviation with number of measurements (n). NA= not applicable  
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+9 
+ 
+ 
+Table 3-6 Isotopes of Uranium and Plutonium of Supernate 
+Isotope 
+Results 
+(dpm/mL) 
+%RSD, n* 
+One Sigma 
+Uncertainty (%) 
+U-233 
+<1.20E+01 
+2.10 
+10 
+U-234 
+1.55E+01 
+10.16 
+10 
+U-235 
+1.82E-01 
+21.87 
+10 
+U-236 
+4.36E-01 
+24.90 
+10 
+U-238 
+6.64E+00 
+1.75 
+10 
+Pu-238 
+6.94E+03 
+10.47 
+14.03 
+Pu-239 
+<7.05E+02 
+N/A 
+N/A 
+Pu-240 
+<7.05E+02 
+N/A 
+N/A 
+Pu-241 
+<2.11E+04 
+N/A 
+N/A 
+      *RSD = relative standard deviation with number of measurements (n). n = 4. N/A = not applicable 
+ 
+3.4 Slurry Analytical Results 
+ 
+Slurry oxalate results are reported in Table 3-7. Elements quantified by ICP-ES, ICP-MS, and DMA 
+for slurry elemental composition are reported in Table 3-8. Total solids from Table 3-1 were used to 
+calculate out total solids (wt%) in Table 3-8 and Table 3-9. Specific digestions and analytical techniques 
+for each element are given with the results. Isotopes of uranium and plutonium are reported in Table 3-
+9. 
+Table 3-7 Slurry Oxalate Result 
+Analyte 
+Results (mg/L) 
+% RSD, n* 
+One Sigma 
+Uncertainty (%) 
+Oxalate 
+4.98E+03 
+1.15 
+10 
+*RSD=relative standard deviation with number of measurements (n). n = 4 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+10 
+ 
+Table 3-8 Slurry Elemental Composition 
+Element 
+Digestion 
+and 
+Analytical 
+Method 
+Results 
+(µg/g of 
+Slurry) 
+Total Solids 
+(wt%) 
+%RSD, n* 
+One Sigma 
+Uncertainty 
+(%) 
+Ag 
+AR, ES 
+<2.05E+01 
+<6.50E-03 
+N/A 
+N/A 
+Al 
+PF, ES 
+1.55E+04 
+4.93E+00 
+0.32, 4 
+10 
+B 
+AR, ES 
+4.04E+01 
+1.28E-02 
+2.26, 4 
+10 
+Ba 
+AR/PF, ES 
+9.39E+01 
+2.98E-02 
+0.60, 8 
+10 
+Be 
+AR, ES 
+<2.67E-01 
+<8.47E-05 
+N/A 
+N/A 
+Ca 
+PF, ES 
+1.49E+03 
+4.73E-01 
+1.45, 4 
+10 
+Cd 
+AR, ES 
+1.29E+01 
+4.08E-03 
+1.60, 4 
+10 
+Ce 
+AR, ES 
+<1.60E+02 
+<5.08E-02 
+N/A 
+N/A 
+Co 
+AR, ES 
+<7.57E+00 
+<2.40E-03 
+N/A 
+N/A 
+Cr 
+AR/PF, ES 
+4.54E+02 
+1.44E-01 
+1.48, 8 
+10 
+Cu 
+AR, ES 
+<8.71E+01 
+<2.76E-02 
+N/A 
+N/A 
+Fe 
+AR/PF, ES 
+1.66E+04 
+5.25E+00 
+1.28, 8 
+10 
+Gd 
+AR/PF, ES 
+3.59E+02 
+1.14E-01 
+2.08, 8 
+10 
+Hg 
+AR, DMA 
+4.71E+03 
+1.49E+00 
+2.29, 4 
+10 
+K 
+AR, ES 
+4.49E+02 
+1.42E-01 
+1.83, 4 
+10 
+La 
+AR/PF, ES 
+5.85E+01 
+1.85E-02 
+2.90, 8 
+10 
+Li 
+AR, ES 
+<6.68E+01 
+<2.12E-02 
+N/A 
+N/A 
+Mg 
+AR/PF, ES 
+5.08E+02 
+1.61E-01 
+1.74, 8 
+10 
+Mn 
+AR/PF, ES 
+3.01E+03 
+9.56E-01 
+2.35, 8 
+10 
+Mo 
+AR, ES 
+2.25E+01 
+7.14E-03 
+4.25, 4 
+10 
+Na 
+AR, ES 
+8.21E+04 
+2.60E+01 
+1.76, 4 
+10 
+Nd 
+AR, MS 
+2.16E+02 
+6.85E-02 
+7.25, 4 
+N/A 
+Ni 
+AR/PF, ES 
+5.46E+02 
+1.73E-01 
+1.56, 8 
+10 
+P 
+AR, ES 
+<2.44E+02 
+<7.74E-02 
+N/A 
+N/A 
+Pb 
+AR, MS 
+6.44E+00 
+2.04E-03 
+7.51, 4 
+10 
+Rh 
+AR, MS 
+1.46E+01 
+4.64E-03 
+7.64, 4 
+10 
+Ru 
+AR, MS 
+7.92E+01 
+2.51E-02 
+7.36, 4 
+N/A 
+S 
+AR, ES 
+3.03E+03 
+9.62E-01 
+1.69, 4 
+10 
+Sb 
+AR, ES 
+<6.03E+00 
+<1.91E-03 
+N/A 
+N/A 
+Si 
+PF, ES 
+1.19E+03 
+3.77E-01 
+1.26, 4 
+10 
+Sn 
+AR, ES 
+<1.53E+01 
+<4.85E-03 
+N/A 
+N/A 
+Sr 
+AR/PF, ES 
+3.81E+01 
+1.21E-02 
+3.90, 4 
+10 
+Th 
+AR, ES 
+8.44E+02 
+2.68E-01 
+1.50, 4 
+10 
+Ti 
+AR, ES 
+3.85E+01 
+1.22E-02 
+2.22, 4 
+10 
+U 
+AR/PF, ES 
+6.01E+03 
+1.91E+00 
+6.70, 4 
+10 
+V 
+AR, ES 
+<9.70E+00 
+<3.08E-03 
+N/A 
+N/A 
+Zn 
+AR, ES 
+3.21E+01 
+1.02E-02 
+4.35, 4 
+10 
+Zr 
+AR, ES 
+1.54E+02 
+4.87E-02 
+15.44, 4 
+10 
+*RSD=relative standard deviation with number of measurements (n). NA= not applicable  
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+11 
+ 
+Table 3-9 Isotopes of Uranium and Plutonium of Slurry 
+Isotope 
+Results (dpm/g of 
+Slurry) 
+Total Solids 
+(wt%) 
+%RSD, n* 
+One Sigma 
+Uncertainty (%) 
+U-233 
+4.17E+03 
+6.16E-05 
+0.36 
+10 
+U-234 
+4.07E+04 
+9.31E-04 
+1.86 
+10 
+U-235 
+5.51E+02 
+3.65E-02 
+0.62 
+10 
+U-236 
+1.71E+03 
+3.78E-03 
+0.56 
+10 
+U-238 
+4.70E+03 
+2.00E+00 
+0.56 
+10 
+Pu-238 
+1.14E+08 
+9.52E-04 
+4.27 
+4.74 
+Pu-239 
+2.92E+06 
+6.72E-03 
+5.33 
+13.4 
+Pu-240 
+1.43E+06 
+8.97E-04 
+6.27 
+19.5 
+Pu-241 
+3.33E+07 
+4.62E-05 
+4.81 
+14.9 
+*RSD = relative standard deviation with number of measurements (n). n = 4. 
+ 
+3.5 Total and Soluble Na, Cr, Hg and S 
+Total Cr, Na, and S were obtained from AR digestions of the slurry with ICP-ES. Total Hg was obtained 
+from AR digestions of the slurry with DMA. Soluble Cr, Hg, Na, and S were measured from the 
+supernate elemental results in Table 3-4. Supernate basis was corrected to slurry basis with supernate 
+density and wt% insoluble solids from Table 3-1.  
+ 
+Table 3-10 Soluble Sodium, Chromium, Sulfur, and Mercury in HTF-51-24-85/86 
+Element 
+Total (µg/g Slurry) 
+Soluble (mg/kg Slurry) 
+% Soluble* 
+Cr 
+4.54E+02 
+1.80E+02 
+4.0E+01 
+Hg 
+4.71E+03 
+1.13E+02 
+2.4E+00 
+Na 
+8.21E+04 
+8.49E+04 
+1.0E+02 
+S 
+3.03E+03 
+3.08E+03 
+1.0E+02 
+*% Soluble values were rounded to 2 significant fiqure due to uncertainty in the individual measurements. 
+4.0 Conclusions 
+SRNL has been requested to qualify the next sludge batch, SB11 for processing at DWPF. SRMC sent 
+SRNL two 200 mL samples received from Tank 51H on the 12th of August 2024. This report contains 
+analytical results for the as-received combined qualification sample, HTF-51-24-85/86. The  sample was 
+analyzed for: supernate and slurry density, weight percent solids, settling, chemical composition, and 
+radionuclides. Weight % solids and densities performed revealed that the insoluble solids concentration 
+was lower than SRMC projections. Due to this, additional weight % solids and density measurements were 
+performed. This resulted in higher insoluble solids and lined up with SRMC’s projection. All other results 
+from chemical composition and radionuclides were comparable to SRMC’s projections.  
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+12 
+ 
+5.0 References 
+ 
+1. 
+A.I. Silker, “Technical Task Request: Sludge Batch 11 Qualification and Confirmatory Samples,” 
+SRMC, Aiken, SC, X-TTR-S-00098, Rev.0, 2023. 
+ 
+2. 
+E.J. Craig, “Task Technical and Quality Assurance Plan for Sludge Batch 11 Sample Analysis and 
+Qualification,” SRNL, Aiken, SC, SRNL-RP-2023-01384, Rev.0, 2024. 
+ 
+3. 
+“Weight Percent Solids Determination Using a Furnace or Oven,” Savannah River National 
+Laboratory, Aiken, SC, Manual L29 Procedure ITS-0078, Rev.1, 2012. 
+ 
+4. 
+S.C. Hunter, D.P Diprete, “Determination of Reportable Radionuclides for Defense Waste 
+Processing Facility (DWPF) Sludge Batch 10 (Macrobatch 12),” Savannah River National 
+Laboratory, Aiken, SC, SRNL-STI-2024-00240, Rev.0, 2024. 
+ 
+5. 
+“Aqua Regia Dissolution of Sludge for Elemental Analysis,” Savannah River National Laboratory, 
+Aiken, SC, Manual L16.1 Procedure ADS-2226, Rev. 10, 2013. 
+ 
+6. 
+“Alkali Fusion Dissolutions of Sludge and Glass for Elemental and Anion Analysis,” Savannah 
+River National Laboratory Aiken, SC, Manual L16.1 Procedure ADS-2502, Rev. 7, 2013. 
+ 
+7. 
+N.E. Bibler, “Measuring and Predicting Fission Product Noble Metals in Savannah River Site High 
+Level Waste Sludges,” Savannah River National Laboratory, Aiken, SC, WSRC-TR-2005-00098 
+Rev. 0, 2005. 
+ 
+8. 
+“Nuclides and Isotopes: Chart of the Nuclides, Seventeeth Edition,” KAPL, Schenectady, NY, 2009. 
+ 
+9. 
+“Savannah River National Laboratory Technical Report Design Check Guildlines,” Savannah 
+River National Laboratory, Aiken, SC, WSRC-IM-2002-00011, 2004. 
+ 
+SRNL-STI-2024-00492 
+Revision 0 
+ 
+13
+Distribution:   
+ 
+John.pareizs@srnl.doe.gov 
+Anthony.howe@srnl.doe.gov 
+Dan.lambert@srnl.doe.gov 
+Matthew.siegfried@srnl.doe.gov 
+Matthew.williams@srnl.doe.gov 
+Wesley.woodham@srnl.doe.gov 
+Seth.hunter@srnl.doe.gov 
+Fabienne.johnson@srnl.doe.gov 
+Alex.cozzi@srnl.doe.gov 
+Sean.noble@srnl.doe.gov 
+Elizabeth.craig@srnl.doe.gov 
+William.bates@srnl.doe.gov   
+Brandi.clark@srnl.doe.gov  
+c.diprete@srnl.doe.gov  
+David.diprete@srnl.doe.gov  
+connie.herman@srnl.doe.gov  
+sarah.hodges@srnl.doe.gov  
+brady.lee@srnl.doe.gov  
+kalyn.loudermilk@srnl.doe.gov   
+Heather.Capogreco@srnl.doe.gov   
+Joseph.Manna@srnl.doe.gov  
+Gregg.Morgan@srnl.doe.gov  
+frank.pennebaker@srnl.doe.gov  
+Amy.Ramsey@srnl.doe.gov  
+William.Ramsey@srnl.doe.gov  
+eric.skidmore@srnl.doe.gov  
+michael.stone@srnl.doe.gov  
+boyd.Wiedenman@srnl.doe.gov  
+Mary.whitehead@srnl.doe.gov  
+Jennifer.Wohlwend@srnl.doe.gov  
+chris.martino@srnl.doe.gov 
+crystal.currie@srnl.doe.gov 
+Records Administration (EDWS) 
+terri.fellinger@srs.gov 
+robert.hoeppel@srs.gov  
+bill.holtzscheiter@srs.gov  
+Vijay.Jain@srs.gov   
+Jeremiah.Ledbetter@srs.gov  
+jeff.ray@srs.gov  
+aubrey.silker@srs.gov  
+spencer.isom@srs.gov 
+Melany.mini@srs.gov 
+phoebe.fogelman@srs.gov  
+David.henley@srs.gov 
+ 
+ 

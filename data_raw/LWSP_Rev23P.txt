@@ -1,0 +1,3997 @@
+
+=== PAGE 1 ===
+Integrated Liquid Waste Processing System 
+at Savannah River Site
+Integrated Liquid Waste Processing System 
+at Savannah River Site
+REVISION 23-P
+March 2023
+SRMC-LWP-2023-00001
+L
+IQUID Waste
+System Plan
+
+=== PAGE 2 ===
+
+=== PAGE 3 ===
+Savannah River Mission Completion 
+  
+Savannah River Site 
+  
+Aiken, SC 29808 
+  
+Prepared for U.S. Department of Energy under IMCC Contract № 89303322DEM000068 
+SRMC-LWP-2023-00001 
+REVISION: 23-P 
+March 21, 2023 
+KEYWORDS: Tank Farm, Liquid Waste 
+Saltstone, DWPF, SWPF, 
+SPF, SDF, ETF, Sludge Washing 
+Lifecycle, Waste Solidification 
+ 
+RETENTION: PERMANENT 
+ 
+ 
+ 
+ 
+ 
+Liquid Waste System Plan 
+Revision 23 
+ 
+D. P. Chew 
+A. W. Jung 
+ 
+Approvals: 
+ 
+ 
+ 
+ 
+__________________________________________ 
+Dr. David Olson 
+President and Program Manager, SRMC 
+ 
+ 
+ 
+ 
+__________________________________________ 
+James L. Folk, Jr. 
+Assistant Manager for Waste Disposition, DOE-SR 
+ 
+ 
+JAMES FOLK
+Digitally signed by JAMES FOLK 
+Date: 2023.05.22 15:17:53 -04'00'
+
+=== PAGE 4 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page ii 
+ 
+Authors 
+ 
+ 
+ 
+ 
+____________________________________________________________ 
+D. P. Chew, System Planning 
+ 
+ 
+____________________________________________________________ 
+A. W, Jung, System Planning 
+ 
+ 
+Reviews 
+ 
+ 
+______________________________________________________________ 
+P. J. Hill, Manager, System Planning 
+ 
+ 
+
+=== PAGE 5 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page iii 
+ 
+Table of Contents 
+ 
+1. 
+EXECUTIVE SUMMARY ............................................................................................................1 
+2. 
+INTRODUCTION ........................................................................................................................4 
+2.1 
+SYSTEM PLANNING OVERVIEW ...................................................................................................................... 4 
+2.2 
+RISK AND OPPORTUNITIES ASSESSMENT ........................................................................................................ 6 
+3. 
+PLANNING BASES .....................................................................................................................8 
+3.1 
+FUNDING ........................................................................................................................................................ 8 
+3.2 
+INPUTS AND ASSUMPTIONS ............................................................................................................................. 8 
+3.3 
+REGULATORY DRIVERS .................................................................................................................................. 8 
+3.4 
+REVISIONS .................................................................................................................................................... 11 
+3.5 
+KEY MILESTONES ......................................................................................................................................... 11 
+4. 
+PLANNING SUMMARY AND RESULTS .....................................................................................12 
+4.1 
+WASTE RETRIEVAL ...................................................................................................................................... 12 
+4.2 
+SLUDGE PROCESSING ................................................................................................................................... 14 
+4.3 
+DWPF OPERATIONS ..................................................................................................................................... 14 
+4.4 
+SALT PROCESSING ........................................................................................................................................ 16 
+4.4.1 
+Salt Waste Processing Facility (SWPF) ..................................................................................... 16 
+4.4.2 
+Saltstone Operations ................................................................................................................... 17 
+4.5 
+INNOVATIONS TO OPTIMIZE SYSTEM PERFORMANCE ................................................................................... 17 
+4.5.1 
+Production Improvements Implemented ..................................................................................... 18 
+4.6 
+TANK CLOSURE ............................................................................................................................................ 21 
+4.6.1 
+Heel Removal and Cleaning ....................................................................................................... 21 
+4.6.2 
+Tank Operational Closure and Stabilization .............................................................................. 22 
+4.6.3 
+Ancillary Structure Operational Closure and Stabilization ....................................................... 23 
+4.7 
+BASE OPERATIONS ....................................................................................................................................... 24 
+4.7.1 
+Supporting Nuclear Material Stabilization ................................................................................. 24 
+4.7.2 
+DWPF Recycle Handling ............................................................................................................ 25 
+4.7.3 
+Transfer Line Infrastructure ....................................................................................................... 25 
+4.7.4 
+Tank 48 Treatment ...................................................................................................................... 26 
+4.7.5 
+Effluent Treatment Facility (ETF) .............................................................................................. 26 
+4.7.6 
+Managing Type III Tank Space ................................................................................................... 26 
+4.7.7 
+Closure Sequence for the LW System ......................................................................................... 26 
+5. 
+SYSTEM DESCRIPTION ...........................................................................................................28 
+5.1 
+HISTORY ....................................................................................................................................................... 28 
+5.2 
+TANK STORAGE ............................................................................................................................................ 28 
+5.3 
+WASTE TANK SPACE MANAGEMENT ............................................................................................................ 30 
+5.4 
+WASTE REMOVAL FROM TANKS ................................................................................................................... 31 
+5.5 
+SAFE DISPOSAL OF THE WASTE .................................................................................................................... 32 
+5.6 
+SALT PROCESSING ........................................................................................................................................ 32 
+5.7 
+SLUDGE PROCESSING ................................................................................................................................... 32 
+5.8 
+DWPF VITRIFICATION ................................................................................................................................. 33 
+5.9 
+SALTSTONE DISPOSITION ............................................................................................................................. 33 
+APPENDIX A—SALT SOLUTION PROCESSING ................................................................................38 
+APPENDIX B—CANISTER STORAGE ...............................................................................................39 
+APPENDIX C—PRELIMINARY CEASE WASTE REMOVAL ................................................................40 
+APPENDIX D—TANK REMOVAL FROM SERVICE ............................................................................41 
+APPENDIX E—LW SYSTEM PLAN—REVISION 23 SUMMARY (DNA) ............................................42 
+ABBREVIATIONS ............................................................................................................................43 
+REFERENCES ..................................................................................................................................44 
+ 
+ 
+ 
+
+=== PAGE 6 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page iv 
+ 
+Index of Tables 
+Table 1-1—Results of Modeled Cases ........................................................................................................................... 3 
+Table 3-1—Schedule for Remaining Non-Compliant Tanks ....................................................................................... 10 
+Table 3-2—Key Milestones ......................................................................................................................................... 11 
+Table 4-1—Fissile Material by Sludge Batch ............................................................................................................. 25 
+ 
+Index of Figures 
+Figure 4-1—Mechanical Agitation Waste Removal .................................................................................................... 12 
+Figure 4-2—Drain, Add, Remove Method for Salt Waste Removal ............................................................................ 13 
+Figure 4-3—Sludge Feed Preparation ........................................................................................................................ 14 
+Figure 4-4—Double Stacking ...................................................................................................................................... 15 
+Figure 4-5—SWPF–DWPF Optimization ................................................................................................................... 19 
+Figure 4-6—SRMC Optimization Plan ........................................................................................................................ 20 
+Figure 4-7—Grout Placement ..................................................................................................................................... 23 
+Figure 4-8—Grouted Tank .......................................................................................................................................... 23 
+Figure 5-1—Waste Tank Composite Inventory (as of September 30, 2022) ................................................................ 30 
+Figure 5-2—Process Flowsheet .................................................................................................................................. 35 
+Figure 5-3—Liquid Waste Program—Current Status ................................................................................................. 36 
+Figure 5-4—Liquid Waste Process Overview.............................................................................................................. 37 
+ 
+ 
+
+=== PAGE 7 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 1 
+Executive Summary 
+1. Executive Summary 
+The last Liquid Waste System Plan, Revision 221 was published in September 2021. Since that time, Savannah River 
+Mission Completion (SRMC) assumed operational responsibility of the liquid waste (LW) system and facilities. The 
+goal is to complete closure of the LW facilities within fifteen years (by the end of 2037). This 23rd Revision of the 
+Liquid Waste System Plan (hereinafter referred to as the Plan) forecasts continued progress in achieving the processing 
+goals of the Department of Energy (DOE) at Savannah River Site (SRS). It assumes the conditions extant at the 
+beginning of the SRMC LW contract in February 2022.  
+This Plan assumes aggressive performance of salt and sludge processing to forecast the best possible outcome for 
+dispositioning the waste in the SRS High Level Waste (HLW) F Tank Farm (FTF) and H Tank Farm (HTF). This 
+assumes receipt of the funding required to: install waste removal equipment, process at necessary rates, and maintain 
+and replace equipment and infrastructure as needed. It assumes no major equipment failures other than the Defense 
+Waste Processing Facility (DWPF) Melter replacement. It also assumes no major changes in safety requirements that 
+would negatively affect the current planning basis for the removal, transfer, or processing of waste. As described in 
+the Risk and Opportunity Management Plan2 (ROMP), there are several risk events that could, were they realized, 
+adversely affect the successful completion of the program goals in the time described. 
+Modeling of the LW system provides a way to predict the performance of the system and allows identification of areas 
+for improvement. Previous versions of the Plan utilized various commercially available software to identify 
+bottlenecks and processing capability of the various facilities. Production forecasts were prepared using a suite of 
+Microsoft Excel® spreadsheets. This Plan utilizes models developed by DBD Inc., specifically for the SRS LW 
+system, to provide an integrated forecast of the production of the various facilities as well as identifying bottlenecks 
+and opportunities to improve production results. It also includes the Accelerated Basin Deinventory (ABD) program, 
+acceleration of spent fuel disposition at H-Canyon by discontinuing uranium recovery following spent fuel dissolution. 
+ABD program processing requires reconfiguring an existing waste storage tank to serve as an additional sludge 
+preparation tank to enable timely receipt of ABD material into sludge batches. Based on current facility throughputs, 
+the LW mission would complete in 2041. Utilizing our newly developed Program Optimization Model, SRMC has 
+identified improvements, discussed in this Plan, which will enable the completion of the LW mission by the end of 
+2037. 
+Since Revision 22 of this Plan, the Salt Waste Processing Facility (SWPF) began operation and processed over 
+5 million gallons (Mgal) of dissolved salt solution. After completion of the first year of operations, SRMC took over 
+operation of SWPF from Parsons, the constructor of the facility. At the Saltstone Disposal Facility (SDF), construction 
+of Saltstone Disposal Unit (SDU) 7 was completed; construction of SDU 8 through SDU 12 continues. Three salt 
+blend tanks, Tank 21, Tank 41, and Tank 42 are now in use to prepare feed for SWPF. Additionally, DWPF completed 
+conversion to a glycolic acid flowsheet from a formic acid flowsheet, increasing processing capacity and reliability. 
+This Plan forecasts, in addition to the 4,319 canisters poured in the DWPF from April 1996 through September 2022, 
+almost 3,800 additional canisters for a total production of over 8,100 canisters over the lifetime of the project.  
+The completion of waste removal in FTF, in this Plan, occurs in 2032, allowing the Inter-Area Line (IAL) to be shut 
+down in 2032 as well as FTF closures to complete by the end of 2035. Salt processing at the SWPF is forecast to 
+complete in 2035 and LW treatment and disposition in DWPF are completed in 2036. The last of the HTF tanks, the 
+DWPF feed and preparation tanks, and the Saltstone feed tank, are closed in 2037. 
+Purpose 
+The purpose of this Plan is to integrate and document the activities required to disposition the existing and future 
+HLW and remove from service radioactive LW tanks and facilities belonging to the Department of Energy Operations  
+Office (DOE-SR). It records a planning basis for waste processing in the LW System through the end of the program 
+mission.  
+This twenty-third revision of the Plan: 
+• 
+Supports financial submissions development for the DOE-complex-wide Integrated Planning, 
+Accountability, & Budgeting System (IPABS)  
+• 
+Provides a technical basis for LW Contract and Contract Performance Baseline changes 
+• 
+Provided input to the development of the Federal Facility Agreement (FFA)3 Appendix L updates. 
+
+=== PAGE 8 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Executive Summary 
+Page 2 
+ 
+Common Values and Goals (2022–2037) 
+In a meeting held on June 29, 2022, DOE, the South Carolina Department of Health and Environmental Control 
+(SCDHEC), the U.S. Environmental Protection Agency (EPA), and SRMC agreed to the following common values 
+and goals: 
+VALUES 
+1. Maintain transparency with open communication between regulators, DOE, and the contractor on program 
+progress, and significant emerging issues. 
+2. Ensure DOE’s strategy and plans are subject to stakeholder engagement and input, including SCDHEC 
+permitting processes, and Comprehensive Environmental Response, Compensation, and Liability Act 
+(CERCLA), as appropriate. 
+3. Maximize the amount of curies (especially long-lived radionuclides) vitrified and ready for ultimate 
+disposal out of state. 
+4. Limit disposal of curies onsite at SRS so that residual radioactivity is as low as reasonably achievable. 
+GOALS (in priority order) 
+1. Reduce risk to the environment by removing waste and closing tanks with a goal of completion of the LW 
+program by 2037.  
+2. Reduce operational and environmental risk by aggressively removing curies from the waste tanks. 
+3. Reduce operational and environmental risk by optimizing operations to minimize LW program total life 
+cycle. 
+4. Complete waste removal and subsequent grouting of all waste tanks and ancillary structures with a risk-
+based priority order: first to tanks in the water table, followed by FTF tanks, followed by remainder of 
+waste tanks, followed by ancillary structures, recognizing the potential for future emergent conditions or 
+opportunities. 
+Additional principles guiding the development of this Plan include: 
+● 
+Conduct operations consistent with the Waste Determinations (WD): Section 3116 Determination for Salt 
+Waste Disposal at the Savannah River Site4, the Basis for Section 3116 Determination for Salt Waste 
+Disposal at the Savannah River Site5, the Section 3116 Determination for Closure of F-Tank Farm at the 
+Savannah River Site6, the Basis for Section 3116 Determination for Closure of F-Tank Farm at the 
+Savannah River Site7, the Section 3116 Determination for Closure of H-Tank Farm at the Savannah River 
+Site8, and the Basis for Section 3116 Determination for Closure of H-Tank Farm at the Savannah River Site9 
+● 
+Comply with applicable permits and consent orders, including the Modified Class 3 Landfill Permit for the 
+SRS Z-Area SDF (permit ID 025500-1603) and the State-approved Consolidated General Closure Plan10 
+(CGCP) 
+● 
+Minimize the quantity of radionuclides (as measured in curies) dispositioned in the SDF, keeping the total 
+curies at or below the amount identified in Savannah River Site—Liquid Waste Disposition Processing 
+Strategy11 (SRS LW Strategy), as amended by letter from SCDHEC to DOE-SR12 and the Basis for Section 
+3116 Determination for Salt Waste Disposal at the Savannah River Site5 and the “Agreement”13 
+Revisions 
+The significant updates from Revision 221 of this Plan include: 
+● 
+Salt Processing: 
+— SWPF accelerated processing of higher curie waste to maximize risk reduction in the tank farms 
+— Suspended Tank Closure Cesium Removal (TCCR) operations 
+● 
+DWPF: 
+— Provision for ABD program 
+— Fissile loading in glass is allowed to exceed 2,500 g/m3 after Sludge Batch (SB) 11 
+— Recognize performance enhancements due to the conversion to a glycolic acid flowsheet from a formic 
+acid flowsheet 
+● 
+Modeling: 
+— This Plan utilizes a modeling suite developed by DBD Inc. 
+
+=== PAGE 9 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 3 
+Executive Summary 
+Results of the Plan 
+Table 1-1—Results of Modeled Cases describes the major results as compared to Revision 22 of the Plan: 
+Table 1-1—Results of Modeled Cases 
+Parameter 
+Rev 22 
+with ABD 
+Rev 23 
+Date last LW facility turned over to Dismantlement and 
+Decommissioning (D&D) 
+2041 
+2037 
+Final Type I and II tanks complete operational closure 
+2033 
+2032 
+Complete SWPF operations 
+2033 
+2035 
+Complete DWPF operations 
+2038 
+2036 
+Last tank closed 
+2041 
+2037 
+Next Generation Solvent (NGS) Implemented For 
+Increased SWPF Throughput 
+2023 
+2024 
+Total number of canisters produced 
+8,393 
+8,113 
+Radionuclides (curies) dispositioned in SDF within the 
+amended SRS LW Strategy  
+Yes 
+Yes 
+Total number of SDUs 
+12 
+12 
+ 
+SWPF Processing: This Plan assumes implementation of “Next Generation Solvent” (NGS) in 2024. 
+Vitrification of Sludge at DWPF: This Plan forecasts completion of salt processing before completion of sludge 
+processing. Processing of the remaining sludge heels will continue past the end of SWPF operations. 
+Canister Storage: Double-stack modification of Glass Waste Storage Building (GWSB) 1 and GWSB 2 enable 
+stacking two glass-filled canisters in each below-grade storage location, thus obviating the need for supplemental 
+canister storage. Shipment of canisters from SRS is not included in this Plan. 
+Saltstone Disposal Units (SDU): SDU 2, SDU 3 (currently in use), and SDU 5 are dual cylindrical cell units with 
+~2.8 Mgal grout capacity (~1.6 Mgal of DSS feed) per cell. SDU 2 and SDU 5 are filled. SDU 6 (currently in use) is 
+a single cylindrical cell unit with 32.8 Mgal grout capacity (~18.7 Mgal of DSS feed). Construction of SDU 6 led to 
+subsequent design changes in SDU 7 through SDU 12 that reduced internal obstructions and allowed filling to a 
+greater height, increasing the capacity of each SDU to 34.5 Mgal of grout (19.6 Mgal of DSS). Modeling projects an 
+excess capacity of over 7 Mgal of grout (4 Mgal of DSS) in SDU-12. 
+Radionuclides Dispositioned in SDF: This Plan is consistent with SRS LW Strategy as amended by letter from the 
+SCDHEC to DOE-SR12 and the Basis for Section 3116 Determination for Salt Waste Disposal at the Savannah 
+River Site5 concerning the total curies dispositioned at SDF. 
+Supporting ABD program: This Plan provides for the disposition of fissile material from H-Canyon directly into 
+sludge batches through February 2034. 
+
+=== PAGE 10 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Introduction 
+Page 4 
+ 
+2. Introduction 
+This twenty-third revision of the Liquid Waste System Plan documents a strategy to safely operate the LW System at 
+SRS to receive, store, treat, and dispose of radioactive LW; close waste storage tanks and waste transfer systems; and 
+flush waste processing facilities. The LW System is a highly integrated operation involving safely storing LW in 
+underground storage tanks; removing, treating, and solidifying the low-level waste (LLW) fraction in concrete SDUs; 
+vitrifying the higher activity waste at DWPF; and storing the vitrified waste in stainless steel canisters pending 
+permanent disposition. After waste removal and processing, the storage tanks and ancillary equipment will be closed 
+and processing facilities will be cleaned for closure. Section 5—System Description of this Plan provides an overview 
+of the LW System to give the reader some familiarity of the systems and processes discussed herein. 
+In total, the Tank Farms have received over 165 million gallons of waste from 1954 to the present. Having reduced 
+the volume of waste via evaporation and dispositioned waste via vitrification and saltstone grouting, the Tank Farms 
+currently store approximately 34.5 Mgal of waste containing approximately 222 million curies (MCi) of radioactivity. 
+As of September 30, 2022, DWPF had poured 4,319 vitrified waste canisters. (Note: All volumes and curies reported 
+as current inventory in the Tank Farms are as of September 30, 2022 and account for any changes of volume or curies 
+in the Tank Farms since Revision 22 of the Plan and the Section 3116 Determination for Salt Waste Disposal at the 
+Savannah River Site4.) 
+This Plan describes dispositioning HLW from SRS. It assumes the disposition of spent fuel via dissolution at H-
+Canyon without uranium recovery. The Plan forecasts the outcome for dispositioning the waste via operation of waste 
+removal, the Saltstone Production Facility (SPF), SWPF, and DWPF, with process improvements outlined in this plan. 
+It assumes no major equipment failures other than one DWPF melter replacement. It also assumes no major changes 
+in safety requirements that would negatively affect the current planning basis for the storage, removal, transfer, or 
+processing of waste. As described in the ROMP, there are some challenges that will need to be managed to ensure 
+successful completion of the mission. 
+2.1 
+System Planning Overview 
+System Plan Rev. 23 Goals  
+DOE’s goals for development of this Plan are: 
+1. Continual safe storage of LW in tanks and vitrified canisters in storage. 
+2. Risk reduction through waste disposition, i.e., maximizing processing of waste and completing the LW 
+mission in 2037. 
+3. Completion of waste removal from H-Tank Farm tanks in the water table (i.e., Type I and Type II tanks). 
+4. Support ABD program 
+Constraints 
+Operations are planned within the boundaries established by applicable regulatory constraints and processing 
+constraints. For more information regarding regulatory constraints, refer to Section 3.2. The capacity of the operating 
+facilities is accounted for in this Plan by assuming an availability factor for each of the facilities. This availability 
+factor is based on actual operating history, the age of the facilities, and modeling projections. For example, if a facility 
+has an assumed availability of 75%, that means it is available to operate 75% of the time. Conversely, it is unavailable 
+25% of the time. This equates to three months of downtime every year. Some of this downtime is for planned outages, 
+such as the site steam outage or other planned maintenance outages (e.g., DWPF bubbler replacement or SWPF 
+contactor replacement); the balance is for unplanned outages resulting from equipment failures. The unavailability is 
+factored into the facility’s processing rate. 
+Processing constraints are primarily addressed within the context of tank space management. There is currently a 
+premium on processing and storage space in the SRS radioactive LW tanks. Space is needed for safe storage of waste, 
+volume reduction initiatives via evaporation, retrieval of waste from old-style tanks and subsequent cleaning of 
+emptied tanks, preparation of sludge and dissolution of salt prior to treatment in downstream facilities, and receipt of 
+influent wastes from both DWPF and H-Canyon. The Tank Farm space management strategy is based on a set of key 
+assumptions involving projections of treatment facility throughput, Tank Farm evaporator performance, and influent 
+stream volumes. 
+
+=== PAGE 11 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 5 
+Introduction 
+The 27 new-style tanks represent a maximum storage capacity of 35 Mgal of space, of which almost 10 Mgal is empty 
+space (~22%). However, not all that empty space is available for waste storage: 
+• 
+4.7 Mgal is margin as defense-in-depth operational control coupled with Safety Class (SC) or Safety 
+Significant (SS) structures, systems, or components (SSC) to facilitate reasonably conservative assurance 
+of more than adequate dilution and ventilation of potentially flammable vapors 
+• 
+1.3 Mgal is the procedurally required minimum contingency space for process recovery in the unlikely 
+event of a large waste leak elsewhere in the Tank Farms 
+• 
+3.6 Mgal is operational “working” space variously used to provide: 
+— Contingency transfer space as operational excess margin above the procedurally required minimum 
+— Excess margin to preserve salt batch quality and maintain uninterrupted treatment and disposition 
+through SWPF and SPF 
+— Excess margin to preserve sludge batch quality and maintain uninterrupted immobilization through 
+DWPF 
+— Excess margin to preserve uninterrupted support for H-Canyon. 
+Modeling 
+Previous revisions of the Plan utilized a combination of Microsoft Excel® spreadsheets and software such as 
+COREsim® to forecast the facility operations and changes required to complete the LW mission. For this revision of 
+the Plan, a new model was developed by DBD Inc. The All Waste Simulation Model II (AWSM II) contains the 
+logistical and chemical information of the LW System, through two sub-models handling different aspects. The 
+Process Optimization Model (POM), developed using AnyLogic, portrays facility behavior through resource loading, 
+material transfer volumes, and timings. The Technical Optimization Model (TOM), developed using gPROMS, 
+portrays facility behavior through theoretical and empirical chemical equations. The two sub-models, sharing transfer 
+data between each other, simulate the logistical behavior and verify the simulation behavior based on chemical 
+principles.  
+At the current stage of development, the model incorporates facility run rates and operation logic, planned and 
+unplanned outages, transfer prioritization, and salt batching algorithms. This information allows insight into the 
+current state as well as mid- and long-term projections. The model has been benchmarked against previous Plans and 
+been found to produce similar results when given similar inputs.  
+SRMC’s plan is to complete the LW mission in 15 years (by the end of 2037). Over 100 scenarios were modeled using 
+the new POM with various process improvements incorporated, 35 of those scenarios  met the finish in 2037 objective. 
+One of those 35 scenarios was selected as the basis for this Plan. The following potential process improvements are 
+needed to achieve completion of the mission in 2037: 
+• 
+Improve filtration rate at SWPF 
+• 
+Reduce monosodium titanate (MST) strike time and quantity of MST added 
+• 
+Increase Caustic Side Solvent Extraction (CSSX) 100% throughput to 28 gpm from 21.6 gpm (achieved 
+with the deployment of NGS) 
+• 
+Limit lost production at SWPF resulting from close coupling with DWPF, achieved by a combination of: 
+— Decrease SE volume (NGS) 
+— Increase DWPF plant availability 
+— Accelerate SE consumption in DWPF 
+— Increased SE consumption flexibility 
+ 
+add more SE to each Slurry Receipt and Adjustment Tank (SRAT) Batch 
+ 
+create a transfer path for Strip Effluent Feed Tank (SEFT) to Slurry Mix Evaporator (SME) 
+ 
+provide SE lag storage 
+— Increased MST/SS consumption flexibility 
+ 
+increase the volume of MST/SS per SRAT batch 
+ 
+improve availability of MST/SS lag storage 
+• 
+Improve recycle management within DWPF, achieved by a combination of: 
+— Decrease/eliminate sample wait time 
+— Decrease/eliminate permanganate strike time 
+— Provide redundant Recycle Collection Tank (RCT) capability  
+
+=== PAGE 12 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Introduction 
+Page 6 
+ 
+In addition to the process improvements described above, the model output was further adjusted to ensure the 
+highest priority items to help achieve the 2037 mission completion objective were completed. The results of those 
+adjustments are summarized as follows: 
+• 
+Closure related activities were delayed on numerous tanks 
+— Closure work ramps up heavily (approximately doubled) in FY31-FY37 to a level of activity not 
+previously demonstrated 
+— A third of remaining tanks are operationally closed in the last year of this plan 
+• 
+No ancillary structure work occurs prior to FY28 
+• 
+Melter 5 fabrication was delayed; a just in time outage strategy was used 
+• 
+Modifications to GWSB 2 delayed and will be just in time to meet need date 
+The output of the modeling is a success-based model that assumes a high number of risks (both technical and 
+financial) are overcome and opportunities are realized. While success is possible, contingencies are significantly 
+reduced and risks are higher. The outcome of those risks could delay LW mission completion (see §2.2 below).  
+2.2 
+Risk and Opportunities Assessment 
+The draft ROMP2 documents the comprehensive identification and analysis of technical and programmatic risks and 
+opportunities associated with the LW program and presents strategies for handling those risks and opportunities in the 
+near-term and outyears. 
+The ROMP identifies over 100 risks associated with this Plan with a total outyear Technical and Programmatic Risk 
+Assessment of several billion dollars. After mitigation, overall risk level is reduced. Several of the risks, if realized, 
+have the potential to extend the LW program beyond the 2037 mission completion date, including but not limited to: 
+• 
+Aging Infrastructure—While the assumed availability factor for the facilities addresses expected normal 
+failures of various components, the Plan end date places significant stress on increasingly aging 
+infrastructure. Infrastructure failures, exemplified by the 3H Evaporator pot leak in 2016, provide insight 
+into problems that may be encountered while operating the HLW System until the end of the mission 
+• 
+Infrastructure Capacity—The capacity of the existing Tank Farm infrastructure will be stretched close to its 
+limits in supporting salt batch and sludge batch preparation.  
+• 
+Emergent Changes to Requirements—Changes to business, project management, or technical requirements 
+may adversely affect plans for the provision of necessary facilities (e.g., SDUs), or performance of 
+necessary activities (e.g., transfers). This could interfere with normal operational expectations assumed in 
+the Plan.  
+• 
+Tank heel mechanical cleaning effectiveness to achieve Preliminary Cease Waste Removal (PCWR) 
+• 
+Planned improvements do not increase processing rate within SWPF to the required level 
+• 
+Optimization of MST quantities and strike times is limited by external factors such as the Section 3116 Salt 
+Waste Determination Basis 
+• 
+Planned improvements to increase DWPF availability are insufficient to relieve the close-coupling 
+bottleneck between SWPF and DWPF, and do not achieve the desired benefit 
+• 
+Planned improvements to increase DWPF processing flexibility, including recycle management, are 
+insufficient to relieve the close-coupling bottleneck between SWPF and DWPF, and do not achieve the 
+desired benefit 
+• 
+Ability to concentrate strip effluent (SE) is limited by emergent DSA constraints 
+• 
+Program funding to permit full execution of the Plan is impacted  
+• 
+Historically, operational closure has taken longer than four years. This Plan includes a four-year closure 
+cycle on 27 tanks, a three-year closure cycle on eleven tanks, and a two-year closure cycle on five tanks. 
+Closure starts were delayed, requiring shortened closure cycles to support completion in 2037. This is a 
+future opportunity that must be realized to achieve mission completion in 2037. 
+FFA milestone dates in this plan are less sensitive to the risks described in this section. More risks were accounted 
+for in the selection of those important commitment dates.  
+
+=== PAGE 13 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 7 
+Introduction 
+The ROMP identifies 10 opportunities associated with this Plan. These opportunities, if realized, could help reduce 
+risks, ensure completion of the mission in 2037, ensure timely completion of FFA milestones, and potentially 
+improve the end dates. New opportunities are also under evaluation that may yield benefits to the mission once they 
+have matured. These opportunities include but are not limited to: 
+• 
+Design and field work implementation efficiencies 
+• 
+Improvements in waste removal approach 
+• 
+Improved technical approaches 
+• 
+Alternate strategies on disposition  
+• 
+Optimized methodologies for demonstrating closure requirements are met 
+• 
+Implementation of cost saving strategies and/or enhanced funding profiles 
+ 
+
+=== PAGE 14 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Bases 
+Page 8 
+ 
+3. Planning Bases 
+Dates, volumes, and chemical or radiological composition information contained in this Plan are planning 
+approximations only. Specific flowsheets guide actual execution of individual processing steps. The activities 
+described are summary-level activities, some of which have yet to be fully defined. The sequence of activities 
+described herein reflects the best judgment of the planners. The individual activity execution strategies contain full 
+scope, schedule, and funding development. Upon approval of scope, cost, and schedule baselines, modifications of 
+this Plan may be necessary. 
+3.1 
+Funding 
+Progress toward the goal of immobilizing all the LW at SRS is highly dependent on available funding. With any 
+reduction from full funding, activities that ensure safe storage of waste claim priority. Funding above that required for 
+safe storage enables risk reduction activities, i.e., waste removal, treatment—including immobilization, and removal 
+from service, as described in this Plan. 
+3.2 
+Inputs and Assumptions 
+The following inputs and assumptions were generated to develop this 23rd revision of the Plan. The targets described 
+in these assumptions are the overall goals of the various facilities. Modeling of the LW system, however, may indicate 
+that the targets are not achievable given the processing constraints of various facilities, limits to funding, or other 
+system constraints. 
+• 
+Priorities for Scenario Development (these are goals, not necessarily outcomes): 
+1. Continual safe storage of LW in tanks and vitrified canisters in storage. 
+2. Risk reduction through waste disposition, i.e., maximizing processing of waste and completing the LW 
+mission in 2037. 
+3. Completion of waste removal from H-Tank Farm tanks in the water table (i.e., Type I and Type II 
+tanks). 
+4. Support ABD 
+• 
+Funding: 
+— Funding for the LW program is provided from PBS-14C 
+— Additional funding (other than PBS-14C) will be provided to support  
+ 
+Fast Critical Assembly (FCA) disposition 
+ 
+Conversion of Tank 42 for sludge batch preparation service 
+• 
+Accelerated Basin Deinventory (ABD) 
+— Utilize SRNS-E1122-2020-0002114 to characterize ABD discard 
+— Assume that ABD transfers will be supported only to the degree that they do not impact the overall LW 
+mission (i.e. completion in 2037) 
+— Fissile loading in glass is allowed to exceed 2,500 g/m3 after SB 11 
+— The final ABD discard will be received no later than February 2034 to avoid mission impact. 
+3.3 
+Regulatory Drivers 
+Numerous laws, constraints, and commitments influence LW System planning. Described below are requirements 
+most directly affecting LW system planning. This Plan assumes the timely acquisition of regulatory approvals. 
+South Carolina Environmental Laws and Permits 
+Under the South Carolina Pollution Control Act, S.C. Code Ann. §§ 48-1-10 et seq., SCDHEC is the delegated 
+authority for air pollution control and water pollution control. The State has empowered SCDHEC to adopt standards 
+for protection of water and air quality and to issue permits for pollutant discharges. Further, SCDHEC is authorized 
+to administer both the federal Clean Water Act and the Clean Air Act. Under South Carolina’s Hazardous Waste 
+Management Act, S.C. Code Ann. §§ 44-56-10 et seq., SCDHEC is granted the authority to manage hazardous wastes. 
+With minor modifications, SCDHEC has promulgated the federal Resource Conservation and Recovery Act (RCRA) 
+requirements, including essentially the same numbering system. The South Carolina Solid Waste Policy and 
+Management Act, S.C. Code Ann. §§ 44-96-10 et seq., provides standards for the management of most solid wastes 
+in the state. For example, SCDHEC issued to DOE-SR permits such as the Class 3 Solid Waste Landfill Permit for 
+SDF. This landfill permit contains conditions for the acceptable disposal of non-hazardous waste in the SDF, including 
+
+=== PAGE 15 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 9 
+Planning Bases 
+provisions for fines and penalties. Other principal permits required to operate LW facilities pursuant to the state’s 
+environmental laws include: 
+• 
+SCDHEC Bureau of Land and Waste Management 
+— Class 3 Solid Waste Landfill Permit for SDF 
+• 
+SCDHEC Bureau of Water: 
+— Industrial wastewater treatment facility permits (e.g., Tank Farms, DWPF, Actinide Removal Process / 
+Modular CSSX Unit [ARP/MCU], Effluent Treatment Facility [ETF], SPF, SWPF) 
+— National Pollutant Discharge Elimination System (NPDES) permit (H-16 Outfall discharges from ETF) 
+• 
+SCDHEC Bureau of Air Quality: 
+— Part 70 Air Quality Permit (one Site-wide Air Permit including the LW facilities). 
+One feature of this Plan is incorporation of the provisions of the “Agreement”13 executed in October 2016. That 
+“Agreement” designates specific technology incorporation (i.e., TCCR, NGS in SWPF, and sonar mapping 
+demonstration) into the LW disposition matrix. Salt processing goals and deadlines are identified. Along with the 
+goals and timing is a recognition of the challenges of operating a complex set of interdependent facilities, many of 
+which are older, such that documentation of force majeure events is allowed. 
+Site Treatment Plan (STP) 
+The Site Treatment Plan (STP)15 for SRS describes the development of treatment capacities and technologies for 
+mixed wastes and provides guidance on establishing treatment technologies for newly identified mixed wastes. The 
+STP allows DOE, regulatory agencies, the States, and other stakeholders to efficiently plan mixed waste treatment 
+and disposal by considering waste volumes and treatment capacities on a national scale. The STP identifies 
+vitrification in DWPF as the preferred treatment option for appropriate SRS liquid high-level radioactive waste streams 
+and solidification in Saltstone for low-level radioactive waste streams. In 1996, SRS committed that: 
+“Upon the beginning of full operations, DWPF will maintain canister production sufficient to meet 
+the commitment for the removal of the backlogged and currently generated waste inventory by 
+2028.” 
+The commitment for the removal of the waste by 2028 encompasses bulk waste removal and heel removal scope of 
+this Plan. Final cleaning, deactivation, and removal from service of storage and processing facilities follow the 
+satisfaction of this commitment. Note that with the changes in technology and challenges in implementing the various 
+technologies this Plan does not meet this commitment, even with additional salt processing. 
+Federal Facility Agreement (FFA) 
+The Environmental Protection Agency (EPA), DOE, and SCDHEC executed the SRS Federal Facility Agreement 
+(FFA)3 on January 15, 1993, with an effective date of August 16, 1993. It provides standards for secondary 
+containment, requirements for responding to leaks, and provisions for the removal from service of leaking or 
+unsuitable LW storage tanks. Tanks scheduled for operational closure may continue to be used but must adhere to the 
+FFA schedule for operational closure and the applicable requirements contained in the Tank Farms’ industrial 
+wastewater treatment facility permit. Several agreements since then have modified the original agreement recognizing 
+the realization of previously identified risks (e.g., delays in SWPF start-up date). Appendix L of the FFA, updated to 
+add the 2022 High Level Waste Tank Milestones Agreement signed by DOE, SCDHEC, and EPA in December 2022, 
+includes the Schedule for Remaining Non-Compliant Tanks (Table 3-1). 
+ 
+
+=== PAGE 16 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Bases 
+Page 10 
+ 
+Table 3-1—Schedule for Remaining Non-Compliant Tanks 
+Milestone Date 
+Preliminary Cease Waste Removal 
+(№ of Tanks) 
+Operational Closure 
+(№ of Tanks) 
+12/31/2023 
+– 
+– 
+12/31/2024 
+1 
+– 
+12/31/2025 
+3 
+– 
+12/31/2026 
+2 
+– 
+12/31/2027 
+2 
+– 
+12/31/2028 
+– 
+3 
+12/31/2029 
+2 
+– 
+12/31/2030 
+1 
+2 
+12/31/2031 
+– 
+3 
+12/31/2032 
+– 
+1 
+12/31/2033 
+– 
+2 
+12/31/2034 
+1 
+– 
+12/31/2035 
+1 
+– 
+12/31/2036 
+1 
+1 
+12/31/2037 
+2 
+4 
+ 
+National Environmental Policy Act 
+The National Environmental Policy Act (NEPA) requires federal agencies to assess the potential environmental 
+impacts of proposed actions. Eight existing NEPA documents and their associated records of decision directly affect 
+the LW System and support the operating scenario described in this Plan: 
+• 
+DWPF Supplemental Environmental Impact Statement (SEIS) (DOE/EIS-0082-S) 
+• 
+Final Waste Management Programmatic Environmental Impact Statement (PEIS) (DOE/EIS-0200-F) 
+• 
+SRS Waste Management Final Environmental Impact Statement (EIS) (DOE/EIS-0217) 
+• 
+Interim Management of Nuclear Materials EIS (DOE/EIS-0220) 
+• 
+SRS High-Level Waste Tank Closure Final EIS (DOE/EIS-0303) 
+• 
+Environmental Assessment (EA) for the Closure of the HLW Tanks in F and H Areas at SRS (DOE/EA-
+1164) 
+• 
+SRS Salt Processing Alternatives Final SEIS (DOE/EIS-0082-S2). 
+• 
+Final EA for the Commercial Disposal of DWPF Recycle Wastewater from SRS (DOE/EA-2115) 
+Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 
+The Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (NDAA) Section 3116 (NDAA 
+§3116) allows determinations by the Secretary of Energy, in consultation with the Nuclear Regulatory Commission 
+(NRC), that certain radioactive waste from reprocessing is not high-level waste and may be disposed of in South 
+Carolina pursuant to a State-approved closure plan or State-issued permit. For salt waste, DOE contemplates removing 
+targeted fission products and actinides using a variety of technologies and combining the removed fission products 
+and actinides with the metals being vitrified in DWPF. NDAA §3116 governs solidifying the remaining low-activity 
+salt stream into saltstone grout for disposal in SDF. For tank removal from service activities, NDAA §3116 governs 
+the WDs for the Tank Farms that demonstrate that the tank residuals, the tanks, and ancillary equipment (evaporators, 
+diversion boxes, etc.) at the time of removal from service and stabilization can be managed as non-high-level waste. 
+Conduct of operations are planned in accordance with the following applicable portions of the NDAA: 
+• 
+Section 3116 Determination for Salt Waste Disposal at the Savannah River Site4 
+• 
+Basis for Section 3116 Determination for Salt Waste Disposal at the Savannah River Site5 
+• 
+Section 3116 Determination for Closure of F-Tank Farm at the Savannah River Site6 
+• 
+Basis for Section 3116 Determination for Closure of F-Tank Farm at the Savannah River Site7 
+• 
+Section 3116 Determination for Closure of H-Tank Farm at the Savannah River Site8 
+• 
+Basis for Section 3116 Determination for Closure of H-Tank Farm at the Savannah River Site9 
+
+=== PAGE 17 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 11 
+Planning Bases 
+3.4 
+Revisions 
+The significant differences from Revision 221 of this Plan include: 
+• 
+Salt Processing: 
+— Salt Waste Processing Facility accelerated processing of higher curie waste to maximize risk reduction 
+in the tank farms 
+— Suspended TCCR operations 
+• 
+DWPF: 
+— Provision for ABD program 
+— Fissile loading in glass is allowed to exceed 2,500 g/m3 after SB 11 
+— Recognizes performance enhancements due to the conversion to a glycolic acid flowsheet from a formic 
+acid flowsheet 
+• 
+Modeling: 
+— This Plan utilizes a modeling suite developed by DBD Inc. 
+3.5 
+Key Milestones 
+Key Milestones are those major dates deemed necessary under this Plan to remove waste from storage, process it into 
+glass or grout, and close the LW facilities. The Revision 22 milestones are provided for comparison:  
+Table 3-2—Key Milestones 
+Key Milestone 
+Rev 22 
+with ABD 
+Rev 23 
+Date SWPF begins hot commissioning (actual) 
+2020 
+2020 
+Date last LW facility turned over to D&D 
+2041 
+2037 
+Final Type I and II tanks complete operational 
+closure 
+2033 
+2032 
+Complete salt waste treatment through SWPF 
+2033 
+2035 
+Complete sludge waste treatment through DWPF 
+2038 
+2036 
+Total number of canisters produced 
+8,393 
+8,113 
+Initiate SWPF Hot Operations (actual) 
+Jan 2021 
+Jan 2021 
+– 
+Processed via DDA-solely (actual) 
+2.8 Mgal 
+2.8 Mgal 
+– 
+Processed via ARP/MCU (actual) 
+7.5 Mgal 
+7.5 Mgal 
+– 
+Salt Solution Processed via TCCR (actual) 
+6.1 Mgal 
+0.4 Mgal 
+– 
+Salt Solution Processed via SWPF 
+96 Mgal 
+103 Mgal 
+Number of SDUs  
+12 
+12 
+ 
+SWPF Processing: This Plan assumes implementation of NGS in 2024. 
+Vitrification of Sludge at DWPF: This Plan forecasts completion of salt processing before completion of sludge 
+processing. Processing of the remaining sludge heels will continue past the end of SWPF operations. 
+Canister Storage: Double-stack modification of GWSB 1 and GWSB 2 enable stacking two glass-filled canisters in 
+each below-grade storage location, thus obviating the need for supplemental canister storage. Shipment of canisters 
+from SRS is not included in this Plan. 
+Saltstone Disposal Units (SDU): SDU 2, SDU 3 (currently in use), and SDU 5 are dual cylindrical cell units with 
+~2.8 Mgal grout capacity (~1.6 Mgal of DSS feed) per cell. SDU 2 and SDU 5 are filled. SDU 6 (currently in use) is 
+a single cylindrical cell unit with 32.8 Mgal grout capacity (~18.7 Mgal of DSS feed). Construction of SDU 6 led to 
+subsequent design changes in SDU 7 through SDU 12 that reduced internal obstructions and allowed filling to a 
+greater height, increasing the capacity of each SDU to 34.5 Mgal of grout (19.6 Mgal of DSS). Modeling projects an 
+excess capacity of over 7 Mgal of grout (4 Mgal of DSS) in SDU-12. 
+Radionuclides Dispositioned in SDF: This Plan is consistent with SRS LW Strategy as amended by letter from the 
+SCDHEC to DOE-SR12 and the Basis for Section 3116 Determination for Salt Waste Disposal at the Savannah 
+River Site7 concerning the total curies dispositioned at SDF. 
+Supporting ABD program: This Plan provides for the disposition of fissile material from H-Canyon directly into 
+sludge batches through February 2034. 
+
+=== PAGE 18 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Summary and Results 
+Page 12 
+ 
+4. Planning Summary and Results 
+This section summarizes the key attributes of this Plan. Detailed discussion of risks and associated mitigation 
+strategies are included in other documents such as the ROMP and individual implementation activity risk assessments. 
+In addition, this Plan assumes receiving adequate funding to achieve the required project and operations activities. 
+Failure to obtain adequate funding will have a commensurate impact on the programmatic objectives. 
+This section summarizes the Plan, based on the key assumptions and bases. Tabular results of the lifecycle, on a year-
+by-year basis, or graphical results of the lifecycle are included in: 
+Appendix A—Salt Solution Processing 
+Appendix B—Canister Storage 
+Appendix C—Preliminary Cease Waste Removal 
+Appendix D—Tank Removal from Service 
+Appendix E—LW System Plan—Revision 23 Summary (DNA) 
+4.1 
+Waste Retrieval 
+The first step in the disposition of sludge and salt waste is bulk waste removal. The waste removal phase extracts the 
+bulk of the tank waste, including salt cake, sludge solids, and contaminated liquids, leaving only the residual heel.  
+Waste Removal  
+This is a mechanical process using agitation mixer pumps to suspend and potentially dissolve the solids and transfer 
+the waste feeds for further processing. Sludge is removed from the waste tank and sent either to a sludge hub tank, a 
+tank set up to receive and transfer sludge to the feed preparation tank, or directly to the feed preparation tank, ensuring 
+sludge waste is continuously available for treatment at DWPF. Salt is dissolved, removed, and staged in a salt solution 
+storage tank, a salt solution hub tank or a salt solution blend tank, prior to treatment at SWPF. 
+Sludge Removal 
+Current sludge removal strategies utilize the local control rooms and 
+use standardized support skids to increase the efficiency of the 
+sludge removal process. The process is completed utilizing several 
+mixer pumps and adding sufficient liquid to the tank to suspend 
+sludge solids. Existing supernate is used, when practical, to 
+minimize introduction of new liquids into the system. Operation of 
+commercial submersible mixing pumps (CSMP) suspends the 
+solids, which are then transferred as a slurry from the tank. This 
+operation is repeated, periodically lowering the CSMPs, until the 
+remaining contents of the tank can no longer be effectively removed 
+by this method (see Figure 4-1—Mechanical Agitation Waste 
+Removal). 
+Sludge batches were originally configured to preferentially remove sludge from old style, Types I and II, tanks. Most 
+of the sludge has been successfully removed from these old-style tanks. Tank 13, a Type II tank in HTF, is being used 
+as a sludge hub tank to store and transfer sludge from other tanks; final Tank 13 heel removal is planned for 2026. 
+Tanks 33, 26, 35, and 39, all Type III tanks, are also planned as sludge hub tanks, as needed. 
+Salt Removal 
+Salt waste removal strategy is developed on a tank-specific basis and may employ a variety of approaches. If liquid 
+supernate is present above the salt layer, it is removed first. After that, tanks that are full of salt and at the beginning 
+of the salt waste removal process may be approached using a Drain, Add, Remove (DAR) method (see Figure 4-2—
+Drain, Add, Remove Method for Salt Waste Removal) 
+ 
+Figure 4-1—Mechanical Agitation Waste Removal 
+
+=== PAGE 19 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 13 
+Planning Summary and Results 
+The Drain step involves the removal of the highly concentrated interstitial liquid salt solution, often by mining into 
+the saltcake and placing a pump and caisson at a lower elevation in the tank. This allows the interstitial liquid to drain 
+through the salt and collect where it can be pumped out. The interstitial liquid often has higher concentrations of 
+sodium and higher levels of radioactivity compared to dissolved salt. It may be segregated in collection tanks apart 
+from dissolved salt solution collection tanks for strategic salt batch planning.  
+During the Add step, liquid is added to dissolve the solid saltcake. This dissolution liquid may be inhibited water (IW), 
+well water to which small quantities of sodium hydroxide and sodium nitrite have been added to prevent corrosion of 
+the carbon steel waste tanks; or dilute LW already existing within the Tank Farms (i.e., DWPF recycle or Tank 51 
+spent wash water) may be beneficially reused to dissolve salt. The dissolution liquid may be added in small batches, 
+or it may be added at a very slow rate while simultaneously removing dissolved salt solution. The Add step may also 
+be accomplished by using a liquid addition downcomer or a Low Volume Mixing Jet (LVMJ) which entrains existing 
+liquid to promote more contact with the bulk saltcake. When using a downcomer for liquid additions, the Add step is 
+more effective if the dissolution media can be sprayed directly onto the salt surface. Care is taken to minimize the 
+formation of preferential flow channels during salt solution removal.  
+The Removal step ends the process, with the removal of dissolved salt solution to a collection tank. 
+While effective, salt dissolution using DAR is a slow process. The preferred, more efficient method of salt dissolution 
+involves the use of CSMPs to increase the contact between the saltcake and the dissolution media, resulting in faster 
+salt dissolution. CSMPs are also effective at disturbing insoluble materials that may blanket the salt surface, which 
+may otherwise reduce the effectiveness of the DAR process. Use of CSMPs generally requires lower bulk saltcake 
+level in the tank to ensure the CSMPs have adequate liquid coverage for cooling, and a larger tank vapor space to 
+account for the higher rate of gas release during salt dissolution. Thus, LVMJs are initially used for water additions 
+when the salt level is too high to effectively operate CSMPs. LVMJs may be used to add water in small batches or, 
+during simultaneous removal of dissolved salt solution using a transfer pump, for semi-continuous dissolution (SCD). 
+During SCD, as the density of the dissolved salt solution decreases, the LVMJs and transfer pump are lowered closer 
+to the bulk saltcake surface to promote more effective salt dissolution. Once the salt level has decreased enough to 
+allow the effective use of CSMPs, the LVMJs are removed and CSMPs are installed to promote faster and more 
+efficient salt dissolution. Enhanced LVMJs (eLVMJs) may also be deployed; the eLVMJs feature a different nozzle 
+design and operate at higher pressure than standard LVMJs. 
+Tanks with Documented Leak Sites 
+Several Type I, II, and IV tanks have documented leak sites. All Type IV tanks having documented leak sites have 
+been operationally closed,, however waste removal operations on some of the Type I and II tanks could potentially 
+reactivate old leak sites or expose new leak sites in those tanks. Contingency equipment and procedures will be utilized 
+to contain leakage if it occurs and prevent release to the environment. Tank-specific waste removal plans avoid liquid 
+levels above known leak sites, when feasible, and focused monitoring is employed when these levels cannot be 
+avoided.  
+Because of program progress to date, of the 14 SRS tanks (all old-style tanks) with leakage history: 
+• 
+6 are operationally closed and grouted (Tanks 5, 6, 12, 16, 19, and 20) 
+• 
+3 are targeted for accelerated closure (Tanks 9, 10, and 11) 
+• 
+1 is undergoing heel removal (Tank 15) 
+ 
+Figure 4-2—Drain, Add, Remove Method for Salt Waste Removal 
+
+=== PAGE 20 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Summary and Results 
+Page 14 
+ 
+• 
+2 contain essentially dry waste, with little to no free liquid supernate (Tanks 1 and 14) 
+• 
+2 contain liquid supernate at a level below known leak sites (Tanks 4 and 13). 
+4.2 
+Sludge Processing 
+Each sludge batch is comprised of sludge from two or more source tanks. Sludge batch planning uses the estimated 
+mass and composition of sludge and known processing capabilities to develop 
+processing sequences. In addition, the need to integrate salt and sludge processing 
+constrains canister production to meet salt processing requirements during some 
+years. 
+The basic steps for sludge processing (Figure 4-3) are: 
+1. Sludge removal from tanks 
+2. Low Temperature Aluminum Dissolution (LTAD) in Tank 51 or, when 
+converted, Tank 42, as needed 
+3. Blending and washing of sludge in Tank 51 or Tank 42 
+4. Sludge feeding to the DWPF from Tank 40 
+5. Vitrification in DWPF. 
+Low Temperature Aluminum Dissolution (LTAD) 
+Sludge generated by the plutonium uranium reduction extraction (PUREX) process 
+in F-Canyon produces high-heat sludge with small amounts of aluminum. However, 
+H Canyon uses a modified version of the PUREX process to separate special 
+nuclear material and enriched uranium. High-heat sludge generated from the 
+Canyon H-Modified (HM) process has high amounts of aluminum solids as gibbsite 
+or boehmite. Some of this aluminum can be removed from the sludge by dissolving 
+the aluminum and then decanting the liquid. This reduces the number of canisters 
+needed to disposition the sludge due to lowered sludge solids mass and improved 
+glass waste loading. Aluminum dissolution is achieved by application of added 
+caustic, elevated temperature, mixing, and sufficient reaction time. “Low 
+Temperature” refers to the use of a maximum temperature of approximately 75ºC 
+to achieve the dissolution, as demonstrated for SB5, SB6, and SB10. Preparation of 
+SB11–18 are expected to need the LTAD process step. The dissolved aluminum 
+liquid is processed with the salt waste.  
+ Sludge Washing 
+Sodium and other soluble salts (e.g., sulfates, nitrates, nitrites) in DWPF feed are reduced through sludge washing. 
+Sludge washing is performed by adding water to the sludge batch, mixing with slurry pumps, securing the pumps to 
+allow gravity settling of washed solids, and decanting the sodium-rich supernate to a salt preparation tank or an 
+evaporator system for concentration. This cycle is repeated until the desired molarity (typically 1.0 M Na) is reached. 
+Some types of sludge settle slowly, extending wash cycles. Sludge settling and washing typically constitutes ~75% of 
+batch preparation time. The total number of washes performed, and volume of wash water used, are minimized to 
+conserve waste tank space. Sludge batch size and wash volumes are also limited by the hydrogen generation rate 
+associated with radiolysis of water. Tank contents are mixed on a periodic frequency to release hydrogen retained 
+within the sludge layer, resulting in a limited window within operating constraints for gravity settling. Once sludge 
+washing has achieved its chemical composition objective and the batch has been qualified for compliance with the 
+DWPF Waste Acceptance Criteria (WAC), it is transferred to Tank 40 where it feeds DWPF in small (5 kgal–10 kgal) 
+batches. 
+4.3 
+DWPF Operations 
+Washed sludge is transferred to the DWPF facility where it is combined with the high-level waste streams from salt 
+processing (discussed below) for vitrification into glass canisters and stored on-site pending disposition. 
+Historically, melter performance has been the limiting factor for DWPF throughput. To mitigate this throughput 
+limitation, argon bubblers were installed in the melter providing more uniform melt temperatures. The DWPF melters 
+produced an average of 215 canisters/yr before melter bubblers were installed. However, after bubblers were installed 
+in September 2010, the melter capacity improved such that an annual record of 277 canisters were poured in FY12, 
+Figure 4-3—Sludge Feed Preparation 
+
+=== PAGE 21 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 15 
+Planning Summary and Results 
+and a monthly record of 40 canisters were poured in August 2013. The feed preparation systems internal to DWPF 
+have demonstrated a capacity of greater than 325 canisters/yr, specifically the 337 canisters poured from July 2011 
+thru June 2012.  
+The DWPF facility is designed to process a defined blend of sludge and salt waste streams, comprised of washed 
+sludge from the Tank Farms, MST/sludge solids from SWPF, and SE from SWPF. For the early years of salt 
+processing, whether with ARP/MCU or SWPF, salt processing paced DWPF production. DWPF processing required 
+to meet the fifteen-year LW facilities closure goal necessitates decoupling DWPF canister production from SWPF 
+processing. 
+Total Canister Count 
+Total canister count is primarily based on the mass of sludge in the Tank Farms, the ability to perform aluminum 
+dissolution as needed, and the addition of sludge modifiers, if needed, to meet physical and chemical requirements for 
+DWPF processing. Sludge may be transferred to a hub tank (a temporary storage location) to provide tank space for 
+SWPF feed preparation and ongoing waste removal. Limits on the mass of sludge that can be physically managed in 
+a given sludge batch may dictate an increase or decrease in both solids loading and canister generation rate.  
+Future estimated canister production, by year, is shown in Appendix B—Canister Storage. The canister rates include 
+two one-week outages every year to allow for routine planned maintenance and another two weeks for the annual site-
+wide steam outage. These outages are included in the model. 
+Failed Equipment Storage Vaults (FESVs) and Melter Storage Boxes (MSBs) 
+The major component of the DWPF process is the melter which has a finite operational life. While the original design 
+of the DWPF facility forecast a melter replacement every two years, the first melter operated over eight and a half 
+years before it reached its end of life. Melter 2 had operated fourteen years when it reached the end of life in 2017. 
+This Plan assumes one additional melter change occurs in early FY29 
+Disposition of highly radioactive failed melters requires specially designed transport and storage Melter Storage Boxes 
+(MSB) which are designed to be placed in underground Failed Equipment Storage Vaults (FESVs) for interim storage. 
+The original DWPF design has two FESVs contained within one construction unit. Each FESV is designed to store 
+one MSB containing a failed melter. 
+Melter 1 was placed in FESV 2 in December 2002. Melter 1 (inside MSB 1) had a relatively low external radiation 
+field. It was placed in the northernmost vault since the next vault pair to be constructed would be adjacent to FESV 2. 
+Melter 2 was placed in FESV 1 in May 2017. Space is reserved for construction of up to ten FESVs, as needed. 
+This Plan assumes a storage location for MSB 3 will be completed prior to Melter 3 reaching its end of life. This will 
+either be by the construction of additional FESVs or an alternative strategy. Alternative strategies are being evaluated 
+to allow the lower dose Melters 1, Melter 2, or both to be removed from the FESVs for above ground storage and 
+utilizing the current FESVs for the presumably higher dose Melter 3 when it reaches end of life. 
+Currently, the FESV 200-ton gantry crane is designed to interface only with an MSB designed primarily to contain 
+failed melters. The placement of other large failed DWPF equipment (which do not have disposal paths) in FESVs 
+has been considered, but the complete engineered system to move large, contaminated equipment from the 221-S 
+Canyon to the FESV has not been designed or constructed. Alternative methods for disposal of large, contaminated 
+equipment from DWPF (not including melters) are under evaluation. 
+Glass Waste Storage Building (GWSB) 
+The canisters of vitrified HLW glass produced by DWPF are currently 
+stored on-site in two dedicated interim GWSBs. A Shielded Canister 
+Transporter (SCT) moves one canister at a time from the Vitrification 
+Building to a GWSB. The schedule for filling the GWSBs is found in 
+Appendix D—Canister Storage. 
+GWSB 1 consists of a below-grade seismically qualified concrete vault 
+containing support frames for vertical storage of 2,262 standard 
+canisters. In FY15, GWSB 1 began conversion for stacking two 
+canisters in each storage location for a total capacity of 4,524 standard 
+canisters (Figure 4-4—Double Stacking) within the guidelines of Heat 
+Transfer Analysis of Double Stacking of Canisters in the Glass Waste 
+Figure 4-4—Double Stacking 
+
+=== PAGE 22 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Summary and Results 
+Page 16 
+ 
+Storage Building #116. As of September 30, 2022, GWSB 1 contained 2,045 radioactive canisters and two archived 
+non-radioactive canisters.  
+GWSB 2, with a similar design to GWSB 1, has 2,340 standard storage locations. The first radioactive canister was 
+placed in GWSB 2 on July 10, 2006. Beginning in FY24, GWSB 2 will begin conversion to double-stack capability. 
+The forecast is for 300 positions to be modified per year with a potential final capacity in GSWB 2 of 4,680 canisters. 
+It may be necessary, however, to keep some of the positions in GWSB 2 as single-stack capable to accommodate any 
+canisters that may have a higher heat generation rate than is allowable in the double-stack configuration. Additionally, 
+this Plan does not foresee the need for all the positions in GWSB 2 to be double stacked so some of the positions may 
+remain unconverted. As of January 1, 2022, GWSB 2 stored 2,271 radioactive canisters and one archived non-
+radioactive canister. The schedule for shipment of the canisters from SRS is not included in this Plan. 
+4.4 
+Salt Processing 
+As highlighted in the Introduction, this Plan includes the continued use of SWPF for the remainder of the program. 
+Appendix A—Salt Solution Processing reflects the breakdown of the volumes treated from each of the processes by 
+year. Using the input assumptions for this Plan, over 100 Mgal of salt solution from the Tank Farms will have been 
+processed over the life of the program. Over 14.6 Mgal were processed via DDA, ARP/MCU, TCCR, and SWPF as 
+of the end of FY22.  
+Salt preparation capability is limited by the number of blend tanks available to prepare salt batches. A single tank can 
+prepare 4 Mgal/yr. At present, Tank 21 (Type IV) and Tanks 41 and 42 (both Type IIIA) serve as blend tanks. An 
+additional Type III tank, Tank 27, will be equipped for blend tank service allowing Tank 42 conversion to Sludge 
+Batch preparation service in support of ABD processing. Tank 31 is planned for salt blend service, beginning in 2027, 
+to accommodate closure of FTF and, with it, Tank 27. 
+4.4.1 
+Salt Waste Processing Facility (SWPF) 
+The SWPF receives waste from the HTF SWPF feed tank, Tank 49. The waste first goes to an alpha strike process 
+(ASP) where an MST strike occurs. This decontaminates salt solution via adsorption of strontium-90 (Sr-90), 
+actinides, and entrained sludge solids in the salt solution onto MST followed by filtration or settling. The actinides, 
+Sr-90, and MST-laden sludge waste stream are transferred to DWPF for vitrification and the remaining clarified salt 
+solution is transferred to the CSSX process.  
+The CSSX process uses a four-part solvent for removal of Cs-137 from caustic salt solutions. The key ingredient is 
+the cesium extractant. Currently, SWPF uses the BoBCalix solvent. Beginning in 2024, MaxCalix is planned as the 
+NGS. This solvent is fed to one end of a bank of centrifugal contactors while the waste is fed to the other end in a 
+counter-current flow. The solvent extracts the cesium, with each successive contactor stage extracting more, resulting 
+in a decontaminated salt solution (DSS) stream and a cesium-laden solvent stream. The solvent stream is stripped of 
+its cesium, washed, and the solvent is reused. The DSS is subsequently transferred to feed SPF, currently via Tank 50 
+in HTF, and the cesium-laden solution from the CSSX process, known as SE, is transferred to DWPF to be combined 
+with sludge from the tank farm for vitrification. 
+The SWPF processing rate is based on an assumed 100% availability for the Tank Farm feed as well as DWPF and 
+SPF receipt of the SWPF discharge streams. The SWPF treatment process produces DSS that meets the SPF WAC 
+limit. 
+Blend Tank Selection 
+“Source” and “Hub” tanks supply and collect the source material to be used in compiling the salt batch. “Blend” tanks 
+receive and mix the source material to create the salt batch. The “Feed” tank receives the batch from the Blend tank 
+and transfers it to SWPF. To support SWPF’s maximum throughput, multiple blend tanks are operated simultaneously. 
+There are three basic requirements for a tank to be eligible for use as a blend tank. The tank must be able to: 
+• 
+Accept material from other tanks (receiving capabilities).  
+• 
+Blend the material from the Source tanks (mixing capabilities)  
+• 
+Send prepared feed to the Feed tank (transfer capabilities to Tank 49).  
+Additionally, the salt dissolution campaigns are planned according to the goals listed in the System Plan Rev. 23 Goals  
+on page 4.  
+
+=== PAGE 23 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 17 
+Planning Summary and Results 
+It should be noted that the remaining Type IV tanks in HTF are integral in closing FTF as they provide much needed 
+usable tank space. Therefore, the model utilized the HTF Type IV tanks to support FTF closure and SWPF feed 
+availability prior to their being scheduled for closure. 
+Tank 49 is the current Feed tank for SWPF. Tank 41 and Tank 42 (both Type IIIA) and Tank 21 (Type IV) are currently 
+outfitted for service as salt solution blend tanks. The piping within the 2H evaporator cell was modified to reduce 
+transfer conflicts so that Tanks 41 and 42 have direct transfer paths to Tank 49. As Tank 27 (Type IIIA) in FTF 
+provides multiple transfer paths with the other FTF tanks, it is being converted for salt blend tank service and will 
+replace Tank 42 as a salt blend tank. This allows a reduction in the number of inter-area transfers required to remove 
+salt from FTF. The ongoing salt dissolution in Tank 27 would, once completed, provide adequate tank space for batch 
+compilation. Installation of CSMPs and a transfer pump should be completed by the end of 2023 with salt dissolution 
+sufficient to convert Tank 27 to a blend tank in 2024. To support closure of FTF, Tank 31 is added as an additional 
+blend tank in 2027. 
+As infrastructure improvements occur and demands shift, the selection of blend tanks may change to operate as safely 
+and efficiently as possible. 
+4.4.2 
+Saltstone Operations 
+The Saltstone operation consists of two main components. The SPF contains the tanks and equipment necessary to 
+receive the feed and treat and process it into saltstone grout. The grout is pumped from SPF into the SDF, consisting 
+of several SDUs for final disposition.  
+Saltstone Production Facility (SPF) 
+SPF receives DSS and other LLW from Tank 50 in HTF into one of two Salt Solution Receipt Tanks (SSRT). The 
+facility treats the salt solution to produce grout by mixing the liquid feed stream with cementitious materials (blast 
+furnace slag and fly ash). A slurry of the components is pumped into the SDUs, located in SDF, where the grout 
+solidifies into a monolithic, non-hazardous, solid LLW form.  
+Saltstone Disposal Facility (SDF) 
+The first two SDUs, known as Vault 1 and Vault 4, used during the initial operation of the SPF, are slated for closure 
+with no plans for future placement of radioactive grout. SDU 2 and SDU 5 (both of which are full) and SDU-3, 
+currently in use, each consist of two cells with a nominal useable volume per cell of approximately 2.8 Mgal. 
+Nominally, 1.76 gallons of grout is produced for each gallon of DSS feed, yielding a nominal cell capacity of 
+approximately 1.5 Mgal of DSS. SDU 6, also a currently active SDU, consists of a single cell 375 feet in diameter by 
+43 feet high. SDU 6 has the capacity to disposition over 32.8 Mgal of grout. With similar external dimensions, SDU 
+7, another in use, through SDU 12, incorporated a design change to reduce internal obstructions and increase fill 
+height, which yields a capacity of approximately 34.5 Mgal each. These “mega-SDUs” have a capacity of 18.7 (SDU 
+6) to 19.6 (SDU-7–12) Mgal of DSS from SWPF and other minor contributors to saltstone disposition. SDU 8 through 
+SDU 12 are under construction.  
+4.5 
+Innovations to Optimize System Performance 
+The major SWPF and DWPF improvements that will enable throughput increases up to 9 Mgal/year are depicted in 
+Figure 4-5. A more comprehensive illustration of the optimization plan, including an approximate timeline for 
+implementation, is shown in Figure 4-6—SRMC Optimization Plan. The projects are grouped into those that have 
+been implemented, several that are in progress, and others that were identified and are pending modeling results to 
+determine which offer the best opportunity to boost production. Some of the improvements include: 
+• 
+Improve filtration rate at SWPF 
+• 
+Decrease monosodium titanate (MST) strike time and quantity of MST added 
+• 
+Increase CSSX 100% throughput to 28 gpm from 21.6 gpm 
+— This will be achieved with the deployment of NGS. 
+• 
+Limit lost production at SWPF resulting from close coupling with DWPF through a combination of.  
+— Decreased SE volume (NGS) 
+— Increased DWPF plant availability 
+— Accelerated SE consumption in DWPF 
+— Increased SE consumption flexibility 
+– 
+more SE per SRAT Batch 
+– 
+Strip Effluent Feed Tank (SEFT) to SME 
+
+=== PAGE 24 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Summary and Results 
+Page 18 
+ 
+– 
+SE lag storage 
+— Increased MST/SS consumption flexibility (volume of MST/SS per SRAT batch, availability of 
+MST/SS lag storage) 
+• 
+Improve DWPF recycle management within DWPF through a combination of. 
+— Decrease/eliminate sample wait time 
+— Decrease/eliminate permanganate strike time 
+— Provide redundant RCT capability  
+Other factors limiting salt processing capacity, with the strategy to compensate for the limitation, are: 
+• 
+Equipment Reliability: Equipment upgrades such as Tank Farm East Hill Utilities are planned to enhance 
+the reliability of feed to SWPF 
+• 
+Transfer Line Integrity: Occasionally, transfers are delayed due to Out of Service (OOS) transfer lines 
+from failed pressure tests. Devising improved transfer line integrity is planned 
+• 
+Onsite Dry Feed Preparation: Dry feed preparation at SPF requires the use of the existing silos to mix the 
+components of the dry feed. An offsite dry feeds mixing plant would allow pre-mixing the dry feeds before 
+reaching the Saltstone facility to increase dry feeds capacity and enable more efficient use of all four silos 
+• 
+Safety Basis Calculations: Currently, engineering calculations are required prior to waste transfers to 
+ensure the integrity of the flammability control program. Revision of the Tank Farm flammability program 
+could minimize Engineering calculations and evaluations prior to performing transfers 
+• 
+Frit Development: For each sludge batch, frit compositions are evaluated against projections for coupled 
+operation with SWPF using the Product Composition Control System (PCCS) and the associated 
+Measurement Acceptance Region (MAR) criteria. Recommended frit compositions will be robust enough 
+to accommodate 2,800 gallons of MST/SS effluent sent to DWPF per week from SWPF. 
+4.5.1 
+Production Improvements Implemented 
+DWPF 
+Several improvements accelerated the DWPF feed preparation system to support SWPF operations at higher feed 
+rates: 
+• 
+Introduction of a new anti-foam agent 
+• 
+Implementation of an alternate reductant, i.e., the glycolic acid flowsheet 
+• 
+Reduced SRAT cycle time 
+• 
+Beneficial reuse of DWPF recycle for waste removal and tank cleaning, in lieu of water additions,  
+o 
+supplements recycle reduction  
+o 
+maintains Tank Farm capacity (see §4.6.3 below). 
+• 
+Reduction of liquid addition in DWPF supports receipt of SE from SWPF.  
+SWPF 
+Since the completion of Hot Commissioning and the One Year Operations period, several opportunities to improve 
+the processing rate have been implemented by SRMC: 
+• 
+Improved integrated operations with the other facilities 
+• 
+Rebuild DSS Coalescer with improved gaskets 
+• 
+SWPF ASP cleaning solution disposition 
+• 
+Improved SE/CSSX coalescer cleaning sequence 
+• 
+Diversion of SE stream during startup 
+• 
+Recovery of CSSX solvent 
+ 
+
+=== PAGE 25 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 19 
+Planning Summary and Results 
+Figure 4-5—SWPF–DWPF Optimization 
+ 
+ 
+ 
+
+=== PAGE 26 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Summary and Results 
+Page 20 
+ 
+Figure 4-6—SRMC Optimization Plan 
+ 
+ 
+
+=== PAGE 27 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 21 
+System Description 
+Saltstone 
+The Saltstone facilities have been implementing reliability improvements under the Enhanced Low Activity Waste 
+Disposition (ELAWD) project. The improvement under ELAWD include: 
+• 
+Silo bin discharge—Reworked existing silo bin discharge system to allow silos to operate at full capacity. 
+Implement software changes that will allow air to be pulsed through the silo during downtimes to prevent 
+packing and bridging 
+• 
+Knife gate valve or equivalent—Installed knife gate valve assembly at each silo to enhance the system’s 
+abilities to handle inconsistencies with bulk materials and aid in dry material recipe accuracy 
+• 
+Screw feeder—Replaced the existing obsolete screw feeder 
+• 
+Weather protection—Enclosed the Premix Feed Bin and Loss-In-Weight hopper to protect the many 
+flexible couplings and joints that are susceptible to water intrusion 
+• 
+Flexible couplings—Upgraded each flexible coupling to provide improved sealing and weather resistance 
+• 
+Dust collectors—Updated Silo 2 dust collector to improve simultaneous truck unloading capacity for Silos 
+1, 2, and 3. 
+Additional SPF improvements include:  
+• 
+Mixer upgrades 
+• 
+Cement free grout  
+Tank Farms 
+Continuing improvements in Tank Farms have included:  
+• 
+Introducing a third salt blend tank 
+• 
+Incorporation of DWPF recycle in salt batches 
+• 
+eLVMJ’s with greater cleaning radius to improve salt dissolution 
+• 
+Submersible blend pump reliability improvements 
+Several maintenance improvement initiatives improve reliability and availability of equipment including:  
+• 
+Utilizing the 299-H maintenance facility to rebuild SWPF contactors 
+• 
+Utilizing the existing manipulator maintenance facility in DWPF to rebuild SWPF manipulators 
+4.6 
+Tank Closure 
+4.6.1 
+Heel Removal and Cleaning 
+Heel Removal 
+After completion of waste removal using the technologies discussed above, the waste heel is removed. Heel removal 
+has consisted of a combination of mechanical heel removal and chemical cleaning. Depending on tank conditions, 
+chemical cleaning has been performed prior to mechanical heel removal, or some mechanical heel removal and some 
+chemical heel removal has been performed iteratively. Heel removal activities end when the heel solids, including any 
+remaining highly radioactive radionuclides, have been removed to the extent technically practicable from an 
+engineering perspective, 
+Mechanical Heel Removal 
+For mechanical heel removal, this Plan assumes vigorous mixing continues, using mixing pumps. Additional 
+mechanical removal may be achieved through directing pump discharges in specific patterns to impact remaining 
+material, until reaching a point of diminishing returns. 
+Chemical Cleaning 
+Chemical cleaning was performed on sludge tanks wherein a sludge heel is subjected to conditions similar to LTAD 
+(see § 4.1). It was, however, determined to be ineffective for the radionuclides of interest, so no further chemical 
+cleaning is planned. 
+Cooling Coil Flushing 
+For waste tanks with cooling coils, the inner surface of the cooling coils may be flushed with water to remove any 
+remaining chromated cooling water, residual waste, and other contaminants that may have migrated into the coils. The 
+
+=== PAGE 28 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Summary and Results 
+Page 22 
+ 
+flush also reduces the corrosion inhibitor (sodium chromate) coating on the interior surface of the coils. The cooling 
+coil flush takes place during heel removal and is repeated until the environmental risks have been reduced to the 
+maximum extent practical.  
+Annulus Cleaning 
+Some Type I and II tanks have waste in the annular spaces, typically a soluble form of salt appearing as dried nodules 
+on tank walls at leak sites and at the bottom of the annulus pan. These tanks will be inspected to determine if Annulus 
+Cleaning is required. For those tanks requiring annulus cleaning, this waste will be removed from the annulus to the 
+extent technically practicable from an engineering perspective and the highly radioactive radionuclides removed to 
+the maximum extent practical before declaring the tank ready for grouting. 
+4.6.2 
+Tank Operational Closure and Stabilization 
+Type I, II, and IV tanks are planned for operational closure in accordance with a formal agreement among the DOE, 
+EPA Region IV, and SCDHEC as expressed in the approved Federal Facility Agreement (FFA). Eight of these tanks 
+were operationally closed and stabilized (grouted): FTF Tanks 17 and 20 in 1997, Tanks 18 and 19 in 2012, Tanks 5 
+and 6 in 2013, and HTF Tank 16 in 2015 and Tank 12 in 2016. 
+Operational closure and stabilization consist of those actions following waste and heel removal that bring liquid 
+radioactive waste tanks and associated facilities to a state of readiness for final closure of the Tank Farms complex, 
+including: 
+• 
+Sampling and Characterization 
+• 
+Developing tank-specific regulatory documents 
+• 
+Isolating the tank from all operating systems in the surrounding Tank Farm (e.g., electrical, instruments, 
+steam, air, water, waste transfer lines, and tank ventilation systems) 
+• 
+Stabilizing by grouting of the primary tank, remaining equipment, annulus, and cooling coils 
+• 
+Capping of select tank risers. 
+This Plan generally assumes thirty months from the last removal of any material until completion of grouting.  
+Sampling and Characterization 
+Before declaring a tank ready for grouting, the tank and annulus are inspected, the residual volume is estimated, and 
+the residual waste is sampled in accordance with a sample plan. Laboratory analysis of the samples yields 
+concentrations of radiological and non-radiological constituents in the remaining material. The SCDHEC-approved 
+Sampling Analysis Program Plan and associated Quality Assurance Program Plan currently recognize the Savannah 
+River National Laboratory (SRNL) as the laboratory to perform residual characterization analysis. Concentration and 
+volume data are used to characterize the residual material to produce radiological and non-radiological inventories.  
+Tank Isolation 
+Tank isolation is the physical process of isolating transfer lines and services from the tank. Isolating the tank from 
+tank farm systems and services prohibits chemical additions or waste transfers into or out of the tank. Further isolation 
+of a tank, after filling with grout, is planned to include cutting and capping or blanking mechanical system components 
+(air piping/tubing, steam piping, etc.) and disconnecting electrical power to process components on the tank. 
+Closure Documentation Development 
+Tank-specific closure documents and other regulatory documentation are prepared to demonstrate compliance with 
+State and DOE regulatory requirements as well as NDAA §3116. An area specific WD approach ensures the NDAA 
+§3116 tank operational closure process is implemented as efficiently as possible. A Performance Assessment (PA) 
+and NDAA §3116 Basis Documents were generated for each Tank Farm. The NDAA §3116 Basis Documents include 
+the waste tanks as well as ancillary structures located within the boundary of the respective Tank Farm. The CGCP 
+was developed and approved by SCDHEC. 
+DOE Radioactive Waste Management Manual 435.1-1 mandates a Tier 1 Closure Plan and associated Tier 2 Closure 
+Plans. Each Tier 1 plan is area-specific and provide the bases and process for moving forward with tank grouting. This 
+document is approved at the DOE-Headquarters level. Each Tier 2 document is tank-specific, follow the approved 
+criteria established in the Tier 1 document, and is locally approved by DOE-SR. 
+
+=== PAGE 29 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 23 
+System Description 
+Development of a tank-specific Closure Module (CM), per the State-approved CGCP, follows completion of tank 
+cleaning activities. The CM describes the waste removal and cleaning activities performed and documents the 
+proposed end state. Final characterization data supports the performance of a Special Analysis which determines if 
+final residual inventories continue to support the conclusions of the area-wide PA. 
+Grout Selection and Manufacture 
+A reducing grout provides long-term chemical durability and minimizes leaching of residual waste over time. The 
+reducing grout selected is self-leveling, and encapsulates any equipment remaining inside the tank and annulus. The 
+grout also provides for intruder prevention in tanks that do not have a thick concrete roof. Grouting preparation 
+activities include field modifications, temporary ventilation installation, grout plant mobilization, and grout 
+procurement. 
+Grout Placement 
+Grout fill operations, including site preparation, pumper truck set up, grout delivery 
+lines, and grout equipment setup are established around the tanks (see Figure 4-7). A 
+grouting sequence for tanks with an annulus ensures voids are filled and the structural 
+integrity of the tank is maintained. Generally, grouting the annulus and primary tank in 
+alternating steps provides structural support for the tank wall. 
+Equipment Grouting 
+For tanks with installed equipment or 
+cooling coils, internal voids are filled 
+with a flowable grout mixture. In those 
+tanks where the cooling coils have 
+broken, alternative techniques are used 
+to minimize voids in the grout matrix. 
+Riser Grouting and Capping 
+The final step, after filling the tank, may include encapsulating select 
+risers. When necessary, forms are built around the risers and grout is 
+used to encapsulate the risers providing a final barrier to in-leakage and 
+intrusion. The final grouted tank configuration is an integral monolith 
+with minimal voids ensuring long-lasting protection of human health 
+and the environment (see Figure 4-8). 
+4.6.3 
+Ancillary Structure Operational Closure and Stabilization 
+Both FTF and HTF contain ancillary structures with internal equipment that may have a residual contaminant 
+inventory that must be accounted for as a part of final closure of the Tank Farms complex. These ancillary structures 
+include such things as buried transfer lines, pump tanks, and evaporators, many of which have been in contact with 
+LW during the operating life of the facilities. The ancillary structures were used in the FTF and HTF to transfer waste 
+(e.g., transfer lines, pump tanks) and reduce waste volume through evaporation (e.g., the evaporator systems). In some 
+cases, the ancillary structures served as access points for transfer systems and as secondary containment for associated 
+jumpers (i.e., diversion boxes). In this manner, ancillary structures can be compared to the waste tanks which have 
+primary containment (i.e., the primary steel tank) and secondary containment (i.e., the partially/fully lined annulus). 
+The amount of contamination associated with these components depends on such factors as the component service 
+life, its materials of construction, and the contaminating medium in contact with the component. One difference with 
+operational closure of the ancillary structures is that, depending on their final inventory, a reducing grout may not be 
+necessary. The ancillary structures, nonetheless, will need to be filled with an appropriate material that will prevent 
+future collapse of the structure.  
+As required by the FTF and HTF NDAA §3116 WDs, Tier 1 Closure Plans, and the State-approved CGCP, the 
+ancillary structures must go through the same operational closure process as described above for the waste tanks. All 
+regulatory documentation and associated approvals by SCDHEC, EPA, and DOE required for the waste tanks is also 
+required for operational closure of the ancillary structures, including a CM, Special Analysis, and Tier 2 Closure Plan. 
+A specific listing of the ancillary structures which must follow this process is listed in the CGCP and includes: 
+Figure 4-7—Grout Placement
+Figure 4-8—Grouted Tank 
+
+=== PAGE 30 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Summary and Results 
+Page 24 
+ 
+● 
+FTF 
+— 1F Evaporator 
+— 2F Evaporator 
+— Transfer line systems, including over 45,000 feet of below grade double-wall pipe 
+— Leak Detection boxes and Modified Leak Detection Boxes 
+— Three Pump Pits and a Condensate Transfer System pump pit 
+— Six Diversion Boxes 
+— One Catch Tank 
+All flushing of the FTF ancillary structures will be done before closure of the IAL in 2034. 
+● 
+HTF 
+— 1H Evaporator 
+— 2H Evaporator  
+— 3H Evaporator 
+— Transfer line systems, including over 74,750 feet of below grade double-wall pipe 
+— Leak Detection boxes and Modified Leak Detection Boxes 
+— Ten Pump Pits and two Condensate Transfer System pump pits 
+— Eight Diversion Boxes 
+— One Catch Tank 
+All flushing of the HTF ancillary structures will be done before 2037. Final closure of the ancillary structures in 
+both FTF and HTF will be accomplished after 2037. 
+Of the ancillary structures in FTF and HTF, F-Diversion Boxes (FDB)-5 & 6 were closed in FY22 consistent with the 
+FFA, Appendix L, 2019 Suspension Agreement. The FTF structures will be flushed and prepared for closure by 2033 
+when the IAL from FTF to HTF is ready for closure. The HTF structures will be flushed and prepared for closure by 
+2036. Final operational closure of the ancillary structures will be completed by 2037. 
+4.7 
+Base Operations 
+4.7.1 
+Supporting Nuclear Material Stabilization 
+ABD materials, as described in Accelerated Basin Deinventory Baseline Projection14 will be received into the sludge 
+preparation tanks at the beginning of the sludge batch preparation process. The final ABD discard will be received no 
+later than February 2034. 
+ABD scope includes processing and discard of fuels that have aluminum-based cladding (ASNF), as well as fuels with 
+cladding made with other materials, such as stainless steel and Zircaloy, i.e., Non-Aluminum Spent Nuclear Fuel, 
+(NASNF). The fissile waste stream is expected to be similar for both; metal dissolution products from cladding will 
+necessarily be different. Discard of NASNF is expected to follow last discard from Fast Critical Assembly (FCA) 
+processing. 
+H-Canyon discards are expected to be received into the remaining planned sludge batches. The fissile material coming 
+from H-Canyon is expected to be mostly U-235, with two batches, SB 12 and SB 13, receiving the majority of the Pu-
+239 discarded. As shown in Table 4-1 below, the majority of the fissile material in future sludge batches will be from 
+ABD program discards, not the waste currently residing in the Tank Farms. The fissile concentration in glass, while 
+allowed to exceed 2,500 g/m3 after SB 11, is not forecast to exceed 2,500 g/m3 until SB 14. 
+The mass of U-235 received during the ABD program is modeled as coming with an equal mass of U-238 
+(approximately 50 wt% enrichment). Additional depleted uranium will be added to a sludge batch if nuclear criticality 
+limits are not met. 
+ 
+ 
+ 
+ 
+
+=== PAGE 31 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 25 
+System Description 
+Table 4-1—Fissile Material by Sludge Batch 
+4.7.2 
+DWPF Recycle Handling 
+Aside from the SWPF DSS received into Tank 50 and transferred directly to Saltstone, DWPF recycle is the largest 
+influent stream received by the Tank Farm. The DWPF recycle rate, historically between 1.5 and 1.9 Mgal/yr prior to 
+SWPF, could increase to as high as 3.2 Mgal/yr during SWPF operations because of extra water in the SE and MST 
+slurry received into DWPF. Additionally, higher Cs-137 concentrations could require the operation of two Steam 
+Atomized Scrubber (SAS) stages in the DWPF melter offgas system, whereas currently only one SAS stage is 
+operated.  
+In this Plan, disposition of the recycle stream is handled in one of three ways, depending on processing circumstances: 
+• 
+Recycle may be evaporated in the 2H Evaporator System, exclusively, due to chemical incompatibility with 
+other waste streams. 
+• 
+Recycle may be beneficially reused within the LW system. The recycle contains less than 1.0 molar 
+sodium, so it is suitable for salt solution molarity adjustment, salt dissolution, or heel removal (Those needs 
+also may be supplemented by water, as required.) Beneficial reuse minimizes operation of the 2H 
+Evaporator.  
+• 
+Upon completion of salt waste processing through SWPF, recycle will be diverted away from Tank Farm 
+facilities and dispositioned directly through SWPF, allowing closure of Tank 22, the DWPF recycle receipt 
+tank. 
+4.7.3 
+Transfer Line Infrastructure 
+Efforts will continue to be made to keep transfers between tanks to a minimum. However, with SWPF operation, 
+executing this Plan requires more frequent transfers than have historically occurred in the Tank Farm. Therefore, there 
+is less “idle time” in the transfer system to accommodate short downtimes needed to address emergent repair activities. 
+New infrastructure is required to accomplish transfers to support SWPF, while also continuing activities such as waste 
+removal and evaporation. Discoveries of unexpected conditions in existing transfer systems could impact the 
+installation of new transfer lines and equipment. 
+The transfers in this Plan are generally based on the known current infrastructure. The actions described can be 
+executed as long as the planned modifications are made, and significant failures of key transfer equipment do not 
+occur or can be mitigated quickly enough to allow activities to proceed as planned. While this Plan does not attempt 
+to explain all the modifications needed or anticipate the failure of specific pieces of transfer equipment much of this 
+is addressed in the ROMP. 
+ 
+ABD Program 
+Tank Farm 
+ 
+ 
+ 
+ 
+Sludge 
+Batch 
+U-235 
+(kg) 
+U-233 
+(kg) 
+Pu-239 
+(kg) 
+Pu-241 
+(kg) 
+Assumed 
+U-238 
+(kg) 
+Fissile 
+(kg) 
+U-238 
+(kg) 
+U-235eq 
+wt%  
+Additional 
+DUO 
+Needed 
+Amount of 
+Additional 
+DUO (kg) 
+Fissile 
+Loading in 
+Glass 
+(g/m3) 
+SB11 
+556 
+0 
+5 
+0 
+556 
+84  
+2,399  
+4.90% 
+Yes 
+ 10,186  
+ 2,222  
+SB12 
+369 
+0 
+131 
+0.92 
+369 
+155 26,798 
+60.1% 
+Yes 
+200 
+2,164 
+SB13 
+369 
+0 
+131 
+0.92 
+369 
+110 20,078 
+60.1% 
+Yes 
+200 
+2,156 
+SB14 
+590 
+0 
+3 
+0.56 
+590 
+176 21,411 
+48.4% 
+No 
+ 
+2,718 
+SB15 
+586 
+6 
+28 
+0.59 
+586 
+152 11,260 
+52.3% 
+Yes 
+3,000 
+2,830 
+SB16 
+615 
+15 
+2 
+0.60 
+615 
+114 11,203 
+49.7% 
+Yes 
+4,000 
+2,732 
+SB17 
+658 
+9 
+7 
+0.59 
+658 
+108 15,293 
+49.5% 
+No 
+ 
+3,149 
+SB18 
+574 
+0 
+7 
+0.56 
+574 
+104 20,249 
+48.8% 
+No 
+ 
+2,894 
+SB19 
+953 
+0 
+4 
+1.00 
+953 
+57 
+11,133 
+47.9% 
+Yes 
+8,500 
+3,555 
+
+=== PAGE 32 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Planning Summary and Results 
+Page 26 
+ 
+4.7.4 
+Tank 48 Treatment 
+Tank 48 contains legacy organic waste from previous salt treatment processes. Several technologies have been 
+considered, including Fluidized Bed Steam Reforming and Copper Catalyzed Peroxide Oxidation, to treat the organic 
+components and enable the waste to be dispositioned as grout or vitrified glass. Systems Engineering Evaluations will 
+select an appropriate technology to allow Tank 48 treatment to begin in FY32 followed by operational closure. To 
+ensure adequate grout capacity is available, this Plan assumes Tank 48 waste disposition yields 2 Mgal to be received 
+in SPF. 
+4.7.5 
+Effluent Treatment Facility (ETF) 
+The ETF, located in H-Area, collects and treats process wastewater that may be contaminated with small quantities of 
+radionuclides and process chemicals. The primary sources of wastewater include the 2H and 3H Evaporator overheads 
+and H-Canyon contaminated water. The wastewater is processed through the treatment plant and pumped to Upper 
+Three Runs Creek for discharge at an NPDES permitted outfall. Tank 50 receives ETF residual waste for storage prior 
+to treatment at SPF and final disposal at SDF. A 35-kgal Waste Concentrate Hold Tank provides storage capacity at 
+ETF to minimize transfer impacts directly to Tank 50 or SPF during SWPF operations. 
+4.7.6 
+Managing Type III Tank Space 
+Type III tank space is essential to all the processes described in this Plan. Limited waste storage space exists in Type 
+III/IIIA tanks in both FTF and HTF. There is a risk (cf. ROMP) that a leak in a primary tank or other adverse event 
+could occur that might impair execution of this Plan. 
+In the 3H Evaporator System, space is needed for evaporator concentrate receipt to support periodic salt dissolutions 
+and storage of high-hydroxide waste that does not precipitate into salt. This “boiled-down” liquid is commonly referred 
+to as “liquor” or “concentrate” and removing the “liquor” from an evaporator system is referred to as “deliquoring.” 
+Evaporator effectiveness is diminished when the concentrate receipt tank salt level is 330″ or greater—at this point, 
+the evaporator system is said to be “salt bound.” Deliquoring both the 2H and 3H Evaporators and salt removal from 
+Tank 37, a 3H Evaporator concentrate receipt tank, are planned on a regular basis to ensure continued viability of the 
+Evaporators. Tank 29 is being prepared as an alternate 3H Evaporator concentrate receipt tank, requiring occasional 
+salt removal, also. 
+In addition, this Plan incorporates contingency, when allowable, to provide the best opportunity for success. Lack of 
+evaporator working space could hinder tank removals from service, canister production rate at the DWPF, or H-
+Canyon support. 
+The 3H Evaporator, which supports both H-Canyon receipts and sludge washing, is assumed to operate using the 
+current configuration, without requiring an evaporator pot replacement. Similarly, no evaporator pot replacement is 
+forecast for the 2H Evaporator. Were an evaporator to need a pot replacement, spare evaporator pots are available for 
+both evaporators. 
+4.7.7 
+Closure Sequence for the LW System 
+After the HTF and FTF tanks and ancillary equipment have been closed, the LW facilities outside the Tank Farm—
+DWPF, SWPF, ARP/MCU, SPF, SDF, and associated ancillary equipment—will be available for beneficial reuse, if 
+required. Otherwise, these facilities will be available for final removal from service.  
+While the general priority is to close geographically proximate equipment and facilities, thus minimizing long-term 
+cost, the actual sequence of the shutdowns is predicated on the capability of the facilities to process the particular 
+blends required by the salt and sludge treatment processes. The priority (but not necessarily the sequence) for 
+shutdowns as modeled is: 
+1. Type I and II tanks  
+2. F-Area waste tanks, the 2F Evaporator, and ancillary equipment (including 1F Evaporator and the concentrate 
+transfer system) 
+3. H-Area West Hill waste tanks, the 3H Evaporator, and ancillary equipment (including 1H Evaporator) 
+4. H-Area East Hill waste tanks, the 2H Evaporator, and ancillary equipment (including any remaining 
+ARP/MCU equipment) 
+5. Major remaining processing facilities (e.g., DWPF, SWPF, SDF/SPF). 
+
+=== PAGE 33 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 27 
+System Description 
+The key elements of the systematic closure sequence for shutting down and closing the LW System are: 
+• 
+Waste removal is complete from all Type I and II tanks (2030)  
+• 
+All Type I and II tanks are operationally closed (2033)  
+• 
+3H Evaporator shut down (2034) 
+• 
+H-Canyon processing influents cease (2034) 
+• 
+2H Evaporator shut down (2034) 
+• 
+FTF waste removal is completed (2034) 
+• 
+IAL removed from service (2034) 
+• 
+HTF (West Hill) waste removal is complete (2034)  
+• 
+SWPF shut down (2036)  
+• 
+FTF Type III tanks are operationally closed (2036) 
+• 
+HTF (East Hill) waste removal is complete (2036) 
+• 
+DWPF shut down (2036) 
+• 
+All facility flushes are complete (2037) 
+• 
+All tanks are operationally closed (2037)  
+ 
+
+=== PAGE 34 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+System Description 
+Page 28 
+ 
+5. System Description 
+5.1 
+History 
+The Liquid Waste (LW) System is the integrated series of facilities at the Savannah River Site (SRS) that safely 
+manage the existing waste inventory and disposition waste stored in the tanks into a final glass or grout form. This 
+system includes facilities for storage, evaporation, waste removal, pre-treatment, vitrification, and disposal. 
+Since it became operational in 1951, SRS, a 300-square-mile DOE Complex located in the State of South Carolina, 
+has produced nuclear material for national defense, research, medical, and space programs. The separation of 
+fissionable nuclear material from irradiated targets and fuels resulted in the generation of over 165 million gallons 
+(Mgal) of radioactive waste. As of September 2022, over 34.5 Mgal17 of radioactive waste are stored onsite in large 
+underground waste storage tanks at SRS. Most of the tank waste inventory is a complex mixture of chemical and 
+radioactive waste generated during the acid-side separation of special nuclear materials and enriched uranium from 
+irradiated targets and spent fuel using the Plutonium Uranium Reduction Extraction (PUREX) process in F-Canyon 
+and the modified PUREX process in H-Canyon (HM). Waste generated from the recovery of Pu-238 in H-Canyon to 
+produce heat sources for space missions is also included. The waste was converted to an alkaline solution; metal 
+oxides settled as sludge, and supernate evaporated to form saltcake. 
+The variability in both nuclide and chemical content occurred because waste streams from the 1st cycle (high heat) 
+and 2nd cycle (low heat) extractions from each Canyon were stored in separate tanks to better manage waste heat 
+generation. When these streams were neutralized with caustic, the resulting precipitate settled into four characteristic 
+sludges presently found in the tanks where they were originally deposited. The soluble portions of the 1st and 2nd cycle 
+waste were similarly partitioned but are blended during waste transfer and staging of salt waste for evaporative 
+concentration to supernate and saltcake. Historically, fresh waste receipts were segregated into four general categories 
+in the SRS Tank Farms: PUREX high activity waste, PUREX low activity waste, HM high activity wastes and HM 
+low activity wastes. Because of this segregation, settled sludge solids contained in tanks that received fresh waste are 
+readily identified as one of these four categories. Fission product concentrations are about three orders of magnitude 
+higher in both PUREX and HM high-activity waste sludges than the corresponding low-activity waste sludges. 
+Because of differences in the material processed by PUREX and HM processes, the chemical compositions of principal 
+sludge components (iron, aluminum, uranium, manganese, nickel, mercury, and noble metals) also vary over a broad 
+range between these sludges. Combining and blending salt solutions has tended to reduce soluble waste into blended 
+salt and concentrate, rather than maintaining four distinct salt compositions. Continued blending and evaporation of 
+the salt solution deposits crystallized salts with overlying and 
+interstitial concentrated salt solution in salt tanks located in 
+both Tank Farms. More recently, with transfers of sludge 
+slurries to sludge washing tanks, removal of saltcake for tank 
+removal from service, receipts of DWPF recycle, and space 
+limitations restricting full evaporator operations, salt 
+solutions have been transferred between the two Tank 
+Farms. Intermingling of PUREX and HM salt waste will 
+continue through the end of the program. 
+Continued long-term storage of these radioactive wastes 
+poses a potential environmental risk. Therefore, since 1996, 
+DOE and its contractors have been removing waste from 
+tanks, pre-treating it, vitrifying it, and pouring the vitrified 
+waste into canisters for long-term disposal in a permanent 
+canister storage location (see Figure 5-2—Process 
+Flowsheet). As of September 30, 2022, DWPF had poured 
+4,319 vitrified waste canisters (see Figure 5-3—Liquid 
+Waste Program—Current Status). 
+5.2 
+Tank Storage 
+SRS has 51 underground waste storage tanks, all of which were placed into operation between 1954 and 1986. There 
+are four types of waste tanks—Types I through IV. Type III tanks are the newer style tanks, placed into operation 
+between 1969 and 1986. There are 27 Type III tanks. The Types I, II, and IV tanks, commonly referred to as “old-
+style” tanks, lack full secondary containment. Type I tanks are the oldest tanks, constructed in 1952 through 1953. 
+Tanks under construction. Note tank size relative 
+to construction workers. Later, dirt is backfilled 
+around the tanks to provide shielding 
+
+=== PAGE 35 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 29 
+System Description 
+Type II waste tanks were constructed in 1955 through 1956. There are eight Type IV tanks, constructed in 1958 
+through 1962. Four Type IV tanks, Tanks 17 through 20; three Type I tanks, Tank 5 and Tank 6 in F-Tank Farm (FTF) 
+and Tank 12 in H-Tank Farm (HTF); and one Type II tank, Tank 16 in HTF have been isolated, grouted, and 
+operationally closed. Fourteen tanks without full secondary containment have a history of leakage18. Because of 
+program progress to date, of these 14 SRS tanks (all old-style tanks) with leakage history: 
+• 
+6 are operationally closed and grouted (Tanks 5, 6, 12, 16, 19, and 20) 
+• 
+3 are in accelerated closure (Tanks 9, 10, and 11) 
+• 
+1 is undergoing heel removal (Tank 15) 
+• 
+2 contain essentially dry waste, with little or no free liquid supernate (Tanks 1 and 14) 
+• 
+2 contain liquid at a level below known leak sites (Tanks 4 and 13). 
+Of the remaining 10 old-style tanks (none of which have any known leakage history): 
+• 
+2 are operationally closed and grouted (Tanks 17 and 18) 
+• 
+2 contain essentially dry waste, with little or no free liquid supernate (Tanks 2 and 3) 
+• 
+6 contain liquid supernate. (Tanks 7, 8, and 21 through 24). 
+When waste disposition began in 1996, the inventory of waste in the 
+SRS tank system contained approximately 550 million curies (MCi). 
+Currently, 34.5 Mgal of radioactive waste, containing 222 MCi17 of 
+radioactivity, are stored in 43 active waste storage tanks located in two 
+separate locations, H-Tank Farm (27 tanks) and F-Tank Farm (16 
+tanks). This waste is a complex mixture of insoluble metal hydroxide 
+solids, commonly referred to as sludge, and soluble salt supernate. The 
+supernate volume is reduced by evaporation, which also concentrates 
+the soluble salts to their solubility limit. The resultant solution 
+crystallizes as salts. These resulting crystalline solids are commonly 
+referred to as saltcake. The saltcake and supernate combined are 
+referred to as salt waste. 
+The sludge component of the radioactive waste represents 
+approximately 2.5 Mgal (7% of total) of waste but contains 
+approximately 108 MCi (49% of total). The salt waste makes up the 
+remaining 32 Mgal (93% of total) of waste and contains approximately 
+114 MCi (51% of total). Of that salt waste, the supernate accounts for 
+16.5 Mgal and 102 MCi and saltcake accounts for the remaining 15.5 
+Mgal and 12 MCi17. The sludge contains the majority of the long-lived 
+(half-life greater than 30 years) radionuclides (e.g., actinides) and 
+strontium. The sludge is being stabilized in the Defense Waste 
+Processing Facility (DWPF) through a vitrification process that 
+immobilizes the waste in a borosilicate glass matrix. The salt is 
+separated in the Salt Waste Processing Facility (SWPF) into a higher-
+level component being 
+stabilized in DWPF and 
+a lower-level component 
+solidified in the Salt 
+Disposal Facility (SDF). 
+Radioactive 
+waste 
+volumes and radioactivity inventories reported herein are based on the 
+Waste Characterization System (WCS) database, which includes 
+estimates of the chemical and radionuclide inventories on a tank-by-tank 
+basis. WCS is a dynamic database frequently updated with new data from 
+ongoing operations such as decanting and concentrating of free supernate 
+via evaporators, preparation of sludge batches for DWPF feed, waste 
+transfers between tanks, waste sample analyses, and influent receipts 
+such as H-Canyon waste and DWPF recycle. 
+Well over 95%17 of the salt waste radioactivity is short-lived (half-life 
+less than 30 years) Cs137 and its daughter product, Ba137m, along with 
+Salt waste is dissolved in the liquid portion of the 
+waste. It can be in normal solution as Supernate (top 
+picture) or, after evaporation, as salt cake (bottom 
+picture) or concentrated supernate. The pipes in all 
+the pictures are cooling coils. 
+Sludge consists of insoluble solids that settle to the 
+bottom of a tank. Note the offgas bubbles, 
+including hydrogen generated from radiolysis. 
+
+=== PAGE 36 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+System Description 
+Page 30 
+ 
+lower levels of Sr90 actinide contamination. The cesium concentration varies according to the waste stream (e.g., 
+canyon waste, DWPF recycle waste). The precipitation of salts following evaporation can also change the cesium 
+concentration. The concentration of cesium is significantly lower than non-radioactive salts in the waste, such as 
+sodium nitrate and nitrite, therefore, the cesium does not reach its solubility limit and only a small fraction 
+precipitates19. As a result, the cesium concentration in the saltcake is much lower than in the liquid supernate and 
+interstitial liquid fraction of the salt waste. 
+Figure 5-1—Waste Tank Composite Inventory (as of September 30, 2022)17 
+ 
+5.3 
+Waste Tank Space Management 
+To make better use of available tank storage capacity, incoming LW is evaporated to reduce its volume. This is 
+important because most of the SRS Type III waste storage tanks are already near full capacity. Since 1954, the Tank 
+Farms have received over 165 Mgal of LW, of which over 110 Mgal have been evaporated, leaving approximately 
+34.5 Mgal in the storage tanks, the balance having been dispositioned via ARP/MCY, SWPF, DWPF, and SPF. 
+Projected available tank space is carefully tracked to ensure that the Tank Farms do not become “waterlogged,” 
+meaning that so much of the usable Type III tank space has been filled that normal operations and waste removal and 
+processing operations cannot continue. A contingency allotment of 1.3 Mgal is not included as working space. This 
+amount is equivalent to the size of the largest tank and is reserved for the unlikely event that a full tank failed such 
+that all its material had to be removed. Waste receipts and transfers are normal Tank Farm activities as the Tank Farms 
+receive new or “fresh” waste from the H-Canyon stabilization program, LW from DWPF processing (typically referred 
+to as “DWPF recycle”), and wash water from sludge washing. The Tank Farms also make routine transfers to and 
+from waste tanks and evaporators. Two evaporator systems are currently operating at SRS—the 2H and 3H systems.  
+Space in new-style tanks is used for various operations for waste processing and disposal. Tank space is recovered 
+through evaporator operations, DWPF vitrification, SWPF treatment, and Saltstone disposal. This valuable space has 
+been used to:  
+• 
+retrieve waste from and clean old-style tanks 
+• 
+prepare, qualify, and treat sludge waste for disposal 
+• 
+prepare, qualify, treat, and dispose salt waste for treatment 
+• 
+support nuclear materials stabilization and disposal in H-Canyon.  
+Volume
+34.5 Million
+Gallons (Mgal)
+Curies
+114 MCi
+(51%)
+108 MCi
+(49%)
+222 Million
+Curies (MCi)
+102 MCi
+(46%)
+32.0 Mgal
+(93%)
+2.5 Mgal
+(7%)
+16.5 Mgal
+(48%)
+12 MCi
+(5%)
+15.5 Mgal
+(45%)
+Sludge
+Salt Supernate
+Saltcake
+
+=== PAGE 37 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 31 
+System Description 
+The Tank Farm space management strategy is based on a set of key assumptions involving projections of DWPF 
+canister production rates, SWPF Processing rates, influent stream volumes, Tank Farm evaporator performance, and 
+space gain initiative implementation. The processing of salt and sludge utilizes existing tank space to retrieve and 
+prepare waste. Sludge processing through DWPF removes the highest risk material from the old-style tanks. However, 
+for every gallon of sludge processed, 1.3 gallons of salt waste is formed due to sludge washing and DWPF processing 
+operations with the resulting low-level salt waste returned to the Tank Farm. Similarly, salt waste retrieval, 
+preparation, and batching typically require the use of three gallons of tank space per gallon of saltcake processed. 
+Given these parameters, the “key to reducing the overall risk is processing high-level waste as expeditiously as 
+possible and managing the total tank space efficiently,” as recognized by the Defense Nuclear Facilities Safety Board 
+(DNFSB) letter dated January 7, 201020. 
+New-style tank space is used to prepare HLW for permanent immobilization and disposition in a vitrified waste form 
+and low-level waste in a grouted waste form. Additionally, several “old-style” tanks support immobilization and 
+disposition of high-level waste. The tank space management program maintains sufficient space to allow continued 
+DWPF operations. The tank space management program also provides the necessary tank space to support staging of 
+salt solutions to sustain salt waste treatment via SWPF.  
+There are currently ~7.6 Mgal of empty space (~22%) in these new-style tanks as of September 30, 2022: 
+• 
+4.7 Mgal is margin as defense-in-depth operational control coupled with Safety Class (SC) or Safety 
+Significant (SS) structures, systems, or components (SSC) to facilitate reasonably conservative assurance 
+of more than adequate dilution and ventilation of potentially flammable vapors 
+• 
+1.3 Mgal is procedurally required minimum contingency space for recovery from the unlikely event of a 
+large waste leak elsewhere in the system 
+• 
+3.6 Mgal is operational “working” space variously used to provide: 
+— Additional contingency transfer space as operational excess margin above the procedurally required 
+minimum 
+— Excess margin to preserve salt batch quality and maintain uninterrupted treatment and disposition 
+through SWPF and Saltstone 
+— Excess margin to preserve sludge batch quality and maintain uninterrupted immobilization through 
+DWPF 
+— Excess margin to preserve uninterrupted support for H-Canyon. 
+5.4 
+Waste Removal from Tanks 
+The first step in the disposition of sludge and salt waste is waste removal. Sludge is removed from the tank and 
+transferred to a sludge hub tank or feed preparation tank ensuring sludge waste is continuously available for treatment 
+at DWPF. Salt is dissolved, removed, and staged for treatment at SWPF. 
+For sludge removal the process is completed utilizing several mixer 
+pumps and adding sufficient liquid to the tank to suspend sludge solids. 
+Existing supernate is used, when practical, to minimize introduction of 
+new liquids into the system. Operation of the mixer pumps suspends the 
+solids, which are then transferred as a slurry from the tank. This operation is 
+repeated, periodically lowering the mixer pumps, until the remaining contents of the 
+tank can no longer be effectively removed by this method. 
+Tanks that are full of salt and at the beginning of the salt waste removal process may 
+be approached using a DAR method. Initially, the highly concentrated interstitial liquid 
+salt solution is drained. Dissolution liquid is then added using a liquid Addition downcomer or a Low Volume Mixing 
+Jet (LVMJ) which entrains existing liquid to promote more contact with the bulk saltcake. The resulting dissolved salt 
+solution is Removed simultaneously. Subsequent use of Commercial Submersible Mixer Pumps (CSMP) provides 
+more vigorous mixing, resulting in improved dissolution. The process ends with the transfer of the dissolved salt 
+solution to a salt solution hub tank until it is ready to be assembled into a salt batch in one of the blend tanks. 
+
+=== PAGE 38 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+System Description 
+Page 32 
+ 
+5.5 
+Safe Disposal of the Waste 
+The goal is to convert the majority of the waste into one of two final waste forms: glass, which will contain over 99% 
+of the radioactivity, and grout, which will contain most of the volume. Each of the waste types at SRS needs to be 
+treated to accomplish disposal in these two waste forms. The sludge must be washed to remove non-radioactive salts 
+that would interfere with glass production. The washed sludge can then be sent to DWPF for vitrification. The salt 
+must be treated to separate the bulk of the radionuclides from the non-radioactive salts in the waste. This separation 
+occurs in SWPF, with the treated waste combined with the washed sludge in DWPF. 
+5.6 
+Salt Processing 
+Five different processes will have been used to treat salt: 
+• 
+Deliquification, Dissolution, and Adjustment (DDA) – In this process, the salt was first Deliquified by 
+draining and pumping, and then Dissolved by adding water and pumping out the salt solution. The resulting 
+salt solution was aggregated with other Tank Farm waste to Adjust batch chemistry for processing at SPF. 
+This process was used in FY07 and FY08 to treat a limited amount of salt that met the SPF WAC using 
+DDA-solely. No further DDA-solely treatment is planned. 
+• 
+Actinide Removal Process (ARP) – For salt, even though extraction of the interstitial liquid reduces Cs-
+137 and soluble actinide concentrations, the Cs-137 or actinide concentrations of the resulting salt are too 
+high to meet the SPF WAC. In ARP, monosodium titanate (MST) was added to the waste whereupon 
+actinides sorbed on the MST and were then filtered out of the liquid to produce a low-level waste stream 
+sent to MCU. The solids, containing the MST with the actinides, were dispositioned at DWPF.  
+• 
+Modular CSSX Unit (MCU) – The ARP low-level waste stream requires reduction in the concentration of 
+Cs-137 using CSSX. The solvent used is a four-part solvent with the key ingredient being the cesium 
+extractant. When it started in 2008, MCU used the solvent BoBCalix but, beginning September 2013, a 
+Next Generation Solvent (NGS), MaxCalix was introduced. The solvent is fed to a bank of centrifugal 
+contactors while the waste is fed to the other end in a counter-current flow. The solvent extracts the cesium, 
+with each successive contactor stage extracting more, resulting in a DSS stream and a cesium-laden solvent 
+stream. The solvent stream is stripped of its cesium, washed, and the solvent is reused. The cesium-laden 
+strip effluent (SE) is transferred to DWPF. ARP and MCU piloted the processes used in the design of the 
+SWPF. Operations at ARP/MCU were suspended in May 2019 to tie in SWPF. 
+• 
+Tank Closure Cesium Removal (TCCR) – TCCR consisted of an ion exchange process for the removal of 
+cesium from liquid salt waste to provide supplemental treatment capability. The configuration was an “at-
+tank” modular arrangement which began demonstration in January 2019. The demonstration was suspended 
+to accelerate the closure of the associated tanks. 
+• 
+Salt Waste Processing Facility (SWPF) – SWPF incorporates both the ARP and CSSX processes in a full-
+scale shielded facility capable of handling salt with higher levels of radioactivity. Hot commissioning 
+began in October 2020; full operations began in January 2021. It will process the remaining salt waste. 
+5.7 
+Sludge Processing 
+Sludge is washed to reduce the amount of non-radioactive soluble salts remaining in the sludge slurry. During sludge 
+processing, large volumes of wash water are generated and must be volume-reduced by evaporation or beneficially 
+reused. Over the life of the waste removal program, the sludge currently stored in tanks at SRS will be blended into 
+separate sludge batches to be processed and fed to DWPF for vitrification. 
+
+=== PAGE 39 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 33 
+System Description 
+5.8 
+DWPF Vitrification 
+Final processing for the washed sludge and salt waste occurs at 
+DWPF. This waste includes MST sludge and cesium SE from SWPF 
+and the washed sludge slurry from sludge processing. In a complex 
+sequence of carefully controlled chemical reactions, this waste is 
+blended with glass frit and melted to vitrify it into a borosilicate glass 
+form. The resulting molten glass is poured into stainless steel 
+canisters. As the filled canisters cool, the molten glass solidifies, 
+immobilizing the radioactive waste within the glass 
+structure. After a canister has cooled, it is sealed 
+with a temporary plug, the external surfaces are 
+decontaminated 
+to 
+meet 
+United 
+States 
+Department of Transportation requirements, and 
+the canister is then permanently seal welded. The 
+canister is then ready to be stored on an interim 
+basis on-site. A low-level recycle waste stream 
+from DWPF is returned to the Tank Farms. DWPF has been operational since 1996. 
+5.9 
+Saltstone Disposition 
+The Saltstone Facility consists of two facility segments: the Saltstone Production Facility (SPF) and the Saltstone 
+Disposal Facility (SDF). SPF is permitted as a 
+wastewater treatment facility per SCDHEC 
+regulations. SPF receives and treats the salt 
+solution to produce grout by mixing the LLW 
+liquid stream with cementitious materials (fly 
+ash, and slag). A slurry of the components is 
+pumped into Saltstone Disposal Units (SDU), 
+located in SDF, where the grout solidifies into 
+a monolithic, non-hazardous, solid LLW form 
+known as saltstone grout. SDF is permitted as 
+an Industrial Solid Waste Landfill site.  
+With SWPF startup, SPF is expected to receive 
+up to 12 Mgal/yr. In anticipation of this future 
+demand, SRS completed installation of Enhanced Low Activity Waste Disposal (ELAWD) including equipment 
+modifications to increase operating margins, reliability, and controls, dry feeds system modifications, larger capacity 
+salt solution feed receipt tanks, and conversion to 24/7 capable operations. 
+The SDF contains several large 
+concrete SDUs. Each of the 
+SDUs will be filled with grout. 
+The 
+grout 
+itself 
+provides 
+primary containment of the 
+waste and the walls, floor, and 
+roof of the SDUs provide 
+secondary containment. 
+Approximately 15 feet of 
+overburden were removed to 
+prepare and level the site for 
+SDU construction. All SDUs 
+are built at or slightly below 
+the grade level that exists after 
+overburden 
+and 
+leveling 
+operations are complete. The 
+bottom of the grout monoliths 
+will be at least five feet above 
+Canisters being received 
+(prior to being filled with radioactive glass)
+Sample of Vitrified  
+Radioactive Glass 
+View of the Saltstone Production Facility 
+
+=== PAGE 40 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+System Description 
+Page 34 
+ 
+the historic high-water table, thus avoiding disposal of waste in a zone of water table fluctuation. Run-on and run-off 
+controls are installed to minimize site erosion during the operational period. 
+The first SDU (Vault 1), ~100 feet by 600 feet by 25 feet high, is divided into six cells. The second SDU (Vault 4), 
+~200 feet by 600 feet 26 feet high, has twelve cells. These two vaults, used during the initial operation of the SPF, are 
+slated for closure with no plans for future placement of grout. 
+SDU-2 and SDU-5 (which are full), and SDU-3 (currently in use) each have two cells, each cell being 150 feet in 
+diameter by 22 feet high. This design is used commercially for storage of water. After accounting for interior 
+obstructions (support columns, drain water collection systems, etc.), the nominal useable volume of a cell is 2.8 Mgal. 
+Recent operating experience averages 1.76 gallons of grout produced for each gallon of feed, yielding a nominal cell 
+capacity of approximately 1.6 Mgal of feed. 
+For SDU-6 through SDU 12, each SDU is a 375-foot diameter 43-foot tall single-cell design. SDU 6 (also in use) has 
+a capacity of over 32.8 Mgal of contaminated grout or 18.7 Mgal of feed. SDU 7 (in use, as well) through SDU 12, 
+with a design change to remove column footers and increase the fill height, each has a capacity of about 34.5 Mgal 
+(19.6 Mgal of feed). 
+Construction of the SDF and the first two vaults were completed between February 1986 and July 1988. The SDF 
+initiated radioactive operations June 12, 1990. SDU-2, completed in June 2012, began filling in September 2012 and 
+completed filling in July 2014. SDU-3 and SDU-5 were 
+completed in September 2013. SDU-5 began filling in 
+December 2013 and completed filling in February 
+2017. SDU-3 began filling in February 2017. The 
+large SDU 6 began construction in December 
+2013, was construction complete in June 2018, 
+and began filling in August 2018. SDU 7 
+construction was complete in the third 
+quarter of FY21 and began filling in March 
+2022. SDUs 8 through 12 are in various 
+phases of construction. 
+Closure operations will begin near the end of 
+the active disposal period in the SDF, i.e., after 
+most or all the SDUs have been constructed and 
+filled. Backfill of native soil will be placed around 
+the SDUs. The present closure concept includes two 
+moisture barriers consisting of clay/gravel drainage 
+systems along with backfill layers and a shallow-rooted 
+bamboo vegetative cover. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 41 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 35 
+System Description 
+Figure 5-2—Process Flowsheet 
+ 
+ 
+ 
+
+=== PAGE 42 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+System Description 
+Page 36 
+ 
+Figure 5-3—Liquid Waste Program—Current Status 
+ 
+ 
+ 
+  
+ 
+ 
+
+=== PAGE 43 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 37 
+System Description 
+Figure 5-4—Liquid Waste Process Overview 
+ 
+ 
+
+=== PAGE 44 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Appendices 
+Page 38 
+ 
+Appendix A—Salt Solution Processing 
+ 
+ 
+ 
+ 
+ 
+ 
+Salt Solution is a total of salt solution treated via the DDA, ARP/MCU, TCCR, and SWPF processes. Each gallon of salt solution treated 
+via ARP/MCU yielded ~1.23 gallons of DSS; each gallon of SWPF yields ~1.28 gallon of DSS. Note the DSS from TCCR in FY20 was stored 
+in Tank 11 and not transferred to Tank 50 until FY21. 
+SWPF, DWPF, and SPF Facility flushes are flushed directly to SPF to grout, not via Tank 50. 
+● SDU 2 and SDU 5 (being full), Vault­1, and Vault­4, are no longer planned to receive contaminated grout 
+● SDU­3 has two ~2.8-Mgal cylindrical cells, each capable of receiving ~1.5 Mgal of feed 
+● SDU­6 (32.8 Mgal capacity) and SDU 7 thru SDU 12 (34.5 Mgal capacity) are single cylindrical cells; SDU 6 can receive ~18.7 Mgal of 
+feed and SDU 7 through SDU 12 can receive ~19.7 Mgal of feed 
+● Each gallon of Tank 50 feed, when added to the fly ash and slag, generates approximately 1.76 gallons of grout 
+After the end of SWPF processing via Tank 49 in mid-FY35, DWPF recycle is received by SWPF via 511-S, bypassing the Tank Farm . 
+To forecast grout production, disposition of Tank 48 material is assumed to yield 2 Mgal of DSS for processing in SPF 
+Dates, volumes, and chemical or radiological composition information are planning approximations only.  
+a 
+b 
+c 
+d 
+e 
+Note 
+Salt Solution (kgal)
+to Tank 50 (kgal)
+DDA
+ARP/MCU 
+TCCR
+SWPF
+Total a
+DSS
+H-Can
+Tank 48
+Flush MCU
+SWPF/DWPF/SPF b
+ETF
+Total as of 
+end of FY10
+2,800
+985
+3,785
+3,151
+682
+3,019
+3,881
+4
+FY11
+1,064
+1,064
+1,487
+200
+64
+1,487
+4
+FY12
+705
+705
+901
+19
+24
+1,252
+4 & 2
+FY13
+1,320
+1,320
+1,566
+24
+65
+69
+2,005
+2
+FY14
+551
+551
+697
+15
+12
+47
+1,167
+2 & 5
+FY15
+753
+753
+919
+12
+18
+45
+828
+5
+FY16
+1,126
+1,126
+1,382
+11
+9
+42
+1,506
+5
+FY17
+397
+397
+442
+5
+5
+46
+500
+5
+FY18
+149
+149
+171
+11
+3
+19
+384
+5–6
+FY19
+404
+210
+614
+657
+10
+29
+46
+734
+6
+FY20
+89
+89
+ -0-
+ 0.1
+ -0-
+42
+ -0-
+6
+FY21
+ -0-
+ 2,304
+2,304
+2,981
+ 9.4
+91
+ 3,143
+6
+FY22
+ 72
+ 1,649
+1,720
+ 2,279
+60
+2,803
+3, 6, 7
+FY23
+4,752
+4,752
+6,090
+111
+6,201
+3, 6, 7
+FY24
+5,795
+5,795
+7,426
+88
+7,514
+6–7
+FY25
+8,311
+8,311
+10,651
+89
+10,740
+7
+FY26
+8,826
+8,826
+11,311
+111
+11,421
+7–8
+FY27
+8,581
+8,581
+10,996
+89
+11,085
+8
+FY28
+6,650
+6,650
+8,522
+89
+8,611
+8–9
+FY29
+5,933
+5,933
+7,603
+89
+7,692
+9
+FY30
+8,924
+8,924
+11,436
+111
+11,958
+9–10
+FY31
+9,120
+9,120
+11,688
+89
+11,776
+10
+FY32
+8,777
+8,777
+11,248
+89
+11,337
+10–11
+FY33
+8,998
+8,998
+11,531
+89
+11,619
+11
+FY34
+8,875
+8,875
+11,373
+500
+111
+11,984
+11–12
+FY35
+3,901
+3,901
+4,999
+1,500
+89
+6,588
+12
+FY36
+1,320
+1,320
+1,691
+93
+1,784
+12
+FY37
+3,000
+ -
+3,000
+12
+Total
+2,800
+7,454
+371
+102,716
+113,341
+143,196
+989
+2,000
+152
+3,000
+4,946
+153,002
+d
+End of 
+Fiscal Year
+SDU 
+Numbers c
+Tank 50 
+to SPF
+e
+
+=== PAGE 45 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 39 
+Appendices 
+Appendix B—Canister Storage 
+ 
+ 
+ 
+SRS Cans
+pending storage c
+Yearly
+Cum.
+Added
+Cum.
+Added
+Cum.
+/remaining 
+FY96
+64
+64
+64
+64
+FY97
+169
+233
+169
+233
+FY98
+250
+483
+250
+483
+FY99
+236
+719
+236
+719
+FY00
+231
+950
+231
+950
+FY01
+227
+1,177
+227
+1,177
+FY02
+160
+1,337
+160
+1,337
+FY03
+115
+1,452
+115
+1,452
+FY04
+260
+1,712
+260
+1,712
+FY05
+257
+1,969
+257
+1,969
+FY06
+245
+2,214
+244
+2,213
+1
+1
+FY07
+160
+2,374
+28
+2,241
+132
+133
+FY08
+225
+2,599
+2,241
+225
+358
+FY09
+196
+2,795
+2,241
+196
+554
+FY10
+192
+2,987
+3
+2,244
+183
+737
+Cans in Vit Bldg: 6
+FY11
+264
+3,251
+2,244
+260
+997
+Cans in Vit Bldg: 10
+FY12
+277
+3,528
+2,244
+277
+1,269
+Cans in Vit Bldg: 15
+FY13
+224
+3,752
+2,244
+224
+1,493
+Cans in Vit Bldg: 15
+FY14
+125
+3,877
+2,244
+125
+1,629
+Cans in Vit Bldg: 4
+FY15
+93
+3,970
+(193)
+2,051
+281
+1,910
+Cans in Vit Bldg: 9
+FY16
+136
+4,106
+(153)
+1,898
+291
+2,201
+Cans in Vit Bldg: 7
+FY17
+52
+4,158
+14
+1,912
+34
+2,235
+Cans in Vit Bldg: 11
+FY18
+15
+4,173
+1,914
+19
+2,254
+Cans in Vit Bldg: 5
+FY19
+34
+4,207
+1,914
+34
+2,288
+Cans in Vit Bldg: 5
+FY20
+8
+4,215
+1,914
+4
+2,292
+Cans in Vit Bldg: 9
+FY21
+59
+4,274
+131
+2,045
+(66)
+2,226
+Cans in Vit Bldg: 3
+FY22
+45
+4,319
+2,045
+44
+2,270
+Cans in Vit Bldg: 4
+FY23
+129
+4,448
+60
+2,105
+69
+2,339
+FY24
+260
+4,708
+260
+2,365
+2,339
+FY25
+278
+4,986
+278
+2,643
+2,339
+Remaining capacity:
+FY26
+282
+5,268
+282
+2,925
+2,339
+2,495
+FY27
+292
+5,560
+292
+3,217
+2,339
+2,503
+FY28
+301
+5,861
+301
+3,518
+2,339
+2,502
+FY29
+183
+6,044
+183
+3,701
+2,339
+2,619
+FY30
+295
+6,339
+295
+3,996
+2,339
+2,624
+FY31
+303
+6,642
+303
+4,299
+2,339
+2,562
+FY32
+282
+6,924
+203
+4,502
+79
+2,418
+2,280
+FY33
+280
+7,204
+4,502
+280
+2,698
+2,000
+FY34
+299
+7,503
+4,502
+299
+2,997
+1,701
+FY35
+319
+7,822
+4,502
+319
+3,316
+1,382
+FY36
+291
+8,113
+4,502
+295
+3,611
+1,091
+a
+b
+c
+Notes:
+End of 
+Fiscal 
+Year
+SRS Cans 
+Poured
+SRS Cans in GWSB 1 
+(4,524 capacity)a
+SRS Cans in GWSB 2 
+(4,680 capacity)b
+GWSB 2 was built with 2,340 standard storage locations and filing began in 2006. Beginning in 2024, conversion of the 
+2,262 standard canister storage locations will enable, via double stacking, each position to hold two cans for a potential 
+capacity of 4,680 canisters. Enough positions are planned to be converted to allow storage of all canisters produced.
+GWSB 1 filling began in May 1996. Beginning in 2016, conversion of the 2,262 standard canister storage locations enable, 
+via double stacking, each position to hold two cans for a total capacity of 4,524 canisters.
+At the end of each year, a certain number of cans are not emplaced in the GWSBs, being retained in the vitrification 
+building. At the end of the program, all canisters will be stored in the GWSBs pending final disposition. The remaining 
+capacity is the number of additional canisters that could be stored.
+• While DWPF canister production supports SWPF production, DWPF canister production is planned to minimize the life-
+cycle, so more canisters may be produced than necessary to support SWPF. Furthermore, after SWPF processing of Tank 
+49 waste is complete in FY35, canister production continues to process sludge heels. 
+• These values are estimates based on the best inventory information available at the time and assumptions about future 
+waste inventory and processing. 
+Numbers in italics are actuals through FY22. 
+FY23 and beyond are forecast based on 
+modeling assumptions
+
+=== PAGE 46 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Appendices 
+Page 40 
+ 
+Appendix C—Preliminary Cease Waste Removal 
+ 
+ 
+Note: this is a graphical representation of the relative PCWR for the tanks. For a more precise depiction 
+see Appendix E—LW System Plan—Revision 23 Summary (DNA)
+
+=== PAGE 47 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 41 
+Appendices 
+Appendix D—Tank Removal from Service 
+* Ancillary structures include: 
+● FTF 
+— 1F Evaporator 
+— 2F Evaporator 
+— Transfer line systems 
+— Leak Detection boxes  
+— Three Pump Pits 
+— One Condensate Transfer System pump pit 
+— Six Diversion Boxes 
+— One Catch Tank 
+ 
+● HTF 
+— 1H Evaporator 
+— 2H Evaporator  
+— 3H Evaporator 
+— Transfer line systems 
+— Leak Detection boxes  
+— Ten Pump Pits  
+— Two Condensate Transfer System pump pits 
+— Eight Diversion Boxes 
+— One Catch Tank 
+ 
+Note: this is a graphical representation of the relative removal from service of the tanks. For a more 
+precise depiction see Appendix E—LW System Plan—Revision 23 Summary (DNA)
+
+=== PAGE 48 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+Appendices 
+Page 42 
+ 
+Appendix E—LW System Plan—Revision 23 Summary (DNA) 
+(see attached foldout chart) 
+ 
+
+=== PAGE 49 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+ 
+Page 43 
+Abbreviations 
+Abbreviations 
+ABD 
+Accelerated Basin Deinventory 
+ARP 
+Actinide Removal Process  
+ASP 
+Alpha Strike Process 
+AWSM II All Waste Simulation Model II 
+Ci/gal 
+Curies per gallon 
+CGCP 
+Consolidated General Closure Plan 
+CM 
+Closure Module 
+CSMP 
+Commercial Submersible Mixing Pumps 
+CSSX 
+Caustic Side Solvent Extraction. 
+D&D 
+Dismantlement and Decommissioning 
+DAR 
+Drain, Add, Remove 
+DDA 
+Deliquification, Dissolution, and 
+Adjustment 
+DNA 
+Distributed Network Algorithm (refer to 
+Appendix F of the Plan) 
+DNFSB 
+Defense Nuclear Facilities Safety Board 
+DOE 
+Department of Energy 
+DOE-SR DOE Savannah River Operations Office 
+DSS 
+Decontaminated Salt  
+DWPF 
+Defense Waste Processing Facility  
+EA 
+Environmental Assessment 
+EIS 
+Environmental Impact Statement 
+eLVMJ 
+Enhanced Low Volume Mixing Jet 
+EPA  
+Environmental Protection Agency 
+ETF 
+Effluent Treatment Facility 
+FCA 
+Fast Critical Assembly 
+FFA 
+Federal Facility Agreement 
+FESV 
+Failed Equipment Storage Vault 
+FTF 
+F Tank Farm 
+FY 
+Fiscal Year 
+GWSB 
+Glass Waste Storage Building 
+HLW 
+High Level Waste 
+HM 
+H Modified  
+HTF 
+H Tank Farm 
+IPABS 
+Integrated Planning, Accountability, & 
+Budgeting System 
+IAL 
+Inter-Area Line 
+IW 
+inhibited water  
+kgal 
+thousand gallons 
+LTAD 
+Low Temperature Aluminum Dissolution 
+LLW 
+Low Level Waste 
+LVMJ 
+Low Volume Mixing Jet 
+LW 
+Liquid Waste  
+MCi 
+Million Curies 
+MCU 
+Modular CSSX Unit  
+Mgal 
+million gallons 
+M&O 
+Maintenance and Operations 
+MSB 
+Melter Storage Box 
+MST 
+monosodium titanate 
+NDAA 
+Ronald W. Reagan National Defense 
+Authorization Act for Fiscal Year 2005  
+NDAA §3116 
+Section 3116 – Defense Site 
+Acceleration Completion—of the NDAA 
+NEPA 
+National Environmental Policy Act 
+NGS 
+Next Generation Solvent 
+NPDES 
+National Pollutant Discharge Elimination 
+Systems 
+NRC 
+Nuclear Regulatory Commission 
+OOS 
+Out of Service 
+PA 
+Performance Assessment 
+PCCS 
+Product Composition Control System 
+PCWR 
+Preliminary Cease Waste Removal 
+PEIS 
+Programmatic Environmental Impact 
+Statement 
+POM 
+Process Optimization Model 
+PUREX 
+Plutonium Uranium Reduction Extraction 
+RCRA 
+Resource Conservation and Recovery Act 
+RCT 
+Recycle Collection Tank 
+ROMP 
+Risk and Opportunity Management Plan 
+SAS 
+Steam Atomized Scrubber 
+SB 
+Sludge Batch 
+SC 
+Safety Class 
+SCDHEC South Carolina Department of Health and 
+Environmental  
+SDF 
+Saltstone Disposal Facility –  
+SDU 
+Saltstone Disposal Units  
+SE 
+Strip Effluent 
+SEFT 
+Strip Effluent Feed Tank 
+SEIS  
+Supplemental Environmental Impact 
+Statement 
+SME 
+Slurry Mix Evaporator 
+SPF 
+Saltstone Production Facility  
+SRAT 
+Slurry Receipt and Adjustment Tank 
+SRMC 
+Savannah River Mission Completion 
+SRNL  
+Savannah River National Laboratory  
+SRNS  
+Savannah River Nuclear Solutions 
+SRS 
+Savannah River Site 
+SS 
+Safety Significant 
+SSC 
+Structure, System, or Component 
+SSRT 
+Salt Solution Receipt Tanks 
+STP 
+Site Treatment Plan 
+SWPF 
+Salt Waste Processing Facility – 
+T&PRA 
+Technical and Programmatic Risk 
+Assessment 
+TOM 
+Technical Optimization Model 
+WAC 
+Waste Acceptance Criteria 
+WCS 
+Waste Characterization System  
+WD 
+Waste Determination 
+wt% 
+weight percent 
+ 
+ 
+
+=== PAGE 50 ===
+Liquid Waste System Plan 
+ 
+SRMC-LWP-2023-00001 
+Revision 23-P 
+ 
+March 21, 2023 
+References 
+Page 44 
+ 
+References 
+ 
+1 Chew, D.P., Hamm, B.A., Wells, M.W., SRR-LWP-2009-00001, Liquid Waste System Plan, Revision 22, 
+September 2021 
+2 Koehne, D. M., Y-RAR-G-00022, PBS-SR-0014, Radioactive Liquid Tank Waste Stabilization and Disposition, 
+Risk and Opportunity Management Plan, Revision 14, Draft 2023  
+3 WSRC-OS-94-42, Federal Facility Agreement under Section 120 of CERCLA and Sections 3008(H) and 6001 of 
+RCRA, Administrative Docket No: 89-05-FF, including updates to Appendix L, January 2023 
+4 Bodman, S.W., DOE-WD-2005-001, Section 3116 Determination for Salt Waste Disposal at the Savannah River 
+Site, Revision 0, January 2006 
+5 DOE-WD-2005-001, Basis for Section 3116 Determination for Salt Waste Disposal at the Savannah River Site, 
+Revision 0, January 2006 
+6 Chu, S, DOE-WD-2012-001, Section 3116 Determination for Closure of F-Tank Farm at the Savannah River Site, 
+Revision 0, March 2012 
+7 DOE/SRS-WD-2012-001, Basis for Section 3116 Determination for Closure of F-Tank Farm at the Savannah 
+River Site, Revision 0, March 2012 
+8 Moniz, E.J., DOE-WD-2014-001, Section 3116 Determination for Closure of H-Tank Farm at the Savannah River 
+Site, Revision 0, December 2014 
+9 DOE/SRS-WD-2014-001, Basis for Section 3116 Determination for Closure of H-Tank Farm at the Savannah 
+River Site, Revision 0, December 2014 
+10 Pavletich, J.P., SRR-CWDA-2017-00015, Consolidated General Closure Plan for F-Area and H-Area Waste 
+Tank Systems, Revision 1, April 2017 
+11 Thomas, S.A., LWO-PIT-2006-00017, Savannah River Site – Liquid Waste Disposition Processing Strategy, 
+Revision 0, September 2006 
+12 Coleman, Kent M. Savannah River Site Z-Area Saltstone Disposal Facility Permit Facility ID No. 02550-1603 
+Aiken County. to Moody, David C. August 2011 
+13 Ridley, J.M. to Foster, T.A, WDPD-17-04, Contract DE-AC09-09SR22505—Dispute Resolution Agreement for 
+Alleged Violations of Class 3 Industrial Solid Waste Landfill Permit Facility, Facility ID #025500-1603, (dated 
+10/31/16), United States Department of Energy Savannah River Site (DOE-SR), November 2016 
+14 Saldivar, E, Jr., SRNS-E1122-2020-00021, Saldivar, E, Jr., Accelerated Basin Deinventory Baseline Projection, 
+SRNS-E1122-2020-00021, Draft, September 2021 
+15 SRNS-TR-2021-00541, Savannah River Site Approved Site Treatment Plan, 2022 Update, Revision 1, November 
+2022 
+16 McAllister, J.E., Jr., M-CLC-S-00819, Heat Transfer Analysis of Double Stacking of Canisters in the Glass Waste 
+Storage Building #1, Revision 3, May 2020 
+17 Chew, D.P., SRMC-LWP-2022-00033, 2022-09-30—September 2022 Curie and Volume Inventory Report, 
+Revision 0, October 2022 
+18 Waltz, R. S., Jr., C-ESR-G-00003, SRS High Level Waste Tank Crack and Leak Information, Revision 21, 
+October 2022 
+19 Brooke, J. N., Peters, J. F., and K. Stahell, WSRC-TR-99-00358, Hydrological Methods Can Separate Cesium 
+from Nuclear Waste Saltcake, 1999. 
+20 Mansfield, J.E. to Chu, S., January 2010  
+
+=== PAGE 51 ===
+2023
+2023
+2024
+2024
+2025
+2025
+2026
+2026
+2027
+2027
+2028
+2028
+2029
+2029
+2030
+2030
+2031
+2031
+2032
+2032
+2033
+2033
+2034
+2034
+2035
+2035
+2036
+2036
+2037
+2037
+2038
+2038
+Fisc. Quarters
+Milestones
+Tank 50H
+SWPF
+Tank 49H
+Tank 21H
+Tank 41H
+Tank 27F
+Tank 31H
+Tank 42H
+Tank 51H
+ABD Windows
+Tank 40H
+Canisters
+SDUs
+Tank 1F
+Tank 2F
+Tank 3F
+Tank 4F
+Tank 7F
+Tank 25F
+Tank 26F
+Tank 28F
+Tank 44F
+Tank 45F
+Tank 46F
+Tank 47F
+Tank 33F
+Tank 34F
+Tank 8F
+Tank 30H
+Tank 9H
+Tank 10H
+Tank 11H
+Tank 13H
+Tank 14H
+Tank 15H
+Tank 22H
+Tank 23H
+Tank 24H
+Tank 35H
+Tank 36H
+Tank 39H
+Tank 38H
+Tank 43H
+Tank 29H
+Tank 32H
+Tank 37H
+Fisc. Quarters 2
+FTF Type I PCWR
+HTF Type I/II PCWR
+FTF PCWR
+HTF PCWR
+FTF Closed
+LW Complete
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+T50
+closure
+4.75 Mgal
+5.79 Mgal
+8.31 Mgal
+8.83 Mgal
+8.58 Mgal
+6.65 Mgal
+5.93 Mgal
+8.92 Mgal
+9.12 Mgal
+8.78 Mgal
+9.00 Mgal
+8.88 Mgal
+3.13 Mgal
+local feed
+closure
+B9
+B11
+B14
+B17
+B20
+B23
+B26
+B29
+B32
+B35
+B38
+B41
+B45
+B49
+B53
+B57
+B61
+B65
+B69
+B73
+B76
+B79
+B82
+B85
+B88
+B91
+B94
+B97
+closure
+B8
+B10
+B13
+B16
+B19
+B22
+B25
+B28
+B31
+B34
+B37
+B40
+B44
+B48
+B52
+B56
+B60
+B64
+B68
+B72
+B75
+B78
+B81
+B84
+B87
+B90
+B96
+B98
+closure
+source
+source
+B24
+B27
+B30
+B33
+B36
+B39
+B43
+B47
+B51
+B55
+B59
+B63
+B67
+B71
+closure
+source
+source
+source
+source
+source
+B42
+B46
+B50
+B54
+B58
+B62
+B66
+B70
+B74
+B77
+B80
+B83
+B86
+B89
+B92
+closure
+B7
+B12
+B15
+B18
+B21
+SB14
+SB15
+SB15
+SB15
+SB15
+SB17
+SB17
+SB19
+SB19
+SB19
+closure
+SB10
+SB11
+SB11
+SB12
+SB12
+SB13
+SB13
+SB13
+SB13
+SB16
+SB16
+SB16
+SB16
+SB18
+SB18
+closure
+SB9
+SB10
+SB11
+SB12
+SB14
+SB13
+SB15
+SB16
+SB17
+SB18
+SB19
+closure
+129 Cans
+260 Cans
+278 Cans
+282 Cans
+292 Cans
+301 Cans
+183 Cans
+295 Cans
+303 Cans
+282 Cans
+280 Cans
+299 Cans
+319 Cans
+291 Cans
+SDU 6
+SDU 7
+SDU 8
+SDU 9
+SDU 10
+SDU 11
+SDU 12
+source
+source
+closure
+source
+source
+closure
+source
+source
+closure
+source
+closure
+hub
+source
+closure
+source
+source
+closure
+hub
+hub
+closure
+source
+source
+closure
+source
+source
+closure
+source
+source
+closure
+source
+source
+closure
+source
+source
+source
+closure
+source
+source
+hub
+hub
+source
+hub
+hub
+closure
+source
+source
+closure
+LTAD drop
+closure
+source
+source
+source
+LTAD drop
+closure
+source
+source
+closure
+source
+closure
+hub
+source
+closure
+hub
+source
+hub
+source
+closure
+source
+closure
+source
+closure
+recycle water
+closure
+hub
+hub
+closure
+hub
+source
+closure
+hub
+hub
+hub
+hub
+hub
+hub
+hub
+closure
+source
+source
+closure
+hub
+hub
+hub
+closure
+drop
+drop
+closure
+local feed
+local feed
+local feed
+closure
+source
+drop
+drop
+drop
+drop
+source
+drop
+drop
+closure
+local feed
+local feed
+local feed
+closure
+drop
+drop
+drop
+drop
+drop
+source
+drop
+closure
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+DWPF Recycle
+Flush
+Outage
+Flush
+SPF Flush
+Hub Tank
+Active Salt Source Tank
+Salt Source Tank
+Salt Batches
+Sludge Source Tank
+Sludge Batch
+ABD Window
+Sludge Batch Waiting
+LTAD
+Tank 50
+Closure
+SRMC-LWP-2023-00001 
+March 2023
+Liquid Waste System 
+Plan Revision 23-P 
+LW System Plan—Rev 23 Summary

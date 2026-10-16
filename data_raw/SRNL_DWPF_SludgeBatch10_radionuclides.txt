@@ -1,0 +1,5235 @@
+ 
+A U.S. DEPARTMENT OF ENERGY NATIONAL LAB     •     SAVANNAH RIVER SITE     •     AIKEN, SC    •     USA 
+ 
+ 
+Determination of Reportable 
+Radionuclides for Defense Waste 
+Processing Facility (DWPF) Sludge Batch 
+10 (Macrobatch 12) 
+S. C. Hunter 
+D. P. Diprete 
+October 2024 
+SRNL-STI-2024-00240, Revision 0 
+ 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+ii
+ 
+DISCLAIMER 
+This work was prepared under an agreement with and funded by the U.S. Government.  Neither the U.S. 
+Government or its employees, nor any of its contractors, subcontractors or their employees, makes any 
+express or implied: 
+1. warranty or assumes any legal liability for the accuracy, completeness, or for the use or 
+results of such use of any information, product, or process disclosed; or 
+2. representation that such use or results of such use would not infringe privately owned rights; 
+or 
+3. endorsement or recommendation of any specifically identified commercial product, process, 
+or service. 
+Any views and opinions of authors expressed in this work do not necessarily state or reflect those of the 
+United States Government, or its contractors, or subcontractors. 
+ 
+ 
+Printed in the United States of America 
+ 
+Prepared for 
+U.S. Department of Energy 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+iii 
+ 
+Keywords: WAPS, DWPF, Sludge Batch, 
+Tank 40 
+ 
+Retention: Permanent 
+Determination of Reportable Radionuclides for Defense 
+Waste Processing Facility (DWPF) Sludge Batch 10 
+(Macrobatch 12) 
+S. C. Hunter 
+D. P. Diprete 
+ 
+ 
+October 2024 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Savannah River National Laboratory is operated by 
+Battelle Savannah River Alliance for the U.S. Department 
+of Energy under Contract No. 89303321CEM000080.  
+ 
+ 
+SRNL-STI-2024-00240
+Revision 0 
+ 
+iv
+REVIEWS AND APPROVALS
+AUTHORS: 
+______________________________________________________________________________ 
+S. C. Hunter, Chemical Flowsheet Development 
+Date 
+ 
+ 
+______________________________________________________________________________ 
+D. P. Diprete, Environmental and Legacy Management 
+Date 
+ 
+ 
+TECHNICAL REVIEW: 
+ 
+ 
+______________________________________________________________________________ 
+C. J. Martino, Advanced Materials and Process Technology, Reviewed per E7 2.60 
+Date 
+ 
+ 
+APPROVAL: 
+ 
+ 
+______________________________________________________________________________ 
+B. N. Clark, Manager 
+Date 
+Chemical Flowsheet Development 
+ 
+ 
+______________________________________________________________________________ 
+F. M. Pennebaker, Director, Nuclear and Chemical Processing 
+Date 
+ 
+ 
+______________________________________________________________________________ 
+R. M. Hoeppel, Manager, DWPF Facility Engineering 
+Date 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+v 
+ACKNOWLEDGEMENTS 
+ 
+The authors would like to acknowledge the Nuclear Measurements group for all radionuclide measurements 
+and Leon Dyers for assistance with all sample digestions. They would also like to thank Shielded Cells 
+management and technicians Forrest Probst, Dee Wheeler, and Michael George for help with sample 
+preparation in the Shielded Cells. 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+vi 
+EXECUTIVE SUMMARY 
+ 
+Savannah River National Laboratory (SRNL) was tasked with the radionuclide characterization of the 
+Sludge Batch 10 (SB10) Tank 40 sample (HTF-40-23-24) in accordance with requirements for reporting 
+the Waste Acceptance Product Specifications (WAPS). The Defense Waste Processing Facility (DWPF) is 
+required to report all radionuclides with half-lives greater than ten years and which comprise greater than 
+0.05% of the total activity inventory for a given waste form at certain specified “index years”. DWPF 
+complies with the requirements by considering the half-life requirement (t1/2 > 10 years) and radionuclides 
+with concentrations greater than 0.01% of the total inventory from the approximate time of production 
+through 1,100 years.  
+ 
+The following twenty-six radionuclides were identified as reportable in the SB10 Tank 40 sample based on 
+the criteria outlined above. Additional radionuclides may be reportable from the salt streams added during 
+the SB processing at DWPF. All the reportable radionuclides for the SB10 Tank 40 sample are radionuclides 
+that have been reportable in two or more previous sludge batches. 
+ 
+Cl-36 
+Ni-59 
+Ni-63 
+Sr-90 
+Zr-93 
+Nb-93m 
+Tc-99 
+Cd-113m 
+Sn-126 
+I-129 
+Cs-137 
+Sm-151 
+Th-229 
+U-233 
+U-234 
+Np-237 
+U-238 
+Pu-238 
+Pu-239 
+Pu-240 
+Pu-241 
+Am-241 
+Pu-242 
+Am-243 
+Cm-244 
+Cf-251 
+ 
+ 
+ 
+ 
+ 
+Additionally, the isotope distribution for uranium and plutonium are reported herein to satisfy Specification 
+1.6 of the WAPS, International Atomic Energy Agency (IAEA) Safeguards. U-235 and U-236 are also 
+reportable in order to comply with the IAEA safeguards. 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+vii 
+TABLE OF CONTENTS 
+LIST OF TABLES ................................................................................................................................. ix 
+LIST OF FIGURES ................................................................................................................................ ix 
+LIST OF ABBREVIATIONS .................................................................................................................. x 
+1.0 Introduction ....................................................................................................................................... 1 
+1.1 Radionuclides Considered .............................................................................................................. 1 
+2.0 Experimental Procedure ..................................................................................................................... 1 
+2.1 Direct Methods .............................................................................................................................. 1 
+2.1.1 Inductively Coupled Plasma - Mass Spectrometry (ICP-MS) .................................................... 1 
+2.1.2 Gamma Counting ..................................................................................................................... 2 
+2.2 Separation Methods ........................................................................................................................ 2 
+2.2.1 Cl-36 Method .......................................................................................................................... 2 
+2.2.2 Ni-59/Ni-63 Method ................................................................................................................ 2 
+2.2.3 Gamma Counting Following Cs Removal ................................................................................ 2 
+2.2.4 Se-79 Method .......................................................................................................................... 3 
+2.2.5 Sr-90 Method ........................................................................................................................... 3 
+2.2.6 Pd-107 Method ........................................................................................................................ 4 
+2.2.7 Sn-121m method...................................................................................................................... 4 
+2.2.8 I-129 Method ........................................................................................................................... 4 
+2.2.9 Pm-147/Sm-151 Method .......................................................................................................... 4 
+2.2.10 Ra-226 Method ...................................................................................................................... 4 
+2.2.11 Th-229/-230, Ac-227 Method................................................................................................. 5 
+2.2.12 Pa-231 Method ...................................................................................................................... 5 
+2.2.13 U-233, U-234, U-235, U-236 Method .................................................................................... 5 
+2.2.14 Pu-238/-241 Method .............................................................................................................. 5 
+2.2.15 Pu-242/Pu-244 Method .......................................................................................................... 6 
+2.2.16 Am/Cm Method ..................................................................................................................... 6 
+2.3 Calculated Radionuclide Activities ................................................................................................. 6 
+2.3.1 Nb-93m ................................................................................................................................... 6 
+2.3.2 Cd-113m.................................................................................................................................. 7 
+2.3.3 Cs-135 ..................................................................................................................................... 8 
+2.3.4 Pb-210 and Ra-226 .................................................................................................................. 8 
+2.4 Assumptions .................................................................................................................................. 9 
+2.5 Quality Assurance .......................................................................................................................... 9 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+viii
+3.0 Results and Discussion .................................................................................................................... 10 
+3.1 Summary of Radionuclide Activities for Input .............................................................................. 10 
+3.2 Additional Requested Radionuclides ............................................................................................ 12 
+3.3 Determination of Reportable Radionuclides .................................................................................. 12 
+3.4 The Ratio by Weight of U and Pu Isotopes ................................................................................... 14 
+4.0 Conclusions ..................................................................................................................................... 15 
+5.0 References ....................................................................................................................................... 16 
+Appendix A .  Individual Radionuclide Concentrations ........................................................................ A-1 
+Appendix B . Reportable Radionuclides for Sludge Batches 1b to 10. Red Shaded Cells Indicate Reportable 
+Radionuclide. ...................................................................................................................................... B-1 
+Appendix C . RadDecay® v.7.00 Output Activities for the Specified Index Years................................. C-1 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+ix 
+LIST OF TABLES 
+Table 2-1. SB10 Calculated FYSF Values ............................................................................................... 8 
+Table 3-1. SB10 Radionuclides and Activities Used as Inputs in RadDecay® v. 7.00 .............................. 11 
+Table 3-2. List of Additional Radionuclides and Activities .................................................................... 12 
+Table 3-3. DWPF SB10 Reportability Matrix for 2023 to 3115 – Blue Shaded Cell Indicates The 
+Radionuclide Is Reportable For That Year. ..................................................................................... 14 
+Table 3-4. DWPF SB10 Uranium Isotopes Distribution ......................................................................... 15 
+Table 3-5. DWPF SB10 Plutonium Isotopes Distribution ....................................................................... 15 
+ 
+LIST OF FIGURES 
+Figure 3-1. Total and Reportable Radionuclides Activity of DWPF SB10 Tank 40 Sample, as Measured for 
+2023 and Predicted for Index Years Through 3115 by RadDecay® v. 7.00. The Discrepancy Between 
+the Total and Reportable Activity is Attributable to Radionuclides with Half-lives of Less than 10 
+Years. ............................................................................................................................................. 13 
+ 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+x 
+LIST OF ABBREVIATIONS 
+ 
+ATFC 
+Analytical and Tank Farm Characterization 
+CMPO 
+Octyl phenyl-N,N-di-isobutyl carbamoylphosphine oxide 
+CST 
+Crystalline Silico-Titanate 
+DAAP 
+Diamyl, amylphosphonate 
+DMG 
+Dimethylglyoxime 
+DOE 
+Department of Energy 
+DWPF 
+Defense Waste Processing Facility 
+FYSF 
+Fission Yield Scaling Factor 
+HLW 
+High Level Waste  
+IAEA 
+International Atomic Energy Agency 
+ICP-AES 
+Inductively Coupled Plasma-Atomic Emission Spectroscopy 
+ICP-MS 
+Inductively Coupled Plasma-Mass Spectrometry 
+MST 
+Monosodium Titanate 
+NM 
+Nuclear Measurements 
+PHA 
+Pulse Height Analysis 
+PIPS 
+Passivated, Implanted, Planar Silicon 
+RSD 
+Relative Standard Deviation 
+SB10 
+Sludge Batch 10 
+SRMC 
+Savannah River Mission Completion  
+SRNL 
+Savannah River National Laboratory 
+SRS 
+Savannah River Site 
+TBP 
+Tri-n-butylphosphate 
+TTA 
+2-Thenoyltrifluoroacetone 
+TTQAP 
+Task Technical and Quality Assurance Plan 
+TTR 
+Technical Task Request 
+WAPS 
+Waste Acceptance Product Specifications 
+WCP 
+Waste Form Compliance Plan 
+WQR 
+Waste Form Qualification Report 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+1 
+1.0 Introduction 
+A 3-L Tank 40 sample (HTF-40-23-24) was collected on February 28, 2023, by Savannah River Mission 
+Completion (SRMC) following a transfer from Tank 51 to achieve the final Sludge Batch 10 (SB10) 
+processing composition. Savannah River National Laboratory (SRNL) was tasked with characterization of 
+the sample in accordance with requirements for reporting the Waste Acceptance Product Specifications 
+(WAPS). The SB10 WAPS sample was also analyzed for chemical and physical compositions and the 
+results were reported previously.1  
+ 
+In accordance with the Department of Energy (DOE) WAPS,2 DWPF is required to report all radionuclides 
+with half-lives greater than ten years and which comprise greater than 0.05% of the total activity inventory 
+for a given waste form at certain specified “index years.” DWPF complies with the requirements by 
+considering the half-life requirement (t1/2 > 10 years) and radionuclides with concentrations greater than 
+0.01% of the total inventory from the approximate time of production through 1100 years. In past WAPS 
+analyses the index years were set at 2015 and 3115; however, starting with Sludge Batch 9, the initial index 
+year will be the year of radionuclide analysis and the final index year will remain at 3115.3 The initial set 
+of radionuclides to be listed was based on the DWPF Waste Form Compliance Plan (WCP)4 and the Waste 
+Form Qualification Report (WQR)5 and is expanded upon when additional radionuclides meet the 
+reportability criterion for a given index year.  
+ 
+Specification 1.6 of the WAPS, International Atomic Energy Agency (IAEA) Safeguards Reporting for 
+High Level Waste (HLW), requires that the ratio by weights of the following uranium and plutonium 
+isotopes be reported: U-233, U-234, U-235, U-236, U-238, Pu-238, Pu-239, Pu-240, Pu-241, and Pu-242. 
+As such, a complete list of the Pu and U radionuclides measured during SB10 radionuclide analysis is 
+provided in this report. 
+ 
+These analyses were requested by DWPF via Technical Task Request (TTR) X-TTR-S-00075, Rev. 3; the 
+SRNL activities that satisfy the request are outlined and directed by a Task Technical and Quality Assurance 
+Plan (TTQAP), which included an analytical study plan for the analyses.6,7 
+ 
+1.1 Radionuclides Considered 
+Previous sludge batch reports have listed radionuclides that may be reportable.8,9 The lists were based on 
+knowledge of the various Savannah River Site (SRS) processes that generated the waste. No new 
+radionuclides have been added to the list for the SB10 analyses.  
+ 
+2.0 Experimental Procedure 
+The preparation of the SB10 WAPS sample used in the radionuclide analysis was described in a previous 
+document.1 The following radionuclide method descriptions and calculations have been given previously, 
+most recently for SB8 and SB9.9,10  
+2.1 Direct Methods 
+2.1.1 Inductively Coupled Plasma - Mass Spectrometry (ICP-MS) 
+Inductively coupled plasma – mass spectrometry (ICP-MS) was employed to analyze separate subsamples 
+of the aqua regia digestions of the Tank 40 SB10 dried solids described in a previous report.1 Measurements 
+were first converted to weight percents on a dried solids basis and then converted to activities using the 
+specific activity of each isotope.11 The isotopes obtained from direct ICP-MS measurements included: Zr-
+93, Tc-99, Th-232, U-233, U-234, U-235, U-236, Np-237, U-238, Pu-239, Pu-240, and Pu-242. 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+2 
+ 
+2.1.2 Gamma Counting  
+Gamma Pulse Height Analysis (PHA) was performed on separate sub-samples of the peroxide fusion 
+digestions of the Tank 40 – SB10 dried solids described in a previous report.1 Detectors were carefully 
+calibrated with known standards. Since detection efficiencies for gamma-rays vary with energy, they were 
+determined for these specific radionuclide energies during the calibration process. The counting geometry 
+was established during calibration and carefully duplicated for these measurements. Samples were diluted 
+as necessary to achieve accurate counting. The isotopes obtained from Gamma PHA counting included Cs-
+134 (detection limit) and Cs-137. 
+ 
+2.2 Separation Methods 
+These analytical methods involved separation techniques that enabled radionuclides that were at low 
+concentrations to be measured more accurately and to determine more reliable and lower detection limits. 
+The techniques and methodology for these separations are maintained by the Nuclear Measurements (NM) 
+group and will only be summarized here. Aliquots of the peroxide fusions or the aqua regia dissolutions 
+were analyzed along with blanks. In all cases, the activity in the blanks did not contribute any significant 
+activity to the radionuclides being analyzed. For the special cases involving Se-79, I-129 and Am/Cm 
+aliquots of the sludge slurry were initially treated in the shielded cells for various separation steps (via the 
+methodology detailed below) and then submitted to NM for further separation and/or counting. 
+ 
+2.2.1 Cl-36 Method  
+Aliquots of SB10 aqua regia dissolution were initially rendered caustic and subjected to two Monosodium 
+Titanate (MST) and Crystalline Silico-Titanate (CST)-based decontamination steps. The resins and 
+insoluble elements (i.e. actinides, lanthanides, strontium and yttrium) were filtered off, decontaminating 
+the solution. The solutions were then acidified with nitric acid and further decontaminated with Bio-Rad 
+AMP-1 (ammonium molybdophosphate) and Eichrom Diphonix resins. The Cl in the samples was 
+subsequently precipitated as AgCl. The AgCl precipitate was counted using gas flow proportional counter 
+analysis. The AgCl precipitate was then activated by neutron activation analysis to determine Cl losses 
+during the processes. The HCl used to digest the samples initially was used to trace Cl-36 throughout the 
+processes. The chlorine yields were used to correct Cl-36 results for any losses. 
+ 
+2.2.2 Ni-59/Ni-63 Method  
+This separation is based on isolation of Ni from the dissolved sludge using a column containing 
+dimethylglyoxime (DMG) as an extractant that is specific for Ni. Each of the solutions resulting from the 
+aqua regia digestions of the four samples of dried sludge slurry was spiked with a stable Ni carrier to trace 
+the Ni separation and was then passed through a column containing the above extractant. The absorbed Ni 
+was then eluted from each column. The Ni-59 was measured in the eluted solutions by its characteristic X- 
+rays and Ni-63 by its beta particles. Total Ni in each eluted solution was measured by inductively coupled 
+plasma atomic emission spectroscopy (ICP-AES). The radiochemical Ni analyses were corrected for the Ni 
+carrier recoveries as measured by ICP-AES. 
+ 
+2.2.3 Gamma Counting Following Cs Removal 
+This method was used to determine Co-60, Ru-106, Ag-110m, Sb-125, Sn-126, Ba-133, Ce-144, Eu-152, 
+Eu-154, Eu-155, and Am-241. These gamma emitters could not be determined directly because of the high 
+Cs-137 activity in the samples. Consequently, the Cs-137 was removed. Aliquots of each of the four 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+3 
+peroxide fusions of the dried sludge slurry samples were treated with two batch additions of an ammonium 
+phosphomolybdate resin to selectively remove the Cs-137 from the aliquots. This allowed gamma photons 
+for isotopes at low concentrations to be detected or allowed lower detection limits to be determined for 
+those isotopes that were not detected. A high purity coaxial germanium detector was utilized to detect the 
+gamma rays from Co-60, Ru-106, Ag-110m, Sb-125, Sn-126, Ba-133, Ce-144, Eu-152, Eu-154, Eu-155, 
+and Am-241. Only Co-60, Eu-154, and Am-241 were detected. Because of their low concentrations, the 
+other isotopes were not detected. To obtain reliable and lower detection limits for these radionuclides, each 
+of the solutions was counted for four hours or more. The detection limits were used to calculate the 
+maximum activity of each for input to the projection calculations. Of this group of radionuclides, only Sn-
+126, Ba-133, and Am-241 have half-lives greater than 10 years. Even though the others have half-lives less 
+than 10 years, their activities were included to calculate the total Curies present in SB10 at the selected 
+decay times. 
+ 
+2.2.4 Se-79 Method 
+Four aliquots of wet sludge slurry were spiked with a known amount of stable Se as a carrier. The samples 
+were digested with concentrated nitric acid. The Fe in the dissolutions was reduced to Fe(II) using ascorbic 
+acid to ensure it would not interfere with subsequent decontamination steps designed to extract Y-90, the 
+lanthanides and the actinides from the Se-traced dissolutions. The dissolutions were then treated with resins 
+(Bio-Rad AMP-1, Eichrom Sr, RE, and Actinide resins) to reduce levels of Sr-90, Cs-137, Y-90, the 
+lanthanides and the actinides to levels low enough to allow for their removal from the Shielded Cells and 
+submission to NM. The Se traced decontaminated dissolutions were then further decontaminated with Bio-
+Rad AMP-1, Eichrom Sr and RE resin treatments. The total Se was reduced to Se metal using titanium (III) 
+chloride, hydroxylamine hydrochloride, and ascorbic acid. The precipitated Se metal was then washed 
+repeatedly with deionized water and dilute nitric acid. The Se metal was then dissolved with concentrated 
+HBr, and the resulting SeBr4 was extracted by solvent-solvent extraction using a tri-butyl phosphate/n-
+paraffin solvent extraction system. The Se was back extracted from the solvent. Aliquots of the purified Se 
+fraction were then analyzed. A portion was neutron-activated in a Cf-252 neutron source at SRNL to 
+determine the total amount of Se present in order to calculate the recovery of Se from the radiochemical 
+separation. A second portion was counted by liquid scintillation to determine the Se-79 beta activity. The 
+yields of the stable Se carrier were applied to the Se-79 beta activity result to determine Se-79 activities in 
+the sample aliquots initially treated. 
+ 
+2.2.5 Sr-90 Method 
+Aliquots of each sample from the peroxide fusions were spiked with a stable Sr carrier and a stable Ce 
+carrier. The Sr carrier was used for separation yielding purposes and the Ce carrier was used to enhance the 
+separation rates of undesirable isotopes such as Y-90, the lanthanides, or the actinides. The spiked sample 
+aliquots were initially oxidized using nitric acid. The Sr in the samples was extracted using commercially-
+available Sr extraction resin. This resin also extracts some of the Pu under the conditions used to extract 
+the Sr. The Pu was washed from the resin using an oxalic acid/nitric acid mixture. The Sr was eluted from 
+the resin, and the resulting solution concentrated. A portion of the purified Sr solution was neutron activated 
+in a Cf-252 neutron activation facility at SRNL to determine the total Sr and to calculate the fraction of Sr 
+isolated by the procedure. A second portion of each of the Sr fractions was stored for five to seven days to 
+allow the grow-in of Y-90. Each fraction was then counted by liquid scintillation analysis to determine the 
+Y-90 activity. The Sr-90 beta activity in each case was calculated from the Y-90 activity. The yields of the 
+stable Sr carriers were applied to the Sr-90 beta activity results to determine Sr-90 activities in the original 
+aliquots of the solutions resulting from the dissolution of the dried sludge slurry samples. 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+4 
+2.2.6 Pd-107 Method 
+Aliquots of each sample from the peroxide fusions were spiked with elemental Pd. Pd was then extracted 
+from the samples using a DMG-based extractant. Pd-107 levels were measured using the ICP-MS, and the 
+results were yielded from sample stable Pd recoveries as measured by the ICP-MS. 
+ 
+2.2.7 Sn-121m method 
+Aliquots of peroxide fusions were spiked with Sn-113. The aliquots were converted to a chloride matrix 
+with hydrochloric acid, and elemental tin was extracted from the matrix using anion exchange. Tin was 
+eluted with dilute nitric acid, and the tin extract was analyzed by low energy gamma-ray spectrometry for 
+Sn-121m and for the Sn-113 tracer. The Sn-121m results were then yielded with the results from the Sn- 
+113 recovery. 
+ 
+2.2.8 I-129 Method 
+The radionuclide I-129 is a long-lived beta-emitting fission product (t1/2 = 1.6E+07 years) that is in SRS 
+wastes. Aliquots of wet sludge slurry were spiked with a known amount of stable KI to act as an iodine 
+tracer/carrier. The samples were digested with 8M nitric acid. The traced samples were then rendered 
+caustic, precipitating out the actinides, lanthanides, Sr-90 and Y-90, among some other radioactive species. 
+MST was added to further decontaminate the caustic dissolutions from Sr-90, Y-90, and select actinides 
+and lanthanides. CST was added to reduce levels of Cs-137. The treated solutions were filtered, and the 
+decontaminated filtrate was then removed from the Shielded Cells for submission to NM. The samples were 
+decontaminated a final time with a resin treatment to remove Cs-137 and the actinide elements. The solution 
+was then treated with AgNO3 to precipitate the iodide ion as AgI. The precipitate was analyzed by low 
+energy photon spectrometry to determine the amount of I-129 present. I-129 is detected by its characteristic 
+gamma and x-ray emissions. The precipitate was then neutron-activated in a Cf-252 neutron source at 
+SRNL to determine the total amount of iodine present to calculate the recovery of I-129 in the radiochemical 
+separation. 
+ 
+2.2.9 Pm-147/Sm-151 Method 
+Aliquots of each sample from the peroxide fusions were spiked with a stable Sm carrier. The Sm carrier 
+was used for separation yielding purposes. The spiked sample aliquots were initially oxidized using nitric 
+acid. The Sm and Pm along with other trivalent species in the samples were extracted using Eichrom RE 
+resin. The Sm and Pm where then extracted from the other radionuclides present using Eichrom Ln resin. 
+A portion of the purified Pm/Sm solution was neutron activated in a Cf-252 neutron activation facility at 
+SRNL to determine the total Sm and to calculate the fraction of Sm isolated by the procedure. A second 
+portion of each of the Pm/Sm fractions was then counted by liquid scintillation analysis to determine the 
+Pm-147 and Sm-151 activity. The Pm-147 measurement was conducted using a higher-energy beta window 
+which was free of any interference from the low-energy Sm-151 beta. The Sm-151 beta result is corrected 
+for any Pm-147 events occurring in its beta counting window when necessary. The yields of the stable Sm 
+carriers were applied to the Sm-151 and the Pm-147 beta activity results to determine Sm-151 and Pm-147 
+activities in the original aliquots of the solutions resulting from the dissolution of the dried sludge slurry 
+samples. A Pm-147 spiked sample was analyzed through the process to monitor and correct for any slight 
+differences in the chemical recoveries of Sm and Pm. 
+ 
+2.2.10 Ra-226 Method 
+Aliquots of each sample from the peroxide fusions were decontaminated with a number of resin treatments. 
+Radium was extracted from the matrix using an Empore-Radium-Disk-based extraction. Sample aliquots 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+5 
+of matrix spiked with Ra-226 were also run through the procedure for chemical yielding purposes. The 
+disks containing extracted radium were then analyzed at three days following the extraction and at 14 days 
+following the extraction to allow for daughter ingrowth. Sample Ra-226 results were corrected with matrix 
+spike recoveries. 
+ 
+2.2.11 Th-229/-230, Ac-227 Method 
+Aliquots of each sample from the peroxide fusions were processed through a thorium separation procedure. 
+The Th species were extracted from the matrix using two stages of a quaternary amine based solid phase 
+extraction and purified further via co-precipitation with cerium. Th-229 and Th-230 concentrations were 
+measured using passivated, implanted, planar silicon (PIPS) alpha spectrometers. The Th separation was 
+yielded by measuring the Th-232 activities in the separated fractions, and comparing those activities to the 
+Th-232 concentrations measured directly off aliquots of dissolution by ICP-MS. The Th-232 yields were 
+used to correct the various analytes for any Th losses from the radiochemical separations. 
+ 
+2.2.12 Pa-231 Method 
+Aliquots of each replicate sample from the peroxide fusions were analyzed through a Pa separation 
+procedure in duplicate with the duplicate containing a Pa-233 tracer. The dissolutions were decontaminated 
+with AMP and quaternary amine-based resins. Protactinium species were then extracted from the matrix 
+using a octylphenyl-N,N-di-isobutyl carbamoylphosphine oxide (CMPO)/tri-n-butylphosphate (TBP) 
+based extractant. Pa-233 tracer concentrations were measured using high purity germanium spectrometers 
+to determine separation yields. Pa-231 was measured using the ICP-MS. The Pa-233 tracer yields were 
+decay-corrected and then used to correct the Pa-231 analyses for any losses from the radiochemical 
+separations. 
+ 
+2.2.13 U-233, U-234, U-235, U-236 Method 
+To lower detection limits for U-233, U-234, U-235, and U-236 from those attainable from the direct ICP-
+MS analyses on the dissolution, aliquots of dissolution were purified with a diamyl, amylphosphonate 
+(DAAP) based solid phase extraction. The purified aliquots were analyzed by the ICP-MS to measure U-
+233/U-238, U-234/U-238, U-235/U-238 and U-236/U-238 mass ratios. Those ratios were applied to U-238 
+concentrations measured by the ICP-MS directly on aliquots of dissolution to quantify the U-233, U-234, 
+U-235 and U-236 concentrations. 
+ 
+2.2.14 Pu-238/-241 Method 
+Pu-241 is a beta-emitting Pu isotope that cannot be measured directly in the dissolved dried sludge slurry 
+solutions because of its low concentration. Pu-241 has a relatively short half-life (t1/2 = 15 years). Its 
+concentration, along with that for Pu-238, was determined via peroxide fusion by isolating the Pu from each 
+solution by a 2-thenoyltrifluoroacetone extraction procedure. The extracted Pu was then analyzed by beta 
+and alpha counting to determine the ratio of beta activity from Pu-241 to the alpha activity from the other 
+isotopes of Pu (Pu-238, Pu-239, Pu-240, and Pu-242). In the original dissolution solutions, the total alpha 
+activity from the Pu isotopes was determined by alpha counting and ICP-MS. Knowing the total alpha 
+activity from Pu in the solutions resulting from the extraction allows the concentration of Pu-241 in the 
+original dissolution solutions to be calculated using the beta/alpha ratio determined in the extracted solution. 
+In the extracted solution, the alpha counting technique also gives the alpha counts due specifically to Pu-
+238 so that the total amount of Pu-238 can be determined. The activities of these two radionuclides were 
+then used in the calculations to determine the reportable radionuclides. 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+6 
+2.2.15 Pu-242/Pu-244 Method 
+The plutonium from aliquots of sludge batch slurry peroxide fusion dissolutions were extracted using 
+Eichrom TEVA resin. The Pu-containing extracts were then analyzed by ICP-MS to determine Pu-239, Pu-
+240, Pu-242, and Pu-244 masses.  The masses were converted to activities and ratioed to the sum of the Pu-
+239 and Pu-240 activities from the ICP-MS measurement.  Those ratios were then multiplied by the 
+measured Pu-239/240 result of the 2-thenoyltrifluoroacetone (TTA) analysis to quantify sample Pu-239, 
+Pu-240, Pu-242, and Pu-244 activities. 
+ 
+2.2.16 Am/Cm Method 
+This method was used for Am-241, Am-242m, Cm-242, Am-243, Cm-243, Cm-244, Cm-245, Cm-246, 
+Cm-247, Cm-248, Bk-247, Cf-249, Cf-250, Cf-251, and Cf-252. These radionuclides are neutron activation 
+products produced in the SRS reactors. These isotopes are difficult to measure because of their low 
+concentrations in the sludge slurry and the dilutions necessary to get the dissolved slurry samples out of the 
+Shielded Cells. Of these isotopes, the Am-241 can be easily and accurately analyzed directly by extended 
+gamma counting of the dissolved sludge (see Section 2.2.3). For the other radionuclides listed above, a 
+separation method has been developed by NM for isolating Am, Cm, Bk, and Cf from a wet sludge slurry 
+solution. The slurry is digested in the Shielded Cells with a peroxide fusion. The trivalent actinides are then 
+extracted from the dissolution filtrate using a commercially-available ion exchange resin (Eichrom DGA). 
+As Y-90 coextracts with the trivalent actinides on DGA resin, the treated samples were held in the Shielded 
+Cells for nine days to allow the Y-90 to decay before they were removed and submitted to NM. The 
+solutions were purified further with a second RE resin extraction followed by an Eichrom Ln resin 
+extraction. The Am, Cm, Bk, and Cf extracts were then analyzed by alpha and low-energy gamma counting 
+techniques as well as by ICP-MS. The radionuclides Cm-242, Am-242m, Cm-244, and Cf-252 were 
+measured by alpha spectroscopy, Am- 241, Am-243, Cm-243, Cm-245, Cf-249, and Cf-251 were measured 
+by low-energy gamma spectroscopy, and Cm-245, Cm-246, Cm-247, Bk-247, Cm-248, and Cf-250 were 
+measured by ICP-MS. The fraction of each actinide element isolated by this ion exchange technique was 
+determined by comparing the measured concentrations of Am-241 in the eluted solutions with their 
+respective concentration in the original dissolved slurry that was measured by direct gamma counting of 
+Cs-137 removed aliquots of the dissolved slurry.  
+ 
+By using this technique, the radionuclides Am-242m, Am-243, Cm-242, Cm-244, Cm-245, and Cm-246 
+were detected and measured along with the Am-241. All the other radionuclides (Cm-243, Cm-247, Bk-
+247, Cm-248, Cf-249, Cf-250, Cf-251 and Cf-252) had concentrations below the detection limit of the 
+analytical methods. For the later series of radionuclides, the detection limits were then used as the maximum 
+concentrations or activities that could be present. 
+ 
+2.3 Calculated Radionuclide Activities 
+2.3.1 Nb-93m 
+The radionuclide Nb-93m (t1/2 = 16.1 years) is in SRS HLW as the decay product of the radioactive fission 
+product Zr-93 (t1/2 = 1.53E+06 years). For previous sludge batches both the Zr-93 and Nb-93m became 
+reportable after the waste was ~100 years old.12,13,14,15,16,17,8,18,9,10 The concentration of Nb-93m during SB10 
+vitrification can be calculated if the age of the sludge and the concentration of Zr-93 are known. The age 
+of the waste can be calculated from the measured concentration at mass 90 that is composed of Sr-90 (t1/2 
+= 28.5 years) and its daughter Y-90 (t1/2 = 2.67 days) that decays to stable Zr-90. The radionuclide Sr-90 is 
+the initial long lived radioactive product of the isobaric decay chain at mass 90. In the ICP-MS analysis of 
+the aqua regia dissolutions of the SB10 total solids, the concentration at mass 90 which is composed of Sr-
+90, Y-90, and Zr-90 was 0.0180 wt%. The concentration of Sr-90 determined by radioactive counting was 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+7 
+0.00430 wt% (see Section 2.2.5). The ratio of these two values representing the fraction of Sr-90 that 
+remained in this sludge is 0.239. With the half-life of Sr-90 and standard equation for radioactive decay, 
+the age of the sludge can be calculated to be 59 years. 
+ 
+The Zr-93 activity in Tank 40 SB10 WAPS measured by ICP-MS is 0.595 μCi/g. As Zr-93 decays, 
+approximately 97% of transformations result in the production of Nb-93m. Because of the large difference 
+in the half-lives of Zr-93 and its radioactive daughter Nb-93m, these radionuclides are in secular 
+equilibrium. Consequently, the Nb-93m activity can be calculated from the age of the waste using the 
+following relationship: 
+ 
+𝐴𝐴𝑁𝑁𝑁𝑁−93𝑚𝑚(𝑡𝑡) = 0.97 ∗ 𝐴𝐴𝑍𝑍𝑍𝑍−93,𝑡𝑡=0 ∗𝑒𝑒−0.693𝑡𝑡
+1.53𝐸𝐸6 ∗ൣ1 −𝑒𝑒−0.693𝑡𝑡/16.1൧  (Eq. 1)
+ 
+ 
+Where AZr-93, t=0 is the Zr-93 activity at time zero (equivalent to current activity, due to long half-life of Zr-
+93), and t is the age of the waste in years. 
+ 
+2.3.2 Cd-113m 
+With a half-life of 13.7 years and specific activity of 217 Ci/g,11 Cd-113m may also qualify as a WAPS-
+reportable radionuclide. However, Cd-113m primarily decays by ß emission and thus would require a 
+careful separation technique to measure in sludge slurry. Also, the determination of Cd-113m by ICP-MS 
+of the dissolved dried solids is essentially impossible because of the presence of natural Cd in the sludge. 
+Natural Cd is 12.3 % Cd-113 with a half-life greater than 1.1E+11 years. This makes its activity negligible 
+at all times. Finally, the fission yield of Cd-113m is very small, 1.66E-04%, and thus its concentration is 
+expected to be very small in the HLW sludge. 
+ 
+An upper limit of the mass concentration of Cd-113m can be estimated by using the fission yield scaling 
+factor (FYSF).19 The FYSF relates the concentration of a fission product in the total sludge solids to the 
+fission yield and the atomic mass of that fission product. The atomic mass of that isotope has to be included 
+in the equation because fission yields are given in terms of atoms produced per 100 fissions of U-235 and 
+not in terms of mass percent of the isotope produced. The equation for the concentration in weight percent 
+is: 
+ 
+Concentration (wt%) = FYSF (fission yield x atomic mass)  (Eq. 2) 
+ 
+Thus, the FYSF for each measured isotope can be calculated from the following: 
+ 
+FYSFi = wt%i  / (FYi x AMi)  (Eq. 3) 
+ 
+Where  FYSFi = the fission yield scaling factor based on isotope i, 
+wt%i = the weight per percent of isotope i in the HLW total dried solids, 
+FYi = the fission yield of isotope i, and 
+AMi = the atomic mass of isotope i. 
+ 
+Several of the U-235 fission products have the six critical chemical and nuclear properties that allow 
+calculation of a constant FYSF for a particular sludge. These properties have been previously discussed.19 
+In SB10, there are 12 isotopes that have these six properties. The FYSFs calculated for these 12 isotopes 
+are presented in the Table 2-1. The measured concentrations in the Table 2-1 were determined by ICP-MS 
+analysis of four samples of dissolved SB10 total dried solids by the aqua regia method. The average of the 
+FYSFs calculated for the 12 fission products is 3.95E-05 with a relative standard deviation of 14%. 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+8 
+ 
+Table 2-1. SB10 Calculated FYSF Values 
+FYSF 
+wt% Total Solids 
+Fission Yield 
+FYSF 
+Ru-101 
+2.07E-02 
+5.20 
+3.94E-05 
+Ru-102 
+1.82E-02 
+4.30 
+4.16E-05 
+Rh-103 
+9.70E-03 
+3.03 
+3.11E-05 
+Ru-104 
+9.52E-03 
+1.88 
+4.87E-05 
+La-139 
+3.85E-02 
+6.41 
+4.33E-05 
+Pr-141 
+3.29E-02 
+5.80 
+4.02E-05 
+Nd-143 
+2.94E-02 
+5.96 
+3.45E-05 
+Nd-144 
+3.45E-02 
+5.50 
+4.36E-05 
+Nd-145 
+2.03E-02 
+3.93 
+3.55E-05 
+Nd-146 
+1.77E-02 
+3.00 
+4.04E-05 
+Sm-147 
+1.04E-02 
+2.25 
+3.13E-05 
+Sm-148 
+1.09E-02 
+1.67 
+4.40E-05 
+Average 
+3.95E-05 
+ 
+ 
+With the FYSF for SB10, the maximum possible concentration in terms of weight percent of dried solids 
+can be estimated for the other U-235 fission products. These estimations are a maximum for the other fission 
+products because they do not have the necessary six properties as the fission products given in Table 2-1. 
+For example, the radionuclide Cd-113m has a very large neutron absorption cross section (20,000 barns), 
+and thus it was transmuted in the reactors at SRS to stable Cd-114 while the reactors were in operation. 
+Consequently, the concentration calculated for Cd-113m with Equation 2 and a fission yield of 1.66E-04% 
+can be considered the maximum concentration and is estimated below:  
+ 
+Concentration Cd-113m (wt%) = 3.95E-05 × 1.66E-04 × 113 = 7.40E-07 wt%.  
+ 
+2.3.3 Cs-135 
+By using the ratio of Cs-135 to Cs-137 in the supernate, and the amount of Cs-137 in the sludge slurry, the 
+activity for Cs-135 in the sludge slurry can be calculated. As opposed to the solids analysis, the supernate 
+analysis was used because of Ba-135 interferes with the detection of Cs-135 in the solid. Ba-135 is a stable 
+isotope that is insoluble; therefore, no Ba-135 would interfere with the Cs-135 signal from the supernate. 
+This calculated value for Cs-135 in SB10 was performed using the measured ICP-MS values for mass 135 
+and 137 from the supernate equal to 8.69E+01 μg/L and 1.84E+02 μg/L, respectively, giving a mass 135: 
+mass 137 ratio of 0.4717.  This ratio was used to calculate the Cs-135 in the sludge slurry by multiplying 
+by the measured Cs-137 in the sludge slurry, giving 0.4717 x 4.63E-04 wt% = 2.18E-04 wt% Cs-135. 
+ 
+2.3.4 Pb-210 and Ra-226 
+Calculation of the quantities of radioactive decay products Pb-210 and Ra-226 were performed based on 
+the calculated value that the waste is 59 years old. Two of the parent radionuclides (U-234 and Pu-238) 
+used in these calculations are indicated below in Table 3-1 of Section 3.1. The third parent radionuclide, 
+Th-230 is long-lived alpha-emitting radionuclide (t1/2 = 7.5E+04 years) that is a decay product of U-234 
+and Pu-238.  
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+9 
+ 
+In calculating the concentrations of decay products, the first step was to calculate the concentrations of the 
+parent radionuclides 59 years ago. Utilizing the standard activity decay relationship, the parent 
+concentration in 1964 was calculated as the product of the current concentration (in 2023) and the term 
+[exp(0.693*59/ t1/2)], where t1/2 is the half-life of the parent radionuclide in units of years. The second step 
+was to determine the decay product concentration in 2023, utilizing a decay/ingrowth calculation to quantify 
+the progeny arising from 59 years of decay of the 1964 parent concentrations. RadDecay® v7.00 software 
+(see Section 3.3 below) was utilized for these calculations.20  
+ 
+The calculated Ra-226 activity was three orders of magnitude lower than the detection limit measured for 
+this radionuclide; therefore, the calculated value was employed in the decay calculations so as not to 
+artificially inflate the contribution from this radionuclide. 
+ 
+2.4 Assumptions 
+The following assumptions were used in determining the radionuclide inventory inputs for the RadDecay® 
+v 7.00 calculations: 
+ 
+1. When a radionuclide analysis yielded results that were below the detection limits for the measurement 
+technique, the detection limit was used as the initial activity in the RadDecay® v 7.00 input. 
+2. Yttrium-90 was assumed to be in secular equilibrium with Sr-90. 
+3. Californium-250 and Californium-252 were assumed to have the same activity as Cm-242. The primary 
+alpha radiation from these radionuclides have nearly identical emission energies and could not be 
+resolved by the detection method. The measured Cm-242 activity was used as the initial activity for 
+Cm-242, Cf-250, and Cf-252. 
+4. The amount of Ba-137m was calculated from the decay of Cs-137 wherein the Cs-137 radionuclide 
+decays to the metastable Ba-137m approximately 94% of the time. Thus, the amount of Ba-137m was 
+assumed to be 0.946*𝐴𝐴𝑜𝑜𝐶𝐶𝐶𝐶−137 where 𝐴𝐴𝑜𝑜𝐶𝐶𝐶𝐶−137 is the initial amount of Cs-137. 
+5. The amounts of Cs-135, Nb-93m, Cd-113m, Pb-210, and Ra-226 were calculated based on 
+methodology given in Section 2.3. 
+ 
+The assumptions were made to provide a conservative estimate of the radionuclide inventory for the Tank 
+40 SB10 WAPS sample. 
+ 
+2.5 Quality Assurance 
+This work was performed under a TTR.6 The analysis herein satisfies the radionuclide composition portion 
+of Task 3, Item 2 of the TTQAP associated with this TTR.7 The TTR identifies these results as waste form 
+affecting and complies with the requirements of RW-0333P. The TTR identifies the Functional 
+Classification as Safety Class. Thus, this document was reviewed by Design Verification by Document 
+Review. The requirements for performing reviews of technical reports and the extent of review are 
+established in manual E7 2.60. SRNL documents the extent and type of review using the SRNL Technical 
+Report Design Checklist contained in WSRC-IM-2002-00011, Rev. 2. Data are recorded in the electronic 
+laboratory notebook K7482-00430-28. Calculations performed using the RadDecay® v. 7.00 software are 
+performed in accordance with software quality assurance plan.21 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+10
+3.0 Results and Discussion 
+3.1 Summary of Radionuclide Activities for Input 
+The radionuclide composition of the SB10 Tank 40 WAPS sample (HTF-40-23-24) is reported for waste 
+acceptance purposes in Table 3-1. The radionuclide activities in Table 3-1 were used as inputs for decay 
+calculations. Table 3-1 gives for each radionuclide the associated specific activity in units of Ci/g,11,10, 22 
+concentration in wt% of the total solids, activity in µCi/g of total dried solids, and activity in Ci/gal of slurry, 
+and the associated relative standard deviation of the replicate analyses. The % relative standard deviations 
+(%RSD) are given for the quadruplicate analyses unless otherwise indicated in the footnotes of Table 3-1. 
+Activity measurements that were below the detection limit of a given technique or calculated do not have 
+an associated relative standard deviation and are marked as ‘NA’ in Table 3-1. The analytical method for 
+each of the radionuclides is also shown. The assay date for the radionuclides in Table 3-1 was March 20, 
+2023, which is also the start date for the index calculations.  
+ 
+The total measured alpha activity of the digested samples was 1.19E+02 µCi/g of total dried solids and the 
+total measured beta activity was 1.41E+04 µCi/g of total dried solids.  
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+11
+Table 3-1. SB10 Radionuclides and Activities Used as Inputs in RadDecay® v. 7.00 
+Nuclide 
+Specific Activity (Ci/g) 
+wt% Total 
+Solids 
+Activity (µCi/g dried 
+solids)* 
+Ci/gal-
+Slurry 
+%RSD 
+Analytical Method 
+Cl-36 
+3.30E-02 
+5.25E-05 
+1.73E-02 
+1.09E-05 
+24 
+Cl-36 
+Ni-59 
+8.08E-02 
+3.20E-04 
+2.59E-01 
+1.63E-04 
+42 
+Ni-59/-63 
+Co-60 
+1.13E+03 
+8.43E-09 
+9.54E-02 
+6.03E-05 
+5.5 
+Cs-removed gamma counting 
+Ni-63 
+6.17E+01 
+5.23E-05 
+3.22E+01 
+2.04E-02 
+15 
+Ni-59/-63 
+Se-79 
+6.97E-02 
+1.03E-06 
+7.17E-04 
+4.53E-07 
+40 
+Se-79 
+Sr-90 
+1.36E+02 
+4.30E-03 
+5.87E+03 
+3.71E+00 
+4.1 
+Sr-90 
+Y-90 
+5.44E+05 
+1.08E-06 
+5.87E+03 
+3.71E+00 
+4.1 
+Secular Equilibrium w/ Sr-90 
+Zr-93 
+2.51E-03 
+2.37E-02 
+5.95E-01 
+3.76E-04 
+23 
+ICP-MS 
+Nb-93m 
+2.83E+02 
+1.88E-07 
+5.31E-01 
+3.36E-04 
+NA 
+obtained from Zr-93 & est. waste age 
+Tc-99 
+1.70E-02 
+1.51E-03 
+2.57E-01 
+1.62E-04 
+2.1 
+ICP-MS 
+Ru-106 
+3.35E+03 
+< 3.66E-09 
+< 1.22E-01 
+< 7.73E-05 
+NA 
+Cs-removed gamma counting 
+Pd-107 
+5.14E-04 
+< 9.11E-05 
+< 4.68E-04 
+< 2.96E-07 
+NA 
+Pd-107 
+Cd-113m 
+2.17E+02 
+7.40E-07 
+1.61E+00 
+1.01E-03 
+NA 
+estimated based on fission yield 
+Sn-121m 
+5.91E+01 
+3.47E-07 
+2.05E-01 
+1.30E-04 
+8.7 
+Sn-126/-121m 
+Sb-125 
+1.03E+03 
+< 9.13E-09 
+< 9.43E-02 
+< 5.96E-05 
+NA 
+Cs-removed gamma counting 
+Te-125m 
+1.80E+04 
+< 5.23E-10 
+< 9.43E-02 
+< 5.96E-05 
+NA 
+Secular Equilibrium w/ Sb-125 
+Sn-126 
+2.84E-02 
+< 9.67E-06 
+< 2.74E-03 
+< 1.74E-06 
+NA 
+Sn-126/-121m 
+I-129 
+1.77E-04 
+1.86E-03 
+3.29E-03 
+2.08E-06 
+26 
+I-129 
+Ba-133 
+2.50E+02 
+< 2.04E-08 
+< 5.10E-02 
+< 3.22E-05 
+NA 
+Cs-removed gamma counting 
+Cs-134 
+1.29E+03 
+< 8.55E-08 
+< 1.11E+00 
+< 7.00E-04 
+NA 
+gamma 
+Cs-135 
+1.15E-03 
+2.18E-04 
+2.51E-03 
+1.59E-06 
+NA 
+ratio of Cs-135/Cs-137 supernate applied 
+Cs-137 
+8.70E+01 
+4.63E-04 
+4.03E+02 
+2.55E-01 
+1.4 
+gamma 
+Ba-137m 
+5.38E+08 
+7.08E-11 
+3.81E+02 
+2.41E-01 
+1.4 
+0.946 x Cs-137 activity 
+Ce-144 
+3.19E+03 
+< 1.62E-08 
+< 5.16E-01 
+< 3.26E-04 
+NA 
+Cs-removed gamma counting 
+Pm-147 
+9.27E+02 
+< 4.28E-06 
+< 3.97E+01 
+< 2.51E-02 
+NA 
+Pm-147/Sm-151 
+Sm-151 
+2.63E+01 
+2.50E-04 
+6.57E+01 
+4.15E-02 
+21 
+Pm-147/Sm-151 
+Eu-154 
+2.70E+02 
+1.45E-06 
+3.90E+00 
+2.47E-03 
+13 
+Cs-removed gamma counting 
+Eu-155 
+4.65E+02 
+< 4.26E-08 
+< 1.98E-01 
+< 1.25E-04 
+NA 
+Cs-removed gamma counting 
+Pb-210 
+7.63E+01 
+4.00E-12 
+3.06E-06 
+1.93E-09 
+NA 
+calculated from U series and est. waste age 
+Ra-226 
+9.89E-01 
+< 1.03E-07 
+< 1.02E-03 
+< 6.45E-07 
+NA 
+Ra-226 
+Ra-226 (calc) 
+9.89E-01 
+5.81E-10 
+5.74E-06 
+3.63E-09 
+NA 
+calculated from U series and est. waste age 
+Ac-227† 
+7.23E+01 
+1.88E-09 
+1.36E-03 
+8.61E-07 
+44 
+Th-229/-230 
+Th-229 
+2.13E-01 
+1.31E-07 
+2.78E-04 
+1.76E-07 
+47 
+Th-229/-230 
+Th-230‡ 
+2.11E-02 
+1.18E-06 
+2.50E-04 
+1.58E-07 
+NA 
+Th-229/-230 
+Pa-231 
+4.72E-02 
+< 9.03E-07 
+< 4.27E-04 
+< 2.70E-07 
+NA 
+Pa-231 
+Th-232 
+1.10E-07 
+1.42E+00 
+1.56E-03 
+9.83E-07 
+2.8 
+ICP-MS 
+U-233 
+9.68E-03 
+4.98E-04 
+4.83E-02 
+3.05E-05 
+4.4 
+U-233/-234/-235/-236 
+U-234 
+6.25E-03 
+1.41E-03 
+8.80E-02 
+5.56E-05 
+3.4 
+U-233/-234/-235/-236 
+U-235 
+2.16E-06 
+3.19E-02 
+6.89E-04 
+4.36E-07 
+5.2 
+U-233/-234/-235/-236 
+U-236 
+6.47E-05 
+2.14E-03 
+1.39E-03 
+8.76E-07 
+5.2 
+U-233/-234/-235/-236 
+Np-237 
+7.05E-04 
+1.69E-03 
+1.19E-02 
+7.54E-06 
+3.3 
+ICP-MS 
+U-238 
+3.36E-07 
+2.48E+00 
+8.33E-03 
+5.26E-06 
+4.2 
+ICP-MS 
+Pu-238 
+1.71E+01 
+5.89E-04 
+1.01E+02 
+6.37E-02 
+8.2 
+Pu-238/-241 
+Pu-239 
+6.22E-02 
+1.64E-02 
+1.02E+01 
+6.45E-03 
+8.4 
+Pu-242/-244 
+Pu-240 
+2.28E-01 
+1.35E-03 
+3.08E+00 
+1.94E-03 
+8.7 
+Pu-242/-244 
+Pu-241 
+1.03E+02 
+3.31E-05 
+3.41E+01 
+2.15E-02 
+11 
+Pu-238/-241 
+Am-241 
+3.43E+00 
+3.62E-04 
+1.24E+01 
+7.85E-03 
+7.5 
+Cs-removed gamma counting 
+Pu-242 
+3.82E-03 
+1.06E-04 
+4.05E-03 
+2.56E-06 
+8.7 
+Pu-242/-244 
+Am-242m§ 
+9.72E+00 
+1.27E-07 
+1.23E-02 
+7.79E-06 
+8.2 
+AmCm 
+Cm-242§ 
+3.31E+03 
+3.08E-10 
+1.02E-02 
+6.44E-06 
+8.5 
+AmCm 
+Am-243 
+1.99E-01 
+3.87E-05 
+7.72E-02 
+4.88E-05 
+10 
+AmCm 
+Cm-243 
+5.16E+01 
+< 1.06E-07 
+< 5.49E-02 
+< 3.47E-05 
+NA 
+AmCm 
+Cm-244 
+8.09E+01 
+3.66E-06 
+2.96E+00 
+1.87E-03 
+8.9 
+AmCm 
+Cm-245 
+1.72E-01 
+4.29E-07 
+7.37E-04 
+4.66E-07 
+8.6 
+AmCm 
+Cm-246 
+3.07E-01 
+6.26E-07 
+1.92E-03 
+1.22E-06 
+14 
+AmCm 
+Cm-247 
+9.28E-05 
+< 1.28E-08 
+1.19E-08 
+< 7.52E-12 
+NA 
+AmCm 
+Bk-247 
+1.05E+00 
+< 1.27E-08 
+< 1.33E-04 
+< 8.39E-08 
+NA 
+AmCm 
+Cm-248 
+4.25E-03 
+< 1.13E-07 
+< 4.80E-06 
+< 3.04E-09 
+NA 
+AmCm 
+Cf-249 
+4.09E+00 
+< 5.35E-08 
+< 2.19E-03 
+< 1.38E-06 
+NA 
+AmCm 
+Cf-250 
+1.09E+02 
+<9.32E-09 
+< 1.02E-02 
+<6.44E-06 
+NA 
+AmCm 
+Cf-251 
+1.59E+00 
+< 3.73E-07 
+< 5.91E-03 
+< 3.73E-06 
+NA 
+AmCm 
+Cf-252 
+5.38E+02 
+<1.89E-09 
+< 1.02E-02 
+<6.44E-06 
+NA 
+AmCm 
+* Less than values represent the minimum detection limit value.  † Ac-227 was calculated with three replicates. ‡ Th-230: only one 
+of four replicates was above detection limit. § Am-242m and Cm-242 were calculated with two replicates. 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+12
+3.2 Additional Requested Radionuclides 
+Additional radionuclides not included as inputs in radionuclide decay calculations are given in Table 3-2.  
+ 
+Table 3-2. List of Additional Radionuclides and Activities 
+ 
+*Less than value represent the minimum detection limit. † Tritium was determined on an undigested slurry.  
+3.3 Determination of Reportable Radionuclides  
+The commercially-available software RadDecay® v. 7.0020 was used to identify reportable radionuclides 
+through calendar year 3115 at the specified index years. The initial activities were entered into RadDecay® 
+based on the analytical results of the Tank 40 SB10 WAPS samples as given in Table 3-1. The assay date 
+for the radionuclide analysis was March 20th, 2023. This day was used as the initial date in the decay 
+calculations as directed by DWPF.3 Some of the radionuclide analyses were completed after this date. These 
+were not decay-corrected since the radionuclides either have a long half-life or are in secular equilibrium 
+with a radionuclide with a long half-life.   Calculations were performed in 100-year intervals except for the 
+initial interval, which was 92 years per the aforementioned directive. The concentrations of all radionuclides 
+present at the various index years are given in Appendix C. The ICRP-107 library was used for half-life 
+data for the decay calculations.23 
+  
+The RadDecay® v 7.00 software was benchmarked against Scale 6.1,24 which is a modeling and simulation 
+suite for nuclear safety analysis and design. The RadDecay® v. 7.00 software proved acceptable for WAPS 
+compliance use.25 
+  
+The total activity of the dried sludge as input into the RadDecay® calculations at year 2023 was 1.28E+04 
+µCi/g. The activity of only the radionuclides that were reportable at year 2023 was 6.54E+03 µCi/g. The 
+total activity of the sludge in 3115 is 2.71E+01 µCi/g, of which 1.71E+01 µCi/g is coming from reportable 
+radionuclides. The discrepancies between the total activity of the sludge batch and the activity attributable 
+to reportable radionuclides is caused by radionuclides with half-lives shorter than 10 years that have a 
+significant contribution to the total activity. The total activity and reportable radionuclide activity of SB10 
+is shown in Figure 3-1. 
+ 
+Nuclide 
+Specific 
+Activity (Ci/g) 
+wt% Total 
+Solids 
+Activity 
+(µCi/g dried 
+solids)* 
+Ci/gal-Slurry 
+%RSD 
+Analytical Method 
+Ag-110m 
+4.75E+03 
+< 5.74E-10 
+< 2.73E-02 
+< 1.72E-05 
+NA 
+Cs-removed gamma counting 
+Pr-144 
+7.56E+07 
+< 6.83E-13 
+< 5.16E-01 
+< 3.26E-04 
+NA 
+Secular Equilibrium w/ Ce-144 
+Pr-144m 
+1.81E+08 
+< 2.84E-13 
+< 5.16E-01 
+< 3.26E-04 
+NA 
+Secular Equilibrium w/ Ce-144 
+Eu-152 
+1.73E+02 
+< 2.78E-08 
+< 4.80E-02 
+< 3.04E-05 
+NA 
+Cs-removed gamma counting 
+Pu-244 
+1.77E-05 
+<3.72E-05 
+<6.59E-06 
+< 4.17E-09 
+NA 
+Pu-242-244 
+Rh-106 
+3.56E+09 
+<3.44E-15 
+<1.22E-01 
+< 7.73E-05 
+NA 
+Secular Equilibrium w/ Ru-106 
+H-3† 
+9.65E+03 
+NA 
+NA 
+< 2.76E-05 
+NA 
+Tritium 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+13
+ 
+Figure 3-1. Total and Reportable Radionuclides Activity of DWPF SB10 Tank 40 Sample, as 
+Measured for 2023 and Predicted for Index Years Through 3115 by RadDecay® v. 7.00. The 
+Discrepancy Between the Total and Reportable Activity is Attributable to Radionuclides with Half-
+lives of Less than 10 Years. 
+ 
+As described in the WCP and WQR, DWPF complies with DOE WAPS requirements by considering the 
+half-life requirement (t1/2 > 10 years) and radionuclides with concentrations greater than 0.01% of the total 
+inventory from the approximate time of production through 1100 years. Twenty-six radionuclides were 
+identified in the Tank 40 sample using these criteria as reportable for SB10. The twenty-six reportable 
+radionuclides are given in Table 3-3. The blue shaded cells in the Table 3-3 indicate in which index year 
+the radionuclides are reportable. Appendix A gives plots of the reportable radionuclides through the index 
+years as a function of their activities and their % of the total activity. SB10 reportable radionuclides are 
+compared to previous sludge batches in Appendix B. All of the reportable radionuclides from the SB10 
+Tank 40 sample are radionuclides that were reportable in two or more previous sludge batches.    
+ 
+1.00E+00
+1.00E+01
+1.00E+02
+1.00E+03
+1.00E+04
+1.00E+05
+2020
+2220
+2420
+2620
+2820
+3020
+Predicted Activity (μCi/g)
+Index Year
+Total
+Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+14
+Table 3-3. DWPF SB10 Reportability Matrix for 2023 to 3115 – Blue Shaded Cell Indicates The 
+Radionuclide Is Reportable For That Year. 
+Isotope 
+2023 
+2115 
+2215 
+2315 
+2415 
+2515 
+2615 
+2715 
+2815 
+2915 
+3015 
+3115 
+Cl-36 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Ni-59 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Ni-63 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Sr-90 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Zr-93 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Nb-93m 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Tc-99 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Cd-113m 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Sn-126 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+I-129 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Cs-137 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Sm-151 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Th-229 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+U-233 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+U-234 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Np-237 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+U-238 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Pu-238 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Pu-239 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Pu-240 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Pu-241 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Am-241 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Pu-242 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Am-243 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Cm-244 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cf-251 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+3.4 The Ratio by Weight of U and Pu Isotopes 
+The mass ratios for uranium and plutonium content must be reported for IAEA safeguards as specified in 
+WAPS 1.6. As such, these uranium and plutonium radionuclides are presented in this section. Tables 3-4 
+and 3-5 show the distribution of uranium and plutonium isotopes determined for SB10 from the Tank 40 
+WAPS sample.  
+ 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+15
+Table 3-4. DWPF SB10 Uranium Isotopes Distribution 
+Isotope 
+wt% Total Solids 
+Percent Distribution 
+U-233 
+4.98E-04 
+0.0198 
+U-234 
+1.41E-03 
+0.0561 
+U-235 
+3.19E-02 
+1.27 
+U-236 
+2.14E-03 
+0.0853 
+U-238 
+2.48E+00 
+98.6 
+Total 
+2.51E+00 
+100 
+ 
+ 
+Table 3-5. DWPF SB10 Plutonium Isotopes Distribution 
+Isotope 
+wt% Total Solids 
+Percent Distribution 
+Pu-238 
+5.89E-04 
+3.18 
+Pu-239 
+1.64E-02 
+88.8 
+Pu-240 
+1.35E-03 
+7.30 
+Pu-241 
+3.31E-05 
+0.179 
+Pu-242 
+1.06E-04 
+0.573 
+Total 
+1.85E-02 
+100 
+ 
+The uranium isotopes U-233, U-234, and U-238, as well as all Pu isotopes, are reportable since they meet 
+the criteria in WAPS 1.2 of having half-lives greater than 10 years and a contribution to the overall activity 
+of greater than 0.01%. U-235 and U-236 are also reportable to comply with WAPS 1.6. 
+4.0 Conclusions 
+The following twenty-six radionuclides were identified as reportable for the SB10 Tank 40 sample using 
+the criteria set forth by WAPS 1.2 and WQR:  
+ 
+Cl-36 
+Ni-59 
+Ni-63 
+Sr-90 
+Zr-93 
+Nb-93m 
+Tc-99 
+Cd-113m 
+Sn-126 
+I-129 
+Cs-137 
+Sm-151 
+Th-229 
+U-233 
+U-234 
+Np-237 
+U-238 
+Pu-238 
+Pu-239 
+Pu-240 
+Pu-241 
+Am-241 
+Pu-242 
+Am-243 
+Cm-244 
+Cf-251 
+ 
+ 
+ 
+ 
+ 
+Additionally, U-235 and U-236 are also reportable to comply with IAEA safeguards. Taking these gives a 
+total of twenty-eight reportable radionuclides for SB10 Tank 40 sample. Additional radionuclides may be 
+reportable from the salt streams added during the SB processing at DWPF. 
+ 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+16
+5.0 References 
+ 
+1. 
+Hunter, S. C. Chemical Characterization Results for Tank 40 Sludge Batch 10 Waste Acceptance 
+Product Specifications (WAPS) Sample; SRNL-STI-2023-00302, Rev. 0; Savannah River National 
+Laboratory: Aiken, SC, 2024. 
+ 
+2. 
+Waste Acceptance Product Specifications for Vitrified High-Level Waste Forms; DOE/EM-0093, 
+Rev. 2; Department of Energy - Office of Environmental Management: 1996. 
+ 
+3. 
+Brotherton, K. M.; Ray, J. W. Defense Waste Processing Facility (DWPF) Path Forward on DOE-
+EM Waste Acceptance Product Specifications (WAPS) 2015 Index Year for Radionuclide 
+Reporting; SRR-WSE-2018-00020, Rev. 0; 2018. 
+ 
+4. 
+DWPF Waste Form Compliance Plan; WSRC-IM-91-116-0, Rev. 14; Savannah River Mission 
+Completion: Aiken, SC, 2023. 
+ 
+5. 
+Ray, J. W.; Culbertson, B. H.; Edwards, T. B.; Bibler, N. E.; Marra, S. L. Reporting the 
+Radionuclide Inventory of the DWPF Product; WSRC-IM-91-116-4, Rev. 4; 2018. 
+ 
+6. 
+Russell, K. J. Sludge Batch 10 Qualification, Confirmatory, and Waste Acceptance Product 
+Specifications Samples; X-TTR-S-00075, Rev. 3; Savannah River Remediation: Aiken, SC, 2021. 
+ 
+7. 
+Pareizs, J. M.; Martino, C. J. Task Technical and Quality Assurance Plan for Sludge Batch 10 
+Sample Analysis and Qualification; SRNL-RP-2019-00658, Rev. 2; Savannah River National 
+Laboratory: Aiken, SC, 2021. 
+ 
+8. 
+Reboul, S. H.; DiPrete, D. P.; Click, D. R.; Bannochie, C. J. Reportable Radionuclides in DWPF 
+Sludge Batch 7a (Macrobatch 8); SRNL-STI-2011-00720, Rev. 0; Savannah River National 
+Laboratory: Aiken, SC, 2011. 
+ 
+9. 
+Bannochie, C. J.; DiPrete, D. P. Determination of Reportable Radionuclides for DWPF Sludge 
+Batch 8 (Macrobatch 10); SRNL-STI-2014-00179, Rev. 0; Savannah River National Laboratory: 
+Aiken, SC, 2014. 
+ 
+10. 
+Trivelpiece, C. L.; Kubilius, W. P.; Diprete, D. P. Determination of Reportable Radionuclides for 
+Defense Waste Processing Facility (DWPF) Sludge Batch 9 (Macrobatch 11); SRNL-STI-2018-
+00680, Rev. 0; Savannah River National Laboratory: Aiken, SC, 2019. 
+ 
+11. 
+Integrated Data Base Report - 1996: U.S. Spent Nuclear Fuel and Radioactive Waste Inventories 
+Projections and Characteristics; DOE/RW-0006, Rev. 13; Oak Ridge National Laboratory: Oak 
+Ridge, TN, 1997. 
+ 
+12. 
+Fellinger, T. L.; Bibler, N. E.; Harbour, J. R. Characterization of and Waste Acceptance 
+Radionuclides to be Reported For DWPF Macro Batch 2 (ESP 215-ESP 221); WSRC-RP-99-
+00436, Rev. 1; Westinghouse Savannah River Company: Aiken, SC, 2004. 
+ 
+13. 
+Bibler, N. E.; Diprete, D. P.; Harbour, J. R. Determination of Reportable Radionuclides for DWPF 
+Sludge Batch 2 (Macro Batch 3); WSRC-TR-2002-00255; Westinghouse Savannah River 
+Company: Aiken, SC, 2002. 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+17
+14. 
+Bannochie, C. J.; Bibler, N. E. Determination of Reportable Radionuclides For DWPF Sludge 
+Batch 3 (Macrobatch 4); WSRC-TR-2005-00157, Rev. 0; Savannah River National Laboratory: 
+Aiken, SC, 2005. 
+ 
+15. 
+Bannochie, C. J.; Bibler, N. E.; Diprete, D. P. Determination of Reportable Radionuclides for 
+DWPF Sludge Batch 4 (Macrobatch 5); WSRC-STI-2008-00142, Rev. 0; Savannah River National 
+Laboratory: Aiken, SC, 2008. 
+ 
+16. 
+Bannochie, C. J.; Bibler, N. E.; Diprete, D. P. Determination of Reportable Radionuclides For 
+DWPF Sludge Batch 5 (Macrobatch 6); SRNL-STI-2009-00821, Rev. 0; Savannah River National 
+Laboratory: Aiken, SC, 2010. 
+ 
+17. 
+Bannochie, C. J.; Diprete, D. P. Determination of Reportable Radionuclides For DWPF Sludge 
+Batch 6 (Macrobatch 7); SRNL-STI-2011-00189, Rev. 0; Savannah River National Laboratory: 
+Aiken, SC, 2011. 
+ 
+18. 
+Crawford, C. L.; DiPrete, D. P. Determination of Reportable Radionuclides for DWPF Sludge 
+Batch 7b (Macrobatch 9); SRNL-STI-2012-00294, Rev. 2; Savannah River National Laboratory: 
+Aiken, SC, 2014. 
+ 
+19. 
+Bibler, N. E.; Fellinger, T. L.; Hobbs, D. T. Technetium-99 Behavior in Savannah River Site High 
+Level Waste Sludges During Waste Processing; WSRC-MS-2004-00614, Rev. 0; Savannah River 
+National Laboratory: Aiken, SC, 2004. 
+ 
+20. 
+RadDecay; Version 7.00; Grove Software: Lynchburg, VA 24503. 
+ 
+21. 
+Hunter, S. C. Software Quality Assurance Plan for Commercial Radioactive Decay Calculation 
+Package RadDecay® v. 7.00 Utilized by Chemical Flowsheet Development; G-SQP-A-00006, Rev. 
+7; Savannah River National Laboratory: Aiken, SC, 2024. 
+ 
+22. 
+Boggs, B. Compilation of Data on Radionuclide Data for Specific Activity, Specific Heat and 
+Fission Product Yields; WSRC-TR-99-00344; Westinghouse Savannah River Company: Aiken, 
+SC, 1999. 
+ 
+23. 
+ICRP, 2008. Nuclear Decay Data for Dosimetric Calculations. ICRP Publication 107. ANN. ICRP 
+38 (3). 
+ 
+24. 
+Hunter, S. C. Software Test Plan for Radioactive Decay Calculations Performed by RadDecay® 
+7.00; G-STP-A-00020, Rev. 0; Savannah River National Laboratory: Aiken, SC, 2024. 
+ 
+25. 
+Hunter, S. C. Software Test Results for Radioactive Decay Calculations Performed by RadDecay 
+v. 7.00; G-TR-W-00002, Rev. 0; Savannah River National Laboratory: Aiken, SC, 2024. 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-1
+ 
+Appendix A.  Individual Radionuclide Concentrations 
+ 
+ 
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Am-241
+Activity
+Percent
+0.01% Reportable
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Am-243
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-2
+ 
+ 
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Cd-113m
+Activity
+Percent
+0.01% Reportable
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Cf-251
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-3
+ 
+ 
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Cl-36
+Activity
+Percent
+0.01% Reportable
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Cm-244
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-4
+ 
+ 
+ 
+ 
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Cs-137
+Activity
+Percent
+0.01% Reportable
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+I-129
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-5
+ 
+ 
+ 
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Nb-93m
+Activity
+Percent
+0.01% Reportable
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Ni-59
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-6
+ 
+ 
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Ni-63
+Activity
+Percent
+0.01% Reportable
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Np-237
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-7
+ 
+ 
+ 
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Pu-238
+Activity
+Percent
+0.01% Reportable
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Pu-239
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-8
+ 
+ 
+ 
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Pu-240
+Activity
+Percent
+0.01% Reportable
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent
+Activity (μCi/g)
+Year
+Pu-241
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-9
+ 
+ 
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Pu-242
+Activity
+Percent
+0.01% Reportable
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Sm-151
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-10
+ 
+ 
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Sn-126
+Activity
+Percent
+0.01% Reportable
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Sr-90
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-11
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Tc-99
+Activity
+Percent
+0.01% Reportable
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Th-229
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-12
+ 
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+U-233
+Activity
+Percent
+0.01% Reportable
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+U-234
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-13
+ 
+ 
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+U-235
+Activity
+Percent
+0.01% Reportable
+0.001%
+0.010%
+0.100%
+1.000%
+10.000%
+100.000%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+2023 2115 2215 2315 2415 2515 2615 2715 2815 2915 3015 3115
+Percent of Total Ci
+Activity (μCi/g)
+Year
+U-236
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+A-14
+ 
+ 
+ 
+ 
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+U-238
+Activity
+Percent
+0.01% Reportable
+0.00%
+0.01%
+0.10%
+1.00%
+10.00%
+100.00%
+0.001
+0.010
+0.100
+1.000
+10.000
+100.000
+1,000.000
+10,000.000
+Percent of Total Ci
+Activity (μCi/g)
+Year
+Zr-93
+Activity
+Percent
+0.01% Reportable
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+B-1
+Appendix B. Reportable Radionuclides for Sludge Batches 1b to 10. Red Shaded Cells Indicate 
+Reportable Radionuclide. 
+Radionuclide 
+SB1b 
+SB2 
+SB3 
+SB4 
+SB5 
+SB6 
+SB7a 
+SB7b 
+SB8 
+SB9 
+SB10 
+C-14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cl-36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ni-59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ni-63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Se-79 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr-90 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zr-93 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nb-93m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tc-99 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cd-113m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sn-121m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sn-126 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I-129 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cs-135 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cs-137 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sm-151 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ac-227 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Th-229 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pa-231 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U-233 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U-234 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Np-237 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U-238 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pu-238 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pu-239 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pu-240 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Am-241 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pu-241 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pu-242 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Am-242m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Am-243 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cm-244 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cm-245 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cm-246 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bk-247 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cm-247 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cm-248 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cf-249 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cf-251 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+C-1
+Appendix C. RadDecay® v.7.00 Output Activities for the Specified Index Years 
+Index year: 
+2023 
+Activity 
+(μCi/g) 
+2115 
+Activity 
+(μCi/g) 
+2215 
+Activity 
+(μCi/g) 
+2315 
+Activity 
+(μCi/g) 
+2415 
+Activity 
+(μCi/g) 
+2515 
+Activity 
+(μCi/g) 
+2615 
+Activity 
+(μCi/g) 
+2715 
+Activity 
+(μCi/g) 
+2815 
+Activity 
+(μCi/g) 
+2915 
+Activity 
+(μCi/g) 
+3015 
+Activity 
+(μCi/g) 
+3115 
+Activity 
+(μCi/g) 
+Name 
+Half-Life 
+(y) 
+Ac-225 
+2.74E-02 
+0.00E+00 
+6.93E-04 
+1.14E-03 
+1.58E-03 
+2.02E-03 
+2.45E-03 
+2.88E-03 
+3.31E-03 
+3.73E-03 
+4.15E-03 
+4.56E-03 
+4.97E-03 
+Ac-227 
+2.18E+01 
+1.36E-03 
+4.77E-04 
+4.30E-04 
+4.28E-04 
+4.29E-04 
+4.29E-04 
+4.30E-04 
+4.30E-04 
+4.31E-04 
+4.31E-04 
+4.32E-04 
+4.33E-04 
+Ac-228 
+7.02E-04 
+0.00E+00 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+Am-241 
+4.32E+02 
+1.24E+01 
+1.17E+01 
+9.99E+00 
+8.51E+00 
+7.25E+00 
+6.17E+00 
+5.26E+00 
+4.48E+00 
+3.82E+00 
+3.25E+00 
+2.77E+00 
+2.36E+00 
+Am-242 
+1.83E-03 
+0.00E+00 
+7.80E-03 
+4.77E-03 
+2.92E-03 
+1.79E-03 
+1.09E-03 
+6.68E-04 
+4.09E-04 
+2.50E-04 
+1.53E-04 
+9.35E-05 
+5.72E-05 
+Am-242m 
+1.41E+02 
+1.23E-02 
+7.84E-03 
+4.79E-03 
+2.93E-03 
+1.79E-03 
+1.10E-03 
+6.71E-04 
+4.10E-04 
+2.51E-04 
+1.54E-04 
+9.39E-05 
+5.74E-05 
+Am-243 
+7.37E+03 
+7.72E-02 
+7.65E-02 
+7.58E-02 
+7.51E-02 
+7.44E-02 
+7.37E-02 
+7.30E-02 
+7.23E-02 
+7.17E-02 
+7.10E-02 
+7.03E-02 
+6.97E-02 
+At-217 
+1.02E-09 
+0.00E+00 
+6.93E-04 
+1.14E-03 
+1.58E-03 
+2.02E-03 
+2.45E-03 
+2.88E-03 
+3.31E-03 
+3.73E-03 
+4.15E-03 
+4.56E-03 
+4.97E-03 
+At-218 
+4.76E-08 
+0.00E+00 
+3.37E-09 
+6.48E-09 
+1.04E-08 
+1.50E-08 
+2.04E-08 
+2.65E-08 
+3.33E-08 
+4.08E-08 
+4.89E-08 
+5.77E-08 
+6.70E-08 
+At-219 
+1.78E-06 
+0.00E+00 
+3.95E-10 
+3.56E-10 
+3.54E-10 
+3.55E-10 
+3.55E-10 
+3.56E-10 
+3.56E-10 
+3.57E-10 
+3.57E-10 
+3.58E-10 
+3.58E-10 
+Ba-133 
+1.05E+01 
+5.10E-02 
+1.19E-04 
+1.64E-07 
+2.25E-10 
+3.09E-13 
+4.26E-16 
+5.86E-19 
+8.06E-22 
+1.11E-24 
+1.52E-27 
+2.10E-30 
+2.88E-33 
+Ba-137m 
+4.86E-06 
+3.81E+02 
+4.59E+01 
+4.61E+00 
+4.64E-01 
+4.66E-02 
+4.68E-03 
+4.70E-04 
+4.73E-05 
+4.75E-06 
+4.77E-07 
+4.80E-08 
+4.82E-09 
+Bi-210 
+1.37E-02 
+0.00E+00 
+1.28E-05 
+2.72E-05 
+4.54E-05 
+6.73E-05 
+9.31E-05 
+1.23E-04 
+1.56E-04 
+1.92E-04 
+2.32E-04 
+2.74E-04 
+3.20E-04 
+Bi-211 
+4.07E-06 
+0.00E+00 
+4.77E-04 
+4.30E-04 
+4.28E-04 
+4.29E-04 
+4.29E-04 
+4.30E-04 
+4.30E-04 
+4.31E-04 
+4.31E-04 
+4.32E-04 
+4.33E-04 
+Bi-212 
+1.15E-04 
+0.00E+00 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+Bi-213 
+8.67E-05 
+0.00E+00 
+6.93E-04 
+1.14E-03 
+1.58E-03 
+2.02E-03 
+2.45E-03 
+2.88E-03 
+3.31E-03 
+3.73E-03 
+4.15E-03 
+4.56E-03 
+4.97E-03 
+Bi-214 
+3.79E-05 
+0.00E+00 
+1.69E-05 
+3.24E-05 
+5.18E-05 
+7.50E-05 
+1.02E-04 
+1.33E-04 
+1.67E-04 
+2.04E-04 
+2.45E-04 
+2.88E-04 
+3.35E-04 
+Bi-215 
+1.45E-05 
+0.00E+00 
+3.83E-10 
+3.45E-10 
+3.44E-10 
+3.44E-10 
+3.45E-10 
+3.45E-10 
+3.46E-10 
+3.46E-10 
+3.46E-10 
+3.47E-10 
+3.47E-10 
+Bk-247 
+1.38E+03 
+1.33E-04 
+1.27E-04 
+1.21E-04 
+1.15E-04 
+1.09E-04 
+1.04E-04 
+9.86E-05 
+9.38E-05 
+8.92E-05 
+8.48E-05 
+8.07E-05 
+7.67E-05 
+Cd-113 
+7.70E+15 
+0.00E+00 
+4.07E-18 
+4.11E-18 
+4.11E-18 
+4.11E-18 
+4.11E-18 
+4.11E-18 
+4.11E-18 
+4.11E-18 
+4.11E-18 
+4.11E-18 
+4.11E-18 
+Cd-113m 
+1.41E+01 
+1.61E+00 
+1.74E-02 
+1.28E-04 
+9.36E-07 
+6.86E-09 
+5.03E-11 
+3.69E-13 
+2.70E-15 
+1.98E-17 
+1.45E-19 
+1.06E-21 
+7.79E-24 
+Ce-144 
+7.80E-01 
+5.16E-01 
+1.62E-36 
+4.14E-75 
+1.06E-113 
+2.72E-152 
+6.95E-191 
+1.78E-229 
+4.56E-268 
+1.17E-306 
+0.00E+00 
+0.00E+00 
+0.00E+00 
+Cf-249 
+3.51E+02 
+2.19E-03 
+1.82E-03 
+1.50E-03 
+1.23E-03 
+1.01E-03 
+8.28E-04 
+6.79E-04 
+5.58E-04 
+4.58E-04 
+3.76E-04 
+3.08E-04 
+2.53E-04 
+Cf-250 
+1.31E+01 
+1.02E-02 
+7.78E-05 
+3.88E-07 
+1.94E-09 
+9.69E-12 
+4.84E-14 
+2.42E-16 
+1.21E-18 
+6.03E-21 
+3.01E-23 
+1.51E-25 
+7.52E-28 
+Cf-251 
+9.00E+02 
+5.91E-03 
+5.50E-03 
+5.09E-03 
+4.72E-03 
+4.37E-03 
+4.04E-03 
+3.74E-03 
+3.47E-03 
+3.21E-03 
+2.97E-03 
+2.75E-03 
+2.55E-03 
+Cf-252 
+2.65E+00 
+1.02E-02 
+3.45E-13 
+1.43E-24 
+5.96E-36 
+2.48E-47 
+1.03E-58 
+4.29E-70 
+1.78E-81 
+7.41E-93 
+3.08E-104 
+1.28E-115 
+5.33E-127 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+C-2
+Index year: 
+2023 
+Activity 
+(μCi/g) 
+2115 
+Activity 
+(μCi/g) 
+2215 
+Activity 
+(μCi/g) 
+2315 
+Activity 
+(μCi/g) 
+2415 
+Activity 
+(μCi/g) 
+2515 
+Activity 
+(μCi/g) 
+2615 
+Activity 
+(μCi/g) 
+2715 
+Activity 
+(μCi/g) 
+2815 
+Activity 
+(μCi/g) 
+2915 
+Activity 
+(μCi/g) 
+3015 
+Activity 
+(μCi/g) 
+3115 
+Activity 
+(μCi/g) 
+Name 
+Half-Life 
+(y) 
+Cl-36 
+3.01E+05 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+1.73E-02 
+Cm-242 
+4.46E-01 
+1.02E-02 
+6.47E-03 
+3.96E-03 
+2.42E-03 
+1.48E-03 
+9.06E-04 
+5.54E-04 
+3.39E-04 
+2.07E-04 
+1.27E-04 
+7.76E-05 
+4.74E-05 
+Cm-243 
+2.91E+01 
+5.49E-02 
+6.13E-03 
+5.67E-04 
+5.23E-05 
+4.83E-06 
+4.47E-07 
+4.13E-08 
+3.81E-09 
+3.52E-10 
+3.25E-11 
+3.00E-12 
+2.77E-13 
+Cm-244 
+1.81E+01 
+2.96E+00 
+8.73E-02 
+1.90E-03 
+4.12E-05 
+8.94E-07 
+1.94E-08 
+4.22E-10 
+9.16E-12 
+1.99E-13 
+4.32E-15 
+9.39E-17 
+2.04E-18 
+Cm-245 
+8.50E+03 
+7.37E-04 
+7.46E-04 
+7.54E-04 
+7.59E-04 
+7.61E-04 
+7.63E-04 
+7.63E-04 
+7.61E-04 
+7.59E-04 
+7.57E-04 
+7.53E-04 
+7.49E-04 
+Cm-246 
+4.76E+03 
+1.92E-03 
+1.93E-03 
+1.90E-03 
+1.87E-03 
+1.84E-03 
+1.82E-03 
+1.79E-03 
+1.76E-03 
+1.74E-03 
+1.71E-03 
+1.69E-03 
+1.66E-03 
+Cm-247 
+1.56E+07 
+1.19E-08 
+3.52E-08 
+5.87E-08 
+8.05E-08 
+1.01E-07 
+1.19E-07 
+1.37E-07 
+1.53E-07 
+1.68E-07 
+1.81E-07 
+1.94E-07 
+2.06E-07 
+Cm-248 
+3.48E+05 
+4.80E-06 
+4.88E-06 
+4.88E-06 
+4.88E-06 
+4.87E-06 
+4.87E-06 
+4.87E-06 
+4.87E-06 
+4.87E-06 
+4.87E-06 
+4.87E-06 
+4.87E-06 
+Co-60 
+5.27E+00 
+9.54E-02 
+5.32E-07 
+1.03E-12 
+2.01E-18 
+3.92E-24 
+7.63E-30 
+1.49E-35 
+2.89E-41 
+5.63E-47 
+1.10E-52 
+2.13E-58 
+4.15E-64 
+Cs-134 
+2.06E+00 
+1.11E+00 
+4.28E-14 
+1.13E-28 
+2.97E-43 
+7.83E-58 
+2.06E-72 
+5.44E-87 
+1.43E-101 
+3.78E-116 
+9.96E-131 
+2.62E-145 
+6.92E-160 
+Cs-135 
+2.30E+06 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+2.51E-03 
+Cs-137 
+3.02E+01 
+4.03E+02 
+4.86E+01 
+4.89E+00 
+4.91E-01 
+4.94E-02 
+4.96E-03 
+4.98E-04 
+5.01E-05 
+5.03E-06 
+5.06E-07 
+5.08E-08 
+5.11E-09 
+Eu-154 
+8.59E+00 
+3.90E+00 
+2.33E-03 
+7.33E-07 
+2.30E-10 
+7.22E-14 
+2.27E-17 
+7.11E-21 
+2.23E-24 
+7.01E-28 
+2.20E-31 
+6.91E-35 
+2.17E-38 
+Eu-155 
+4.76E+00 
+1.98E-01 
+3.02E-07 
+1.44E-13 
+6.83E-20 
+3.25E-26 
+1.55E-32 
+7.35E-39 
+3.50E-45 
+1.66E-51 
+7.91E-58 
+3.76E-64 
+1.79E-70 
+Fr-221 
+9.32E-06 
+0.00E+00 
+6.93E-04 
+1.14E-03 
+1.58E-03 
+2.02E-03 
+2.45E-03 
+2.88E-03 
+3.31E-03 
+3.73E-03 
+4.15E-03 
+4.56E-03 
+4.97E-03 
+Fr-223 
+4.19E-05 
+0.00E+00 
+6.58E-06 
+5.93E-06 
+5.91E-06 
+5.91E-06 
+5.92E-06 
+5.93E-06 
+5.94E-06 
+5.95E-06 
+5.95E-06 
+5.96E-06 
+5.97E-06 
+Hg-206 
+1.55E-05 
+0.00E+00 
+2.44E-13 
+5.17E-13 
+8.62E-13 
+1.28E-12 
+1.77E-12 
+2.33E-12 
+2.96E-12 
+3.65E-12 
+4.40E-12 
+5.21E-12 
+6.08E-12 
+I-129 
+1.57E+07 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+3.29E-03 
+Nb-93m 
+1.61E+01 
+5.31E-01 
+5.79E-01 
+5.80E-01 
+5.80E-01 
+5.80E-01 
+5.80E-01 
+5.80E-01 
+5.80E-01 
+5.80E-01 
+5.80E-01 
+5.80E-01 
+5.80E-01 
+Nd-144 
+2.29E+15 
+0.00E+00 
+1.76E-16 
+1.76E-16 
+1.76E-16 
+1.76E-16 
+1.76E-16 
+1.76E-16 
+1.76E-16 
+1.76E-16 
+1.76E-16 
+1.76E-16 
+1.76E-16 
+Ni-59 
+1.01E+05 
+2.59E-01 
+2.58E-01 
+2.58E-01 
+2.58E-01 
+2.58E-01 
+2.58E-01 
+2.58E-01 
+2.57E-01 
+2.57E-01 
+2.57E-01 
+2.57E-01 
+2.57E-01 
+Ni-63 
+1.00E+02 
+3.22E+01 
+1.71E+01 
+8.53E+00 
+4.27E+00 
+2.14E+00 
+1.07E+00 
+5.35E-01 
+2.68E-01 
+1.34E-01 
+6.70E-02 
+3.35E-02 
+1.68E-02 
+Np-237 
+2.14E+06 
+1.19E-02 
+1.23E-02 
+1.26E-02 
+1.29E-02 
+1.32E-02 
+1.34E-02 
+1.36E-02 
+1.38E-02 
+1.39E-02 
+1.40E-02 
+1.41E-02 
+1.42E-02 
+Np-238 
+5.80E-03 
+0.00E+00 
+3.53E-05 
+2.16E-05 
+1.32E-05 
+8.07E-06 
+4.94E-06 
+3.02E-06 
+1.85E-06 
+1.13E-06 
+6.91E-07 
+4.23E-07 
+2.59E-07 
+Np-239 
+6.46E-03 
+0.00E+00 
+7.65E-02 
+7.58E-02 
+7.51E-02 
+7.44E-02 
+7.37E-02 
+7.30E-02 
+7.23E-02 
+7.17E-02 
+7.10E-02 
+7.03E-02 
+6.97E-02 
+Np-240 
+1.18E-04 
+0.00E+00 
+3.91E-15 
+8.16E-15 
+1.24E-14 
+1.67E-14 
+2.09E-14 
+2.52E-14 
+2.94E-14 
+3.37E-14 
+3.79E-14 
+4.22E-14 
+4.64E-14 
+Np-240m 
+1.37E-05 
+0.00E+00 
+3.56E-12 
+7.42E-12 
+1.13E-11 
+1.52E-11 
+1.90E-11 
+2.29E-11 
+2.67E-11 
+3.06E-11 
+3.45E-11 
+3.83E-11 
+4.22E-11 
+Pa-231 
+3.28E+04 
+4.27E-04 
+4.27E-04 
+4.28E-04 
+4.28E-04 
+4.29E-04 
+4.29E-04 
+4.30E-04 
+4.30E-04 
+4.31E-04 
+4.32E-04 
+4.32E-04 
+4.33E-04 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+C-3
+Index year: 
+2023 
+Activity 
+(μCi/g) 
+2115 
+Activity 
+(μCi/g) 
+2215 
+Activity 
+(μCi/g) 
+2315 
+Activity 
+(μCi/g) 
+2415 
+Activity 
+(μCi/g) 
+2515 
+Activity 
+(μCi/g) 
+2615 
+Activity 
+(μCi/g) 
+2715 
+Activity 
+(μCi/g) 
+2815 
+Activity 
+(μCi/g) 
+2915 
+Activity 
+(μCi/g) 
+3015 
+Activity 
+(μCi/g) 
+3115 
+Activity 
+(μCi/g) 
+Name 
+Half-Life 
+(y) 
+Pa-233 
+7.39E-02 
+0.00E+00 
+1.23E-02 
+1.26E-02 
+1.29E-02 
+1.32E-02 
+1.34E-02 
+1.36E-02 
+1.38E-02 
+1.39E-02 
+1.40E-02 
+1.41E-02 
+1.42E-02 
+Pa-234 
+7.65E-04 
+0.00E+00 
+1.33E-05 
+1.33E-05 
+1.33E-05 
+1.33E-05 
+1.33E-05 
+1.33E-05 
+1.33E-05 
+1.33E-05 
+1.33E-05 
+1.33E-05 
+1.33E-05 
+Pa-234m 
+2.23E-06 
+0.00E+00 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+Pb-209 
+3.71E-04 
+0.00E+00 
+6.93E-04 
+1.14E-03 
+1.58E-03 
+2.02E-03 
+2.45E-03 
+2.88E-03 
+3.31E-03 
+3.73E-03 
+4.15E-03 
+4.56E-03 
+4.97E-03 
+Pb-210 
+2.22E+01 
+3.06E-06 
+1.29E-05 
+2.72E-05 
+4.54E-05 
+6.74E-05 
+9.31E-05 
+1.23E-04 
+1.56E-04 
+1.92E-04 
+2.32E-04 
+2.74E-04 
+3.20E-04 
+Pb-211 
+6.87E-05 
+0.00E+00 
+4.77E-04 
+4.30E-04 
+4.28E-04 
+4.29E-04 
+4.29E-04 
+4.30E-04 
+4.30E-04 
+4.31E-04 
+4.31E-04 
+4.32E-04 
+4.33E-04 
+Pb-212 
+1.22E-03 
+0.00E+00 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+Pb-214 
+5.10E-05 
+0.00E+00 
+1.69E-05 
+3.24E-05 
+5.18E-05 
+7.50E-05 
+1.02E-04 
+1.33E-04 
+1.67E-04 
+2.04E-04 
+2.45E-04 
+2.88E-04 
+3.35E-04 
+Pd-107 
+6.50E+06 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+4.68E-04 
+Pm-147 
+2.62E+00 
+3.97E+01 
+1.10E-09 
+3.69E-21 
+1.24E-32 
+4.14E-44 
+1.39E-55 
+4.65E-67 
+1.56E-78 
+5.22E-90 
+1.75E-101 
+5.87E-113 
+1.97E-124 
+Po-210 
+3.79E-01 
+0.00E+00 
+1.28E-05 
+2.71E-05 
+4.52E-05 
+6.72E-05 
+9.30E-05 
+1.22E-04 
+1.55E-04 
+1.92E-04 
+2.31E-04 
+2.74E-04 
+3.20E-04 
+Po-211 
+1.64E-08 
+0.00E+00 
+1.32E-06 
+1.19E-06 
+1.18E-06 
+1.18E-06 
+1.18E-06 
+1.19E-06 
+1.19E-06 
+1.19E-06 
+1.19E-06 
+1.19E-06 
+1.19E-06 
+Po-212 
+9.48E-15 
+0.00E+00 
+9.96E-04 
+9.96E-04 
+9.96E-04 
+9.96E-04 
+9.96E-04 
+9.96E-04 
+9.96E-04 
+9.96E-04 
+9.96E-04 
+9.96E-04 
+9.96E-04 
+Po-213 
+1.33E-13 
+0.00E+00 
+6.78E-04 
+1.12E-03 
+1.55E-03 
+1.98E-03 
+2.40E-03 
+2.82E-03 
+3.24E-03 
+3.65E-03 
+4.06E-03 
+4.47E-03 
+4.87E-03 
+Po-214 
+5.20E-12 
+0.00E+00 
+1.69E-05 
+3.24E-05 
+5.18E-05 
+7.50E-05 
+1.02E-04 
+1.33E-04 
+1.67E-04 
+2.04E-04 
+2.45E-04 
+2.88E-04 
+3.35E-04 
+Po-215 
+5.64E-11 
+0.00E+00 
+4.77E-04 
+4.30E-04 
+4.28E-04 
+4.29E-04 
+4.29E-04 
+4.30E-04 
+4.30E-04 
+4.31E-04 
+4.31E-04 
+4.32E-04 
+4.33E-04 
+Po-216 
+4.60E-09 
+0.00E+00 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+Po-218 
+5.90E-06 
+0.00E+00 
+1.69E-05 
+3.24E-05 
+5.18E-05 
+7.50E-05 
+1.02E-04 
+1.33E-04 
+1.67E-04 
+2.04E-04 
+2.45E-04 
+2.88E-04 
+3.35E-04 
+Pr-144 
+3.29E-05 
+0.00E+00 
+1.62E-36 
+4.14E-75 
+1.06E-113 
+2.72E-152 
+6.95E-191 
+1.78E-229 
+4.56E-268 
+1.17E-306 
+0.00E+00 
+0.00E+00 
+0.00E+00 
+Pr-144m 
+1.37E-05 
+0.00E+00 
+1.58E-38 
+4.04E-77 
+1.04E-115 
+2.65E-154 
+6.79E-193 
+1.74E-231 
+4.46E-270 
+0.00E-01 
+0.00E+00 
+0.00E+00 
+0.00E+00 
+Pu-238 
+8.77E+01 
+1.01E+02 
+4.87E+01 
+2.21E+01 
+1.00E+01 
+4.55E+00 
+2.06E+00 
+9.37E-01 
+4.25E-01 
+1.93E-01 
+8.77E-02 
+3.98E-02 
+1.81E-02 
+Pu-239 
+2.41E+04 
+1.02E+01 
+1.02E+01 
+1.02E+01 
+1.01E+01 
+1.01E+01 
+1.01E+01 
+1.00E+01 
+1.00E+01 
+9.98E+00 
+9.95E+00 
+9.92E+00 
+9.90E+00 
+Pu-240 
+6.56E+03 
+3.08E+00 
+3.05E+00 
+3.02E+00 
+2.99E+00 
+2.96E+00 
+2.93E+00 
+2.90E+00 
+2.87E+00 
+2.84E+00 
+2.81E+00 
+2.78E+00 
+2.75E+00 
+Pu-241 
+1.44E+01 
+3.41E+01 
+4.01E-01 
+3.95E-03 
+7.83E-04 
+7.61E-04 
+7.63E-04 
+7.63E-04 
+7.62E-04 
+7.60E-04 
+7.57E-04 
+7.54E-04 
+7.50E-04 
+Pu-242 
+3.75E+05 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+4.05E-03 
+Pu-243 
+5.67E-04 
+0.00E+00 
+3.52E-08 
+5.87E-08 
+8.05E-08 
+1.01E-07 
+1.19E-07 
+1.37E-07 
+1.53E-07 
+1.68E-07 
+1.81E-07 
+1.94E-07 
+2.06E-07 
+Pu-244 
+8.00E+07 
+0.00E+00 
+3.56E-12 
+7.43E-12 
+1.13E-11 
+1.52E-11 
+1.90E-11 
+2.29E-11 
+2.68E-11 
+3.06E-11 
+3.45E-11 
+3.84E-11 
+4.22E-11 
+Ra-223 
+3.13E-02 
+0.00E+00 
+4.77E-04 
+4.30E-04 
+4.28E-04 
+4.29E-04 
+4.29E-04 
+4.30E-04 
+4.30E-04 
+4.31E-04 
+4.31E-04 
+4.32E-04 
+4.33E-04 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+C-4
+Index year: 
+2023 
+Activity 
+(μCi/g) 
+2115 
+Activity 
+(μCi/g) 
+2215 
+Activity 
+(μCi/g) 
+2315 
+Activity 
+(μCi/g) 
+2415 
+Activity 
+(μCi/g) 
+2515 
+Activity 
+(μCi/g) 
+2615 
+Activity 
+(μCi/g) 
+2715 
+Activity 
+(μCi/g) 
+2815 
+Activity 
+(μCi/g) 
+2915 
+Activity 
+(μCi/g) 
+3015 
+Activity 
+(μCi/g) 
+3115 
+Activity 
+(μCi/g) 
+Name 
+Half-Life 
+(y) 
+Ra-224 
+1.00E-02 
+0.00E+00 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+Ra-225 
+4.08E-02 
+0.00E+00 
+6.93E-04 
+1.14E-03 
+1.58E-03 
+2.02E-03 
+2.45E-03 
+2.88E-03 
+3.31E-03 
+3.73E-03 
+4.15E-03 
+4.56E-03 
+4.97E-03 
+Ra-226 
+1.60E+03 
+5.74E-06 
+1.69E-05 
+3.24E-05 
+5.18E-05 
+7.50E-05 
+1.02E-04 
+1.33E-04 
+1.67E-04 
+2.04E-04 
+2.45E-04 
+2.88E-04 
+3.35E-04 
+Ra-228 
+5.75E+00 
+0.00E+00 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+Rh-106 
+9.45E-07 
+0.00E+00 
+1.03E-28 
+3.80E-58 
+1.41E-87 
+5.22E-117 
+1.94E-146 
+7.18E-176 
+2.66E-205 
+9.86E-235 
+3.66E-264 
+1.36E-293 
+0.00E+00 
+Rn-218 
+1.11E-09 
+0.00E+00 
+3.37E-12 
+6.48E-12 
+1.04E-11 
+1.50E-11 
+2.04E-11 
+2.65E-11 
+3.33E-11 
+4.08E-11 
+4.89E-11 
+5.77E-11 
+6.70E-11 
+Rn-219 
+1.26E-07 
+0.00E+00 
+4.77E-04 
+4.30E-04 
+4.28E-04 
+4.29E-04 
+4.29E-04 
+4.30E-04 
+4.30E-04 
+4.31E-04 
+4.31E-04 
+4.32E-04 
+4.33E-04 
+Rn-220 
+1.76E-06 
+0.00E+00 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+Rn-222 
+1.05E-02 
+0.00E+00 
+1.69E-05 
+3.24E-05 
+5.18E-05 
+7.50E-05 
+1.02E-04 
+1.33E-04 
+1.67E-04 
+2.04E-04 
+2.45E-04 
+2.88E-04 
+3.35E-04 
+Ru-106 
+1.02E+00 
+1.22E-01 
+1.03E-28 
+3.80E-58 
+1.41E-87 
+5.22E-117 
+1.94E-146 
+7.18E-176 
+2.66E-205 
+9.86E-235 
+3.66E-264 
+1.36E-293 
+0.00E+00 
+Sb-125 
+2.76E+00 
+9.43E-02 
+8.61E-12 
+1.05E-22 
+1.29E-33 
+1.57E-44 
+1.93E-55 
+2.35E-66 
+2.88E-77 
+3.52E-88 
+4.31E-99 
+5.27E-110 
+6.44E-121 
+Sb-126 
+3.38E-02 
+0.00E+00 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+Se-79 
+2.95E+05 
+7.17E-04 
+7.17E-04 
+7.16E-04 
+7.16E-04 
+7.16E-04 
+7.16E-04 
+7.16E-04 
+7.16E-04 
+7.15E-04 
+7.15E-04 
+7.15E-04 
+7.15E-04 
+Sm-147 
+1.06E+11 
+0.00E+00 
+9.82E-10 
+9.82E-10 
+9.82E-10 
+9.82E-10 
+9.82E-10 
+9.82E-10 
+9.82E-10 
+9.82E-10 
+9.82E-10 
+9.82E-10 
+9.82E-10 
+Sm-151 
+9.00E+01 
+6.57E+01 
+3.23E+01 
+1.50E+01 
+6.93E+00 
+3.21E+00 
+1.49E+00 
+6.88E-01 
+3.18E-01 
+1.47E-01 
+6.82E-02 
+3.16E-02 
+1.46E-02 
+Sn-121 
+3.09E-03 
+0.00E+00 
+3.73E-02 
+7.69E-03 
+1.58E-03 
+3.27E-04 
+6.74E-05 
+1.39E-05 
+2.87E-06 
+5.91E-07 
+1.22E-07 
+2.51E-08 
+5.18E-09 
+Sn-121m 
+4.39E+01 
+2.05E-01 
+4.80E-02 
+9.90E-03 
+2.04E-03 
+4.21E-04 
+8.68E-05 
+1.79E-05 
+3.69E-06 
+7.61E-07 
+1.57E-07 
+3.24E-08 
+6.67E-09 
+Sn-126 
+2.30E+05 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+2.74E-03 
+Sr-90 
+2.88E+01 
+5.87E+03 
+6.41E+02 
+5.77E+01 
+5.19E+00 
+4.68E-01 
+4.21E-02 
+3.79E-03 
+3.41E-04 
+3.07E-05 
+2.77E-06 
+2.49E-07 
+2.24E-08 
+Tc-99 
+2.11E+05 
+2.57E-01 
+2.57E-01 
+2.57E-01 
+2.56E-01 
+2.56E-01 
+2.56E-01 
+2.56E-01 
+2.56E-01 
+2.56E-01 
+2.56E-01 
+2.56E-01 
+2.56E-01 
+Te-125m 
+1.57E-01 
+9.43E-02 
+2.11E-12 
+2.58E-23 
+3.16E-34 
+3.86E-45 
+4.72E-56 
+5.78E-67 
+7.06E-78 
+8.64E-89 
+1.06E-99 
+1.29E-110 
+1.58E-121 
+Th-227 
+5.12E-02 
+0.00E+00 
+4.70E-04 
+4.24E-04 
+4.22E-04 
+4.23E-04 
+4.23E-04 
+4.24E-04 
+4.24E-04 
+4.25E-04 
+4.25E-04 
+4.26E-04 
+4.27E-04 
+Th-228 
+1.91E+00 
+0.00E+00 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+Th-229 
+7.34E+03 
+2.78E-04 
+6.93E-04 
+1.14E-03 
+1.58E-03 
+2.02E-03 
+2.45E-03 
+2.88E-03 
+3.31E-03 
+3.73E-03 
+4.15E-03 
+4.56E-03 
+4.97E-03 
+Th-230 
+7.54E+04 
+2.50E-04 
+3.33E-04 
+4.35E-04 
+5.44E-04 
+6.55E-04 
+7.67E-04 
+8.80E-04 
+9.92E-04 
+1.11E-03 
+1.22E-03 
+1.33E-03 
+1.44E-03 
+Th-231 
+2.91E-03 
+0.00E+00 
+6.90E-04 
+6.91E-04 
+6.92E-04 
+6.93E-04 
+6.94E-04 
+6.95E-04 
+6.96E-04 
+6.97E-04 
+6.98E-04 
+6.99E-04 
+7.00E-04 
+Th-232 
+1.41E+10 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+1.56E-03 
+Th-234 
+6.60E-02 
+0.00E+00 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+C-5
+Index year: 
+2023 
+Activity 
+(μCi/g) 
+2115 
+Activity 
+(μCi/g) 
+2215 
+Activity 
+(μCi/g) 
+2315 
+Activity 
+(μCi/g) 
+2415 
+Activity 
+(μCi/g) 
+2515 
+Activity 
+(μCi/g) 
+2615 
+Activity 
+(μCi/g) 
+2715 
+Activity 
+(μCi/g) 
+2815 
+Activity 
+(μCi/g) 
+2915 
+Activity 
+(μCi/g) 
+3015 
+Activity 
+(μCi/g) 
+3115 
+Activity 
+(μCi/g) 
+Name 
+Half-Life 
+(y) 
+Tl-206 
+7.99E-06 
+0.00E+00 
+1.72E-11 
+3.64E-11 
+6.07E-11 
+9.02E-11 
+1.25E-10 
+1.64E-10 
+2.08E-10 
+2.57E-10 
+3.10E-10 
+3.67E-10 
+4.28E-10 
+Tl-207 
+9.08E-06 
+0.00E+00 
+4.76E-04 
+4.28E-04 
+4.27E-04 
+4.27E-04 
+4.28E-04 
+4.29E-04 
+4.29E-04 
+4.30E-04 
+4.30E-04 
+4.31E-04 
+4.31E-04 
+Tl-208 
+5.81E-06 
+0.00E+00 
+5.59E-04 
+5.59E-04 
+5.59E-04 
+5.59E-04 
+5.59E-04 
+5.59E-04 
+5.59E-04 
+5.59E-04 
+5.59E-04 
+5.59E-04 
+5.59E-04 
+Tl-209 
+4.11E-06 
+0.00E+00 
+1.45E-05 
+2.38E-05 
+3.31E-05 
+4.22E-05 
+5.13E-05 
+6.03E-05 
+6.92E-05 
+7.80E-05 
+8.67E-05 
+9.53E-05 
+1.04E-04 
+Tl-210 
+2.47E-06 
+0.00E+00 
+3.54E-09 
+6.80E-09 
+1.09E-08 
+1.58E-08 
+2.14E-08 
+2.78E-08 
+3.50E-08 
+4.29E-08 
+5.14E-08 
+6.06E-08 
+7.03E-08 
+U-233 
+1.59E+05 
+4.83E-02 
+4.82E-02 
+4.82E-02 
+4.82E-02 
+4.82E-02 
+4.82E-02 
+4.82E-02 
+4.81E-02 
+4.81E-02 
+4.81E-02 
+4.81E-02 
+4.81E-02 
+U-234 
+2.46E+05 
+8.80E-02 
+1.07E-01 
+1.16E-01 
+1.20E-01 
+1.22E-01 
+1.23E-01 
+1.23E-01 
+1.24E-01 
+1.24E-01 
+1.24E-01 
+1.24E-01 
+1.24E-01 
+U-235 
+7.04E+08 
+6.89E-04 
+6.90E-04 
+6.91E-04 
+6.92E-04 
+6.93E-04 
+6.94E-04 
+6.95E-04 
+6.96E-04 
+6.97E-04 
+6.98E-04 
+6.99E-04 
+7.00E-04 
+U-235m 
+4.95E-05 
+0.00E+00 
+1.02E+01 
+1.01E+01 
+1.01E+01 
+1.01E+01 
+1.01E+01 
+1.00E+01 
+1.00E+01 
+9.98E+00 
+9.95E+00 
+9.92E+00 
+9.89E+00 
+U-236 
+2.34E+07 
+1.39E-03 
+1.39E-03 
+1.40E-03 
+1.41E-03 
+1.42E-03 
+1.43E-03 
+1.44E-03 
+1.45E-03 
+1.46E-03 
+1.46E-03 
+1.47E-03 
+1.48E-03 
+U-237 
+1.85E-02 
+0.00E+00 
+9.84E-06 
+9.69E-08 
+1.92E-08 
+1.86E-08 
+1.87E-08 
+1.87E-08 
+1.87E-08 
+1.86E-08 
+1.86E-08 
+1.85E-08 
+1.84E-08 
+U-238 
+4.47E+09 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+8.33E-03 
+U-240 
+1.61E-03 
+0.00E+00 
+3.56E-12 
+7.42E-12 
+1.13E-11 
+1.52E-11 
+1.90E-11 
+2.29E-11 
+2.67E-11 
+3.06E-11 
+3.45E-11 
+3.83E-11 
+4.22E-11 
+Y-90 
+7.32E-03 
+5.87E+03 
+6.41E+02 
+5.77E+01 
+5.19E+00 
+4.68E-01 
+4.21E-02 
+3.79E-03 
+3.41E-04 
+3.07E-05 
+2.77E-06 
+2.49E-07 
+2.24E-08 
+Zr-93 
+1.53E+06 
+5.95E-01 
+5.95E-01 
+5.95E-01 
+5.95E-01 
+5.95E-01 
+5.95E-01 
+5.95E-01 
+5.95E-01 
+5.95E-01 
+5.95E-01 
+5.95E-01 
+5.94E-01 
+Total 
+- 
+1.28E+04 
+1.51E+03 
+2.06E+02 
+6.65E+01 
+4.35E+01 
+3.61E+01 
+3.25E+01 
+3.05E+01 
+2.92E+01 
+2.83E+01 
+2.77E+01 
+2.71E+01 
+Reportable 
+- 
+6.54E+03 
+8.15E+02 
+1.33E+02 
+5.05E+01 
+3.27E+01 
+2.58E+01 
+2.24E+01 
+2.04E+01 
+1.91E+01 
+1.82E+01 
+1.76E+01 
+1.71E+01 
+ 
+ 
+ 
+ 
+ 
+SRNL-STI-2024-00240 
+Revision 0 
+ 
+1 
+Distribution: 
+William.bates@srnl.doe.gov 
+Donna.Byrdy@srnl.doe.gov 
+Brandi.clark@srnl.doe.gov 
+georgiaanne.craig@srnl.doe.gov 
+marion.cofer@srnl.doe.gov 
+Vanessa.cofer@srnl.doe.gov 
+alex.cozzi@srnl.doe.gov 
+c.diprete@srnl.doe.gov 
+David.diprete@srnl.doe.gov 
+connie.herman@srnl.doe.gov 
+sarah.hodges@srnl.doe.gov 
+Charles.James@SRNL.DOE.GOV 
+brady.lee@srnl.doe.gov 
+kalyn.loudermilk@srnl.doe.gov  
+Heather.Capogreco@srnl.doe.gov  
+Joseph.Manna@srnl.doe.gov 
+Gregg.Morgan@srnl.doe.gov 
+frank.pennebaker@srnl.doe.gov 
+Amy.Ramsey@srnl.doe.gov 
+William.Ramsey@srnl.doe.gov 
+eric.skidmore@srnl.doe.gov 
+michael.stone@srnl.doe.gov 
+boyd.Wiedenman@srnl.doe.gov 
+Mary.whitehead@srnl.doe.gov 
+Morgana.whiteside@srnl.doe.gov 
+Jennifer.Wohlwend@srnl.doe.gov 
+Records Administration (EDWS) 
+jeffrey.crenshaw@srs.gov  
+james.folk@srs.gov 
+timothy.littleton@srs.gov 
+tony.polk@srs.gov 
+Anthony.Robinson@srs.gov 
+Joseph.smith@srs.gov 
+thomas.temple@srs.gov 
+robert.hoeppel@srs.gov 
+Thomas.Huff@srs.gov 
+Vijay.Jain@srs.gov 
+Crystal.Currie@srnl.doe.gov  
+Azadeh.Samadi-Dezfouli@srs.gov 
+jeff.ray@srs.gov 
+Ryan.Lentsch@srs.gov 
+matthew02.sims@srs.gov 
+terri.fellinger@srs.gov 
+Joseph.fields@srs.gov 
+bill.holtzscheiter@srs.gov 
+Fabienne.Johnson@srnl.doe.gov 
+Jeremiah.Ledbetter@srs.gov 
+chris.martino@srnl.doe.gov 
+aubrey.silker@srs.gov 
+spencer.isom@srs.gov 
+kirk.russell@srs.gov 
+ryan.mcnew@srs.gov 
+phoebe.fogelman@srs.gov 
+matthew.siegfried@srnl.doe.gov 
+donna.yarbrough@srs.gov 
+shannon.strong@srs.gov 
+melany.mini@srs.gov 
+david.walker@srs.gov 
+thuy.le@srs.gov 
+stephanie.harrington@srs.gov 
+danielle.turon@srs.gov 
+jacob.montgomery@srs.gov 
+alexander.choi@srnl.doe.gov 
+ 
+  
+ 
+ 

@@ -1,0 +1,273 @@
+B W X T • F L U O R • A M E N T U M
+Liquid Waste System Plan 
+Revision 24 & 24.1
+Steve Howell
+Senior Vice President - Optimization & Integration
+What is a Liquid Waste System Plan?
+• Liquid Waste System Plan documents the Savannah River Site 
+(SRS) liquid waste processing goals and operational outlook
+Outlines the handling, treatment, processing, and safe disposal of liquid waste
+Incorporates improvements and optimizations within the system that have 
+been realized, as well as continued improvement planning
+Summarizes regulatory drivers and milestones
+Details risks to the system and plans to mitigate those risks
+2
+Liquid Waste System Plans
+Liquid Waste System
+3
+Mission: treat/dispose radioactive waste and operationally close tanks
+• 43 Remaining Waste Tanks (Tank Farms)
+~32 million gallons waste
+• Salt Waste Processing Facility (SWPF)
+Chemical separation 
+• Defense Waste Processing Facility (DWPF) 
+High-level waste → glass vitrification
+• Saltstone Production Facility (SPF) 
+Low-level waste → grout
+System Plan (SP) Revision 24 Overview 
+4
+• Update Revision 23 (March 2023) 
+Builds on risk reduction success of 
+   previous revision
+Mission status as of the end of 2025
+Incorporates current technical 
+capabilities
+Focus on increasing system 
+availability to minimize lifecycle
+Updated risks, opportunities, and 
+funding projections 
+Risk Reduction Success
+• High curie removal strategy
+resulted in 46 million curies removed 
+from the tank farms (~20%)
+• Prioritizing waste removal from 
+tanks located in the water table
+Only one tank left and on schedule 
+for this year
+• Optimizing facilities and 
+processes has maximized the 
+time and resources to 
+accelerate the mission
+33% of remaining curies to be 
+dispositioned in next 3 years
+5
+SRMC Contract Begins 
+ -
+ 10,000,000
+ 20,000,000
+ 30,000,000
+ 40,000,000
+ 50,000,000
+ 60,000,000
+CY2014
+CY2016
+CY2018
+CY2020
+CY2022
+CY2024
+CY2026
+curies
+Radioactivity Processed
+227 MCi at beginning of SRMC Contract
+181 MCi as of end of December 2025
+46 Million Curies reduced 
+since start of SRMC contract
+(2X previous 8 years)
+High Curie 
+Strategy
+Mission Status – Federal Facility Agreement (FFA) 
+6
+• FFA is Regulatory Agreement for sixteen highest 
+risk tanks
+• Eight Preliminary Cease Waste Removal (PCWR) 
+milestones achieved to date
+Two more on schedule for 2026 
+satisfies PCWR milestones through 2029
+• Two Operational Closure (OC) milestones 
+tracking for 2027
+One year ahead of FFA milestone 
+PCWR = tank emptied (bulk waste removed)
+2026
+2027
+Technical Capabilities Realized
+• Installed larger cross flow filters at the 
+Salt Waste Processing Facility (SWPF), 
+doubling the filter area to support 
+improved throughput 
+no longer a waste throughput bottleneck
+• Increased concentration of salt 
+batches, reducing overall volume of 
+salt required to run through SWPF 
+(103M gallons to 77M gallons)
+Results in SWPF not required to run at as 
+high of a volume per year as originally 
+anticipated
+7
+Existing 10’ 
+Filter
+New 16’ 
+Filter
+Sleeved Filter Upon 
+Removal
+Technical Capabilities Realized
+• Implemented drone program to assist 
+with waste mapping and sampling 
+inside of the waste tanks
+Resulted in significant cost savings (up to 4 
+weeks and $700k per tank) and improved 
+inspections and samples of the interior of 
+waste tanks
+• Utilized offsite laboratory to perform 
+tank characterization samples for 
+PCWR and tank closure
+Resulted in savings up to 6 months and 
+$2M per tank
+8
+Modeling
+• System Plan lifecycle model simulates chemical & material 
+constraints of the Liquid Waste system (developed by DBD Inc.)
+Allows for reliable forecasting of operational timelines to mission completion
+Updated as new information becomes available
+9
+System Plan Revision 24 Scenarios
+10
+• Many runs utilizing the DBD lifecycle model
+• Key variables
+Funding
+1. Early Finish/Goal – optimal funding
+2. Flat/Constrained Funding
+Technical Capacity
+1. Maximum capacity – with all known 
+possible technical advancements 
+implemented 
+2. Current capacity
+Salt Waste 
+Processing Facility 
+(SWPF)
+System Plan Revision 24 Model Conclusions
+11
+• Funding has greater impact than Technical Capacity
+2037 Operational Closure (OC) remains available with Early Finish/Goal 
+funds and innovation
+Flat/Constrained Funding drives OC to 2041 → even with Maximum 
+Technical Capacity̵
+Limited funds to prepare tanks for salt/sludge removal drives schedule̵
+DWPF/SWPF throttled to avoid feed breaks̵
+Equipment reliability decreased due to limited procurement of spares, 
+upgrades, etc.
+• SWPF design basis maximum rates not required 
+• 9M gallons/year salt processing no longer required – due to 25% 
+reduction in salt volume
+• Next Generation Solvent (NGS) not required to achieve 2037 completion
+System Plan Revision 24 Details
+12
+Key Inputs & Operating Metrics
+Baseline/High Confidence
+Early Finish/Goal
+Funding
+Flat
+$1.090B FY26 (plus escalation)
+Requirements 
+$1.123B FY26 (plus escalation)
+SWPF Avg (Mgal/yr)
+6.16
+6.94
+SWPF Max (Mgal/yr)
+7.95 (FY30)
+7.85 (FY30)
+SWPF FY26 (Mgal/yr)
+4.40
+7.34
+DWPF Avg (cans/yr)
+242
+291
+DWPF Max (cans/yr)
+282 (FY37/38)
+329 (FY34)
+DWPF FY26 (cans/yr)
+163
+274
+Milestone
+Baseline/High Confidence
+Early Finish/Goal
+SWPF Salt Processing Complete
+2035
+2034
+DWPF Operations Complete
+2039
+2036
+Operational Closure
+2041
+2037
+As an end-state contract, the contractor is incentivized to achieve the maximum possible in all cases
+<9 Mgal/year
+<historical max
+Comparison of SP23 & SP24
+13
+• Revision 24 vs. Revision 23
+SP23 assumed little opportunity for 
+acceleration & significant risk for extension 
+SP24 utilizes technical and funding 
+assumptions resulting in a high confidence 
+forecast
+• SP24 derived two cases from scenario modeling - Typical Project 
+Management Approach
+Baseline/High Confidence: baseline with opportunities to accelerate (2041)
+Early Finish/Goal: recognizes opportunities to accelerate mission completion (2037 or better)
+Federal Facility Agreement (FFA) milestones met in both cases
+• Goal of completing the Liquid Waste Mission in 2037 remains the same
+SRMC contract is incentivized by DOE to deliver 2037 completion
+Regulatory Milestones
+14
+Both the Baseline (2041) and Goal (2037) cases meet the regulatory milestones 
+for both Preliminary Cease Waste Removal and Operational Closure
+Driving System Availability
+15
+• Availability is the 
+percentage of time 
+facilities are 
+operating
+• DBD Model 
+determined 
+minimum 
+availability of ~65%
+• “Drive to 65” is a 
+two-year campaign 
+to increase 
+availability
+• Recapitalization of 
+facilities through 
+increased 
+maintenance and 
+critical spares
+Risks
+• Aging Infrastructure
+While this plan addresses expected normal failures of various equipment, 
+completing the mission will place significant stress on increasingly aging 
+infrastructure and equipment
+• Funding
+If funding is less than the Goal case requirement ($1.123B in FY26 and 
+escalated in subsequent years), it will jeopardize mission completion by 2037
+16
+Liquid Waste System Plan Revision 24.1
+17
+• Liquid Waste System Plan Revision 24 noted two opportunities: 
+Discontinuation of Accelerated Basin Deinventory 
+Decoupling SWPF High Activity Waste Stream from DWPF
+• Both of these activities have now been realized and are noted in Rev 24.1 
+with updated modeled cases, and an estimated lifecycle canister 
+reduction of 300 (~150 for each of the realized opportunities)
+Summary
+• Technical barriers to mission completion have been substantially 
+reduced since System Plan Revision 23
+• Liquid Waste System Plan Revision 24 provides two cases:
+Baseline (High Confidence) Case for 2041 Mission Completion
+Goal (Early-Finish) Case for 2037 Mission Completion
+• These cases and end-dates are primarily driven by resources 
+available to the Liquid Waste mission
+• Both cases meet the Federal Facility Agreement regulatory 
+milestones
+• SRMC is incentivized by DOE to accelerate mission completion 
+and has demonstrated cost-saving methods to reinvest into the 
+mission 
+18
