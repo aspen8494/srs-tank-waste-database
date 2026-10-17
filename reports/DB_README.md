@@ -27,8 +27,8 @@ Historical baselines (also in DB): 35.0 Mgal / 248 MCi (2018-12-31); 32.5 Mgal /
 | Table | Rows | Content |
 |---|---|---|
 | `tanks` | 51 | all 51 tanks: farm, type (I/II/III/IIIA/IV), capacity, status, closure date, service function |
-| `inventory_rad` | 4817 | long-format: tank × dataset × nuclide (57 nuclides), Ci, with basis + source |
-| `inventory_chem` | 1987 | long-format: tank × dataset × chemical (27 analytes), kg |
+| `inventory_rad` | 4872 | long-format: tank × dataset × nuclide (57 nuclides), Ci, with basis + source |
+| `inventory_chem` | 1952 | long-format: tank × dataset × chemical (27 analytes), kg |
 | `current_inventory` | 15 | farm-level phase volumes & curies (2025, 2018, 2016 snapshots) |
 | `sources` | 12 | document registry (title, doc number, year, URL, local file) |
 | `dataset_notes` | — | methodology caveats per dataset |
@@ -67,7 +67,7 @@ sludge holds most actinides + Sr-90; typical supernate is ~5-7 M Na nitrate/nitr
 ## Files
 
 - `srs_tank_waste.db` — the SQLite database
-- `data_processed/ml_inventory_long.csv` — 6804 tidy rows (tank × analyte × dataset)
+- `data_processed/ml_inventory_long.csv` — 6824 tidy rows (tank × analyte × dataset)
 - `data_processed/wide_rad_assigned.csv` — wide pivot: 51 tanks × 54 nuclides
 - `data_processed/wide_chem_assigned.csv` — wide pivot: 51 tanks × 27 chemicals
 - `data_raw/` — all source PDFs + extracted text
@@ -94,4 +94,15 @@ sludge holds most actinides + Sr-90; typical supernate is ~5-7 M Na nitrate/nitr
 - Tanks 18/19 residuals cross-check between the SA (SRR-CWDA-2010-00106) and the Closure Module (SRR-CWDA-2010-00003) — identical.
 - HTF assigned values (SA 6.2-2) match HTF PA 3.4-9 for shared tanks where no revision occurred (e.g. tank 41 Cs-137 = 5,500 Ci in both).
 - Tank 16 SA actuals (Sr-90 9.4E+03, Cs-137 <1.5E-02, Pu-238 4.6, Tc-99 1.7) match both the assigned table and SA Table 5.0-1.
-- HTF assigned grand total: 3.11e+06 Ci; FTF: 3.28e+06 Ci (consistent with SA-reported totals).
+- HTF assigned grand total: 3.11e+06 Ci; FTF: 2.70e+06 Ci (consistent with SA-reported totals).
+
+## Data correction (2026-10-16)
+
+The first parse of FTF SA Table 6.1-1/6.1-2 (Tanks 5&6 SA) skipped `ND`/`NE` tokens instead of
+counting them as cells, left-shifting values for tanks 17-20 and bleeding a total-row value into
+the Zr-93 row (assigning 2.9E+05 Ci to Tanks 19/20). Fixed by `scripts/fix_ftf_nd_shift.py`
+(ND-aware positional re-parse); all 22 FTF tanks now reproduce the source table's own
+"Total Curies by Tank" row within its 2-significant-figure rounding, and Tanks 18/19 assigned
+values equal their measured actuals (25.1 / 8.2 kCi). The all-51-tank assigned-closure total
+changed from 6.38 MCi (corrupt) to 5.80 MCi (correct); FTF total 3.28 -> 2.70 MCi.
+Pre-fix backups: `data_processed/*_ftf_PRE-FIX*.csv`.
