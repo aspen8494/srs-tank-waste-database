@@ -1,0 +1,284 @@
+,Na,K,Al,Si,Hg,OH,NO3,NO2,CO3,SO4,PO4,C2O4,F,Cl,TOC
+HF|A101|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|A101|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|A102|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|A102|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|A103|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|A103|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN101|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN101|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN101|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN102|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN102|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN103|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN104|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN104|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN105|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN105|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN106|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN106|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN107|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AN107|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP101|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP101|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP102|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP102|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP103|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP104|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP104|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP104|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP105|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP105|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP106|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP107|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP107|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP107|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP108|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AP108|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW101|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW101|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW102|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW102|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW102|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW102|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW103|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW103|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW104|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW104|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW104|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW105|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW106|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AW106|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AY101|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AY102|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AZ101|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AZ102|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|AZ102|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B101|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B101|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B102|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B102|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B102|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B103|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B103|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B103|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|B104|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B104|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B104|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B105|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B105|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B106|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B107|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B107|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B107|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B108|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B108|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B108|Supernatant,1,1,1,0,0,1,1,1,1,1,0,0,0,1,0
+HF|B109|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B109|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B110|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B111|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B112|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B112|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B112|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|B201|Supernatant,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1
+HF|B202|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|B203|Supernatant,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1
+HF|B204|Supernatant,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1
+HF|BX101|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|BX103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX104|Supernatant,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+HF|BX105|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX105|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX105|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX106|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX106|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX106|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX107|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|BX109|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|BX110|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX110|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX110|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX111|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX111|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX111|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BX112|Supernatant,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0
+HF|BY101|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY101|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY102|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY102|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY103|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY103|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY104|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY104|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY105|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY105|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY106|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY106|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY107|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY107|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY108|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY108|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY109|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY109|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY110|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY110|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY111|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY111|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY112|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|BY112|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|C103|Supernatant,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1
+HF|C201|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|C202|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|C203|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|C204|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|S101|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S101|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S102|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S102|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|S103|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S103|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S104|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S104|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S104|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S105|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S105|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S106|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S106|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S107|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S107|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|S108|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S108|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S109|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S109|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S110|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S110|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S111|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|S111|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX101|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX101|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX102|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX102|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX103|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX103|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX104|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX104|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX105|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX105|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX106|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX106|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX106|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|SX109|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX110|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX111|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX114|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SX114|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SY101|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SY101|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SY102|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SY103|Saltcake (Liquid & Solid),1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|SY103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T101|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T101|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T101|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T102|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T105|Supernatant,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+HF|T107|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|T108|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T108|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T109|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T109|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T109|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|T110|Supernatant,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1
+HF|T112|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|T201|Supernatant,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1
+HF|T204|Supernatant,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1
+HF|TX101|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX101|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX101|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX102|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX102|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX103|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX103|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX104|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX104|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX104|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX105|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX105|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX106|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX106|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX107|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX107|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX108|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX108|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX108|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|TX110|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX110|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX111|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX111|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX112|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX112|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX113|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX113|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX114|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX114|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX115|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX115|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX116|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX116|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX117|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX117|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX118|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TX118|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TY101|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TY101|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TY102|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TY102|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TY102|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|TY103|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TY103|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|TY104|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U101|Supernatant,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0
+HF|U102|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U102|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U102|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U103|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U103|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U103|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U104|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U104|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U105|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U105|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U105|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U106|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U106|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U106|Supernatant,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U107|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U107|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U108|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U108|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U109|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U109|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U109|Supernatant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HF|U111|Saltcake Interstitial Liquid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U111|Saltcake Solid,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+HF|U112|Supernatant,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+HF|U201|Supernatant,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+HF|U202|Supernatant,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+HF|U203|Supernatant,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+HF|U204|Supernatant,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1
+SRS|Tank 51 Sludge Batch 11 (supernate)|supernate,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"SRS|SWPF Salt Batch 8 (Tank 40, SRNL filtered)|filtrate",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"SRS|SWPF Salt Batch 9 (Tank 40, SRNL filtered)|filtrate",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SRS|SWPF Salt Batch 10 (SRNL filtered)|filtrate,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0
+SRS|SWPF Salt Batch 11 (SRNL filtered)|filtrate,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0
+SRS|SWPF Salt Batch 12 (SWPF-AL filtered)|filtrate,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0
+SRS|SWPF Salt Batch 13 (SWPF-AL filtered)|filtrate,1,1,1,0,1,0,1,1,1,1,1,1,0,1,0
+SRS|SWPF Salt Batch 14 (Tank 21H)|filtrate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

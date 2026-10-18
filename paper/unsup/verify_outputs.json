@@ -1,0 +1,547 @@
+{
+ "counts": {
+  "hf_points": 433,
+  "hf_sludge": 158,
+  "hf_salt": 275,
+  "srs_samples": 17,
+  "srs_sludge": 9,
+  "srs_salt": 8,
+  "srs_closure": 51
+ },
+ "dl2": 38,
+ "hf_subdl": 4792,
+ "layer_dedup": {
+  "distinct_tank_phase_analyte": 36421,
+  "layer_rows_collapsed": 10179
+ },
+ "panels": {
+  "sludge": {
+   "n_points": 158,
+   "n_features": 25,
+   "n_dropped": 12,
+   "floor": 0.4,
+   "k": 6,
+   "sil": 0.2476,
+   "ari": 0.793,
+   "coph": 0.6818,
+   "hdb_k": 7,
+   "hdb_noise": 73,
+   "coverage_hf": 0.624,
+   "coverage_srs": 0.372,
+   "sweep_best_k": 6,
+   "sweep_best_sil": 0.2643
+  },
+  "salt": {
+   "n_points": 258,
+   "n_features": 15,
+   "n_dropped": 0,
+   "floor": 0.7,
+   "k": 4,
+   "sil": 0.2857,
+   "ari": 0.753,
+   "coph": 0.593,
+   "hdb_k": 7,
+   "hdb_noise": 123,
+   "coverage_hf": 0.93,
+   "coverage_srs": 0.767,
+   "sweep_best_k": 4,
+   "sweep_best_sil": 0.3335
+  },
+  "rad": {
+   "n_points": 415,
+   "n_features": 41,
+   "n_dropped": 28,
+   "floor": 0.5,
+   "k": 8,
+   "sil": 0.1924,
+   "ari": 0.714,
+   "coph": 0.6105,
+   "hdb_k": 4,
+   "hdb_noise": 153,
+   "coverage_hf": 0.596,
+   "coverage_srs": 0.246,
+   "sweep_best_k": 8,
+   "sweep_best_sil": 0.2223
+  }
+ },
+ "projections": {
+  "sludge": [
+   {
+    "point": "Tank 51 Sludge Batch 11|slurry",
+    "cluster": 5,
+    "dist": 9.1467,
+    "pctl": 94.4,
+    "p95": 9.0704,
+    "analog": "U104 Sludge Solid",
+    "an_wt": "DE (Solid)",
+    "an_d": 5.3141,
+    "k": 4
+   },
+   {
+    "point": "PRFT Batch 15|slurry",
+    "cluster": 3,
+    "dist": 11.7551,
+    "pctl": 100.0,
+    "p95": 9.3873,
+    "analog": "U104 Sludge Solid",
+    "an_wt": "DE (Solid)",
+    "an_d": 4.7949,
+    "k": 4
+   },
+   {
+    "point": "PRFT Batch 22|slurry",
+    "cluster": 3,
+    "dist": 12.0662,
+    "pctl": 100.0,
+    "p95": 9.3873,
+    "analog": "U104 Sludge Solid",
+    "an_wt": "DE (Solid)",
+    "an_d": 4.6755,
+    "k": 4
+   },
+   {
+    "point": "PRFT Batch 26|slurry",
+    "cluster": 3,
+    "dist": 12.2251,
+    "pctl": 100.0,
+    "p95": 9.3873,
+    "analog": "AN106 Sludge (Liquid & Solid)",
+    "an_wt": "NA (Lower Sludge)|NA (Middle Sludge)|NA (Upper Sludge)",
+    "an_d": 4.7226,
+    "k": 14
+   }
+  ],
+  "salt": [
+   {
+    "point": "Tank 51 Sludge Batch 11 (supernate)|supernate",
+    "cluster": 0,
+    "dist": 9.7819,
+    "pctl": 100.0,
+    "p95": 7.4754,
+    "analog": "B108 Supernatant",
+    "an_wt": "CWP2 (Liquid)",
+    "an_d": 5.0966,
+    "k": 9
+   },
+   {
+    "point": "SWPF Salt Batch 8 (Tank 40, SRNL filtered)|filtrate",
+    "cluster": 0,
+    "dist": 7.884,
+    "pctl": 97.5,
+    "p95": 7.4754,
+    "analog": "B108 Supernatant",
+    "an_wt": "CWP2 (Liquid)",
+    "an_d": 4.1658,
+    "k": 9
+   },
+   {
+    "point": "SWPF Salt Batch 9 (Tank 40, SRNL filtered)|filtrate",
+    "cluster": 0,
+    "dist": 7.8661,
+    "pctl": 97.5,
+    "p95": 7.4754,
+    "analog": "B108 Supernatant",
+    "an_wt": "CWP2 (Liquid)",
+    "an_d": 4.2955,
+    "k": 9
+   },
+   {
+    "point": "SWPF Salt Batch 10 (SRNL filtered)|filtrate",
+    "cluster": 2,
+    "dist": 8.5963,
+    "pctl": 100.0,
+    "p95": 5.2031,
+    "analog": "BX104 Supernatant",
+    "an_wt": "CWR1 (Liquid)",
+    "an_d": 5.3827,
+    "k": 11
+   },
+   {
+    "point": "SWPF Salt Batch 11 (SRNL filtered)|filtrate",
+    "cluster": 0,
+    "dist": 7.9628,
+    "pctl": 97.5,
+    "p95": 7.4754,
+    "analog": "B108 Supernatant",
+    "an_wt": "CWP2 (Liquid)",
+    "an_d": 3.9537,
+    "k": 8
+   },
+   {
+    "point": "SWPF Salt Batch 12 (SWPF-AL filtered)|filtrate",
+    "cluster": 0,
+    "dist": 7.6506,
+    "pctl": 96.9,
+    "p95": 7.4754,
+    "analog": "BX104 Supernatant",
+    "an_wt": "CWR1 (Liquid)",
+    "an_d": 3.9691,
+    "k": 11
+   },
+   {
+    "point": "SWPF Salt Batch 13 (SWPF-AL filtered)|filtrate",
+    "cluster": 2,
+    "dist": 6.8218,
+    "pctl": 98.2,
+    "p95": 5.2031,
+    "analog": "BX104 Supernatant",
+    "an_wt": "CWR1 (Liquid)",
+    "an_d": 3.7777,
+    "k": 10
+   }
+  ],
+  "rad": [
+   {
+    "point": "Tank 51 Sludge Batch 11|slurry",
+    "cluster": 6,
+    "dist": 18.33,
+    "pctl": 100.0,
+    "p95": 16.788,
+    "analog": "U204 Supernatant",
+    "an_wt": "CWR1 (Liquid)",
+    "an_d": 3.039,
+    "k": 3
+   },
+   {
+    "point": "Tank 40 Sludge Batch 10|slurry",
+    "cluster": 6,
+    "dist": 17.0667,
+    "pctl": 100.0,
+    "p95": 16.788,
+    "analog": "T201 Supernatant",
+    "an_wt": "224-1 (Liquid)",
+    "an_d": 9.5553,
+    "k": 12
+   },
+   {
+    "point": "Tank 40 Sludge Batch 10|dried_solids",
+    "cluster": 3,
+    "dist": 18.0141,
+    "pctl": 98.7,
+    "p95": 13.7063,
+    "analog": "T204 Supernatant",
+    "an_wt": "224-2 (Liquid)",
+    "an_d": 11.2552,
+    "k": 10
+   },
+   {
+    "point": "SWPF Salt Batch 8 (Tank 40, SRNL filtered)|filtrate",
+    "cluster": 6,
+    "dist": 17.6284,
+    "pctl": 100.0,
+    "p95": 16.788,
+    "analog": "AP108 Supernatant",
+    "an_wt": "NA (Liquid)",
+    "an_d": 6.7089,
+    "k": 19
+   },
+   {
+    "point": "SWPF Salt Batch 9 (Tank 40, SRNL filtered)|filtrate",
+    "cluster": 6,
+    "dist": 16.4593,
+    "pctl": 89.5,
+    "p95": 16.788,
+    "analog": "AZ102 Supernatant",
+    "an_wt": "NA (Liquid)",
+    "an_d": 5.3732,
+    "k": 19
+   },
+   {
+    "point": "SWPF Salt Batch 10 (SRNL filtered)|filtrate",
+    "cluster": 6,
+    "dist": 15.7088,
+    "pctl": 73.7,
+    "p95": 16.788,
+    "analog": "S112 Sludge (Liquid & Solid)",
+    "an_wt": "R1 (Solid)",
+    "an_d": 2.8138,
+    "k": 7
+   },
+   {
+    "point": "SWPF Salt Batch 11 (SRNL filtered)|filtrate",
+    "cluster": 6,
+    "dist": 14.9515,
+    "pctl": 68.4,
+    "p95": 16.788,
+    "analog": "B201 Supernatant",
+    "an_wt": "NA (Liquid)",
+    "an_d": 2.8049,
+    "k": 3
+   },
+   {
+    "point": "SWPF Salt Batch 12 (SWPF-AL filtered)|filtrate",
+    "cluster": 6,
+    "dist": 14.8771,
+    "pctl": 68.4,
+    "p95": 16.788,
+    "analog": "AN104 Supernatant",
+    "an_wt": "A2-SltSlr (Liquid)",
+    "an_d": 2.6057,
+    "k": 9
+   },
+   {
+    "point": "SWPF Salt Batch 13 (SWPF-AL filtered)|filtrate",
+    "cluster": 6,
+    "dist": 14.9515,
+    "pctl": 68.4,
+    "p95": 16.788,
+    "analog": "C108 Sludge (Liquid & Solid)",
+    "an_wt": "NA (Solid)",
+    "an_d": 3.4418,
+    "k": 8
+   },
+   {
+    "point": "SWPF Salt Batch 14 (Tank 21H)|filtrate",
+    "cluster": 6,
+    "dist": 21.116,
+    "pctl": 100.0,
+    "p95": 16.788,
+    "analog": "T204 Supernatant",
+    "an_wt": "224-2 (Liquid)",
+    "an_d": 4.0257,
+    "k": 3
+   },
+   {
+    "point": "PRFT Batch 15|dried_solids",
+    "cluster": 6,
+    "dist": 17.6167,
+    "pctl": 100.0,
+    "p95": 16.788,
+    "analog": "T201 Supernatant",
+    "an_wt": "224-1 (Liquid)",
+    "an_d": 11.1781,
+    "k": 9
+   },
+   {
+    "point": "PRFT Batch 22|dried_solids",
+    "cluster": 6,
+    "dist": 18.0614,
+    "pctl": 100.0,
+    "p95": 16.788,
+    "analog": "T201 Supernatant",
+    "an_wt": "224-1 (Liquid)",
+    "an_d": 11.2085,
+    "k": 9
+   },
+   {
+    "point": "PRFT Batch 26|dried_solids",
+    "cluster": 6,
+    "dist": 18.5835,
+    "pctl": 100.0,
+    "p95": 16.788,
+    "analog": "T201 Supernatant",
+    "an_wt": "224-1 (Liquid)",
+    "an_d": 11.4035,
+    "k": 9
+   }
+  ]
+ },
+ "nn_context": {
+  "sludge": {
+   "median": 3.27,
+   "p90": 6.42,
+   "max": 10.71,
+   "n": 158
+  },
+  "salt": {
+   "median": 1.45,
+   "p90": 3.93,
+   "max": 9.11,
+   "n": 258
+  },
+  "rad": {
+   "median": 3.12,
+   "p90": 8.86,
+   "max": 16.91,
+   "n": 415
+  }
+ },
+ "anoms": {
+  "sludge": {
+   "n85": 87,
+   "n90": 87,
+   "top5": [
+    {
+     "pid": "HF|A105|Sludge Solid",
+     "score": 1.0,
+     "tank": "A105",
+     "phase": "Sludge Solid",
+     "cluster": 5
+    },
+    {
+     "pid": "HF|A106|Sludge (Liquid & Solid)",
+     "score": 1.0,
+     "tank": "A106",
+     "phase": "Sludge (Liquid & Solid)",
+     "cluster": 3
+    },
+    {
+     "pid": "HF|AN101|Sludge (Liquid & Solid)",
+     "score": 1.0,
+     "tank": "AN101",
+     "phase": "Sludge (Liquid & Solid)",
+     "cluster": 3
+    },
+    {
+     "pid": "HF|AN106|Sludge (Liquid & Solid)",
+     "score": 1.0,
+     "tank": "AN106",
+     "phase": "Sludge (Liquid & Solid)",
+     "cluster": 3
+    },
+    {
+     "pid": "HF|AP102|Sludge Interstitial Liquid",
+     "score": 1.0,
+     "tank": "AP102",
+     "phase": "Sludge Interstitial Liquid",
+     "cluster": 1
+    }
+   ]
+  },
+  "salt": {
+   "n85": 138,
+   "n90": 138,
+   "top5": [
+    {
+     "pid": "HF|A101|Saltcake Interstitial Liquid",
+     "score": 1.0,
+     "tank": "A101",
+     "phase": "Saltcake Interstitial Liquid",
+     "cluster": 0
+    },
+    {
+     "pid": "HF|A102|Saltcake Interstitial Liquid",
+     "score": 1.0,
+     "tank": "A102",
+     "phase": "Saltcake Interstitial Liquid",
+     "cluster": 0
+    },
+    {
+     "pid": "HF|A102|Saltcake Solid",
+     "score": 1.0,
+     "tank": "A102",
+     "phase": "Saltcake Solid",
+     "cluster": 0
+    },
+    {
+     "pid": "HF|A103|Saltcake Interstitial Liquid",
+     "score": 1.0,
+     "tank": "A103",
+     "phase": "Saltcake Interstitial Liquid",
+     "cluster": 0
+    },
+    {
+     "pid": "HF|AN101|Saltcake Interstitial Liquid",
+     "score": 1.0,
+     "tank": "AN101",
+     "phase": "Saltcake Interstitial Liquid",
+     "cluster": 0
+    }
+   ]
+  },
+  "rad": {
+   "n85": 1,
+   "n90": 0,
+   "top5": [
+    {
+     "pid": "HF|AW104|Sludge Solid",
+     "score": 0.8502,
+     "tank": "AW104",
+     "phase": "Sludge Solid",
+     "cluster": 2
+    },
+    {
+     "pid": "HF|TX105|Sludge (Liquid & Solid)",
+     "score": 0.8349,
+     "tank": "TX105",
+     "phase": "Sludge (Liquid & Solid)",
+     "cluster": 2
+    },
+    {
+     "pid": "HF|AZ102|Supernatant",
+     "score": 0.8315,
+     "tank": "AZ102",
+     "phase": "Supernatant",
+     "cluster": 5
+    },
+    {
+     "pid": "HF|T111|Sludge (Liquid & Solid)",
+     "score": 0.8206,
+     "tank": "T111",
+     "phase": "Sludge (Liquid & Solid)",
+     "cluster": 0
+    },
+    {
+     "pid": "HF|C103|Sludge (Liquid & Solid)",
+     "score": 0.8199,
+     "tank": "C103",
+     "phase": "Sludge (Liquid & Solid)",
+     "cluster": 1
+    }
+   ]
+  }
+ },
+ "claims": {
+  "salt8_rad": {
+   "point": "SWPF Salt Batch 8 (Tank 40, SRNL filtered)|filtrate",
+   "cluster": 6,
+   "dist": 17.6284,
+   "pctl": 100.0,
+   "p95": 16.788,
+   "analog": "AP108 Supernatant",
+   "an_wt": "NA (Liquid)",
+   "an_d": 6.7089,
+   "k": 19
+  },
+  "salt13_rad": {
+   "point": "SWPF Salt Batch 13 (SWPF-AL filtered)|filtrate",
+   "cluster": 6,
+   "dist": 14.9515,
+   "pctl": 68.4,
+   "p95": 16.788,
+   "analog": "C108 Sludge (Liquid & Solid)",
+   "an_wt": "NA (Solid)",
+   "an_d": 3.4418,
+   "k": 8
+  },
+  "salt8_salt": {
+   "point": "SWPF Salt Batch 8 (Tank 40, SRNL filtered)|filtrate",
+   "cluster": 0,
+   "dist": 7.884,
+   "pctl": 97.5,
+   "p95": 7.4754,
+   "analog": "B108 Supernatant",
+   "an_wt": "CWP2 (Liquid)",
+   "an_d": 4.1658,
+   "k": 9
+  },
+  "sb11_sludge": {
+   "point": "Tank 51 Sludge Batch 11|slurry",
+   "cluster": 5,
+   "dist": 9.1467,
+   "pctl": 94.4,
+   "p95": 9.0704,
+   "analog": "U104 Sludge Solid",
+   "an_wt": "DE (Solid)",
+   "an_d": 5.3141,
+   "k": 4
+  },
+  "prft15_sludge": {
+   "point": "PRFT Batch 15|slurry",
+   "cluster": 3,
+   "dist": 11.7551,
+   "pctl": 100.0,
+   "p95": 9.3873,
+   "analog": "U104 Sludge Solid",
+   "an_wt": "DE (Solid)",
+   "an_d": 4.7949,
+   "k": 4
+  },
+  "prft_Ti": {
+   "PRFT Batch 15": 12200.0,
+   "PRFT Batch 22": 16200.0,
+   "PRFT Batch 26": 16225.0
+  },
+  "sb10_chem_cols": 0
+ }
+}

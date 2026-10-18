@@ -40,7 +40,9 @@ srs_tank_waste.db            # SQLite: 56.7k rows, 9 tables (the ML-ready artifa
 
 dashboard/
 ├── app.py                   # Streamlit app (6 interactive tabs, Plotly, DB-backed)
+├── unsupervised_app.py      # Streamlit: unsupervised taxonomy + SRS analog explorer (6 tabs)
 ├── srs_hanford_comparison.html  # self-contained static HTML version (no server needed)
+├── unsupervised_analysis.html   # static HTML: taxonomy, projections, anomalies, methods
 ├── dashboard_data.json      # data payload for the HTML version
 └── README.md
 
@@ -50,7 +52,17 @@ scripts/                     # fully reproducible pipeline (parse PDFs → build
 ├── build_database.py        # SQLite schema + load
 ├── add_current_waste_to_db.py
 ├── export_ml_data.py        # tidy long CSV + wide pivots for ML
+├── build_unsupervised_features.py   # DB → per-panel feature matrices (CLR, presence floors)
+├── run_unsupervised_clustering.py   # Ward/KMeans/HDBSCAN/UMAP + SRS projections (deterministic)
+├── build_unsupervised_dashboard.py  # static HTML from clustering results
 ├── build_dashboard_data.py, build_dashboard_html.py
+
+paper/
+├── SRS_Hanford_Tank_Waste_Comparison_White_Paper.{pdf,docx}   # site-comparison paper (22 pp)
+└── unsup/Unsupervised_Taxonomy_White_Paper.{pdf,docx}         # unsupervised-model paper (21 pp):
+                                                               # methods, mathematics, interpretation,
+                                                               # calibrated analog-reading rules
+
 
 data_raw/                    # 19 source PDFs (LWSP, PAs, SAs, SRNL reports) + extracted .txt
 data_processed/              # parsed CSVs, JSON (ml_inventory_long.csv, wide pivots, hanford_bbi_*.json)
@@ -72,6 +84,43 @@ open dashboard/srs_hanford_comparison.html
 sqlite3 srs_tank_waste.db "SELECT nuclide, SUM(value_ci) FROM inventory_rad
   WHERE dataset='htf_assigned_closure' GROUP BY nuclide ORDER BY 2 DESC LIMIT 10"
 ```
+
+## Unsupervised taxonomy & cross-site analog search
+
+Beyond the descriptive dashboards, this repo ships an **unsupervised-learning model** that organizes the 433
+Hanford tank×phase compositions into data-driven families (Ward hierarchical clustering on CLR-transformed
+compositions, with KMeans/HDBSCAN/UMAP for model selection, anomaly flagging, and visualization — no site
+labels, no supervised targets), then projects every measured SRS stream into the Hanford-fitted taxonomy to
+find analogs. Three feature panels: sludge elements (25 features, K=6), salt species (15, K=4),
+radionuclides (41, K=8).
+
+Headline cross-site findings (full interpretation and every technical concept explained in
+`paper/unsup/Unsupervised_Taxonomy_White_Paper.pdf`):
+
+- **SWPF salt batches 10–13 are genuine radiological analogs of Hanford supernatant-bearing wastes**
+  (shared-support Aitchison distance 2.6–3.4 on 7–9 nuclides — inside Hanford's own same-cluster spread).
+- Salt batches 8/9 sit at the cluster edge (5.4–6.7 on 19 shared nuclides); salt-chemistry comparisons
+  generally land at the rim (3.8–5.4 vs a 1.45 Hanford median).
+- **PRFT filter-follow sludges have no Hanford analog** — driven by monosodium titanate
+  (12,200–16,225 µg/g), an engineered sorbent absent from the Hanford library.
+- **All 51 SRS closure-residual vectors land at ≥95th percentile** of their assigned clusters (and cannot be
+  projected into the salt panel at all) — the model detects the closure-vs-current basis difference on its
+  own, with no labels.
+- Rad-panel anomaly scoring flags exactly one Hanford point (AW-104 sludge solid, GLOSH 0.850); element-panel
+  GLOSH flags are documented as unreliable prompts, not evidence.
+
+Reproduce:
+
+```bash
+.venv/bin/python scripts/build_unsupervised_features.py   # DB → per-panel CLR matrices
+.venv/bin/python scripts/run_unsupervised_clustering.py   # taxonomy + SRS projections (deterministic)
+.venv/bin/python scripts/test_unsupervised_app_apptest.py # AppTest gate for the explorer dashboard
+.venv/bin/streamlit run dashboard/unsupervised_app.py     # interactive taxonomy + analog explorer
+open dashboard/unsupervised_analysis.html                 # static version
+```
+
+Analysis artifacts live in `data_processed/unsupervised/` (feature matrices, presence masks, clustering
+results, panel definitions, build report); QA'd paper pipeline in `paper/unsup/`.
 
 ## Data sources (all public)
 
